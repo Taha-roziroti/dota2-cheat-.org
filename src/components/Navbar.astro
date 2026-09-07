@@ -234,11 +234,13 @@ const links = [
 	.site-brand {
 		display: inline-flex;
 		align-items: center;
-		justify-content: center;
+		justify-content: flex-start;
 		justify-self: start;
 		flex-shrink: 0;
-		width: 2.55rem;
-		height: 2.55rem;
+		width: auto;
+		height: 3rem;
+		max-width: min(13.75rem, 46vw);
+		min-width: 7rem;
 		color: var(--ink-heading);
 		text-decoration: none;
 		transition:
@@ -252,10 +254,12 @@ const links = [
 	}
 
 	.site-brand__mark {
-		width: 100%;
+		width: auto;
 		height: 100%;
+		max-width: 100%;
 		display: block;
 		object-fit: contain;
+		object-position: left center;
 	}
 
 	.site-nav {
@@ -475,6 +479,8 @@ const links = [
 
 		.site-brand {
 			justify-self: auto;
+			height: 3.15rem;
+			max-width: min(12.5rem, 52vw);
 		}
 
 		.site-tools {
@@ -504,8 +510,9 @@ const links = [
 
 	@media (max-width: 480px) {
 		.site-brand {
-			width: 2.35rem;
-			height: 2.35rem;
+			height: 2.95rem;
+			max-width: min(11.5rem, 58vw);
+			min-width: 6.25rem;
 		}
 
 		.site-tools {

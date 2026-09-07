@@ -89,7 +89,25 @@ async function whiteLogoOnDark(size) {
 		.toBuffer();
 }
 
+async function navLogoWebp(maxWidth, maxHeight) {
+	return sharp(FAVICON_SOURCE)
+		.ensureAlpha()
+		.resize(maxWidth, maxHeight, { fit: 'inside', withoutEnlargement: false })
+		.negate({ alpha: false })
+		.webp({ quality: 92, effort: 6 })
+		.toBuffer();
+}
+
 async function writeFavicon() {
+	const navVariants = [
+		{ name: 'warzone-cheats-logo-nav-280w.webp', w: 280, h: 56 },
+		{ name: 'warzone-cheats-logo-nav-360w.webp', w: 360, h: 72 },
+		{ name: 'warzone-cheats-logo-nav.webp', w: 440, h: 88 },
+	];
+	for (const { name, w, h } of navVariants) {
+		await writeFile(path.join(imagesDir, name), await navLogoWebp(w, h));
+	}
+
 	const sizes = [
 		{ name: 'warzone-site-icon-128.webp', size: 128 },
 		{ name: 'warzone-site-icon-512.webp', size: 512 },
@@ -119,7 +137,7 @@ async function writeFavicon() {
 	const svgBase64 = png512.toString('base64');
 	const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><rect width="512" height="512" fill="#0d0d0d"/><image width="512" height="512" href="data:image/png;base64,${svgBase64}"/></svg>`;
 	await writeFile(path.join(publicDir, 'favicon.svg'), faviconSvg);
-	console.log('  ✓ favicon + logo assets (Call of Duty wordmark)');
+	console.log('  ✓ favicon + logo assets (Call of Duty wordmark + nav logo)');
 }
 
 async function main() {
