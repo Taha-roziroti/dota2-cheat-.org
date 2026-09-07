@@ -25,8 +25,10 @@ const SCREENSHOT_SOURCES = [
 	path.join(ASSETS_DIR, '9266e795-ff5a-49a0-a618-7515d46730cd.webp'),
 ];
 
-/** Favicon / logo from COD logo */
-const FAVICON_SOURCE = path.join(ASSETS_DIR, '7e333a12-b498-4260-991d-deb82cec7d5b.png');
+/** Favicon / navbar logo — Call of Duty wordmark */
+const FAVICON_SOURCE = path.join(ASSETS_DIR, '32cbbd34-30a2-4e3e-9479-3b9c302e1385.webp');
+
+const LOGO_BG = { r: 13, g: 13, b: 13, alpha: 1 }; // #0D0D0D — matches Warzone theme
 
 const CONTENT_WIDTHS = [480, 640, 960, 1024, 1199];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
@@ -72,6 +74,21 @@ async function writeScreenshots() {
 	}
 }
 
+async function whiteLogoOnDark(size) {
+	const inner = Math.round(size * 0.82);
+	const mark = await sharp(FAVICON_SOURCE)
+		.ensureAlpha()
+		.resize(inner, inner, { fit: 'inside', withoutEnlargement: false })
+		.negate({ alpha: false })
+		.toBuffer();
+	return sharp({
+		create: { width: size, height: size, channels: 4, background: LOGO_BG },
+	})
+		.composite([{ input: mark, gravity: 'center' }])
+		.png()
+		.toBuffer();
+}
+
 async function writeFavicon() {
 	const sizes = [
 		{ name: 'warzone-site-icon-128.webp', size: 128 },
@@ -80,19 +97,29 @@ async function writeFavicon() {
 		{ name: 'warzone-cheats-logo-mark.webp', size: 256 },
 	];
 	for (const { name, size } of sizes) {
-		const buf = await sharp(FAVICON_SOURCE)
-			.resize(size, size, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
-			.webp({ quality: 90 })
-			.toBuffer();
+		const png = await whiteLogoOnDark(size);
+		const buf = await sharp(png).webp({ quality: 90 }).toBuffer();
 		await writeFile(path.join(imagesDir, name), buf);
 	}
-	const png512 = await sharp(FAVICON_SOURCE)
-		.resize(512, 512, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
-		.png()
-		.toBuffer();
+	const png512 = await whiteLogoOnDark(512);
 	await writeFile(path.join(imagesDir, 'warzone-cheats-logo.png'), png512);
-	await writeFile(path.join(ROOT, 'public/favicon.ico'), png512);
-	console.log('  ✓ favicon + logo assets');
+
+	const publicDir = path.join(ROOT, 'public');
+	const faviconSizes = [
+		{ name: 'favicon-16x16.png', size: 16 },
+		{ name: 'favicon-32x32.png', size: 32 },
+		{ name: 'apple-touch-icon.png', size: 180 },
+		{ name: 'favicon.png', size: 192 },
+	];
+	for (const { name, size } of faviconSizes) {
+		await writeFile(path.join(publicDir, name), await whiteLogoOnDark(size));
+	}
+	await writeFile(path.join(publicDir, 'favicon.ico'), await sharp(await whiteLogoOnDark(32)).png().toBuffer());
+
+	const svgBase64 = png512.toString('base64');
+	const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><rect width="512" height="512" fill="#0d0d0d"/><image width="512" height="512" href="data:image/png;base64,${svgBase64}"/></svg>`;
+	await writeFile(path.join(publicDir, 'favicon.svg'), faviconSvg);
+	console.log('  ✓ favicon + logo assets (Call of Duty wordmark)');
 }
 
 async function main() {

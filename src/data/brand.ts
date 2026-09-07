@@ -36,7 +36,7 @@ export const brand = {
 	logoRaster: '/images/warzone-cheats-logo.png',
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
-	logoAlt: 'Warzone cheats site icon for ESP aimbot and wallhack on PC',
+	logoAlt: 'Call of Duty wordmark — Warzone cheats site icon for ESP aimbot and wallhack on PC',
 	defaultOgImage: '/images/warzone-screenshot-03.webp',
 	heroImage: '/images/warzone-cheats-hero.webp',
 	/** Cinematic hero loop — homepage hero banner only */
