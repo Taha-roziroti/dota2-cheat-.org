@@ -588,7 +588,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses Ricochet kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses Vanguard kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -613,7 +613,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -647,46 +647,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "warzone-valocheats-com-guide",
-	slug: "warzone-valocheats-com-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "warzone",
+	id: "valorant-valocheats-com-guide",
+	slug: "valorant-valocheats-com-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
 	externalUrl: "https://valocheats.com",
 	anchorText: "this resource",
 	published: "2026-07-19",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Beginner Onboarding (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with operator loadouts and loadout drops — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Beginner Onboarding Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with operator loadouts and loadout drops. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "Valorant Guide: Beginner Onboarding (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Beginner Onboarding Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with operator loadouts and loadout drops, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "crosshair placement and mid-game decisions",
+			h2: "ability combos and mid-game decisions",
 			paragraphs: [
-				"crosshair placement separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with operator loadouts and loadout drops creates openings that raw aggression cannot."
+				"ability combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: ability combos, crosshair placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: crosshair placement, ability combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valocheats.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
 			]
 		}
@@ -1153,46 +1153,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "the-finals-thefinalscheats-org-guide",
-	slug: "the-finals-thefinalscheats-org-guide",
+	id: "call-of-duty-warzone-thefinalscheats-org-guide",
+	slug: "call-of-duty-warzone-thefinalscheats-org-guide",
 	game: "Call of Duty: Warzone",
-	gameSlug: "the-finals",
+	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://thefinalscheats.org",
 	anchorText: "more game information",
 	published: "2026-02-10",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Economy And Loadout Planning (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering destruction-based FPS fundamentals, team cash-outs, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Economy And Loadout Planning Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why team cash-outs often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg",
+	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
 			h2: "How Call of Duty: Warzone matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat team cash-outs as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat buy stations as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "gadget combos and mid-game decisions",
+			h2: "gulag resets and mid-game decisions",
 			paragraphs: [
-				"gadget combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
+				"gulag resets separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: team cash-outs, gadget combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: buy stations, gulag resets, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
 			]
 		}
@@ -1922,7 +1922,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses Ricochet kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses Vanguard kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -2750,7 +2750,7 @@ export const guides: GuideDefinition[] = [
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in League of Legends. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"League of Legends uses Ricochet kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"League of Legends uses Vanguard kernel driver on PC. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
@@ -3683,46 +3683,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "the-finals-thefinalscheats-net-guide",
-	slug: "the-finals-thefinalscheats-net-guide",
+	id: "call-of-duty-warzone-thefinalscheats-net-guide",
+	slug: "call-of-duty-warzone-thefinalscheats-net-guide",
 	game: "Call of Duty: Warzone",
-	gameSlug: "the-finals",
+	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://thefinalscheats.net",
 	anchorText: "additional guides",
 	published: "2026-01-05",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Map Control Fundamentals (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering destruction-based FPS fundamentals, environmental destruction, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Map Control Fundamentals Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why environmental destruction often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg",
+	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
 			h2: "How Call of Duty: Warzone matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat environmental destruction as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat loadout metas as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "team cash-outs and mid-game decisions",
+			h2: "buy stations and mid-game decisions",
 			paragraphs: [
-				"team cash-outs separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
+				"buy stations separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: environmental destruction, team cash-outs, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: loadout metas, buy stations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
@@ -3775,47 +3775,47 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "warzone-warzonehack-net-guide",
-	slug: "warzone-warzonehack-net-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "warzone",
-	externalUrl: "https://warzonehack.net",
+	id: "valorant-valoranthack-net-guide",
+	slug: "valorant-valoranthack-net-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
+	externalUrl: "https://valoranthack.net",
 	anchorText: "additional guides",
 	published: "2026-03-07",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Patch-Day Preparation (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with operator loadouts and loadout drops — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Patch-Day Preparation Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with operator loadouts and loadout drops. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "Valorant Guide: Patch-Day Preparation (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Patch-Day Preparation Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with operator loadouts and loadout drops, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "economy rounds and mid-game decisions",
 			paragraphs: [
-				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with operator loadouts and loadout drops creates openings that raw aggression cannot."
+				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonehack.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"Pick one focus per session: ability combos, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthack.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
 	]
@@ -3833,7 +3833,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Squad Coordination Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3959,47 +3959,47 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "warzone-warzonehacks-org-guide",
-	slug: "warzone-warzonehacks-org-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "warzone",
-	externalUrl: "https://warzonehacks.org",
+	id: "valorant-valoranthacks-org-guide",
+	slug: "valorant-valoranthacks-org-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
+	externalUrl: "https://valoranthacks.org",
 	anchorText: "additional guides",
 	published: "2026-07-11",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Map Control Fundamentals (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with operator loadouts and loadout drops — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Map Control Fundamentals Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with operator loadouts and loadout drops. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "Valorant Guide: Map Control Fundamentals (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Map Control Fundamentals Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with operator loadouts and loadout drops, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "economy rounds and mid-game decisions",
 			paragraphs: [
-				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with operator loadouts and loadout drops creates openings that raw aggression cannot."
+				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://warzonehacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
+				"Pick one focus per session: ability combos, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valoranthacks.org\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
 	]
@@ -4787,46 +4787,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "the-finals-thefinalshacks-com-guide",
-	slug: "the-finals-thefinalshacks-com-guide",
+	id: "call-of-duty-warzone-thefinalshacks-com-guide",
+	slug: "call-of-duty-warzone-thefinalshacks-com-guide",
 	game: "Call of Duty: Warzone",
-	gameSlug: "the-finals",
+	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://thefinalshacks.com",
 	anchorText: "additional guides",
 	published: "2026-01-09",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Map Control Fundamentals (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering destruction-based FPS fundamentals, gadget combos, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, gulag resets, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Map Control Fundamentals Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why gadget combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg",
+	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why gulag resets often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
 			h2: "How Call of Duty: Warzone matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat gadget combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat gulag resets as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "environmental destruction and mid-game decisions",
+			h2: "loadout metas and mid-game decisions",
 			paragraphs: [
-				"environmental destruction separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
+				"loadout metas separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: gadget combos, environmental destruction, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: gulag resets, loadout metas, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
@@ -4925,46 +4925,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "warzone-valohacks-com-guide",
-	slug: "warzone-valohacks-com-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "warzone",
+	id: "valorant-valohacks-com-guide",
+	slug: "valorant-valohacks-com-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
 	externalUrl: "https://valohacks.com",
 	anchorText: "this resource",
 	published: "2026-04-12",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Beginner Onboarding (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with operator loadouts and loadout drops — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Beginner Onboarding Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with operator loadouts and loadout drops. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "Valorant Guide: Beginner Onboarding (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Beginner Onboarding Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with operator loadouts and loadout drops, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "crosshair placement and mid-game decisions",
+			h2: "ability combos and mid-game decisions",
 			paragraphs: [
-				"crosshair placement separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with operator loadouts and loadout drops creates openings that raw aggression cannot."
+				"ability combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: ability combos, crosshair placement, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: crosshair placement, ability combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://valohacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
 			]
 		}
@@ -5937,46 +5937,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "the-finals-thefinalshack-com-guide",
-	slug: "the-finals-thefinalshack-com-guide",
+	id: "call-of-duty-warzone-thefinalshack-com-guide",
+	slug: "call-of-duty-warzone-thefinalshack-com-guide",
 	game: "Call of Duty: Warzone",
-	gameSlug: "the-finals",
+	gameSlug: "call-of-duty-warzone",
 	externalUrl: "https://thefinalshack.com",
 	anchorText: "related resources",
 	published: "2026-02-14",
 	updated: "2026-03-15",
 	title: "Call of Duty: Warzone Guide: Solo Queue Survival (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering destruction-based FPS fundamentals, team cash-outs, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why team cash-outs often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg",
+	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
 			h2: "How Call of Duty: Warzone matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat team cash-outs as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat buy stations as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "gadget combos and mid-game decisions",
+			h2: "gulag resets and mid-game decisions",
 			paragraphs: [
-				"gadget combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
+				"gulag resets separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
 				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: team cash-outs, gadget combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: buy stations, gulag resets, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshack.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
 			]
 		}
@@ -7593,47 +7593,231 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "warzone-cheatsforwarzone-net-guide",
-	slug: "warzone-cheatsforwarzone-net-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "warzone",
-	externalUrl: "https://cheatsforwarzone.com",
+	id: "valorant-cheatsforvalorant-net-guide",
+	slug: "valorant-cheatsforvalorant-net-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
+	externalUrl: "https://cheatsforvalorant.net",
 	anchorText: "this resource",
 	published: "2026-06-10",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Squad Coordination (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with operator loadouts and loadout drops — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Squad Coordination Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with operator loadouts and loadout drops. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "Valorant Guide: Squad Coordination (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Squad Coordination Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How Valorant matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with operator loadouts and loadout drops, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat ability combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
 			h2: "economy rounds and mid-game decisions",
 			paragraphs: [
-				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with operator loadouts and loadout drops creates openings that raw aggression cannot."
+				"economy rounds separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: crosshair placement, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
-				"For more game updates, guides, and related resources, you can also explore <a href=\"https://cheatsforwarzone.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+				"Pick one focus per session: ability combos, economy rounds, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://cheatsforvalorant.net\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+			]
+		}
+	]
+},
+	{
+	id: "grounded-groundedhacks-com-guide",
+	slug: "grounded-groundedhacks-com-guide",
+	game: "Grounded",
+	gameSlug: "grounded",
+	externalUrl: "https://groundedhacks.com",
+	anchorText: "this resource",
+	published: "2026-07-11",
+	updated: "2026-03-15",
+	title: "Grounded Guide: Beginner Onboarding (2026)",
+	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, armor tiers, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
+	h1: "Grounded Beginner Onboarding Guide",
+	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why armor tiers often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageAlt: "Grounded gameplay — IGN screenshot",
+	sections: [
+		{
+			h2: "How Grounded matches actually play out",
+			paragraphs: [
+				"Most Grounded sessions are won in the minutes before a fight starts. Learn the default routes players take through backyard scale maps with insect threats and base building, which angles give free information, and when to disengage. In co-op survival titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat armor tiers as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+			]
+		},
+		{
+			h2: "base defense layouts and mid-game decisions",
+			paragraphs: [
+				"base defense layouts separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Grounded, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic co-op survival lobbies, disciplined spacing around backyard scale maps with insect threats and base building creates openings that raw aggression cannot."
+			]
+		},
+		{
+			h2: "Performance, settings, and fair-play context",
+			paragraphs: [
+				"Stable FPS and clean audio matter in Grounded. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Grounded uses Easy Anti-Cheat on multiplayer. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+			]
+		},
+		{
+			h2: "Putting the guide into practice",
+			paragraphs: [
+				"Pick one focus per session: armor tiers, base defense layouts, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://groundedhacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+			]
+		}
+	]
+},
+	{
+	id: "enlisted-enlistedcheats-org-guide",
+	slug: "enlisted-enlistedcheats-org-guide",
+	game: "Enlisted",
+	gameSlug: "enlisted",
+	externalUrl: "https://enlistedcheats.org",
+	anchorText: "related resources",
+	published: "2026-08-12",
+	updated: "2026-03-15",
+	title: "Enlisted Guide: Solo Queue Survival (2026)",
+	metaDescription: "A practical Enlisted guide covering squad-based WWII shooter fundamentals, capture point flanks, and historical battles with infantry squads and vehicles — updated for 2026 PC players.",
+	h1: "Enlisted Solo Queue Survival Guide",
+	intro: "Enlisted remains one of the most discussed squad-based WWII shooter titles on PC, especially for players who want sharper reads in historical battles with infantry squads and vehicles. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why capture point flanks often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2021/04/09/enlisted-button-fin-1617993248241.jpg",
+	imageAlt: "Enlisted gameplay — IGN screenshot",
+	sections: [
+		{
+			h2: "How Enlisted matches actually play out",
+			paragraphs: [
+				"Most Enlisted sessions are won in the minutes before a fight starts. Learn the default routes players take through historical battles with infantry squads and vehicles, which angles give free information, and when to disengage. In squad-based WWII shooter titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat capture point flanks as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+			]
+		},
+		{
+			h2: "squad orders and mid-game decisions",
+			paragraphs: [
+				"squad orders separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Enlisted, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic squad-based WWII shooter lobbies, disciplined spacing around historical battles with infantry squads and vehicles creates openings that raw aggression cannot."
+			]
+		},
+		{
+			h2: "Performance, settings, and fair-play context",
+			paragraphs: [
+				"Stable FPS and clean audio matter in Enlisted. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Enlisted uses Easy Anti-Cheat with server checks. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+			]
+		},
+		{
+			h2: "Putting the guide into practice",
+			paragraphs: [
+				"Pick one focus per session: capture point flanks, squad orders, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://enlistedcheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
+			]
+		}
+	]
+},
+	{
+	id: "unturned-unturnedhack-com-guide",
+	slug: "unturned-unturnedhack-com-guide",
+	game: "Unturned",
+	gameSlug: "unturned",
+	externalUrl: "https://unturnedhack.com",
+	anchorText: "this resource",
+	published: "2026-01-13",
+	updated: "2026-03-15",
+	title: "Unturned Guide: Beginner Onboarding (2026)",
+	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, resource farming, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
+	h1: "Unturned Beginner Onboarding Guide",
+	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why resource farming often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageAlt: "Unturned gameplay — IGN screenshot",
+	sections: [
+		{
+			h2: "How Unturned matches actually play out",
+			paragraphs: [
+				"Most Unturned sessions are won in the minutes before a fight starts. Learn the default routes players take through zombie-infested maps with base building and PvP zones, which angles give free information, and when to disengage. In survival sandbox titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat resource farming as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+			]
+		},
+		{
+			h2: "base raids and mid-game decisions",
+			paragraphs: [
+				"base raids separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Unturned, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic survival sandbox lobbies, disciplined spacing around zombie-infested maps with base building and PvP zones creates openings that raw aggression cannot."
+			]
+		},
+		{
+			h2: "Performance, settings, and fair-play context",
+			paragraphs: [
+				"Stable FPS and clean audio matter in Unturned. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Unturned uses VAC-enabled servers with admin tooling. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+			]
+		},
+		{
+			h2: "Putting the guide into practice",
+			paragraphs: [
+				"Pick one focus per session: resource farming, base raids, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://unturnedhack.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
+			]
+		}
+	]
+},
+	{
+	id: "valorant-hacksforvalorant-com-guide",
+	slug: "valorant-hacksforvalorant-com-guide",
+	game: "Valorant",
+	gameSlug: "valorant",
+	externalUrl: "https://hacksforvalorant.com",
+	anchorText: "this resource",
+	published: "2026-02-14",
+	updated: "2026-03-15",
+	title: "Valorant Guide: Squad Coordination (2026)",
+	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
+	h1: "Valorant Squad Coordination Guide",
+	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
+	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageAlt: "Valorant gameplay — IGN screenshot",
+	sections: [
+		{
+			h2: "How Valorant matches actually play out",
+			paragraphs: [
+				"Most Valorant sessions are won in the minutes before a fight starts. Learn the default routes players take through 5v5 rounds with agent abilities and spike plants, which angles give free information, and when to disengage. In tactical FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat crosshair placement as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+			]
+		},
+		{
+			h2: "ability combos and mid-game decisions",
+			paragraphs: [
+				"ability combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Valorant, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic tactical FPS lobbies, disciplined spacing around 5v5 rounds with agent abilities and spike plants creates openings that raw aggression cannot."
+			]
+		},
+		{
+			h2: "Performance, settings, and fair-play context",
+			paragraphs: [
+				"Stable FPS and clean audio matter in Valorant. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"Valorant uses Vanguard kernel driver running at boot. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+			]
+		},
+		{
+			h2: "Putting the guide into practice",
+			paragraphs: [
+				"Pick one focus per session: crosshair placement, ability combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"For more game updates, guides, and related resources, you can also explore <a href=\"https://hacksforvalorant.com\" target=\"_blank\" rel=\"noopener noreferrer\">this resource</a>."
 			]
 		}
 	]

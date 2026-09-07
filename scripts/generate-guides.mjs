@@ -33,12 +33,12 @@ const IGN_IMAGES = {
 	Marathon: 'https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg',
 	Battlefield: 'https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg',
 	'League of Legends': 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg',
-	'Call of Duty: Warzone': 'https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg',
-	Call of Duty: Warzone: 'https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg',
+	Valorant: 'https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg',
+	'Call of Duty: Warzone': 'https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg',
 	'Gray Zone Warfare': 'https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg',
 	'Overwatch 2': 'https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg',
 	'The Isle': 'https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg',
-	'Call of Duty: Warzone': 'https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg',
+	'The Finals': 'https://assets-prd.ignimgs.com/2022/08/23/the-finals-button-01-1661293340151.jpg',
 	DayZ: 'https://ps3media.ign.com/ps3/image/object/133/133826/PC_MAX_DAYZTEMP.jpg',
 	'Marvel Rivals': 'https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg',
 	'Mecha BREAK': 'https://assets-prd.ignimgs.com/2023/12/08/mechabreak-1701997906808.jpg',
@@ -141,19 +141,19 @@ const GAME_PROFILES = {
 		genre: 'MOBA',
 		setting: 'Summoners Rift with five roles and objective timers',
 		mechanics: ['wave management', 'vision control', 'teamfight positioning'],
-		antiCheat: 'Ricochet kernel driver on PC',
+		antiCheat: 'Vanguard kernel driver on PC',
+	},
+	Valorant: {
+		genre: 'tactical FPS',
+		setting: '5v5 rounds with agent abilities and spike plants',
+		mechanics: ['crosshair placement', 'ability combos', 'economy rounds'],
+		antiCheat: 'Vanguard kernel driver running at boot',
 	},
 	'Call of Duty: Warzone': {
 		genre: 'battle royale',
 		setting: 'Verdansk, Rebirth, and Urzikstan drops with loadout customisation',
 		mechanics: ['loadout metas', 'buy stations', 'gulag resets'],
 		antiCheat: 'Ricochet anti-cheat with kernel-level monitoring',
-	},
-	Call of Duty: Warzone: {
-		genre: 'tactical FPS',
-		setting: '5v5 rounds with operator loadouts and loadout drops',
-		mechanics: ['ability combos', 'crosshair placement', 'economy rounds'],
-		antiCheat: 'Ricochet kernel driver running at boot',
 	},
 	'Gray Zone Warfare': {
 		genre: 'open-world tactical FPS',
@@ -173,7 +173,7 @@ const GAME_PROFILES = {
 		mechanics: ['nest spawning', 'pack hunting', 'growth stages'],
 		antiCheat: 'EAC on official servers with admin logs',
 	},
-	'Call of Duty: Warzone': {
+	'The Finals': {
 		genre: 'destruction-based FPS',
 		setting: 'game-show arenas with cash-out objectives',
 		mechanics: ['environmental destruction', 'team cash-outs', 'gadget combos'],
@@ -449,13 +449,13 @@ function classifyGame(host) {
 	if (h.includes('marathon')) return 'Marathon';
 	if (h.includes('battlefield')) return 'Battlefield';
 	if (h.includes('lol')) return 'League of Legends';
+	if (h.includes('valorant') || h.includes('valo')) return 'Valorant';
 	if (h.includes('warzone')) return 'Call of Duty: Warzone';
 	if (h.includes('codhack') || h.includes('codcheat')) return 'Call of Duty';
-	if (h.includes('valo') || h.includes('warzone')) return 'Call of Duty: Warzone';
 	if (h.includes('grayzone')) return 'Gray Zone Warfare';
 	if (h.includes('overwatch')) return 'Overwatch 2';
 	if (h.includes('theisle') || h.includes('islecheat')) return 'The Isle';
-	if (h.includes('thefinal')) return 'Call of Duty: Warzone';
+	if (h.includes('thefinal')) return 'The Finals';
 	if (h.includes('dayz')) return 'DayZ';
 	if (h.includes('marvelrival') || h.includes('rivalshack') || h.includes('rivalscheat')) return 'Marvel Rivals';
 	if (h.includes('mecca') || h.includes('meccha')) return 'Mecha BREAK';
