@@ -1,0 +1,275 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from './Navbar.astro';
+import SiteFooter from './SiteFooter.astro';
+import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
+import { absoluteGuideUrl, getGuidesBasePath } from '../data/guides/helpers';
+import type { ResolvedGuide } from '../data/guides/types';
+import { siteConfig } from '../data/site';
+import { getLocalizedPath } from '../data/i18n/routing';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale: LocaleCode;
+	guide: ResolvedGuide;
+}
+
+const { locale, guide } = Astro.props;
+const t = getT(locale);
+const homeHref = getLocalizedPath('home', locale);
+const guidesHref = getGuidesBasePath();
+
+function stripHtml(html: string): string {
+	return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function countWords(...parts: string[]): number {
+	return parts.join(' ').split(/\s+/).filter(Boolean).length;
+}
+
+const articleBodyText = [
+	guide.intro,
+	...guide.sections.flatMap((section) => [section.h2, ...section.paragraphs.map(stripHtml)]),
+].join(' ');
+const wordCount = countWords(articleBodyText);
+const articleUrl = absoluteGuideUrl(guide.slug);
+
+const articleSchema = {
+	'@type': 'Article',
+	'@id': `${articleUrl}#article`,
+	url: articleUrl,
+	headline: guide.h1,
+	alternativeHeadline: guide.title,
+	description: guide.metaDescription,
+	datePublished: guide.published,
+	dateModified: guide.updated,
+	image: guide.imageUrl,
+	inLanguage: locale,
+	wordCount,
+	isAccessibleForFree: true,
+	author: { '@type': 'Organization', name: siteConfig.name, url: siteConfig.url },
+	publisher: {
+		'@type': 'Organization',
+		name: siteConfig.name,
+		url: siteConfig.url,
+		logo: { '@type': 'ImageObject', url: new URL(siteConfig.logoRaster, siteConfig.url).href },
+	},
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': `${articleUrl}#webpage`,
+	},
+	articleSection: guide.game,
+};
+
+function pageTitle(headline: string): string {
+	const suffix = ' | Guides';
+	if (headline.length + suffix.length <= 60) return `${headline}${suffix}`;
+	return `${headline.slice(0, 57).trim()}…`;
+}
+---
+
+<Layout
+	title={pageTitle(guide.title)}
+	description={guide.metaDescription}
+	canonicalPath={guide.canonicalPath}
+	locale={locale}
+	ogLocaleAlternates={false}
+	ogImage={guide.imageUrl}
+	ogImageAlt={guide.imageAlt}
+	type="article"
+	breadcrumbs={[
+		{ label: t('common.home'), href: homeHref },
+		{ label: t('common.guides'), href: guidesHref },
+		{ label: guide.h1 },
+	]}
+	extraGraph={[articleSchema]}
+>
+	<Navbar locale={locale} />
+	<main class="guide-post">
+		<div class="shell">
+			<div class="shell-content guide-post__inner">
+				<article>
+					<header class="guide-post__header">
+						<nav class="guide-post__crumbs" aria-label={t('common.breadcrumb')}>
+							<a href={homeHref}>{t('common.home')}</a>
+							<span aria-hidden="true">/</span>
+							<a href={guidesHref}>{t('common.guides')}</a>
+							<span aria-hidden="true">/</span>
+							<span aria-current="page">{guide.h1}</span>
+						</nav>
+						<p class="guide-post__cat">{guide.game}</p>
+						<h1>{guide.h1}</h1>
+						<p class="guide-post__intro">{guide.intro}</p>
+						<p class="guide-post__meta">
+							{t('guides.published')} {guide.published} · {t('guides.updated')} {guide.updated}
+						</p>
+					</header>
+
+					<img
+						class="guide-post__hero"
+						src={guide.imageUrl}
+						alt={guide.imageAlt}
+						width="1200"
+						height="675"
+						loading="eager"
+						decoding="async"
+					/>
+
+					{
+						guide.sections.map((section) => (
+							<section class="guide-post__section">
+								<h2>{section.h2}</h2>
+								{section.paragraphs.map((paragraph) => <p set:html={paragraph} />)}
+							</section>
+						))
+					}
+				</article>
+			</div>
+		</div>
+	</main>
+	<SiteFooter locale={locale} />
+</Layout>
+
+<style>
+	.guide-post {
+		padding: 2.5rem 0 4rem;
+		background:
+			radial-gradient(ellipse 70% 45% at 50% -8%, color-mix(in srgb, var(--magenta) 7%, transparent), transparent 52%),
+			var(--bg);
+	}
+
+	.guide-post__inner {
+		max-width: 48rem;
+	}
+
+	.guide-post__crumbs {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.35rem;
+		margin: 0 0 0.85rem;
+		font-size: 0.85rem;
+		color: var(--ink-faint);
+	}
+
+	.guide-post__crumbs a {
+		color: var(--ink-muted);
+		text-decoration: none;
+	}
+
+	.guide-post__crumbs a:hover {
+		color: var(--accent-hover);
+	}
+
+	.guide-post__crumbs [aria-current='page'] {
+		color: var(--ink);
+		font-weight: 500;
+	}
+
+	.guide-post__cat {
+		display: inline-flex;
+		margin: 0 0 0.65rem;
+		padding: 0.22rem 0.5rem;
+		border-radius: 999px;
+		border: 1px solid color-mix(in srgb, var(--magenta) 28%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 10%, transparent);
+		color: var(--magenta-soft);
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+	}
+
+	.guide-post__header h1 {
+		margin: 0 0 0.75rem;
+		font-family: var(--font-display);
+		font-size: clamp(1.9rem, 4vw, 2.8rem);
+		font-weight: 800;
+		line-height: 1.1;
+		letter-spacing: -0.03em;
+		color: var(--ink);
+	}
+
+	.guide-post__intro {
+		margin: 0;
+		color: var(--ink-muted);
+		font-size: 1.08rem;
+		line-height: 1.65;
+	}
+
+	.guide-post__meta {
+		margin: 0.85rem 0 0;
+		color: var(--ink-faint);
+		font-size: 0.85rem;
+	}
+
+	.guide-post__hero {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		max-height: 26rem;
+		object-fit: cover;
+		margin: 1.5rem 0 2rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		box-shadow: 0 14px 36px rgba(0, 0, 0, 0.28);
+	}
+
+	.guide-post__section {
+		margin-bottom: 2rem;
+	}
+
+	.guide-post__section h2 {
+		margin: 0 0 0.85rem;
+		padding-bottom: 0.45rem;
+		border-bottom: 1px solid var(--line-soft);
+		font-family: var(--font-display);
+		font-size: 1.35rem;
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.guide-post__section p {
+		margin: 0 0 0.95rem;
+		color: var(--ink-muted);
+		line-height: 1.75;
+	}
+
+	.guide-post__section p a {
+		color: var(--link);
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.guide-post__section p a:hover {
+		color: var(--accent-hover);
+	}
+
+	@media (max-width: 720px) {
+		.guide-post {
+			padding: 1.75rem 0 max(2.5rem, var(--safe-bottom));
+		}
+
+		.guide-post__header h1 {
+			font-size: clamp(1.55rem, 6.5vw, 2.1rem);
+		}
+
+		.guide-post__intro {
+			font-size: 1rem;
+		}
+
+		.guide-post__hero {
+			max-height: 14rem;
+			margin: 1.15rem 0 1.5rem;
+		}
+
+		.guide-post__section h2 {
+			font-size: 1.2rem;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.guide-post__hero {
+			max-height: 11.5rem;
+		}
+	}
+</style>

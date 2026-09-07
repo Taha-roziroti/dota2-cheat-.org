@@ -1,0 +1,27 @@
+---
+import { blogPosts } from '../../../../data/blog/helpers';
+import { defaultLocale, isLocaleCode, localeCodes } from '../../../../data/i18n/locales';
+
+export function getStaticPaths() {
+	const paths: { params: { lang: string; slug: string } }[] = [];
+
+	for (const locale of localeCodes) {
+		if (locale === defaultLocale) continue;
+		for (const post of blogPosts) {
+			paths.push({
+				params: { lang: locale, slug: post.translations[defaultLocale].slug },
+			});
+		}
+	}
+
+	return paths;
+}
+
+const slug = Astro.params.slug ?? '';
+
+if (!isLocaleCode(Astro.params.lang ?? '')) {
+	return Astro.redirect('/blog/', 301);
+}
+
+return Astro.redirect(`/blog/${slug}/`, 301);
+---

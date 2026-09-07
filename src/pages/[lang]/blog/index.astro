@@ -1,0 +1,15 @@
+---
+import { defaultLocale, isLocaleCode, localeCodes } from '../../../data/i18n/locales';
+
+export function getStaticPaths() {
+	return localeCodes
+		.filter((code) => code !== defaultLocale)
+		.map((lang) => ({ params: { lang } }));
+}
+
+if (!isLocaleCode(Astro.params.lang ?? '')) {
+	return Astro.redirect('/blog/', 301);
+}
+
+return Astro.redirect('/blog/', 301);
+---

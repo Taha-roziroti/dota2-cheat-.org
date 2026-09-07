@@ -1,0 +1,294 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from './Navbar.astro';
+import SiteFooter from './SiteFooter.astro';
+import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
+import { getAllGuides, getGuidesBasePath, getMixedGuides, absoluteGuideUrl } from '../data/guides/helpers';
+import { nativeGuides } from '../data/guides/native-guides';
+import { siteConfig } from '../data/site';
+import { getLocalizedPath } from '../data/i18n/routing';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale: LocaleCode;
+}
+
+const { locale } = Astro.props;
+const t = getT(locale);
+const guides = getAllGuides();
+const mixedGuides = getMixedGuides();
+const canonicalPath = getGuidesBasePath();
+const homeHref = getLocalizedPath('home', locale);
+
+const pageTitle = 'Call of Duty: Warzone Guides | ESP, Aimbot & Ranked Tips';
+const pageDescription =
+	'Free Call of Duty: Warzone guides — aimbot settings, ESP wallhack tips, ranked meta, Ricochet updates, and competitive cheat features for PC at cheatsforwarzone.com/guides.';
+
+const collectionSchema = {
+	'@type': 'CollectionPage',
+	'@id': `${absoluteGuideUrl()}#collection`,
+	name: 'Game Guides',
+	description: pageDescription,
+	url: absoluteGuideUrl(),
+	inLanguage: locale,
+	isPartOf: { '@id': `${siteConfig.url}/#website` },
+	mainEntity: {
+		'@type': 'ItemList',
+		itemListElement: guides.map((guide, i) => ({
+			'@type': 'ListItem',
+			position: i + 1,
+			url: absoluteGuideUrl(guide.slug),
+			name: guide.title,
+		})),
+	},
+};
+---
+
+<Layout
+	title={pageTitle}
+	description={pageDescription}
+	canonicalPath={canonicalPath}
+	locale={locale}
+	ogLocaleAlternates={false}
+	ogImage={siteConfig.defaultOgImage}
+	ogImageAlt="Game Guides Hub"
+	breadcrumbs={[{ label: t('common.home'), href: homeHref }, { label: t('common.guides') }]}
+	extraGraph={[collectionSchema]}
+>
+	<Navbar locale={locale} />
+	<main class="guides-hub">
+		<div class="shell guides-hub__inner">
+			<header class="guides-hub__hero">
+				<p class="guides-hub__eyebrow">{t('common.guides')}</p>
+				<h1>{t('guides.hubTitle')}</h1>
+				<p class="guides-hub__intro">{t('guides.hubIntro')}</p>
+			</header>
+
+			<section class="guides-hub__native" aria-labelledby="native-guides-title">
+				<div class="guides-hub__section-head">
+					<h2 id="native-guides-title">{t('guides.nativeTitle')}</h2>
+					<p>{t('guides.nativeLede')}</p>
+				</div>
+				<ul class="guides-hub__grid guides-hub__grid--native">
+					{
+						nativeGuides.map((item) => (
+							<li>
+								<a class="guides-hub__card guides-hub__card--native" href={item.href}>
+									<h3>{item.title}</h3>
+									<p>{item.description}</p>
+									<span class="guides-hub__cta">{t('guides.readGuide')}</span>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
+
+			<section class="guides-hub__external" aria-labelledby="game-guides-title">
+				<div class="guides-hub__section-head">
+					<h2 id="game-guides-title">{t('guides.gameTitle')}</h2>
+					<p>{t('guides.gameLede')}</p>
+				</div>
+				<ul class="guides-hub__grid">
+					{
+						mixedGuides.map((guide) => (
+							<li>
+								<a class="guides-hub__card" href={guide.canonicalPath}>
+									<img
+										src={guide.imageUrl}
+										alt={guide.imageAlt}
+										width="640"
+										height="360"
+										loading="lazy"
+										decoding="async"
+									/>
+									<div class="guides-hub__card-copy">
+										<h3>{guide.h1}</h3>
+										<p>{guide.metaDescription}</p>
+									</div>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
+		</div>
+	</main>
+	<SiteFooter locale={locale} />
+</Layout>
+
+<style>
+	.guides-hub {
+		padding: 2.5rem 0 4rem;
+		background:
+			radial-gradient(ellipse 70% 45% at 50% -8%, color-mix(in srgb, var(--magenta) 7%, transparent), transparent 52%),
+			var(--bg);
+	}
+
+	.guides-hub__inner {
+		display: grid;
+		gap: 3rem;
+	}
+
+	.guides-hub__hero h1 {
+		margin: 0 0 0.75rem;
+		font-family: var(--font-display);
+		font-size: clamp(2rem, 4vw, 2.8rem);
+		font-weight: 800;
+		letter-spacing: -0.03em;
+		color: var(--ink);
+	}
+
+	.guides-hub__eyebrow {
+		margin: 0 0 0.5rem;
+		font-size: 0.75rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--magenta-soft);
+	}
+
+	.guides-hub__intro {
+		margin: 0;
+		max-width: 42rem;
+		color: var(--ink-muted);
+		font-size: 1.05rem;
+		line-height: 1.65;
+	}
+
+	.guides-hub__section-head h2 {
+		margin: 0 0 0.45rem;
+		font-family: var(--font-display);
+		font-size: 1.5rem;
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.guides-hub__section-head p {
+		margin: 0 0 1.25rem;
+		color: var(--ink-muted);
+		line-height: 1.6;
+	}
+
+	.guides-hub__native {
+		padding: 1.5rem;
+		border: 1px solid color-mix(in srgb, var(--magenta) 22%, var(--line));
+		border-radius: var(--radius-md, 0.75rem);
+		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-panel));
+		box-shadow: 0 12px 32px rgba(0, 0, 0, 0.22);
+	}
+
+	.guides-hub__external {
+		padding-top: 0.5rem;
+		border-top: 1px solid var(--line-soft);
+	}
+
+	.guides-hub__grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+		gap: 1rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	.guides-hub__grid--native {
+		grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+	}
+
+	.guides-hub__card {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		background: var(--bg-panel);
+		overflow: hidden;
+		text-decoration: none;
+		transition:
+			border-color 0.2s ease,
+			transform 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+	.guides-hub__card:hover {
+		transform: translateY(-2px);
+		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
+		box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
+	}
+
+	.guides-hub__card img {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+	}
+
+	.guides-hub__card-copy {
+		padding: 0.9rem 1rem 1rem;
+	}
+
+	.guides-hub__card h3 {
+		margin: 0 0 0.45rem;
+		font-family: var(--font-display);
+		font-size: 1rem;
+		font-weight: 700;
+		line-height: 1.3;
+		color: var(--ink);
+	}
+
+	.guides-hub__card p {
+		margin: 0;
+		font-size: 0.875rem;
+		line-height: 1.55;
+		color: var(--ink-muted);
+	}
+
+	.guides-hub__card--native {
+		padding: 1rem 1.1rem;
+	}
+
+	.guides-hub__cta {
+		display: inline-block;
+		margin-top: 0.75rem;
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: var(--link);
+	}
+
+	@media (max-width: 760px) {
+		.guides-hub {
+			padding: 1.75rem 0 max(2.5rem, var(--safe-bottom));
+		}
+
+		.guides-hub__inner {
+			gap: 2rem;
+		}
+
+		.guides-hub__hero h1 {
+			font-size: clamp(1.65rem, 7vw, 2.25rem);
+		}
+
+		.guides-hub__intro {
+			font-size: 0.95rem;
+		}
+
+		.guides-hub__native {
+			padding: 1.1rem;
+		}
+
+		.guides-hub__grid,
+		.guides-hub__grid--native {
+			grid-template-columns: 1fr;
+		}
+
+		.guides-hub__card:hover {
+			transform: none;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.guides-hub__section-head h2 {
+			font-size: 1.25rem;
+		}
+	}
+</style>

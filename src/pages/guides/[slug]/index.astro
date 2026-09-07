@@ -1,0 +1,17 @@
+---
+import GuidePostPage from '../../../components/GuidePostPage.astro';
+import { guides, getGuideBySlug } from '../../../data/guides/helpers';
+import { defaultLocale } from '../../../data/i18n/locales';
+
+export function getStaticPaths() {
+	return guides.map((guide) => ({
+		params: { slug: guide.slug },
+		props: { guide },
+	}));
+}
+
+const { guide } = Astro.props;
+const live = getGuideBySlug(guide.slug) ?? guide;
+---
+
+<GuidePostPage locale={defaultLocale} guide={live} />

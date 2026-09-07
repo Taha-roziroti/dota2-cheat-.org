@@ -1,0 +1,461 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from './Navbar.astro';
+import SiteFooter from './SiteFooter.astro';
+import { blogUi, defaultLocale, type LocaleCode } from '../data/i18n/locales';
+import {
+	absoluteBlogUrl,
+	getBlogBasePath,
+	getBlogPostHreflangAlternates,
+	getRelatedPostsByCategory,
+} from '../data/blog/helpers';
+import type { ResolvedBlogPost } from '../data/blog/types';
+import { blogLabel, siteConfig } from '../data/site';
+import { getLocalizedPath, localizeInternalHref } from '../data/i18n/routing';
+import { getTopicLinksForBlogCategory } from '../data/internal-links';
+import RelatedPages from './RelatedPages.astro';
+import ExternalResources from './ExternalResources.astro';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale: LocaleCode;
+	post: ResolvedBlogPost;
+}
+
+const { locale, post } = Astro.props;
+const ui = blogUi[locale];
+const tServer = getT(locale);
+const t = post.translation;
+const homeHref = getLocalizedPath('home', locale);
+const blogHref = getBlogBasePath(defaultLocale);
+const related = getRelatedPostsByCategory(post, 3);
+const topicLinks = getTopicLinksForBlogCategory(post.category);
+
+function stripHtml(html: string): string {
+	return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function countWords(...parts: string[]): number {
+	return parts.join(' ').split(/\s+/).filter(Boolean).length;
+}
+
+const articleBodyText = [
+	t.intro,
+	...t.sections.flatMap((section) => [section.h2, ...section.paragraphs.map(stripHtml)]),
+].join(' ');
+const wordCount = countWords(articleBodyText);
+const metaKeywords = t.keywords.slice(0, 4);
+
+const articleUrl = absoluteBlogUrl(defaultLocale, post.translations[defaultLocale]?.slug ?? t.slug);
+const hreflangAlternates = getBlogPostHreflangAlternates(post, locale);
+const articleSchema = {
+	'@type': 'BlogPosting',
+	'@id': `${articleUrl}#article`,
+	url: articleUrl,
+	headline: t.h1,
+	alternativeHeadline: t.title,
+	description: t.metaDescription,
+	datePublished: post.published,
+	dateModified: post.updated,
+	image: new URL(post.imageSrc, siteConfig.url).href,
+	inLanguage: locale,
+	wordCount,
+	isAccessibleForFree: true,
+	author: { '@type': 'Organization', name: siteConfig.name, url: siteConfig.url },
+	publisher: {
+		'@type': 'Organization',
+		name: siteConfig.name,
+		url: siteConfig.url,
+		logo: { '@type': 'ImageObject', url: new URL(siteConfig.logoRaster, siteConfig.url).href },
+	},
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': `${articleUrl}#webpage`,
+	},
+	isPartOf: { '@id': `${absoluteBlogUrl(defaultLocale)}#collection` },
+	keywords: metaKeywords.join(', '),
+	articleSection: post.category,
+};
+
+function localizeParagraphHtml(html: string): string {
+	return html.replace(/href="(\/[^"]+)"/g, (_, path: string) => {
+		return `href="${localizeInternalHref(path, locale)}"`;
+	});
+}
+
+/** Keep document titles within ~60 chars without cutting mid-word. */
+function pageTitle(headline: string): string {
+	const suffix = ` | ${blogLabel}`;
+	if (headline.length + suffix.length <= 60) return `${headline}${suffix}`;
+	if (headline.length <= 60) return headline;
+	const trimmed = headline.slice(0, 57);
+	const cut = trimmed.lastIndexOf(' ');
+	return `${(cut > 40 ? trimmed.slice(0, cut) : trimmed).replace(/[|:–—-]+$/, '').trim()}…`;
+}
+---
+
+<Layout
+	title={pageTitle(t.title)}
+	description={t.metaDescription}
+	canonicalPath={post.canonicalPath}
+	hreflangAlternates={hreflangAlternates}
+	ogImage={post.imageSrc}
+	ogImageAlt={t.imageAlt}
+	type="article"
+	locale={locale}
+	breadcrumbs={[
+		{ label: ui.home, href: homeHref },
+		{ label: ui.blogH1, href: blogHref },
+		{ label: t.h1 },
+	]}
+	extraGraph={[articleSchema]}
+>
+	<Navbar locale={locale} />
+	<main class="post">
+		<div class="shell">
+			<div class="shell-content post__inner">
+		<article>
+			<header class="post__header">
+				<nav class="post__crumbs" aria-label={tServer('common.breadcrumb')}>
+					<a href={homeHref}>{ui.home}</a>
+					<span aria-hidden="true">/</span>
+					<a href={blogHref}>{ui.blogH1}</a>
+					<span aria-hidden="true">/</span>
+					<span aria-current="page">{t.h1}</span>
+				</nav>
+				<p class="post__cat">{post.category}</p>
+				<h1>{t.h1}</h1>
+				<p class="post__intro">{t.intro}</p>
+				<p class="post__meta">
+					{ui.published} {post.published} · {ui.updated} {post.updated}
+				</p>
+				<a class="post__buy" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+					{tServer('cta.buy')}
+				</a>
+			</header>
+
+			<RelatedPages locale={locale} variant="topics" links={topicLinks} class="post__topics post__topics--top" />
+
+			<img
+				class="post__hero"
+				src={post.imageSrc}
+				alt={t.imageAlt}
+				width="1200"
+				height="675"
+				loading="eager"
+				decoding="async"
+			/>
+			{
+				t.sections.map((section) => (
+					<section class="post__section">
+						<h2>{section.h2}</h2>
+						{section.paragraphs.map((paragraph) => {
+							const isTip = paragraph.startsWith('Pro Tip');
+							const isTry = paragraph.startsWith('Try This Today');
+							const html = localizeParagraphHtml(paragraph);
+							if (isTip || isTry) {
+								return (
+									<aside class:list={['callout', { 'callout--tip': isTip, 'callout--try': isTry }]}>
+										<p set:html={html} />
+									</aside>
+								);
+							}
+							return <p set:html={html} />;
+						})}
+					</section>
+				))
+			}
+		</article>
+
+		{
+			related.length > 0 && (
+				<section class="post__related" aria-label={ui.relatedPosts}>
+					<h2>{ui.relatedPosts}</h2>
+					<ul>
+						{related.map((item) => (
+							<li>
+								<a href={item.canonicalPath}>{item.translation.title}</a>
+							</li>
+						))}
+					</ul>
+				</section>
+			)
+		}
+
+		<ExternalResources locale={locale} class="post__external" />
+
+			</div>
+		</div>
+	</main>
+	<SiteFooter locale={locale} />
+</Layout>
+
+<style>
+	.post {
+		padding: 2.5rem 0 4rem;
+		background:
+			radial-gradient(ellipse 70% 45% at 50% -8%, color-mix(in srgb, var(--magenta) 7%, transparent), transparent 52%),
+			var(--bg);
+	}
+
+	.post__inner {
+		display: grid;
+		gap: 0;
+		max-width: 48rem;
+	}
+
+	.post__crumbs {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.35rem;
+		margin: 0 0 0.85rem;
+		font-size: 0.85rem;
+		color: var(--ink-faint);
+	}
+
+	.post__crumbs a {
+		color: var(--ink-muted);
+		text-decoration: none;
+		transition: color 0.2s ease;
+	}
+
+	.post__crumbs a:hover {
+		color: var(--accent-hover);
+	}
+
+	.post__crumbs [aria-current='page'] {
+		color: var(--ink);
+		font-weight: 500;
+	}
+
+	.post__cat {
+		display: inline-flex;
+		align-items: center;
+		margin: 0 0 0.65rem;
+		padding: 0.22rem 0.5rem;
+		border-radius: 999px;
+		border: 1px solid color-mix(in srgb, var(--magenta) 28%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 10%, transparent);
+		color: var(--magenta-soft);
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+	}
+
+	.post__header h1 {
+		margin: 0 0 0.75rem;
+		font-family: var(--font-display);
+		font-size: clamp(1.9rem, 4vw, 2.8rem);
+		font-weight: 800;
+		line-height: 1.1;
+		letter-spacing: -0.03em;
+		color: var(--ink);
+	}
+
+	.post__intro {
+		margin: 0;
+		color: var(--ink-muted);
+		font-size: 1.08rem;
+		line-height: 1.65;
+	}
+
+	.post__meta {
+		margin: 0.85rem 0 0;
+		color: var(--ink-faint);
+		font-size: 0.85rem;
+	}
+
+	.post__buy {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		margin-top: 1rem;
+		padding: 0.75rem 1.25rem;
+		border-radius: 999px;
+		font-size: 0.9rem;
+		font-weight: 700;
+		text-decoration: none;
+	}
+
+	.post__hero {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		max-height: 26rem;
+		object-fit: cover;
+		margin: 1.5rem 0 2rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		box-shadow: 0 14px 36px rgba(0, 0, 0, 0.28);
+	}
+
+	.post__section {
+		margin-bottom: 2rem;
+		padding-bottom: 0.25rem;
+	}
+
+	.post__section h2 {
+		margin: 0 0 0.85rem;
+		padding-bottom: 0.45rem;
+		border-bottom: 1px solid var(--line-soft);
+		font-family: var(--font-display);
+		font-size: 1.35rem;
+		font-weight: 800;
+		letter-spacing: -0.02em;
+		color: var(--ink);
+	}
+
+	.post__section p {
+		margin: 0 0 0.95rem;
+		color: var(--ink-muted);
+		line-height: 1.75;
+	}
+
+	.post__section p a {
+		color: var(--link);
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.post__section p a:hover {
+		color: var(--accent-hover);
+	}
+
+	.callout {
+		margin: 0 0 1rem;
+		padding: 0.95rem 1rem;
+		border-radius: var(--radius-md, 0.75rem);
+		border: 1px solid color-mix(in srgb, var(--magenta) 35%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 10%, var(--bg-panel));
+		box-shadow: inset 0 1px 0 color-mix(in srgb, #fff 6%, transparent);
+	}
+
+	.callout--try {
+		border-color: rgba(52, 211, 153, 0.4);
+		background: rgba(52, 211, 153, 0.08);
+	}
+
+	.callout p {
+		margin: 0;
+		color: var(--ink);
+		line-height: 1.65;
+	}
+
+	.post__related {
+		margin-top: 3rem;
+		padding: 1.35rem 1.1rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		background: color-mix(in srgb, var(--magenta) 4%, var(--bg-panel));
+		box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+	}
+
+	.post__related h2 {
+		margin: 0 0 0.85rem;
+		font-family: var(--font-display);
+		font-size: 1.15rem;
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.post__related ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: grid;
+		gap: 0.55rem;
+	}
+
+	.post__related li {
+		margin: 0;
+	}
+
+	.post__related a {
+		display: block;
+		padding: 0.65rem 0.75rem;
+		border: 1px solid var(--line);
+		border-radius: 0.55rem;
+		background: var(--bg-elevated);
+		color: var(--link);
+		text-decoration: none;
+		font-weight: 600;
+		transition:
+			border-color 0.2s ease,
+			background 0.2s ease,
+			color 0.2s ease,
+			transform 0.2s ease;
+	}
+
+	.post__related a:hover {
+		transform: translateX(2px);
+		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 8%, var(--bg-elevated));
+		color: var(--ink);
+	}
+
+	.post__topics {
+		margin: 1.25rem 0 1.75rem;
+	}
+
+	.post__topics--top {
+		margin-top: 0.5rem;
+	}
+
+	.post__external {
+		margin-top: 2rem;
+	}
+
+	@media (max-width: 720px) {
+		.post {
+			padding: 1.75rem 0 max(2.5rem, var(--safe-bottom));
+		}
+
+		.post__header h1 {
+			font-size: clamp(1.55rem, 6.5vw, 2.1rem);
+		}
+
+		.post__intro {
+			font-size: 1rem;
+			line-height: 1.6;
+		}
+
+		.post__buy {
+			width: 100%;
+			min-height: var(--touch-min, 2.75rem);
+		}
+
+		.post__hero {
+			max-height: 14rem;
+			margin: 1.15rem 0 1.5rem;
+		}
+
+		.post__section h2 {
+			font-size: 1.2rem;
+		}
+
+		.post__related {
+			margin-top: 2rem;
+			padding: 1.1rem 0.95rem;
+		}
+
+		.post__related a {
+			min-height: var(--touch-min, 2.75rem);
+		}
+	}
+
+	@media (max-width: 480px) {
+		.post__crumbs {
+			font-size: 0.8rem;
+		}
+
+		.post__meta {
+			font-size: 0.8rem;
+		}
+
+		.post__hero {
+			max-height: 11.5rem;
+			border-radius: var(--radius-sm);
+		}
+	}
+</style>
