@@ -126,12 +126,19 @@ async function writeResponsive(baseName, input) {
 	console.log(`  ✓ ${baseName}.webp (+ responsive)`);
 }
 
+/** Full-height hero master — no vertical crop (operator helmet stays in frame). */
+async function buildHeroCropBuffer() {
+	return sharp(HERO_SOURCE)
+		.resize(1920, null, { fit: 'inside', withoutEnlargement: false })
+		.toBuffer();
+}
+
 async function writeHero() {
 	const heroBase = 'warzone-cheats-hero';
-	await writeResponsive(heroBase, HERO_SOURCE);
-	await writeResponsive('warzone-hero-poster', HERO_SOURCE);
-	// Full-res hero for 4K display
-	const hero4k = await sharp(HERO_SOURCE)
+	const heroCrop = await buildHeroCropBuffer();
+	await writeResponsive(heroBase, heroCrop);
+	await writeResponsive('warzone-hero-poster', heroCrop);
+	const hero4k = await sharp(heroCrop)
 		.resize(3840, null, { fit: 'inside', withoutEnlargement: true })
 		.webp({ quality: 88, effort: 6 })
 		.toBuffer();

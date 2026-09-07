@@ -43,9 +43,10 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
 		/*
-		 * Wide cinematic bar (3.15:1) — video fills the right side via cover crop.
+		 * Wide cinematic bar — slightly taller ratio keeps operator head in frame.
 		 */
-		--hero-ratio: 3.15 / 1;
+		/* Match source art (~1659×948) so the operator is not cropped at the top. */
+		--hero-ratio: 1.75 / 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;
@@ -71,7 +72,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		.hero__media img {
 			width: 100%;
 			height: 100%;
-			margin-left: 0;
+			margin: 0;
 		}
 	}
 
@@ -85,7 +86,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	.hero__media video {
 		object-fit: cover;
-		object-position: 72% center;
+		object-position: center center;
 		filter: brightness(0.78) contrast(1.04);
 		animation: hero-in 0.9s ease-out both;
 	}
@@ -108,7 +109,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	.hero__media img {
 		object-fit: cover;
-		object-position: 58% center;
+		object-position: center center;
 		image-rendering: auto;
 		transform: translateZ(0);
 		filter: brightness(0.72) contrast(1.06);
@@ -340,7 +341,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 		.hero__media img {
 			object-fit: cover;
-			object-position: 95% 38%;
+			object-position: center center;
 			width: 100%;
 			margin-left: 0;
 		}
