@@ -66,7 +66,7 @@ export const heroMimeType = 'image/webp';
 
 /** Intrinsic dimensions of the default LCP asset (1199w variant). */
 export const heroWidth = 1199;
-export const heroHeight = 685;
+export const heroHeight = 380;
 
 /** Responsive widths for below-fold content images. */
 export const contentWidths = [480, 960] as const;

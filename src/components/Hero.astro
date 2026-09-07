@@ -43,10 +43,9 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
 		/*
-		 * Wide cinematic bar — slightly taller ratio keeps operator head in frame.
+		 * Wide cinematic bar (3.15:1) — art is top-cropped so the operator head stays in frame.
 		 */
-		/* Match source art (~1659×948) so the operator is not cropped at the top. */
-		--hero-ratio: 1.75 / 1;
+		--hero-ratio: 3.15 / 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;

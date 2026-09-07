@@ -126,10 +126,12 @@ async function writeResponsive(baseName, input) {
 	console.log(`  ✓ ${baseName}.webp (+ responsive)`);
 }
 
-/** Full-height hero master — no vertical crop (operator helmet stays in frame). */
+/** Cinematic 3.15:1 crop — anchor top-right so helmet stays visible; trim bottom. */
 async function buildHeroCropBuffer() {
+	const targetW = 1920;
+	const targetH = Math.round(targetW / 3.15);
 	return sharp(HERO_SOURCE)
-		.resize(1920, null, { fit: 'inside', withoutEnlargement: false })
+		.resize(targetW, targetH, { fit: 'cover', position: 'right top' })
 		.toBuffer();
 }
 
