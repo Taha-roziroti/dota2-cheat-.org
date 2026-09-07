@@ -126,12 +126,28 @@ async function writeResponsive(baseName, input) {
 	console.log(`  ✓ ${baseName}.webp (+ responsive)`);
 }
 
-/** Cinematic 3.15:1 crop — anchor top-right so helmet stays visible; trim bottom. */
+/** Vertical offset (0–1) — nudge crop down to show torso while keeping head in frame. */
+const HERO_CROP_TOP = 0.1;
+
+/** Cinematic 3.15:1 crop — right-aligned, slightly below top so stomach is visible. */
 async function buildHeroCropBuffer() {
 	const targetW = 1920;
 	const targetH = Math.round(targetW / 3.15);
+	const meta = await sharp(HERO_SOURCE).metadata();
+	const srcW = meta.width;
+	const srcH = meta.height;
+	const aspect = targetW / targetH;
+	let cropH = srcH;
+	let cropW = Math.round(srcH * aspect);
+	if (cropW > srcW) {
+		cropW = srcW;
+		cropH = Math.round(srcW / aspect);
+	}
+	const left = srcW - cropW;
+	const top = Math.round(srcH * HERO_CROP_TOP);
 	return sharp(HERO_SOURCE)
-		.resize(targetW, targetH, { fit: 'cover', position: 'right top' })
+		.extract({ left, top, width: cropW, height: cropH })
+		.resize(targetW, targetH)
 		.toBuffer();
 }
 
