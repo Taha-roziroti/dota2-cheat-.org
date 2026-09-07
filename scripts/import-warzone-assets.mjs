@@ -29,6 +29,77 @@ const SCREENSHOT_SOURCES = [
 const FAVICON_SOURCE = path.join(ASSETS_DIR, '32cbbd34-30a2-4e3e-9479-3b9c302e1385.webp');
 
 const LOGO_BG = { r: 13, g: 13, b: 13, alpha: 1 }; // #0D0D0D — matches Warzone theme
+const LOGO_RESIZE = { kernel: sharp.kernel.lanczos3 };
+
+/** Strip fake checkerboard BG and output white wordmark on transparency. */
+async function extractWhiteWordmark(input) {
+	const { data, info } = await sharp(input)
+		.ensureAlpha()
+		.raw()
+		.toBuffer({ resolveWithObject: true });
+	const { width, height, channels } = info;
+	const threshold = 150;
+	for (let i = 0; i < data.length; i += channels) {
+		const r = data[i];
+		const g = data[i + 1];
+		const b = data[i + 2];
+		const max = Math.max(r, g, b);
+		if (max < threshold) {
+			const alpha = Math.min(255, Math.round(((threshold - max) / threshold) * 255));
+			data[i] = 255;
+			data[i + 1] = 255;
+			data[i + 2] = 255;
+			data[i + 3] = alpha;
+		} else {
+			data[i + 3] = 0;
+		}
+	}
+	return sharp(Buffer.from(data), { raw: { width, height, channels: 4 } })
+		.trim({ threshold: 1 })
+		.png({ compressionLevel: 6, adaptiveFiltering: true });
+}
+
+/** High-res white wordmark on transparency — upscaled once from 400px source for crisp nav use. */
+async function buildLogoMaster() {
+	const mark = await extractWhiteWordmark(FAVICON_SOURCE);
+	return mark
+		.resize(1200, null, { ...LOGO_RESIZE, fit: 'inside', withoutEnlargement: false })
+		.sharpen({ sigma: 0.45, m1: 0.35, m2: 0.25 })
+		.png({ compressionLevel: 6, adaptiveFiltering: true })
+		.toBuffer();
+}
+
+async function whiteLogoOnDark(size) {
+	const mark = await extractWhiteWordmark(FAVICON_SOURCE);
+	const markBuf = await mark
+		.resize(Math.round(size * 0.78), Math.round(size * 0.78), {
+			...LOGO_RESIZE,
+			fit: 'inside',
+			withoutEnlargement: false,
+		})
+		.png()
+		.toBuffer();
+	return sharp({
+		create: { width: size, height: size, channels: 4, background: LOGO_BG },
+	})
+		.composite([{ input: markBuf, gravity: 'center' }])
+		.png()
+		.toBuffer();
+}
+
+async function navLogoFromMaster(master, maxWidth) {
+	const meta = await sharp(master).metadata();
+	const aspect = (meta.width ?? maxWidth) / (meta.height ?? 1);
+	const height = Math.round(maxWidth / aspect);
+	return sharp(master)
+		.resize(maxWidth, height, { ...LOGO_RESIZE, fit: 'inside', withoutEnlargement: true })
+		.png({ compressionLevel: 6, adaptiveFiltering: true })
+		.toBuffer();
+}
+
+async function navLogoWebpFromPng(pngBuffer) {
+	return sharp(pngBuffer).webp({ quality: 98, effort: 6, nearLossless: true }).toBuffer();
+}
 
 const CONTENT_WIDTHS = [480, 640, 960, 1024, 1199];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
@@ -74,38 +145,23 @@ async function writeScreenshots() {
 	}
 }
 
-async function whiteLogoOnDark(size) {
-	const inner = Math.round(size * 0.82);
-	const mark = await sharp(FAVICON_SOURCE)
-		.ensureAlpha()
-		.resize(inner, inner, { fit: 'inside', withoutEnlargement: false })
-		.negate({ alpha: false })
-		.toBuffer();
-	return sharp({
-		create: { width: size, height: size, channels: 4, background: LOGO_BG },
-	})
-		.composite([{ input: mark, gravity: 'center' }])
-		.png()
-		.toBuffer();
-}
-
-async function navLogoWebp(maxWidth, maxHeight) {
-	return sharp(FAVICON_SOURCE)
-		.ensureAlpha()
-		.resize(maxWidth, maxHeight, { fit: 'inside', withoutEnlargement: false })
-		.negate({ alpha: false })
-		.webp({ quality: 92, effort: 6 })
-		.toBuffer();
-}
-
 async function writeFavicon() {
-	const navVariants = [
-		{ name: 'warzone-cheats-logo-nav-280w.webp', w: 280, h: 56 },
-		{ name: 'warzone-cheats-logo-nav-360w.webp', w: 360, h: 72 },
-		{ name: 'warzone-cheats-logo-nav.webp', w: 440, h: 88 },
+	const master = await buildLogoMaster();
+	await writeFile(path.join(imagesDir, 'warzone-cheats-logo-master.png'), master);
+
+	const navWidths = [
+		{ name: 'warzone-cheats-logo-nav-360w.png', w: 360 },
+		{ name: 'warzone-cheats-logo-nav-480w.png', w: 480 },
+		{ name: 'warzone-cheats-logo-nav-560w.png', w: 560 },
+		{ name: 'warzone-cheats-logo-nav-720w.png', w: 720 },
+		{ name: 'warzone-cheats-logo-nav.png', w: 640 },
 	];
-	for (const { name, w, h } of navVariants) {
-		await writeFile(path.join(imagesDir, name), await navLogoWebp(w, h));
+	for (const { name, w } of navWidths) {
+		const png = await navLogoFromMaster(master, w);
+		await writeFile(path.join(imagesDir, name), png);
+		// Lossless-ish WebP fallback for older paths
+		const base = name.replace('.png', '');
+		await writeFile(path.join(imagesDir, `${base}.webp`), await navLogoWebpFromPng(png));
 	}
 
 	const sizes = [
