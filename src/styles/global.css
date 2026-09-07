@@ -3,9 +3,9 @@
 @import "./mobile.css";
 
 @theme {
-	--font-sans: "Inter Variable", "Inter", ui-sans-serif, system-ui, sans-serif;
-	--font-display: "Syne Variable", "Syne", ui-sans-serif, sans-serif;
-	--font-warzone: "WARZONE", "Syne Variable", "Syne", ui-sans-serif, sans-serif;
+	--font-sans: "Barlow", ui-sans-serif, system-ui, sans-serif;
+	--font-display: "Bebas Neue", ui-sans-serif, sans-serif;
+	--font-warzone: "Bebas Neue", ui-sans-serif, sans-serif;
 
 	/* COD Warzone canvas — charcoal base, white ink, amber accent */
 	--bg: #0d0d0d;
@@ -191,6 +191,11 @@
 	h5,
 	h6 {
 		color: var(--ink-heading);
+		font-family: var(--font-display);
+		font-weight: 400;
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+		line-height: 1.08;
 	}
 
 	:focus-visible {
@@ -245,11 +250,12 @@
 	.section-head h2 {
 		margin: 0;
 		font-family: var(--font-display);
-		font-size: clamp(1.35rem, 2.4vw, 1.75rem);
-		font-weight: 700;
-		letter-spacing: -0.03em;
+		font-size: clamp(1.5rem, 2.6vw, 2rem);
+		font-weight: 400;
+		letter-spacing: 0.05em;
 		color: var(--ink-heading);
-		line-height: 1.15;
+		line-height: 1.05;
+		text-transform: uppercase;
 	}
 
 	.section-head p {
@@ -489,11 +495,12 @@
 
 	.g2a-section-title {
 		font-family: var(--font-display);
-		font-size: 1.5rem;
-		font-weight: 700;
-		letter-spacing: -0.03em;
+		font-size: 1.65rem;
+		font-weight: 400;
+		letter-spacing: 0.05em;
 		color: var(--ink);
 		margin: 0 0 1rem;
+		text-transform: uppercase;
 	}
 
 	.g2a-section-head {
@@ -507,10 +514,11 @@
 	.g2a-section-head h2 {
 		margin: 0;
 		font-family: var(--font-display);
-		font-size: 1.5rem;
-		font-weight: 700;
-		letter-spacing: -0.03em;
+		font-size: 1.65rem;
+		font-weight: 400;
+		letter-spacing: 0.05em;
 		color: var(--ink);
+		text-transform: uppercase;
 	}
 
 	.g2a-section-head p {

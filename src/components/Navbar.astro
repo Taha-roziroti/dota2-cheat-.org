@@ -241,8 +241,8 @@ const links = [
 		flex-shrink: 0;
 		width: auto;
 		height: var(--nav-pill-h);
-		max-width: min(10.5rem, 28vw);
-		min-width: 5.5rem;
+		max-width: min(5.75rem, 22vw);
+		min-width: 4.75rem;
 		color: var(--ink-heading);
 		text-decoration: none;
 		transition:
@@ -256,12 +256,21 @@ const links = [
 	}
 
 	.site-brand__mark {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 0;
 		width: auto;
 		height: 100%;
 		max-width: 100%;
-		display: block;
-		object-fit: contain;
-		object-position: left center;
+		font-family: var(--font-warzone);
+		font-weight: 400;
+		font-size: clamp(0.62rem, 1.05vw, 0.72rem);
+		line-height: 0.84;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		color: var(--ink-heading);
+		white-space: nowrap;
 	}
 
 	.site-nav {
@@ -284,9 +293,11 @@ const links = [
 		gap: 0.38rem;
 		padding: 0.4rem 0.8rem;
 		border-radius: 999px;
-		font-size: 0.8125rem;
-		font-weight: 500;
-		letter-spacing: -0.01em;
+		font-family: var(--font-sans);
+		font-size: 0.72rem;
+		font-weight: 600;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
 		color: var(--ink-muted);
 		white-space: nowrap;
 		transition:
@@ -337,9 +348,11 @@ const links = [
 		height: auto;
 		padding: 0 1rem;
 		border-radius: 999px;
-		font-size: 0.8125rem;
+		font-family: var(--font-sans);
+		font-size: 0.75rem;
 		font-weight: 600;
-		letter-spacing: -0.01em;
+		letter-spacing: 0.07em;
+		text-transform: uppercase;
 		text-decoration: none;
 	}
 
@@ -426,7 +439,7 @@ const links = [
 		padding: 0.85rem 0.15rem;
 		font-size: 1.05rem;
 		font-weight: 500;
-		letter-spacing: -0.015em;
+		letter-spacing: 0.05em;
 		color: var(--ink-muted);
 		border-bottom: 1px solid var(--line-soft);
 	}
@@ -482,7 +495,11 @@ const links = [
 		.site-brand {
 			justify-self: auto;
 			height: 2.65rem;
-			max-width: min(12rem, 52vw);
+			max-width: min(5.75rem, 34vw);
+		}
+
+		.site-brand__mark {
+			font-size: 0.68rem;
 		}
 
 		.site-tools {
@@ -513,8 +530,12 @@ const links = [
 	@media (max-width: 480px) {
 		.site-brand {
 			height: 2.45rem;
-			max-width: min(11rem, 58vw);
-			min-width: 5rem;
+			max-width: min(5.5rem, 38vw);
+			min-width: 4.5rem;
+		}
+
+		.site-brand__mark {
+			font-size: 0.64rem;
 		}
 
 		.site-tools {
