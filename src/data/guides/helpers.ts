@@ -102,7 +102,9 @@ export function getGuidesSitemapEntries(): GuideSitemapEntry[] {
 			images: guide.imageUrl
 				? [
 						{
-							url: guide.imageUrl,
+							url: guide.imageUrl.startsWith('http')
+								? guide.imageUrl
+								: new URL(guide.imageUrl, siteConfig.url).href,
 							title: guide.title,
 							caption: guide.metaDescription,
 						},

@@ -11,7 +11,7 @@
 		"dev:3000": "astro dev --host 0.0.0.0 --port 3000",
 		"serve:3000": "npx --yes serve dist -l 3000 --no-port-switching",
 		"sync:brand": "node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs",
-		"prebuild": "node scripts/log-build-info.mjs && node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs && node scripts/validate-cloudflare-redirects.mjs",
+		"prebuild": "node scripts/log-build-info.mjs && node scripts/sync-brand.mjs && node scripts/sync-cannibal-redirects.mjs && node scripts/sync-guide-images.mjs && node scripts/validate-cloudflare-redirects.mjs",
 		"build": "astro build",
 		"postbuild": "node scripts/strip-brand-studio.mjs && node scripts/fix-sitemap-domains.mjs && node scripts/validate-cloudflare-redirects.mjs && node scripts/validate-checkout-links.mjs && node scripts/validate-image-paths.mjs && node scripts/validate-sitemap-canonical-domain.mjs && node scripts/audit-guides.mjs",
 		"build:validate": "npm run sync:brand && astro build && node scripts/strip-brand-studio.mjs && npm run validate:sitemaps && node scripts/check-seo-meta-lengths.mjs && node scripts/complete-seo-audit.mjs && node scripts/audit-on-page-seo.mjs",

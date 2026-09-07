@@ -15,7 +15,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARK: Survival Ascended guide covering survival action fundamentals, base raid timing, and remastered ARK island maps with cross-platform tribes — updated for 2026 PC players.",
 	h1: "ARK: Survival Ascended Anti-Cheat Awareness Guide",
 	intro: "ARK: Survival Ascended remains one of the most discussed survival action titles on PC, especially for players who want sharper reads in remastered ARK island maps with cross-platform tribes. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why base raid timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/04/01/arkascended-1680312404931.jpg",
+	imageUrl: "/images/guides/ark-survival-ascended.webp",
 	imageAlt: "ARK: Survival Ascended gameplay — IGN screenshot",
 	sections: [
 		{
@@ -61,7 +61,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Deadside guide covering hardcore survival shooter fundamentals, base defense, and post-apocalyptic open world with loot routes and base raids — updated for 2026 PC players.",
 	h1: "Deadside Ranked Climb Strategy Guide",
 	intro: "Deadside remains one of the most discussed hardcore survival shooter titles on PC, especially for players who want sharper reads in post-apocalyptic open world with loot routes and base raids. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why base defense often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg",
+	imageUrl: "/images/guides/deadside.webp",
 	imageAlt: "Deadside gameplay — IGN screenshot",
 	sections: [
 		{
@@ -107,7 +107,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARC Raiders guide covering extraction shooter fundamentals, gear durability, and collapsing industrial zones and rival salvage crews — updated for 2026 PC players.",
 	h1: "ARC Raiders Ranked Climb Strategy Guide",
 	intro: "ARC Raiders remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in collapsing industrial zones and rival salvage crews. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why gear durability often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/arc-raiders-button-01-1639552157827.jpg",
+	imageUrl: "/images/guides/arc-raiders.webp",
 	imageAlt: "ARC Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -153,7 +153,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Genshin Impact guide covering action RPG fundamentals, world boss timers, and Teyvat open world with elemental combat puzzles — updated for 2026 PC players.",
 	h1: "Genshin Impact Patch-Day Preparation Guide",
 	intro: "Genshin Impact remains one of the most discussed action RPG titles on PC, especially for players who want sharper reads in Teyvat open world with elemental combat puzzles. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why world boss timers often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/09/29/genshin-impact-button-fin-1601346152039.jpg",
+	imageUrl: "/images/guides/genshin-impact.webp",
 	imageAlt: "Genshin Impact gameplay — IGN screenshot",
 	sections: [
 		{
@@ -199,7 +199,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dead by Daylight guide covering asymmetric horror fundamentals, perk synergies, and trial maps with generators, hooks, and chase loops — updated for 2026 PC players.",
 	h1: "Dead by Daylight Map Control Fundamentals Guide",
 	intro: "Dead by Daylight remains one of the most discussed asymmetric horror titles on PC, especially for players who want sharper reads in trial maps with generators, hooks, and chase loops. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why perk synergies often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/05/14/dead-by-daylight-button-replacement-1715713276872.jpg",
+	imageUrl: "/images/guides/dead-by-daylight.webp",
 	imageAlt: "Dead by Daylight gameplay — IGN screenshot",
 	sections: [
 		{
@@ -245,7 +245,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, flea market economy, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Solo Queue Survival Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why flea market economy often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -291,7 +291,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, resource farming, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Solo Queue Survival Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why resource farming often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -337,7 +337,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, base raids, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Anti-Cheat Awareness Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -383,7 +383,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical War Thunder guide covering combined-arms simulator fundamentals, armor weak spots, and WWII and modern vehicle battles across air, ground, and sea — updated for 2026 PC players.",
 	h1: "War Thunder Map Control Fundamentals Guide",
 	intro: "War Thunder remains one of the most discussed combined-arms simulator titles on PC, especially for players who want sharper reads in WWII and modern vehicle battles across air, ground, and sea. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why armor weak spots often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/20/warthunder-1640044666858.jpg",
+	imageUrl: "/images/guides/war-thunder.webp",
 	imageAlt: "War Thunder gameplay — IGN screenshot",
 	sections: [
 		{
@@ -429,7 +429,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Fortnite guide covering battle royale builder fundamentals, edit plays, and 100-player island drops with storm circles and build fights — updated for 2026 PC players.",
 	h1: "Fortnite Solo Queue Survival Guide",
 	intro: "Fortnite remains one of the most discussed battle royale builder titles on PC, especially for players who want sharper reads in 100-player island drops with storm circles and build fights. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why edit plays often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/04/02/nintendoswitch2-fortnite-keyart-square-1743635675429.jpg",
+	imageUrl: "/images/guides/fortnite.webp",
 	imageAlt: "Fortnite gameplay — IGN screenshot",
 	sections: [
 		{
@@ -475,7 +475,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marathon guide covering extraction shooter fundamentals, contract routing, and mysterious off-world colony runs with runner classes — updated for 2026 PC players.",
 	h1: "Marathon Solo Queue Survival Guide",
 	intro: "Marathon remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in mysterious off-world colony runs with runner classes. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why contract routing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg",
+	imageUrl: "/images/guides/marathon.webp",
 	imageAlt: "Marathon gameplay — IGN screenshot",
 	sections: [
 		{
@@ -521,7 +521,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Battlefield guide covering large-scale FPS fundamentals, capture point flow, and 64v128-player zones with vehicles and destruction — updated for 2026 PC players.",
 	h1: "Battlefield Ranked Climb Strategy Guide",
 	intro: "Battlefield remains one of the most discussed large-scale FPS titles on PC, especially for players who want sharper reads in 64v128-player zones with vehicles and destruction. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why capture point flow often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg",
+	imageUrl: "/images/guides/battlefield.webp",
 	imageAlt: "Battlefield gameplay — IGN screenshot",
 	sections: [
 		{
@@ -567,7 +567,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical League of Legends guide covering MOBA fundamentals, wave management, and Summoners Rift with five roles and objective timers — updated for 2026 PC players.",
 	h1: "League of Legends Beginner Onboarding Guide",
 	intro: "League of Legends remains one of the most discussed MOBA titles on PC, especially for players who want sharper reads in Summoners Rift with five roles and objective timers. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why wave management often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg",
+	imageUrl: "/images/guides/league-of-legends.webp",
 	imageAlt: "League of Legends gameplay — IGN screenshot",
 	sections: [
 		{
@@ -613,7 +613,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
+	imageUrl: "/images/guides/call-of-duty-warzone.webp",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -659,7 +659,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Beginner Onboarding Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
@@ -705,7 +705,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Gray Zone Warfare guide covering open-world tactical FPS fundamentals, extraction contracts, and Lamang Island with faction missions and realistic ballistics — updated for 2026 PC players.",
 	h1: "Gray Zone Warfare Ranked Climb Strategy Guide",
 	intro: "Gray Zone Warfare remains one of the most discussed open-world tactical FPS titles on PC, especially for players who want sharper reads in Lamang Island with faction missions and realistic ballistics. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why extraction contracts often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg",
+	imageUrl: "/images/guides/gray-zone-warfare.webp",
 	imageAlt: "Gray Zone Warfare gameplay — IGN screenshot",
 	sections: [
 		{
@@ -751,7 +751,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARC Raiders guide covering extraction shooter fundamentals, weapon drops extraction windows, and collapsing industrial zones and rival salvage crews — updated for 2026 PC players.",
 	h1: "ARC Raiders Anti-Cheat Awareness Guide",
 	intro: "ARC Raiders remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in collapsing industrial zones and rival salvage crews. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why weapon drops extraction windows often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/arc-raiders-button-01-1639552157827.jpg",
+	imageUrl: "/images/guides/arc-raiders.webp",
 	imageAlt: "ARC Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -797,7 +797,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Patch-Day Preparation Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -843,7 +843,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Overwatch 2 guide covering agent shooter fundamentals, cooldown tracking, and 5v5 role-queue matches with ultimate combos — updated for 2026 PC players.",
 	h1: "Overwatch 2 Ranked Climb Strategy Guide",
 	intro: "Overwatch 2 remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in 5v5 role-queue matches with ultimate combos. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why cooldown tracking often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg",
+	imageUrl: "/images/guides/overwatch-2.webp",
 	imageAlt: "Overwatch 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -889,7 +889,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dead by Daylight guide covering asymmetric horror fundamentals, generator pacing, and trial maps with generators, hooks, and chase loops — updated for 2026 PC players.",
 	h1: "Dead by Daylight Economy And Loadout Planning Guide",
 	intro: "Dead by Daylight remains one of the most discussed asymmetric horror titles on PC, especially for players who want sharper reads in trial maps with generators, hooks, and chase loops. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why generator pacing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/05/14/dead-by-daylight-button-replacement-1715713276872.jpg",
+	imageUrl: "/images/guides/dead-by-daylight.webp",
 	imageAlt: "Dead by Daylight gameplay — IGN screenshot",
 	sections: [
 		{
@@ -935,7 +935,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, nest spawning, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Solo Queue Survival Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why nest spawning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -981,7 +981,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, nest spawning, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Ranked Climb Strategy Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why nest spawning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1027,7 +1027,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical War Thunder guide covering combined-arms simulator fundamentals, armor weak spots, and WWII and modern vehicle battles across air, ground, and sea — updated for 2026 PC players.",
 	h1: "War Thunder Patch-Day Preparation Guide",
 	intro: "War Thunder remains one of the most discussed combined-arms simulator titles on PC, especially for players who want sharper reads in WWII and modern vehicle battles across air, ground, and sea. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why armor weak spots often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/20/warthunder-1640044666858.jpg",
+	imageUrl: "/images/guides/war-thunder.webp",
 	imageAlt: "War Thunder gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1073,7 +1073,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marathon guide covering extraction shooter fundamentals, extraction timing, and mysterious off-world colony runs with runner classes — updated for 2026 PC players.",
 	h1: "Marathon Ranked Climb Strategy Guide",
 	intro: "Marathon remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in mysterious off-world colony runs with runner classes. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why extraction timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg",
+	imageUrl: "/images/guides/marathon.webp",
 	imageAlt: "Marathon gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1119,7 +1119,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Solo Queue Survival Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1153,46 +1153,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "call-of-duty-warzone-thefinalscheats-org-guide",
-	slug: "call-of-duty-warzone-thefinalscheats-org-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "call-of-duty-warzone",
+	id: "the-finals-thefinalscheats-org-guide",
+	slug: "the-finals-thefinalscheats-org-guide",
+	game: "The Finals",
+	gameSlug: "the-finals",
 	externalUrl: "https://thefinalscheats.org",
 	anchorText: "more game information",
 	published: "2026-02-10",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Economy And Loadout Planning (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Economy And Loadout Planning Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "The Finals Guide: Economy And Loadout Planning (2026)",
+	metaDescription: "A practical The Finals guide covering destruction-based FPS fundamentals, team cash-outs, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	h1: "The Finals Economy And Loadout Planning Guide",
+	intro: "The Finals remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why team cash-outs often decides outcomes before aim ever matters.",
+	imageUrl: "/images/guides/the-finals.webp",
+	imageAlt: "The Finals gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How The Finals matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat buy stations as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most The Finals sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat team cash-outs as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "gulag resets and mid-game decisions",
+			h2: "gadget combos and mid-game decisions",
 			paragraphs: [
-				"gulag resets separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
+				"gadget combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In The Finals, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in The Finals. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"The Finals uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: buy stations, gulag resets, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: team cash-outs, gadget combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.org\" target=\"_blank\" rel=\"noopener noreferrer\">more game information</a>."
 			]
 		}
@@ -1211,7 +1211,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical DayZ guide covering hardcore survival fundamentals, coastal spawns, and Chernarus wilderness with infected, players, and base raids — updated for 2026 PC players.",
 	h1: "DayZ Economy And Loadout Planning Guide",
 	intro: "DayZ remains one of the most discussed hardcore survival titles on PC, especially for players who want sharper reads in Chernarus wilderness with infected, players, and base raids. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why coastal spawns often decides outcomes before aim ever matters.",
-	imageUrl: "https://ps3media.ign.com/ps3/image/object/133/133826/PC_MAX_DAYZTEMP.jpg",
+	imageUrl: "/images/guides/dayz.webp",
 	imageAlt: "DayZ gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1257,7 +1257,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Fortnite guide covering battle royale builder fundamentals, loadout rotations, and 100-player island drops with storm circles and build fights — updated for 2026 PC players.",
 	h1: "Fortnite Map Control Fundamentals Guide",
 	intro: "Fortnite remains one of the most discussed battle royale builder titles on PC, especially for players who want sharper reads in 100-player island drops with storm circles and build fights. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why loadout rotations often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/04/02/nintendoswitch2-fortnite-keyart-square-1743635675429.jpg",
+	imageUrl: "/images/guides/fortnite.webp",
 	imageAlt: "Fortnite gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1303,7 +1303,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, pack hunting, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Squad Coordination Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why pack hunting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1349,7 +1349,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Deadside guide covering hardcore survival shooter fundamentals, vehicle scouting, and post-apocalyptic open world with loot routes and base raids — updated for 2026 PC players.",
 	h1: "Deadside Economy And Loadout Planning Guide",
 	intro: "Deadside remains one of the most discussed hardcore survival shooter titles on PC, especially for players who want sharper reads in post-apocalyptic open world with loot routes and base raids. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why vehicle scouting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg",
+	imageUrl: "/images/guides/deadside.webp",
 	imageAlt: "Deadside gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1395,7 +1395,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, role synergy, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Solo Queue Survival Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why role synergy often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1441,7 +1441,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Mecha BREAK guide covering mecha agent shooter fundamentals, mech loadouts, and stylised mech arenas with ability cooldown duels — updated for 2026 PC players.",
 	h1: "Mecha BREAK Economy And Loadout Planning Guide",
 	intro: "Mecha BREAK remains one of the most discussed mecha agent shooter titles on PC, especially for players who want sharper reads in stylised mech arenas with ability cooldown duels. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why mech loadouts often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/12/08/mechabreak-1701997906808.jpg",
+	imageUrl: "/images/guides/mecha-break.webp",
 	imageAlt: "Mecha BREAK gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1487,7 +1487,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Rust guide covering survival sandbox fundamentals, raid timing, and wipe cycles with monuments, raids, and helicopter events — updated for 2026 PC players.",
 	h1: "Rust Solo Queue Survival Guide",
 	intro: "Rust remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in wipe cycles with monuments, raids, and helicopter events. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why raid timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/rust-1638841834256.png",
+	imageUrl: "/images/guides/rust.webp",
 	imageAlt: "Rust gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1533,7 +1533,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Gray Zone Warfare guide covering open-world tactical FPS fundamentals, squad comms, and Lamang Island with faction missions and realistic ballistics — updated for 2026 PC players.",
 	h1: "Gray Zone Warfare Economy And Loadout Planning Guide",
 	intro: "Gray Zone Warfare remains one of the most discussed open-world tactical FPS titles on PC, especially for players who want sharper reads in Lamang Island with faction missions and realistic ballistics. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why squad comms often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg",
+	imageUrl: "/images/guides/gray-zone-warfare.webp",
 	imageAlt: "Gray Zone Warfare gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1579,7 +1579,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, base raids, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Ranked Climb Strategy Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1625,7 +1625,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Palworld guide covering creature survival fundamentals, base raids, and Palpagos Island with base building and Pal teams — updated for 2026 PC players.",
 	h1: "Palworld Map Control Fundamentals Guide",
 	intro: "Palworld remains one of the most discussed creature survival titles on PC, especially for players who want sharper reads in Palpagos Island with base building and Pal teams. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg",
+	imageUrl: "/images/guides/palworld.webp",
 	imageAlt: "Palworld gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1671,7 +1671,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Rainbow Six Siege guide covering tactical FPS fundamentals, reinforcement setups, and destructible ranked sites with operator gadgets — updated for 2026 PC players.",
 	h1: "Rainbow Six Siege Ranked Climb Strategy Guide",
 	intro: "Rainbow Six Siege remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in destructible ranked sites with operator gadgets. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why reinforcement setups often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg",
+	imageUrl: "/images/guides/rainbow-six-siege.webp",
 	imageAlt: "Rainbow Six Siege gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1717,7 +1717,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, insurance and hideout, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Map Control Fundamentals Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why insurance and hideout often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1763,7 +1763,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Caliber guide covering tactical third-person shooter fundamentals, mission routing, and squad-based PvPvE missions with class roles — updated for 2026 PC players.",
 	h1: "Caliber Beginner Onboarding Guide",
 	intro: "Caliber remains one of the most discussed tactical third-person shooter titles on PC, especially for players who want sharper reads in squad-based PvPvE missions with class roles. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why mission routing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/04/06/caliber-1680811698787.jpg",
+	imageUrl: "/images/guides/caliber.webp",
 	imageAlt: "Caliber gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1809,7 +1809,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty guide covering arcade military FPS fundamentals, loadout tuning, and multiplayer playlists across modern and classic CoD maps — updated for 2026 PC players.",
 	h1: "Call of Duty Beginner Onboarding Guide",
 	intro: "Call of Duty remains one of the most discussed arcade military FPS titles on PC, especially for players who want sharper reads in multiplayer playlists across modern and classic CoD maps. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why loadout tuning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg",
+	imageUrl: "/images/guides/call-of-duty.webp",
 	imageAlt: "Call of Duty gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1855,7 +1855,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
 	h1: "Hunt: Showdown Economy And Loadout Planning Guide",
 	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
+	imageUrl: "/images/guides/hunt-showdown.webp",
 	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1901,7 +1901,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical League of Legends guide covering MOBA fundamentals, teamfight positioning, and Summoners Rift with five roles and objective timers — updated for 2026 PC players.",
 	h1: "League of Legends Beginner Onboarding Guide",
 	intro: "League of Legends remains one of the most discussed MOBA titles on PC, especially for players who want sharper reads in Summoners Rift with five roles and objective timers. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why teamfight positioning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg",
+	imageUrl: "/images/guides/league-of-legends.webp",
 	imageAlt: "League of Legends gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1947,7 +1947,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marathon guide covering extraction shooter fundamentals, runner builds, and mysterious off-world colony runs with runner classes — updated for 2026 PC players.",
 	h1: "Marathon Squad Coordination Guide",
 	intro: "Marathon remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in mysterious off-world colony runs with runner classes. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why runner builds often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg",
+	imageUrl: "/images/guides/marathon.webp",
 	imageAlt: "Marathon gameplay — IGN screenshot",
 	sections: [
 		{
@@ -1993,7 +1993,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Mecha BREAK guide covering mecha agent shooter fundamentals, ultimate timing, and stylised mech arenas with ability cooldown duels — updated for 2026 PC players.",
 	h1: "Mecha BREAK Economy And Loadout Planning Guide",
 	intro: "Mecha BREAK remains one of the most discussed mecha agent shooter titles on PC, especially for players who want sharper reads in stylised mech arenas with ability cooldown duels. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why ultimate timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/12/08/mechabreak-1701997906808.jpg",
+	imageUrl: "/images/guides/mecha-break.webp",
 	imageAlt: "Mecha BREAK gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2039,7 +2039,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Palworld guide covering creature survival fundamentals, dungeon clears, and Palpagos Island with base building and Pal teams — updated for 2026 PC players.",
 	h1: "Palworld Patch-Day Preparation Guide",
 	intro: "Palworld remains one of the most discussed creature survival titles on PC, especially for players who want sharper reads in Palpagos Island with base building and Pal teams. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why dungeon clears often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg",
+	imageUrl: "/images/guides/palworld.webp",
 	imageAlt: "Palworld gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2085,7 +2085,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Squad Coordination Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2131,7 +2131,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical War Thunder guide covering combined-arms simulator fundamentals, line-of-sight spotting, and WWII and modern vehicle battles across air, ground, and sea — updated for 2026 PC players.",
 	h1: "War Thunder Patch-Day Preparation Guide",
 	intro: "War Thunder remains one of the most discussed combined-arms simulator titles on PC, especially for players who want sharper reads in WWII and modern vehicle battles across air, ground, and sea. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why line-of-sight spotting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/20/warthunder-1640044666858.jpg",
+	imageUrl: "/images/guides/war-thunder.webp",
 	imageAlt: "War Thunder gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2177,7 +2177,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
 	h1: "Hunt: Showdown Squad Coordination Guide",
 	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
+	imageUrl: "/images/guides/hunt-showdown.webp",
 	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2223,7 +2223,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Destiny 2 guide covering weapon dropser shooter MMO fundamentals, DPS phases, and strikes, raids, and Crucible PvP with buildcrafting — updated for 2026 PC players.",
 	h1: "Destiny 2 Patch-Day Preparation Guide",
 	intro: "Destiny 2 remains one of the most discussed weapon dropser shooter MMO titles on PC, especially for players who want sharper reads in strikes, raids, and Crucible PvP with buildcrafting. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why DPS phases often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg",
+	imageUrl: "/images/guides/destiny-2.webp",
 	imageAlt: "Destiny 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2269,7 +2269,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Economy And Loadout Planning Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2315,7 +2315,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Rainbow Six Siege guide covering tactical FPS fundamentals, drone clears, and destructible ranked sites with operator gadgets — updated for 2026 PC players.",
 	h1: "Rainbow Six Siege Economy And Loadout Planning Guide",
 	intro: "Rainbow Six Siege remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in destructible ranked sites with operator gadgets. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why drone clears often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg",
+	imageUrl: "/images/guides/rainbow-six-siege.webp",
 	imageAlt: "Rainbow Six Siege gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2361,7 +2361,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sand Raiders guide covering action adventure fundamentals, combo routes, and desert ruins with traversal puzzles and combat arenas — updated for 2026 PC players.",
 	h1: "Sand Raiders Economy And Loadout Planning Guide",
 	intro: "Sand Raiders remains one of the most discussed action adventure titles on PC, especially for players who want sharper reads in desert ruins with traversal puzzles and combat arenas. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why combo routes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg",
+	imageUrl: "/images/guides/sand-raiders.webp",
 	imageAlt: "Sand Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2407,7 +2407,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Palworld guide covering creature survival fundamentals, dungeon clears, and Palpagos Island with base building and Pal teams — updated for 2026 PC players.",
 	h1: "Palworld Anti-Cheat Awareness Guide",
 	intro: "Palworld remains one of the most discussed creature survival titles on PC, especially for players who want sharper reads in Palpagos Island with base building and Pal teams. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why dungeon clears often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg",
+	imageUrl: "/images/guides/palworld.webp",
 	imageAlt: "Palworld gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2453,7 +2453,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Squad guide covering military tactical FPS fundamentals, vehicle logistics, and 50v50 combined-arms with logistics and comms — updated for 2026 PC players.",
 	h1: "Squad Patch-Day Preparation Guide",
 	intro: "Squad remains one of the most discussed military tactical FPS titles on PC, especially for players who want sharper reads in 50v50 combined-arms with logistics and comms. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why vehicle logistics often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets2.ignimgs.com/2015/12/17/squad-buttonjpg-19bbc6.jpg",
+	imageUrl: "/images/guides/squad.webp",
 	imageAlt: "Squad gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2499,7 +2499,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, insurance and hideout, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Solo Queue Survival Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why insurance and hideout often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2545,7 +2545,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marathon guide covering extraction shooter fundamentals, extraction timing, and mysterious off-world colony runs with runner classes — updated for 2026 PC players.",
 	h1: "Marathon Economy And Loadout Planning Guide",
 	intro: "Marathon remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in mysterious off-world colony runs with runner classes. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why extraction timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/05/24/marathon-announce-key-art-1x1-1684967675071.jpg",
+	imageUrl: "/images/guides/marathon.webp",
 	imageAlt: "Marathon gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2591,7 +2591,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Arena Breakout Infinite guide covering tactical extraction FPS fundamentals, ammo types, and high-fidelity raids with gear fear and insurance — updated for 2026 PC players.",
 	h1: "Arena Breakout Infinite Squad Coordination Guide",
 	intro: "Arena Breakout Infinite remains one of the most discussed tactical extraction FPS titles on PC, especially for players who want sharper reads in high-fidelity raids with gear fear and insurance. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why ammo types often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/17/infinite-button-1713363504862.jpg",
+	imageUrl: "/images/guides/arena-breakout-infinite.webp",
 	imageAlt: "Arena Breakout Infinite gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2637,7 +2637,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Bodycam guide covering realistic FPS fundamentals, peek timing, and body-worn camera perspective raids with lethal TTK — updated for 2026 PC players.",
 	h1: "Bodycam Ranked Climb Strategy Guide",
 	intro: "Bodycam remains one of the most discussed realistic FPS titles on PC, especially for players who want sharper reads in body-worn camera perspective raids with lethal TTK. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why peek timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/21/untitled-1-1705872632310.jpg",
+	imageUrl: "/images/guides/bodycam.webp",
 	imageAlt: "Bodycam gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2683,7 +2683,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Gray Zone Warfare guide covering open-world tactical FPS fundamentals, NVG night raids, and Lamang Island with faction missions and realistic ballistics — updated for 2026 PC players.",
 	h1: "Gray Zone Warfare Anti-Cheat Awareness Guide",
 	intro: "Gray Zone Warfare remains one of the most discussed open-world tactical FPS titles on PC, especially for players who want sharper reads in Lamang Island with faction missions and realistic ballistics. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why NVG night raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg",
+	imageUrl: "/images/guides/gray-zone-warfare.webp",
 	imageAlt: "Gray Zone Warfare gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2729,7 +2729,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical League of Legends guide covering MOBA fundamentals, teamfight positioning, and Summoners Rift with five roles and objective timers — updated for 2026 PC players.",
 	h1: "League of Legends Ranked Climb Strategy Guide",
 	intro: "League of Legends remains one of the most discussed MOBA titles on PC, especially for players who want sharper reads in Summoners Rift with five roles and objective timers. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why teamfight positioning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg",
+	imageUrl: "/images/guides/league-of-legends.webp",
 	imageAlt: "League of Legends gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2775,7 +2775,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Once Human guide covering survival sandbox fundamentals, season wipes, and post-apocalyptic zones with deviants and base building — updated for 2026 PC players.",
 	h1: "Once Human Beginner Onboarding Guide",
 	intro: "Once Human remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in post-apocalyptic zones with deviants and base building. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why season wipes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/06/13/once-human-button-22-1655151627567.jpg",
+	imageUrl: "/images/guides/once-human.webp",
 	imageAlt: "Once Human gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2821,7 +2821,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Palworld guide covering creature survival fundamentals, base raids, and Palpagos Island with base building and Pal teams — updated for 2026 PC players.",
 	h1: "Palworld Solo Queue Survival Guide",
 	intro: "Palworld remains one of the most discussed creature survival titles on PC, especially for players who want sharper reads in Palpagos Island with base building and Pal teams. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg",
+	imageUrl: "/images/guides/palworld.webp",
 	imageAlt: "Palworld gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2867,7 +2867,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Arma Reforger guide covering military sandbox fundamentals, sector control, and Cold War Everon with combined arms and Game Master — updated for 2026 PC players.",
 	h1: "Arma Reforger Beginner Onboarding Guide",
 	intro: "Arma Reforger remains one of the most discussed military sandbox titles on PC, especially for players who want sharper reads in Cold War Everon with combined arms and Game Master. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why sector control often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/05/17/arma-reforger-button-1652812465455.jpg",
+	imageUrl: "/images/guides/arma-reforger.webp",
 	imageAlt: "Arma Reforger gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2913,7 +2913,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, ultimate combos, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Economy And Loadout Planning Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why ultimate combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -2959,7 +2959,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Once Human guide covering survival sandbox fundamentals, deviant capture, and post-apocalyptic zones with deviants and base building — updated for 2026 PC players.",
 	h1: "Once Human Squad Coordination Guide",
 	intro: "Once Human remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in post-apocalyptic zones with deviants and base building. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why deviant capture often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/06/13/once-human-button-22-1655151627567.jpg",
+	imageUrl: "/images/guides/once-human.webp",
 	imageAlt: "Once Human gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3005,7 +3005,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Overwatch 2 guide covering agent shooter fundamentals, map control, and 5v5 role-queue matches with ultimate combos — updated for 2026 PC players.",
 	h1: "Overwatch 2 Map Control Fundamentals Guide",
 	intro: "Overwatch 2 remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in 5v5 role-queue matches with ultimate combos. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why map control often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg",
+	imageUrl: "/images/guides/overwatch-2.webp",
 	imageAlt: "Overwatch 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3051,7 +3051,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical DayZ guide covering hardcore survival fundamentals, coastal spawns, and Chernarus wilderness with infected, players, and base raids — updated for 2026 PC players.",
 	h1: "DayZ Economy And Loadout Planning Guide",
 	intro: "DayZ remains one of the most discussed hardcore survival titles on PC, especially for players who want sharper reads in Chernarus wilderness with infected, players, and base raids. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why coastal spawns often decides outcomes before aim ever matters.",
-	imageUrl: "https://ps3media.ign.com/ps3/image/object/133/133826/PC_MAX_DAYZTEMP.jpg",
+	imageUrl: "/images/guides/dayz.webp",
 	imageAlt: "DayZ gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3097,7 +3097,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Battlefield guide covering large-scale FPS fundamentals, class gadgets, and 64v128-player zones with vehicles and destruction — updated for 2026 PC players.",
 	h1: "Battlefield Solo Queue Survival Guide",
 	intro: "Battlefield remains one of the most discussed large-scale FPS titles on PC, especially for players who want sharper reads in 64v128-player zones with vehicles and destruction. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why class gadgets often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg",
+	imageUrl: "/images/guides/battlefield.webp",
 	imageAlt: "Battlefield gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3143,7 +3143,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Arena Breakout Infinite guide covering tactical extraction FPS fundamentals, insurance returns, and high-fidelity raids with gear fear and insurance — updated for 2026 PC players.",
 	h1: "Arena Breakout Infinite Squad Coordination Guide",
 	intro: "Arena Breakout Infinite remains one of the most discussed tactical extraction FPS titles on PC, especially for players who want sharper reads in high-fidelity raids with gear fear and insurance. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why insurance returns often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/17/infinite-button-1713363504862.jpg",
+	imageUrl: "/images/guides/arena-breakout-infinite.webp",
 	imageAlt: "Arena Breakout Infinite gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3189,7 +3189,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARC Raiders guide covering extraction shooter fundamentals, gear durability, and collapsing industrial zones and rival salvage crews — updated for 2026 PC players.",
 	h1: "ARC Raiders Economy And Loadout Planning Guide",
 	intro: "ARC Raiders remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in collapsing industrial zones and rival salvage crews. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why gear durability often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/arc-raiders-button-01-1639552157827.jpg",
+	imageUrl: "/images/guides/arc-raiders.webp",
 	imageAlt: "ARC Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3235,7 +3235,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Backrooms guide covering horror exploration fundamentals, entity sound cues, and liminal maze levels with entity evasion — updated for 2026 PC players.",
 	h1: "Backrooms Economy And Loadout Planning Guide",
 	intro: "Backrooms remains one of the most discussed horror exploration titles on PC, especially for players who want sharper reads in liminal maze levels with entity evasion. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why entity sound cues often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/02/13/backrooms-1707864765589.jpg",
+	imageUrl: "/images/guides/backrooms.webp",
 	imageAlt: "Backrooms gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3281,7 +3281,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, map verticality, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Patch-Day Preparation Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why map verticality often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3327,7 +3327,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Mecha BREAK guide covering mecha agent shooter fundamentals, mech loadouts, and stylised mech arenas with ability cooldown duels — updated for 2026 PC players.",
 	h1: "Mecha BREAK Ranked Climb Strategy Guide",
 	intro: "Mecha BREAK remains one of the most discussed mecha agent shooter titles on PC, especially for players who want sharper reads in stylised mech arenas with ability cooldown duels. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why mech loadouts often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/12/08/mechabreak-1701997906808.jpg",
+	imageUrl: "/images/guides/mecha-break.webp",
 	imageAlt: "Mecha BREAK gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3373,7 +3373,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Mecha BREAK guide covering mecha agent shooter fundamentals, ultimate timing, and stylised mech arenas with ability cooldown duels — updated for 2026 PC players.",
 	h1: "Mecha BREAK Economy And Loadout Planning Guide",
 	intro: "Mecha BREAK remains one of the most discussed mecha agent shooter titles on PC, especially for players who want sharper reads in stylised mech arenas with ability cooldown duels. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why ultimate timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/12/08/mechabreak-1701997906808.jpg",
+	imageUrl: "/images/guides/mecha-break.webp",
 	imageAlt: "Mecha BREAK gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3419,7 +3419,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Overwatch 2 guide covering agent shooter fundamentals, map control, and 5v5 role-queue matches with ultimate combos — updated for 2026 PC players.",
 	h1: "Overwatch 2 Ranked Climb Strategy Guide",
 	intro: "Overwatch 2 remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in 5v5 role-queue matches with ultimate combos. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why map control often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg",
+	imageUrl: "/images/guides/overwatch-2.webp",
 	imageAlt: "Overwatch 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3465,7 +3465,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sand Raiders guide covering action adventure fundamentals, combo routes, and desert ruins with traversal puzzles and combat arenas — updated for 2026 PC players.",
 	h1: "Sand Raiders Squad Coordination Guide",
 	intro: "Sand Raiders remains one of the most discussed action adventure titles on PC, especially for players who want sharper reads in desert ruins with traversal puzzles and combat arenas. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why combo routes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg",
+	imageUrl: "/images/guides/sand-raiders.webp",
 	imageAlt: "Sand Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3511,7 +3511,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, ultimate combos, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Anti-Cheat Awareness Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why ultimate combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3557,7 +3557,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Squad guide covering military tactical FPS fundamentals, FOB placement, and 50v50 combined-arms with logistics and comms — updated for 2026 PC players.",
 	h1: "Squad Solo Queue Survival Guide",
 	intro: "Squad remains one of the most discussed military tactical FPS titles on PC, especially for players who want sharper reads in 50v50 combined-arms with logistics and comms. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why FOB placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets2.ignimgs.com/2015/12/17/squad-buttonjpg-19bbc6.jpg",
+	imageUrl: "/images/guides/squad.webp",
 	imageAlt: "Squad gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3603,7 +3603,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sand Raiders guide covering action adventure fundamentals, gear unlocks, and desert ruins with traversal puzzles and combat arenas — updated for 2026 PC players.",
 	h1: "Sand Raiders Anti-Cheat Awareness Guide",
 	intro: "Sand Raiders remains one of the most discussed action adventure titles on PC, especially for players who want sharper reads in desert ruins with traversal puzzles and combat arenas. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why gear unlocks often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg",
+	imageUrl: "/images/guides/sand-raiders.webp",
 	imageAlt: "Sand Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3649,7 +3649,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Map Control Fundamentals Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3683,46 +3683,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "call-of-duty-warzone-thefinalscheats-net-guide",
-	slug: "call-of-duty-warzone-thefinalscheats-net-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "call-of-duty-warzone",
+	id: "the-finals-thefinalscheats-net-guide",
+	slug: "the-finals-thefinalscheats-net-guide",
+	game: "The Finals",
+	gameSlug: "the-finals",
 	externalUrl: "https://thefinalscheats.net",
 	anchorText: "additional guides",
 	published: "2026-01-05",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Map Control Fundamentals (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, loadout metas, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Map Control Fundamentals Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why loadout metas often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "The Finals Guide: Map Control Fundamentals (2026)",
+	metaDescription: "A practical The Finals guide covering destruction-based FPS fundamentals, environmental destruction, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	h1: "The Finals Map Control Fundamentals Guide",
+	intro: "The Finals remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why environmental destruction often decides outcomes before aim ever matters.",
+	imageUrl: "/images/guides/the-finals.webp",
+	imageAlt: "The Finals gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How The Finals matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat loadout metas as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most The Finals sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat environmental destruction as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "buy stations and mid-game decisions",
+			h2: "team cash-outs and mid-game decisions",
 			paragraphs: [
-				"buy stations separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
+				"team cash-outs separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In The Finals, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in The Finals. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"The Finals uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: loadout metas, buy stations, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: environmental destruction, team cash-outs, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalscheats.net\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
@@ -3741,7 +3741,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, growth stages, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Squad Coordination Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why growth stages often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3787,7 +3787,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Patch-Day Preparation Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3833,7 +3833,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
 	h1: "Call of Duty: Warzone Squad Coordination Guide",
 	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
+	imageUrl: "/images/guides/call-of-duty-warzone.webp",
 	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3879,7 +3879,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Front guide covering survival sandbox shooter fundamentals, vehicle convoys, and alternate-history frontier with base building and faction wars — updated for 2026 PC players.",
 	h1: "The Front Patch-Day Preparation Guide",
 	intro: "The Front remains one of the most discussed survival sandbox shooter titles on PC, especially for players who want sharper reads in alternate-history frontier with base building and faction wars. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why vehicle convoys often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/02/27/thefront-1677525834490.jpg",
+	imageUrl: "/images/guides/the-front.webp",
 	imageAlt: "The Front gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3925,7 +3925,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARK: Survival Evolved guide covering survival action fundamentals, taming efficiency, and prehistoric island maps with tribe wars and boss arenas — updated for 2026 PC players.",
 	h1: "ARK: Survival Evolved Map Control Fundamentals Guide",
 	intro: "ARK: Survival Evolved remains one of the most discussed survival action titles on PC, especially for players who want sharper reads in prehistoric island maps with tribe wars and boss arenas. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why taming efficiency often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/ark-survival-evolved-button-fin-1639607697385.jpg",
+	imageUrl: "/images/guides/ark-survival-evolved.webp",
 	imageAlt: "ARK: Survival Evolved gameplay — IGN screenshot",
 	sections: [
 		{
@@ -3971,7 +3971,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Map Control Fundamentals Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4017,7 +4017,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Rainbow Six Siege guide covering tactical FPS fundamentals, drone clears, and destructible ranked sites with operator gadgets — updated for 2026 PC players.",
 	h1: "Rainbow Six Siege Anti-Cheat Awareness Guide",
 	intro: "Rainbow Six Siege remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in destructible ranked sites with operator gadgets. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why drone clears often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg",
+	imageUrl: "/images/guides/rainbow-six-siege.webp",
 	imageAlt: "Rainbow Six Siege gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4063,7 +4063,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Warframe guide covering co-op looter shooter fundamentals, ability duration, and Origin System missions with Warframe builds and open worlds — updated for 2026 PC players.",
 	h1: "Warframe Ranked Climb Strategy Guide",
 	intro: "Warframe remains one of the most discussed co-op looter shooter titles on PC, especially for players who want sharper reads in Origin System missions with Warframe builds and open worlds. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why ability duration often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/02/22/warframe---button-1550875935085.jpg",
+	imageUrl: "/images/guides/warframe.webp",
 	imageAlt: "Warframe gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4109,7 +4109,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Warframe guide covering co-op looter shooter fundamentals, steel path scaling, and Origin System missions with Warframe builds and open worlds — updated for 2026 PC players.",
 	h1: "Warframe Patch-Day Preparation Guide",
 	intro: "Warframe remains one of the most discussed co-op looter shooter titles on PC, especially for players who want sharper reads in Origin System missions with Warframe builds and open worlds. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why steel path scaling often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/02/22/warframe---button-1550875935085.jpg",
+	imageUrl: "/images/guides/warframe.webp",
 	imageAlt: "Warframe gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4155,7 +4155,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Naraka: Bladepoint guide covering melee battle royale fundamentals, parry timing, and Morai arenas with weapon swaps and soul jade builds — updated for 2026 PC players.",
 	h1: "Naraka: Bladepoint Economy And Loadout Planning Guide",
 	intro: "Naraka: Bladepoint remains one of the most discussed melee battle royale titles on PC, especially for players who want sharper reads in Morai arenas with weapon swaps and soul jade builds. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why parry timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/12/13/naraka---button-00-1576208838937.jpg",
+	imageUrl: "/images/guides/naraka-bladepoint.webp",
 	imageAlt: "Naraka: Bladepoint gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4201,7 +4201,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Minecraft guide covering sandbox survival fundamentals, enchantment setups, and procedurally generated biomes with crafting and redstone builds — updated for 2026 PC players.",
 	h1: "Minecraft Beginner Onboarding Guide",
 	intro: "Minecraft remains one of the most discussed sandbox survival titles on PC, especially for players who want sharper reads in procedurally generated biomes with crafting and redstone builds. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why enchantment setups often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/minecraft-1639513933156.jpg",
+	imageUrl: "/images/guides/minecraft.webp",
 	imageAlt: "Minecraft gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4247,7 +4247,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Destiny 2 guide covering weapon dropser shooter MMO fundamentals, champion mods, and strikes, raids, and Crucible PvP with buildcrafting — updated for 2026 PC players.",
 	h1: "Destiny 2 Solo Queue Survival Guide",
 	intro: "Destiny 2 remains one of the most discussed weapon dropser shooter MMO titles on PC, especially for players who want sharper reads in strikes, raids, and Crucible PvP with buildcrafting. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why champion mods often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg",
+	imageUrl: "/images/guides/destiny-2.webp",
 	imageAlt: "Destiny 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4293,7 +4293,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Path of Exile guide covering action RPG fundamentals, passive tree paths, and Wraeclast leagues with skill gems and atlas mapping — updated for 2026 PC players.",
 	h1: "Path of Exile Patch-Day Preparation Guide",
 	intro: "Path of Exile remains one of the most discussed action RPG titles on PC, especially for players who want sharper reads in Wraeclast leagues with skill gems and atlas mapping. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why passive tree paths often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2017/08/24/path-of-exile---button-1503612705551.jpg",
+	imageUrl: "/images/guides/path-of-exile.webp",
 	imageAlt: "Path of Exile gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4339,7 +4339,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Genshin Impact guide covering action RPG fundamentals, elemental reactions, and Teyvat open world with elemental combat puzzles — updated for 2026 PC players.",
 	h1: "Genshin Impact Patch-Day Preparation Guide",
 	intro: "Genshin Impact remains one of the most discussed action RPG titles on PC, especially for players who want sharper reads in Teyvat open world with elemental combat puzzles. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why elemental reactions often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/09/29/genshin-impact-button-fin-1601346152039.jpg",
+	imageUrl: "/images/guides/genshin-impact.webp",
 	imageAlt: "Genshin Impact gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4385,7 +4385,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARC Raiders guide covering extraction shooter fundamentals, weapon drops extraction windows, and collapsing industrial zones and rival salvage crews — updated for 2026 PC players.",
 	h1: "ARC Raiders Beginner Onboarding Guide",
 	intro: "ARC Raiders remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in collapsing industrial zones and rival salvage crews. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why weapon drops extraction windows often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/arc-raiders-button-01-1639552157827.jpg",
+	imageUrl: "/images/guides/arc-raiders.webp",
 	imageAlt: "ARC Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4431,7 +4431,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Palworld guide covering creature survival fundamentals, base raids, and Palpagos Island with base building and Pal teams — updated for 2026 PC players.",
 	h1: "Palworld Squad Coordination Guide",
 	intro: "Palworld remains one of the most discussed creature survival titles on PC, especially for players who want sharper reads in Palpagos Island with base building and Pal teams. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/19/palworld-1705691572614.jpg",
+	imageUrl: "/images/guides/palworld.webp",
 	imageAlt: "Palworld gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4477,7 +4477,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, nest spawning, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Economy And Loadout Planning Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why nest spawning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4523,7 +4523,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, insurance and hideout, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Economy And Loadout Planning Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why insurance and hideout often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4569,7 +4569,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical The Isle guide covering dinosaur survival fundamentals, growth stages, and open island growth cycles with carnivore and herbivore paths — updated for 2026 PC players.",
 	h1: "The Isle Solo Queue Survival Guide",
 	intro: "The Isle remains one of the most discussed dinosaur survival titles on PC, especially for players who want sharper reads in open island growth cycles with carnivore and herbivore paths. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why growth stages often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/12/library-600x900-1694540297721.jpg",
+	imageUrl: "/images/guides/the-isle.webp",
 	imageAlt: "The Isle gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4615,7 +4615,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Raft guide covering co-op survival fundamentals, shark bait timing, and open ocean raft expansion with story islands — updated for 2026 PC players.",
 	h1: "Raft Anti-Cheat Awareness Guide",
 	intro: "Raft remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in open ocean raft expansion with story islands. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why shark bait timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/07/29/raftfinal-1659126121018.jpg",
+	imageUrl: "/images/guides/raft.webp",
 	imageAlt: "Raft gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4661,7 +4661,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sand Raiders guide covering action adventure fundamentals, boss patterns, and desert ruins with traversal puzzles and combat arenas — updated for 2026 PC players.",
 	h1: "Sand Raiders Patch-Day Preparation Guide",
 	intro: "Sand Raiders remains one of the most discussed action adventure titles on PC, especially for players who want sharper reads in desert ruins with traversal puzzles and combat arenas. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why boss patterns often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/01/09/sand-raiders-of-sophie-button-1767971628115.jpg",
+	imageUrl: "/images/guides/sand-raiders.webp",
 	imageAlt: "Sand Raiders gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4707,7 +4707,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sea of Thieves guide covering shared-world adventure fundamentals, fort key routes, and pirate seas with voyages, forts, and rival crews — updated for 2026 PC players.",
 	h1: "Sea of Thieves Squad Coordination Guide",
 	intro: "Sea of Thieves remains one of the most discussed shared-world adventure titles on PC, especially for players who want sharper reads in pirate seas with voyages, forts, and rival crews. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why fort key routes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/06/09/sot-customthieves-1781027869323.jpg",
+	imageUrl: "/images/guides/sea-of-thieves.webp",
 	imageAlt: "Sea of Thieves gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4753,7 +4753,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Battlefield guide covering large-scale FPS fundamentals, capture point flow, and 64v128-player zones with vehicles and destruction — updated for 2026 PC players.",
 	h1: "Battlefield Map Control Fundamentals Guide",
 	intro: "Battlefield remains one of the most discussed large-scale FPS titles on PC, especially for players who want sharper reads in 64v128-player zones with vehicles and destruction. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why capture point flow often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg",
+	imageUrl: "/images/guides/battlefield.webp",
 	imageAlt: "Battlefield gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4787,46 +4787,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "call-of-duty-warzone-thefinalshacks-com-guide",
-	slug: "call-of-duty-warzone-thefinalshacks-com-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "call-of-duty-warzone",
+	id: "the-finals-thefinalshacks-com-guide",
+	slug: "the-finals-thefinalshacks-com-guide",
+	game: "The Finals",
+	gameSlug: "the-finals",
 	externalUrl: "https://thefinalshacks.com",
 	anchorText: "additional guides",
 	published: "2026-01-09",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Map Control Fundamentals (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, gulag resets, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Map Control Fundamentals Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why gulag resets often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "The Finals Guide: Map Control Fundamentals (2026)",
+	metaDescription: "A practical The Finals guide covering destruction-based FPS fundamentals, gadget combos, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	h1: "The Finals Map Control Fundamentals Guide",
+	intro: "The Finals remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why gadget combos often decides outcomes before aim ever matters.",
+	imageUrl: "/images/guides/the-finals.webp",
+	imageAlt: "The Finals gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How The Finals matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat gulag resets as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most The Finals sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat gadget combos as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "loadout metas and mid-game decisions",
+			h2: "environmental destruction and mid-game decisions",
 			paragraphs: [
-				"loadout metas separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
+				"environmental destruction separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In The Finals, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in The Finals. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"The Finals uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: gulag resets, loadout metas, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: gadget combos, environmental destruction, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshacks.com\" target=\"_blank\" rel=\"noopener noreferrer\">additional guides</a>."
 			]
 		}
@@ -4845,7 +4845,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Delta Force guide covering tactical military FPS fundamentals, armored pushes, and large-scale operations with vehicles and extraction modes — updated for 2026 PC players.",
 	h1: "Delta Force Beginner Onboarding Guide",
 	intro: "Delta Force remains one of the most discussed tactical military FPS titles on PC, especially for players who want sharper reads in large-scale operations with vehicles and extraction modes. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why armored pushes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/delta-force-button-replacement-1724855313566.jpg",
+	imageUrl: "/images/guides/delta-force.webp",
 	imageAlt: "Delta Force gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4891,7 +4891,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical War Thunder guide covering combined-arms simulator fundamentals, line-of-sight spotting, and WWII and modern vehicle battles across air, ground, and sea — updated for 2026 PC players.",
 	h1: "War Thunder Map Control Fundamentals Guide",
 	intro: "War Thunder remains one of the most discussed combined-arms simulator titles on PC, especially for players who want sharper reads in WWII and modern vehicle battles across air, ground, and sea. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why line-of-sight spotting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/20/warthunder-1640044666858.jpg",
+	imageUrl: "/images/guides/war-thunder.webp",
 	imageAlt: "War Thunder gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4937,7 +4937,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Beginner Onboarding Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
@@ -4983,7 +4983,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dead by Daylight guide covering asymmetric horror fundamentals, perk synergies, and trial maps with generators, hooks, and chase loops — updated for 2026 PC players.",
 	h1: "Dead by Daylight Patch-Day Preparation Guide",
 	intro: "Dead by Daylight remains one of the most discussed asymmetric horror titles on PC, especially for players who want sharper reads in trial maps with generators, hooks, and chase loops. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why perk synergies often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/05/14/dead-by-daylight-button-replacement-1715713276872.jpg",
+	imageUrl: "/images/guides/dead-by-daylight.webp",
 	imageAlt: "Dead by Daylight gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5029,7 +5029,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical ARK: Survival Evolved guide covering survival action fundamentals, taming efficiency, and prehistoric island maps with tribe wars and boss arenas — updated for 2026 PC players.",
 	h1: "ARK: Survival Evolved Patch-Day Preparation Guide",
 	intro: "ARK: Survival Evolved remains one of the most discussed survival action titles on PC, especially for players who want sharper reads in prehistoric island maps with tribe wars and boss arenas. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why taming efficiency often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/15/ark-survival-evolved-button-fin-1639607697385.jpg",
+	imageUrl: "/images/guides/ark-survival-evolved.webp",
 	imageAlt: "ARK: Survival Evolved gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5075,7 +5075,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, base raids, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Patch-Day Preparation Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why base raids often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5121,7 +5121,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical War Thunder guide covering combined-arms simulator fundamentals, armor weak spots, and WWII and modern vehicle battles across air, ground, and sea — updated for 2026 PC players.",
 	h1: "War Thunder Ranked Climb Strategy Guide",
 	intro: "War Thunder remains one of the most discussed combined-arms simulator titles on PC, especially for players who want sharper reads in WWII and modern vehicle battles across air, ground, and sea. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why armor weak spots often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/20/warthunder-1640044666858.jpg",
+	imageUrl: "/images/guides/war-thunder.webp",
 	imageAlt: "War Thunder gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5167,7 +5167,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sea of Thieves guide covering shared-world adventure fundamentals, ship repair loops, and pirate seas with voyages, forts, and rival crews — updated for 2026 PC players.",
 	h1: "Sea of Thieves Solo Queue Survival Guide",
 	intro: "Sea of Thieves remains one of the most discussed shared-world adventure titles on PC, especially for players who want sharper reads in pirate seas with voyages, forts, and rival crews. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why ship repair loops often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/06/09/sot-customthieves-1781027869323.jpg",
+	imageUrl: "/images/guides/sea-of-thieves.webp",
 	imageAlt: "Sea of Thieves gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5213,7 +5213,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Warframe guide covering co-op looter shooter fundamentals, steel path scaling, and Origin System missions with Warframe builds and open worlds — updated for 2026 PC players.",
 	h1: "Warframe Solo Queue Survival Guide",
 	intro: "Warframe remains one of the most discussed co-op looter shooter titles on PC, especially for players who want sharper reads in Origin System missions with Warframe builds and open worlds. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why steel path scaling often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/02/22/warframe---button-1550875935085.jpg",
+	imageUrl: "/images/guides/warframe.webp",
 	imageAlt: "Warframe gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5259,7 +5259,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dune: Awakening guide covering survival MMO fundamentals, spice refinery runs, and Arrakis deserts with spice harvesting and faction conflict — updated for 2026 PC players.",
 	h1: "Dune: Awakening Patch-Day Preparation Guide",
 	intro: "Dune: Awakening remains one of the most discussed survival MMO titles on PC, especially for players who want sharper reads in Arrakis deserts with spice harvesting and faction conflict. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why spice refinery runs often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/21/duneawak-1724235247826.jpg",
+	imageUrl: "/images/guides/dune-awakening.webp",
 	imageAlt: "Dune: Awakening gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5305,7 +5305,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Wuthering Waves guide covering action RPG fundamentals, resonator synergies, and Huanglong open world with echo abilities and tower climbs — updated for 2026 PC players.",
 	h1: "Wuthering Waves Squad Coordination Guide",
 	intro: "Wuthering Waves remains one of the most discussed action RPG titles on PC, especially for players who want sharper reads in Huanglong open world with echo abilities and tower climbs. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why resonator synergies often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/11/20/wutheringwaves-1732060928478.jpg",
+	imageUrl: "/images/guides/wuthering-waves.webp",
 	imageAlt: "Wuthering Waves gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5351,7 +5351,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Genshin Impact guide covering action RPG fundamentals, elemental reactions, and Teyvat open world with elemental combat puzzles — updated for 2026 PC players.",
 	h1: "Genshin Impact Ranked Climb Strategy Guide",
 	intro: "Genshin Impact remains one of the most discussed action RPG titles on PC, especially for players who want sharper reads in Teyvat open world with elemental combat puzzles. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why elemental reactions often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/09/29/genshin-impact-button-fin-1601346152039.jpg",
+	imageUrl: "/images/guides/genshin-impact.webp",
 	imageAlt: "Genshin Impact gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5397,7 +5397,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Naraka: Bladepoint guide covering melee battle royale fundamentals, grapple mobility, and Morai arenas with weapon swaps and soul jade builds — updated for 2026 PC players.",
 	h1: "Naraka: Bladepoint Map Control Fundamentals Guide",
 	intro: "Naraka: Bladepoint remains one of the most discussed melee battle royale titles on PC, especially for players who want sharper reads in Morai arenas with weapon swaps and soul jade builds. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why grapple mobility often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/12/13/naraka---button-00-1576208838937.jpg",
+	imageUrl: "/images/guides/naraka-bladepoint.webp",
 	imageAlt: "Naraka: Bladepoint gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5443,7 +5443,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, boss burn timing, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
 	h1: "Hunt: Showdown Ranked Climb Strategy Guide",
 	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why boss burn timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
+	imageUrl: "/images/guides/hunt-showdown.webp",
 	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5489,7 +5489,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Combat Master guide covering fast-paced FPS fundamentals, ranked map pools, and mobile-style arenas with slide chains and loadout perks — updated for 2026 PC players.",
 	h1: "Combat Master Beginner Onboarding Guide",
 	intro: "Combat Master remains one of the most discussed fast-paced FPS titles on PC, especially for players who want sharper reads in mobile-style arenas with slide chains and loadout perks. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why ranked map pools often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/03/combatmaster-1693783237844.jpg",
+	imageUrl: "/images/guides/combat-master.webp",
 	imageAlt: "Combat Master gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5535,7 +5535,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Combat Master guide covering fast-paced FPS fundamentals, loadout perk stacks, and mobile-style arenas with slide chains and loadout perks — updated for 2026 PC players.",
 	h1: "Combat Master Squad Coordination Guide",
 	intro: "Combat Master remains one of the most discussed fast-paced FPS titles on PC, especially for players who want sharper reads in mobile-style arenas with slide chains and loadout perks. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why loadout perk stacks often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/03/combatmaster-1693783237844.jpg",
+	imageUrl: "/images/guides/combat-master.webp",
 	imageAlt: "Combat Master gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5581,7 +5581,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dune: Awakening guide covering survival MMO fundamentals, sandworm evasion, and Arrakis deserts with spice harvesting and faction conflict — updated for 2026 PC players.",
 	h1: "Dune: Awakening Map Control Fundamentals Guide",
 	intro: "Dune: Awakening remains one of the most discussed survival MMO titles on PC, especially for players who want sharper reads in Arrakis deserts with spice harvesting and faction conflict. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why sandworm evasion often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/21/duneawak-1724235247826.jpg",
+	imageUrl: "/images/guides/dune-awakening.webp",
 	imageAlt: "Dune: Awakening gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5627,7 +5627,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Fortnite guide covering battle royale builder fundamentals, loadout rotations, and 100-player island drops with storm circles and build fights — updated for 2026 PC players.",
 	h1: "Fortnite Anti-Cheat Awareness Guide",
 	intro: "Fortnite remains one of the most discussed battle royale builder titles on PC, especially for players who want sharper reads in 100-player island drops with storm circles and build fights. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why loadout rotations often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/04/02/nintendoswitch2-fortnite-keyart-square-1743635675429.jpg",
+	imageUrl: "/images/guides/fortnite.webp",
 	imageAlt: "Fortnite gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5673,7 +5673,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Delta Force guide covering tactical military FPS fundamentals, operator gadgets, and large-scale operations with vehicles and extraction modes — updated for 2026 PC players.",
 	h1: "Delta Force Anti-Cheat Awareness Guide",
 	intro: "Delta Force remains one of the most discussed tactical military FPS titles on PC, especially for players who want sharper reads in large-scale operations with vehicles and extraction modes. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why operator gadgets often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/delta-force-button-replacement-1724855313566.jpg",
+	imageUrl: "/images/guides/delta-force.webp",
 	imageAlt: "Delta Force gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5719,7 +5719,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Combat Master guide covering fast-paced FPS fundamentals, ranked map pools, and mobile-style arenas with slide chains and loadout perks — updated for 2026 PC players.",
 	h1: "Combat Master Solo Queue Survival Guide",
 	intro: "Combat Master remains one of the most discussed fast-paced FPS titles on PC, especially for players who want sharper reads in mobile-style arenas with slide chains and loadout perks. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why ranked map pools often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/09/03/combatmaster-1693783237844.jpg",
+	imageUrl: "/images/guides/combat-master.webp",
 	imageAlt: "Combat Master gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5765,7 +5765,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Foxhole guide covering persistent war MMO fundamentals, logi convoys, and faction-wide fronts with logistics and player-driven offensives — updated for 2026 PC players.",
 	h1: "Foxhole Solo Queue Survival Guide",
 	intro: "Foxhole remains one of the most discussed persistent war MMO titles on PC, especially for players who want sharper reads in faction-wide fronts with logistics and player-driven offensives. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why logi convoys often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/10/31/foxhole-1698766398992.jpg",
+	imageUrl: "/images/guides/foxhole.webp",
 	imageAlt: "Foxhole gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5811,7 +5811,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Foxhole guide covering persistent war MMO fundamentals, hex push coordination, and faction-wide fronts with logistics and player-driven offensives — updated for 2026 PC players.",
 	h1: "Foxhole Anti-Cheat Awareness Guide",
 	intro: "Foxhole remains one of the most discussed persistent war MMO titles on PC, especially for players who want sharper reads in faction-wide fronts with logistics and player-driven offensives. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why hex push coordination often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/10/31/foxhole-1698766398992.jpg",
+	imageUrl: "/images/guides/foxhole.webp",
 	imageAlt: "Foxhole gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5857,7 +5857,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Sea of Thieves guide covering shared-world adventure fundamentals, chain-shot angles, and pirate seas with voyages, forts, and rival crews — updated for 2026 PC players.",
 	h1: "Sea of Thieves Economy And Loadout Planning Guide",
 	intro: "Sea of Thieves remains one of the most discussed shared-world adventure titles on PC, especially for players who want sharper reads in pirate seas with voyages, forts, and rival crews. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why chain-shot angles often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2026/06/09/sot-customthieves-1781027869323.jpg",
+	imageUrl: "/images/guides/sea-of-thieves.webp",
 	imageAlt: "Sea of Thieves gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5903,7 +5903,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, role synergy, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Solo Queue Survival Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why role synergy often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -5937,46 +5937,46 @@ export const guides: GuideDefinition[] = [
 	]
 },
 	{
-	id: "call-of-duty-warzone-thefinalshack-com-guide",
-	slug: "call-of-duty-warzone-thefinalshack-com-guide",
-	game: "Call of Duty: Warzone",
-	gameSlug: "call-of-duty-warzone",
+	id: "the-finals-thefinalshack-com-guide",
+	slug: "the-finals-thefinalshack-com-guide",
+	game: "The Finals",
+	gameSlug: "the-finals",
 	externalUrl: "https://thefinalshack.com",
 	anchorText: "related resources",
 	published: "2026-02-14",
 	updated: "2026-03-15",
-	title: "Call of Duty: Warzone Guide: Solo Queue Survival (2026)",
-	metaDescription: "A practical Call of Duty: Warzone guide covering battle royale fundamentals, buy stations, and Verdansk, Rebirth, and Urzikstan drops with loadout customisation — updated for 2026 PC players.",
-	h1: "Call of Duty: Warzone Solo Queue Survival Guide",
-	intro: "Call of Duty: Warzone remains one of the most discussed battle royale titles on PC, especially for players who want sharper reads in Verdansk, Rebirth, and Urzikstan drops with loadout customisation. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why buy stations often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/21/warzone-1640045685890.jpg",
-	imageAlt: "Call of Duty: Warzone gameplay — IGN screenshot",
+	title: "The Finals Guide: Solo Queue Survival (2026)",
+	metaDescription: "A practical The Finals guide covering destruction-based FPS fundamentals, team cash-outs, and game-show arenas with cash-out objectives — updated for 2026 PC players.",
+	h1: "The Finals Solo Queue Survival Guide",
+	intro: "The Finals remains one of the most discussed destruction-based FPS titles on PC, especially for players who want sharper reads in game-show arenas with cash-out objectives. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why team cash-outs often decides outcomes before aim ever matters.",
+	imageUrl: "/images/guides/the-finals.webp",
+	imageAlt: "The Finals gameplay — IGN screenshot",
 	sections: [
 		{
-			h2: "How Call of Duty: Warzone matches actually play out",
+			h2: "How The Finals matches actually play out",
 			paragraphs: [
-				"Most Call of Duty: Warzone sessions are won in the minutes before a fight starts. Learn the default routes players take through Verdansk, Rebirth, and Urzikstan drops with loadout customisation, which angles give free information, and when to disengage. In battle royale titles, map timing beats raw reflexes more often than new players expect.",
-				"Treat buy stations as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
+				"Most The Finals sessions are won in the minutes before a fight starts. Learn the default routes players take through game-show arenas with cash-out objectives, which angles give free information, and when to disengage. In destruction-based FPS titles, map timing beats raw reflexes more often than new players expect.",
+				"Treat team cash-outs as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades."
 			]
 		},
 		{
-			h2: "gulag resets and mid-game decisions",
+			h2: "gadget combos and mid-game decisions",
 			paragraphs: [
-				"gulag resets separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In Call of Duty: Warzone, the team that recognizes a committed enemy first usually wins the exchange.",
-				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic battle royale lobbies, disciplined spacing around Verdansk, Rebirth, and Urzikstan drops with loadout customisation creates openings that raw aggression cannot."
+				"gadget combos separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In The Finals, the team that recognizes a committed enemy first usually wins the exchange.",
+				"If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic destruction-based FPS lobbies, disciplined spacing around game-show arenas with cash-out objectives creates openings that raw aggression cannot."
 			]
 		},
 		{
 			h2: "Performance, settings, and fair-play context",
 			paragraphs: [
-				"Stable FPS and clean audio matter in Call of Duty: Warzone. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
-				"Call of Duty: Warzone uses Ricochet anti-cheat with kernel-level monitoring. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
+				"Stable FPS and clean audio matter in The Finals. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.",
+				"The Finals uses Easy Anti-Cheat with rebuilds after patches. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches."
 			]
 		},
 		{
 			h2: "Putting the guide into practice",
 			paragraphs: [
-				"Pick one focus per session: buy stations, gulag resets, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
+				"Pick one focus per session: team cash-outs, gadget combos, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.",
 				"For more game updates, guides, and related resources, you can also explore <a href=\"https://thefinalshack.com\" target=\"_blank\" rel=\"noopener noreferrer\">related resources</a>."
 			]
 		}
@@ -5995,7 +5995,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Exoborne guide covering extraction shooter fundamentals, storm timing, and storm-ravaged Earth with gravity anomalies and squad extractions — updated for 2026 PC players.",
 	h1: "Exoborne Patch-Day Preparation Guide",
 	intro: "Exoborne remains one of the most discussed extraction shooter titles on PC, especially for players who want sharper reads in storm-ravaged Earth with gravity anomalies and squad extractions. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why storm timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/12/08/exoborne-1702005698486.jpg",
+	imageUrl: "/images/guides/exoborne.webp",
 	imageAlt: "Exoborne gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6041,7 +6041,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Marvel Rivals guide covering agent shooter fundamentals, map verticality, and Marvel roster 6v6 team fights with ultimate chains — updated for 2026 PC players.",
 	h1: "Marvel Rivals Anti-Cheat Awareness Guide",
 	intro: "Marvel Rivals remains one of the most discussed agent shooter titles on PC, especially for players who want sharper reads in Marvel roster 6v6 team fights with ultimate chains. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why map verticality often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+	imageUrl: "/images/guides/marvel-rivals.webp",
 	imageAlt: "Marvel Rivals gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6087,7 +6087,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty guide covering arcade military FPS fundamentals, scorestreak timing, and multiplayer playlists across modern and classic CoD maps — updated for 2026 PC players.",
 	h1: "Call of Duty Beginner Onboarding Guide",
 	intro: "Call of Duty remains one of the most discussed arcade military FPS titles on PC, especially for players who want sharper reads in multiplayer playlists across modern and classic CoD maps. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why scorestreak timing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg",
+	imageUrl: "/images/guides/call-of-duty.webp",
 	imageAlt: "Call of Duty gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6133,7 +6133,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical NBA 2K26 guide covering sports simulation fundamentals, shooting tempo, and MyCareer, Park, and competitive Pro-Am leagues — updated for 2026 PC players.",
 	h1: "NBA 2K26 Patch-Day Preparation Guide",
 	intro: "NBA 2K26 remains one of the most discussed sports simulation titles on PC, especially for players who want sharper reads in MyCareer, Park, and competitive Pro-Am leagues. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why shooting tempo often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/07/09/nba-2k26-button-replacement-1752079432392.jpg",
+	imageUrl: "/images/guides/nba-2k26.webp",
 	imageAlt: "NBA 2K26 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6179,7 +6179,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical NBA 2K26 guide covering sports simulation fundamentals, defensive positioning, and MyCareer, Park, and competitive Pro-Am leagues — updated for 2026 PC players.",
 	h1: "NBA 2K26 Map Control Fundamentals Guide",
 	intro: "NBA 2K26 remains one of the most discussed sports simulation titles on PC, especially for players who want sharper reads in MyCareer, Park, and competitive Pro-Am leagues. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why defensive positioning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/07/09/nba-2k26-button-replacement-1752079432392.jpg",
+	imageUrl: "/images/guides/nba-2k26.webp",
 	imageAlt: "NBA 2K26 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6225,7 +6225,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Destiny 2 guide covering weapon dropser shooter MMO fundamentals, champion mods, and strikes, raids, and Crucible PvP with buildcrafting — updated for 2026 PC players.",
 	h1: "Destiny 2 Patch-Day Preparation Guide",
 	intro: "Destiny 2 remains one of the most discussed weapon dropser shooter MMO titles on PC, especially for players who want sharper reads in strikes, raids, and Crucible PvP with buildcrafting. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why champion mods often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg",
+	imageUrl: "/images/guides/destiny-2.webp",
 	imageAlt: "Destiny 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6271,7 +6271,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Bodycam guide covering realistic FPS fundamentals, recoil control, and body-worn camera perspective raids with lethal TTK — updated for 2026 PC players.",
 	h1: "Bodycam Economy And Loadout Planning Guide",
 	intro: "Bodycam remains one of the most discussed realistic FPS titles on PC, especially for players who want sharper reads in body-worn camera perspective raids with lethal TTK. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why recoil control often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/01/21/untitled-1-1705872632310.jpg",
+	imageUrl: "/images/guides/bodycam.webp",
 	imageAlt: "Bodycam gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6317,7 +6317,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Team Fortress 2 guide covering class-based shooter fundamentals, rocket jump routes, and payload, control point, and Mann vs Machine modes — updated for 2026 PC players.",
 	h1: "Team Fortress 2 Anti-Cheat Awareness Guide",
 	intro: "Team Fortress 2 remains one of the most discussed class-based shooter titles on PC, especially for players who want sharper reads in payload, control point, and Mann vs Machine modes. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why rocket jump routes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/01/26/team-fortress-2-button-1643168687556.jpg",
+	imageUrl: "/images/guides/team-fortress-2.webp",
 	imageAlt: "Team Fortress 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6363,7 +6363,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Deadside guide covering hardcore survival shooter fundamentals, vehicle scouting, and post-apocalyptic open world with loot routes and base raids — updated for 2026 PC players.",
 	h1: "Deadside Squad Coordination Guide",
 	intro: "Deadside remains one of the most discussed hardcore survival shooter titles on PC, especially for players who want sharper reads in post-apocalyptic open world with loot routes and base raids. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why vehicle scouting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg",
+	imageUrl: "/images/guides/deadside.webp",
 	imageAlt: "Deadside gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6409,7 +6409,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Enlisted guide covering squad-based WWII shooter fundamentals, capture point flanks, and historical battles with infantry squads and vehicles — updated for 2026 PC players.",
 	h1: "Enlisted Squad Coordination Guide",
 	intro: "Enlisted remains one of the most discussed squad-based WWII shooter titles on PC, especially for players who want sharper reads in historical battles with infantry squads and vehicles. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why capture point flanks often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/04/09/enlisted-button-fin-1617993248241.jpg",
+	imageUrl: "/images/guides/enlisted.webp",
 	imageAlt: "Enlisted gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6455,7 +6455,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical SCUM guide covering hardcore survival fundamentals, vehicle maintenance, and open-world prison island with metabolism and base raids — updated for 2026 PC players.",
 	h1: "SCUM Economy And Loadout Planning Guide",
 	intro: "SCUM remains one of the most discussed hardcore survival titles on PC, especially for players who want sharper reads in open-world prison island with metabolism and base raids. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why vehicle maintenance often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/10/08/scum-1665249692342.jpg",
+	imageUrl: "/images/guides/scum.webp",
 	imageAlt: "SCUM gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6501,7 +6501,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical NBA 2K26 guide covering sports simulation fundamentals, badge builds, and MyCareer, Park, and competitive Pro-Am leagues — updated for 2026 PC players.",
 	h1: "NBA 2K26 Patch-Day Preparation Guide",
 	intro: "NBA 2K26 remains one of the most discussed sports simulation titles on PC, especially for players who want sharper reads in MyCareer, Park, and competitive Pro-Am leagues. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why badge builds often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/07/09/nba-2k26-button-replacement-1752079432392.jpg",
+	imageUrl: "/images/guides/nba-2k26.webp",
 	imageAlt: "NBA 2K26 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6547,7 +6547,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Deadside guide covering hardcore survival shooter fundamentals, vehicle scouting, and post-apocalyptic open world with loot routes and base raids — updated for 2026 PC players.",
 	h1: "Deadside Beginner Onboarding Guide",
 	intro: "Deadside remains one of the most discussed hardcore survival shooter titles on PC, especially for players who want sharper reads in post-apocalyptic open world with loot routes and base raids. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why vehicle scouting often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/11/16/deadside-1668635482936.jpg",
+	imageUrl: "/images/guides/deadside.webp",
 	imageAlt: "Deadside gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6593,7 +6593,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Warframe guide covering co-op looter shooter fundamentals, mod polarities, and Origin System missions with Warframe builds and open worlds — updated for 2026 PC players.",
 	h1: "Warframe Economy And Loadout Planning Guide",
 	intro: "Warframe remains one of the most discussed co-op looter shooter titles on PC, especially for players who want sharper reads in Origin System missions with Warframe builds and open worlds. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why mod polarities often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets1.ignimgs.com/2019/02/22/warframe---button-1550875935085.jpg",
+	imageUrl: "/images/guides/warframe.webp",
 	imageAlt: "Warframe gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6639,7 +6639,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical NBA 2K26 guide covering sports simulation fundamentals, defensive positioning, and MyCareer, Park, and competitive Pro-Am leagues — updated for 2026 PC players.",
 	h1: "NBA 2K26 Ranked Climb Strategy Guide",
 	intro: "NBA 2K26 remains one of the most discussed sports simulation titles on PC, especially for players who want sharper reads in MyCareer, Park, and competitive Pro-Am leagues. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why defensive positioning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/07/09/nba-2k26-button-replacement-1752079432392.jpg",
+	imageUrl: "/images/guides/nba-2k26.webp",
 	imageAlt: "NBA 2K26 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6685,7 +6685,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, base defense layouts, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Squad Coordination Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why base defense layouts often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6731,7 +6731,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, boss weak points, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Beginner Onboarding Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why boss weak points often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6777,7 +6777,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, boss weak points, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Squad Coordination Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why boss weak points often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6823,7 +6823,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, armor tiers, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Solo Queue Survival Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why armor tiers often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6869,7 +6869,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Enlisted guide covering squad-based WWII shooter fundamentals, squad orders, and historical battles with infantry squads and vehicles — updated for 2026 PC players.",
 	h1: "Enlisted Squad Coordination Guide",
 	intro: "Enlisted remains one of the most discussed squad-based WWII shooter titles on PC, especially for players who want sharper reads in historical battles with infantry squads and vehicles. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why squad orders often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/04/09/enlisted-button-fin-1617993248241.jpg",
+	imageUrl: "/images/guides/enlisted.webp",
 	imageAlt: "Enlisted gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6915,7 +6915,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Enlisted guide covering squad-based WWII shooter fundamentals, vehicle spawns, and historical battles with infantry squads and vehicles — updated for 2026 PC players.",
 	h1: "Enlisted Beginner Onboarding Guide",
 	intro: "Enlisted remains one of the most discussed squad-based WWII shooter titles on PC, especially for players who want sharper reads in historical battles with infantry squads and vehicles. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why vehicle spawns often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/04/09/enlisted-button-fin-1617993248241.jpg",
+	imageUrl: "/images/guides/enlisted.webp",
 	imageAlt: "Enlisted gameplay — IGN screenshot",
 	sections: [
 		{
@@ -6961,7 +6961,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Rainbow Six Siege guide covering tactical FPS fundamentals, reinforcement setups, and destructible ranked sites with operator gadgets — updated for 2026 PC players.",
 	h1: "Rainbow Six Siege Economy And Loadout Planning Guide",
 	intro: "Rainbow Six Siege remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in destructible ranked sites with operator gadgets. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why reinforcement setups often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/06/30/siegex-1751319986948.jpg",
+	imageUrl: "/images/guides/rainbow-six-siege.webp",
 	imageAlt: "Rainbow Six Siege gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7007,7 +7007,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Call of Duty guide covering arcade military FPS fundamentals, loadout tuning, and multiplayer playlists across modern and classic CoD maps — updated for 2026 PC players.",
 	h1: "Call of Duty Ranked Climb Strategy Guide",
 	intro: "Call of Duty remains one of the most discussed arcade military FPS titles on PC, especially for players who want sharper reads in multiplayer playlists across modern and classic CoD maps. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why loadout tuning often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg",
+	imageUrl: "/images/guides/call-of-duty.webp",
 	imageAlt: "Call of Duty gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7053,7 +7053,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Escape from Tarkov guide covering hardcore extraction FPS fundamentals, ammo types and armor classes, and Raid maps with Scav AI, PMC squads, and high-stakes weapon drops — updated for 2026 PC players.",
 	h1: "Escape from Tarkov Map Control Fundamentals Guide",
 	intro: "Escape from Tarkov remains one of the most discussed hardcore extraction FPS titles on PC, especially for players who want sharper reads in Raid maps with Scav AI, PMC squads, and high-stakes weapon drops. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why ammo types and armor classes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/escapefromtarkov-1638898094839.jpg",
+	imageUrl: "/images/guides/escape-from-tarkov.webp",
 	imageAlt: "Escape from Tarkov gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7099,7 +7099,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Dota 2 guide covering MOBA fundamentals, lane equilibrium, and Ancient Defense with five roles and item timings — updated for 2026 PC players.",
 	h1: "Dota 2 Anti-Cheat Awareness Guide",
 	intro: "Dota 2 remains one of the most discussed MOBA titles on PC, especially for players who want sharper reads in Ancient Defense with five roles and item timings. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why lane equilibrium often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/07/dota-2-1638917128883.jpg",
+	imageUrl: "/images/guides/dota-2.webp",
 	imageAlt: "Dota 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7145,7 +7145,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Caliber guide covering tactical third-person shooter fundamentals, mission routing, and squad-based PvPvE missions with class roles — updated for 2026 PC players.",
 	h1: "Caliber Solo Queue Survival Guide",
 	intro: "Caliber remains one of the most discussed tactical third-person shooter titles on PC, especially for players who want sharper reads in squad-based PvPvE missions with class roles. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why mission routing often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2023/04/06/caliber-1680811698787.jpg",
+	imageUrl: "/images/guides/caliber.webp",
 	imageAlt: "Caliber gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7191,7 +7191,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Destiny 2 guide covering weapon dropser shooter MMO fundamentals, DPS phases, and strikes, raids, and Crucible PvP with buildcrafting — updated for 2026 PC players.",
 	h1: "Destiny 2 Solo Queue Survival Guide",
 	intro: "Destiny 2 remains one of the most discussed weapon dropser shooter MMO titles on PC, especially for players who want sharper reads in strikes, raids, and Crucible PvP with buildcrafting. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why DPS phases often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg",
+	imageUrl: "/images/guides/destiny-2.webp",
 	imageAlt: "Destiny 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7237,7 +7237,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Destiny 2 guide covering weapon dropser shooter MMO fundamentals, build synergies, and strikes, raids, and Crucible PvP with buildcrafting — updated for 2026 PC players.",
 	h1: "Destiny 2 Anti-Cheat Awareness Guide",
 	intro: "Destiny 2 remains one of the most discussed weapon dropser shooter MMO titles on PC, especially for players who want sharper reads in strikes, raids, and Crucible PvP with buildcrafting. This guide focuses on anti-cheat awareness without skipping the basics: how rounds flow, where teams win fights, and why build synergies often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2025/03/12/destiny2heresy-1741800139522.jpg",
+	imageUrl: "/images/guides/destiny-2.webp",
 	imageAlt: "Destiny 2 gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7283,7 +7283,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Civilization VI guide covering turn-based strategy fundamentals, tech/civic paths, and historical empires from ancient era to information age — updated for 2026 PC players.",
 	h1: "Civilization VI Beginner Onboarding Guide",
 	intro: "Civilization VI remains one of the most discussed turn-based strategy titles on PC, especially for players who want sharper reads in historical empires from ancient era to information age. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why tech/civic paths often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/civ6-1639520169673.jpg",
+	imageUrl: "/images/guides/civilization-vi.webp",
 	imageAlt: "Civilization VI gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7329,7 +7329,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Minecraft guide covering sandbox survival fundamentals, mob farms, and procedurally generated biomes with crafting and redstone builds — updated for 2026 PC players.",
 	h1: "Minecraft Map Control Fundamentals Guide",
 	intro: "Minecraft remains one of the most discussed sandbox survival titles on PC, especially for players who want sharper reads in procedurally generated biomes with crafting and redstone builds. This guide focuses on map control fundamentals without skipping the basics: how rounds flow, where teams win fights, and why mob farms often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/12/14/minecraft-1639513933156.jpg",
+	imageUrl: "/images/guides/minecraft.webp",
 	imageAlt: "Minecraft gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7375,7 +7375,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, vehicle logistics, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Patch-Day Preparation Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on patch-day preparation without skipping the basics: how rounds flow, where teams win fights, and why vehicle logistics often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7421,7 +7421,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Hunt: Showdown guide covering extraction bounty hunter fundamentals, extract ambushes, and Louisiana bayou with boss bounties and rival hunters — updated for 2026 PC players.",
 	h1: "Hunt: Showdown Beginner Onboarding Guide",
 	intro: "Hunt: Showdown remains one of the most discussed extraction bounty hunter titles on PC, especially for players who want sharper reads in Louisiana bayou with boss bounties and rival hunters. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why extract ambushes often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/08/28/hunt-showdown-1896-button-1724846899827.jpg",
+	imageUrl: "/images/guides/hunt-showdown.webp",
 	imageAlt: "Hunt: Showdown gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7467,7 +7467,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, boss weak points, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Economy And Loadout Planning Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on economy and loadout planning without skipping the basics: how rounds flow, where teams win fights, and why boss weak points often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7513,7 +7513,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, armor tiers, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Ranked Climb Strategy Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on ranked climb strategy without skipping the basics: how rounds flow, where teams win fights, and why armor tiers often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7559,7 +7559,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, boss weak points, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Solo Queue Survival Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why boss weak points often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7605,7 +7605,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, ability combos, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Squad Coordination Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why ability combos often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7651,7 +7651,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Grounded guide covering co-op survival fundamentals, armor tiers, and backyard scale maps with insect threats and base building — updated for 2026 PC players.",
 	h1: "Grounded Beginner Onboarding Guide",
 	intro: "Grounded remains one of the most discussed co-op survival titles on PC, especially for players who want sharper reads in backyard scale maps with insect threats and base building. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why armor tiers often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg",
+	imageUrl: "/images/guides/grounded.webp",
 	imageAlt: "Grounded gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7697,7 +7697,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Enlisted guide covering squad-based WWII shooter fundamentals, capture point flanks, and historical battles with infantry squads and vehicles — updated for 2026 PC players.",
 	h1: "Enlisted Solo Queue Survival Guide",
 	intro: "Enlisted remains one of the most discussed squad-based WWII shooter titles on PC, especially for players who want sharper reads in historical battles with infantry squads and vehicles. This guide focuses on solo queue survival without skipping the basics: how rounds flow, where teams win fights, and why capture point flanks often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2021/04/09/enlisted-button-fin-1617993248241.jpg",
+	imageUrl: "/images/guides/enlisted.webp",
 	imageAlt: "Enlisted gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7743,7 +7743,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Unturned guide covering survival sandbox fundamentals, resource farming, and zombie-infested maps with base building and PvP zones — updated for 2026 PC players.",
 	h1: "Unturned Beginner Onboarding Guide",
 	intro: "Unturned remains one of the most discussed survival sandbox titles on PC, especially for players who want sharper reads in zombie-infested maps with base building and PvP zones. This guide focuses on beginner onboarding without skipping the basics: how rounds flow, where teams win fights, and why resource farming often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/12/10/unturned-button-fin-1607643147558.jpg",
+	imageUrl: "/images/guides/unturned.webp",
 	imageAlt: "Unturned gameplay — IGN screenshot",
 	sections: [
 		{
@@ -7789,7 +7789,7 @@ export const guides: GuideDefinition[] = [
 	metaDescription: "A practical Valorant guide covering tactical FPS fundamentals, crosshair placement, and 5v5 rounds with agent abilities and spike plants — updated for 2026 PC players.",
 	h1: "Valorant Squad Coordination Guide",
 	intro: "Valorant remains one of the most discussed tactical FPS titles on PC, especially for players who want sharper reads in 5v5 rounds with agent abilities and spike plants. This guide focuses on squad coordination without skipping the basics: how rounds flow, where teams win fights, and why crosshair placement often decides outcomes before aim ever matters.",
-	imageUrl: "https://assets-prd.ignimgs.com/2020/06/05/valorant-button-replacement-1591394776227.jpg",
+	imageUrl: "/images/guides/valorant.webp",
 	imageAlt: "Valorant gameplay — IGN screenshot",
 	sections: [
 		{
