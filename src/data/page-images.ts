@@ -96,12 +96,19 @@ export function getPageGalleryImages(
 		startOffset: startIndex + 1,
 	});
 
+	const seenSrc = new Set<string>([heroSrc]);
+
 	return ids
 		.map((id) => {
 			const meta = getProductScreenshot(id);
 			return { src: meta.src, alt: meta.alt, url: meta.url };
 		})
-		.filter((item) => !isHeroMarketingImage(item.src) && item.src !== heroSrc);
+		.filter((item) => {
+			if (isHeroMarketingImage(item.src)) return false;
+			if (item.src === heroSrc || seenSrc.has(item.src)) return false;
+			seenSrc.add(item.src);
+			return true;
+		});
 }
 
 /** Stable screenshot for a single blog post (OG / article hero). */

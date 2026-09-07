@@ -196,18 +196,13 @@ export const brand = {
 			},
 			{
 				src: '/images/warzone-screenshot-06.webp',
-				title: 'Warzone aimbot FOV and distance ESP on cathedral map',
-				caption: 'Warzone aimbot with distance ESP markers and targeting indicators on PC',
-			},
-			{
-				src: '/images/warzone-screenshot-07.webp',
 				title: 'Warzone ESP box overlay on Fast Forward alley',
 				caption: 'Warzone player ESP with distance tags and visibility counter in gas zone',
 			},
 			{
-				src: '/images/warzone-screenshot-08.webp',
+				src: '/images/warzone-screenshot-07.webp',
 				title: 'Warzone item ESP and loot tags inside bank vault',
-				caption: 'Warzone item ESP showing cash, armor plates, and loot through walls on PC',
+				caption: 'Warzone item ESP showing cash, armor plates, beacons and loot through walls on PC',
 			},
 		],
 	},

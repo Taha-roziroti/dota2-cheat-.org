@@ -1,6 +1,6 @@
 /**
  * Import Warzone hero, favicon, and gameplay screenshots from user assets.
- * Writes /images/warzone-screenshot-01.webp … 08.webp plus responsive variants.
+ * Writes /images/warzone-screenshot-01.webp … 07.webp plus responsive variants.
  */
 import { mkdir, writeFile, copyFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -13,7 +13,7 @@ const imagesDir = path.join(ROOT, 'public/images');
 /** Hero image (helicopter POV) */
 const HERO_SOURCE = path.join(ASSETS_DIR, 'ddd5f856-329a-47c9-ba47-f8ab2f63fec8.png');
 
-/** 8 gameplay screenshots in order */
+/** 7 gameplay screenshots in order (slot 8 was a logo — removed). */
 const SCREENSHOT_SOURCES = [
 	path.join(ASSETS_DIR, '291e026c-07bb-4e4a-8d62-c8c7a5b14965.png'),
 	path.join(ASSETS_DIR, 'c5bc12a4-9b23-4840-8448-df2ee6f7c971.png'),
@@ -22,7 +22,6 @@ const SCREENSHOT_SOURCES = [
 	path.join(ASSETS_DIR, '8596860c-50cf-4fa0-a494-0bde8111ef64.png'),
 	path.join(ASSETS_DIR, '056e390b-6eef-4749-9205-83d66710a362.png'),
 	path.join(ASSETS_DIR, '05a7f39c-e076-43b9-8aac-05851b338275.png'),
-	path.join(ASSETS_DIR, '9266e795-ff5a-49a0-a618-7515d46730cd.webp'),
 ];
 
 /** Favicon / navbar logo — Call of Duty wordmark */

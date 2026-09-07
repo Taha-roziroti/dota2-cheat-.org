@@ -9,7 +9,6 @@ export const PRODUCT_SCREENSHOT_SOURCES = [
 	'user:8596860c-50cf-4fa0-a494-0bde8111ef64.png',
 	'user:056e390b-6eef-4749-9205-83d66710a362.png',
 	'user:05a7f39c-e076-43b9-8aac-05851b338275.png',
-	'user:9266e795-ff5a-49a0-a618-7515d46730cd.webp',
 ] as const;
 
 export const PRODUCT_SCREENSHOT_COUNT = PRODUCT_SCREENSHOT_SOURCES.length;
@@ -52,16 +51,11 @@ const alts: Record<number, { alt: string; title: string; caption: string }> = {
 		caption: 'Warzone wallhack player box ESP and aimbot crosshair overlay on rooftop fight',
 	},
 	6: {
-		alt: 'Warzone aimbot FOV and distance ESP near cathedral with AK-47 45 rounds',
-		title: 'Warzone aimbot FOV and distance ESP',
-		caption: 'Warzone aimbot with distance ESP markers and targeting indicators on autumn map',
-	},
-	7: {
 		alt: 'Warzone ESP box overlay on Fast Forward alley with D520 Mirage and 113m tag',
 		title: 'Warzone ESP box on Fast Forward',
 		caption: 'Warzone player ESP with distance tags and visible/invisible counter in gas zone',
 	},
-	8: {
+	7: {
 		alt: 'Warzone item ESP showing cash armor plates and loot tags inside bank vault',
 		title: 'Warzone item ESP and loot tags',
 		caption: 'Warzone item ESP showing cash, armor plates, beacons and loot through walls on PC',
