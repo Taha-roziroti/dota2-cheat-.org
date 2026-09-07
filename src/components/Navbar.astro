@@ -229,6 +229,8 @@ const links = [
 		align-items: center;
 		min-height: var(--header-h);
 		gap: 0.85rem;
+		/* Match logo height to centered nav pill (padding + link tap target). */
+		--nav-pill-h: calc(0.44rem + 0.8rem + 0.88rem);
 	}
 
 	.site-brand {
@@ -238,9 +240,9 @@ const links = [
 		justify-self: start;
 		flex-shrink: 0;
 		width: auto;
-		height: 3.75rem;
-		max-width: min(17.5rem, 56vw);
-		min-width: 8rem;
+		height: var(--nav-pill-h);
+		max-width: min(10.5rem, 28vw);
+		min-width: 5.5rem;
 		color: var(--ink-heading);
 		text-decoration: none;
 		transition:
@@ -479,8 +481,8 @@ const links = [
 
 		.site-brand {
 			justify-self: auto;
-			height: 3.65rem;
-			max-width: min(16rem, 62vw);
+			height: 2.65rem;
+			max-width: min(12rem, 52vw);
 		}
 
 		.site-tools {
@@ -510,9 +512,9 @@ const links = [
 
 	@media (max-width: 480px) {
 		.site-brand {
-			height: 3.5rem;
-			max-width: min(15rem, 68vw);
-			min-width: 7.25rem;
+			height: 2.45rem;
+			max-width: min(11rem, 58vw);
+			min-width: 5rem;
 		}
 
 		.site-tools {
