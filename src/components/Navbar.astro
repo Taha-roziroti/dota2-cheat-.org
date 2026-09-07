@@ -241,8 +241,8 @@ const links = [
 		flex-shrink: 0;
 		width: auto;
 		height: var(--nav-pill-h);
-		max-width: min(5.75rem, 22vw);
-		min-width: 4.75rem;
+		max-width: min(10.5rem, 28vw);
+		min-width: 5.5rem;
 		color: var(--ink-heading);
 		text-decoration: none;
 		transition:
@@ -256,21 +256,12 @@ const links = [
 	}
 
 	.site-brand__mark {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		gap: 0;
 		width: auto;
 		height: 100%;
 		max-width: 100%;
-		font-family: var(--font-warzone);
-		font-weight: 400;
-		font-size: clamp(0.62rem, 1.05vw, 0.72rem);
-		line-height: 0.84;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		color: var(--ink-heading);
-		white-space: nowrap;
+		display: block;
+		object-fit: contain;
+		object-position: left center;
 	}
 
 	.site-nav {
@@ -495,11 +486,7 @@ const links = [
 		.site-brand {
 			justify-self: auto;
 			height: 2.65rem;
-			max-width: min(5.75rem, 34vw);
-		}
-
-		.site-brand__mark {
-			font-size: 0.68rem;
+			max-width: min(12rem, 52vw);
 		}
 
 		.site-tools {
@@ -530,12 +517,8 @@ const links = [
 	@media (max-width: 480px) {
 		.site-brand {
 			height: 2.45rem;
-			max-width: min(5.5rem, 38vw);
-			min-width: 4.5rem;
-		}
-
-		.site-brand__mark {
-			font-size: 0.64rem;
+			max-width: min(11rem, 58vw);
+			min-width: 5rem;
 		}
 
 		.site-tools {
