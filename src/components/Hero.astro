@@ -61,11 +61,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	.hero__media {
 		position: absolute;
-		top: 0;
-		right: 0;
-		bottom: 0;
-		/* Video lives in the right band only — keeps art off headline copy */
-		left: 48%;
+		inset: 0;
 		z-index: 0;
 		overflow: hidden;
 	}
@@ -73,9 +69,9 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	@media (min-width: 901px) {
 		.hero__media video,
 		.hero__media img {
-			width: 112%;
+			width: 100%;
 			height: 100%;
-			margin-left: -4%;
+			margin-left: 0;
 		}
 	}
 
@@ -112,10 +108,10 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	.hero__media img {
 		object-fit: cover;
-		object-position: 72% center;
+		object-position: 58% center;
 		image-rendering: auto;
 		transform: translateZ(0);
-		filter: brightness(0.78) contrast(1.04);
+		filter: brightness(0.72) contrast(1.06);
 		animation: hero-in 0.9s ease-out both;
 	}
 
@@ -127,18 +123,17 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		background:
 			linear-gradient(
 				180deg,
-				color-mix(in srgb, var(--bg) 22%, transparent) 0%,
+				color-mix(in srgb, var(--bg) 28%, transparent) 0%,
 				transparent 42%,
-				color-mix(in srgb, var(--bg) 28%, transparent) 100%
+				color-mix(in srgb, var(--bg) 32%, transparent) 100%
 			),
 			linear-gradient(
 				90deg,
-				var(--bg) 0%,
-				var(--bg) 40%,
-				color-mix(in srgb, var(--bg) 92%, transparent) 48%,
-				color-mix(in srgb, var(--bg) 55%, transparent) 58%,
-				color-mix(in srgb, var(--bg) 22%, transparent) 72%,
-				color-mix(in srgb, var(--bg) 10%, transparent) 100%
+				color-mix(in srgb, var(--bg) 92%, transparent) 0%,
+				color-mix(in srgb, var(--bg) 78%, transparent) 28%,
+				color-mix(in srgb, var(--bg) 48%, transparent) 46%,
+				color-mix(in srgb, var(--bg) 18%, transparent) 62%,
+				transparent 100%
 			);
 	}
 

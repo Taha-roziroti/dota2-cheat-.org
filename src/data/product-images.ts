@@ -85,6 +85,13 @@ export function screenshotIdFromSrc(src: string): number | undefined {
 	return match ? parseInt(match[1]!, 10) : undefined;
 }
 
+/** Cinematic hero art — homepage banner only; never reuse in galleries or in-game blocks. */
+export const HERO_IMAGE_PREFIXES = ['/images/warzone-cheats-hero', '/images/warzone-hero-poster'] as const;
+
+export function isHeroMarketingImage(src: string): boolean {
+	return HERO_IMAGE_PREFIXES.some((prefix) => src.startsWith(prefix));
+}
+
 export function screenshotSrc(n: number): string {
 	const id = normalizeScreenshotId(n);
 	return `/images/warzone-screenshot-${String(id).padStart(2, '0')}.webp`;

@@ -5,6 +5,7 @@ import SiteFooter from '../components/SiteFooter.astro';
 import { getUi } from '../data/i18n';
 import { getLocalizedPath, resolvePageContextFromPath, type PageId } from '../data/i18n/routing';
 import { warzoneImages } from '../data/warzone';
+import { isHeroMarketingImage } from '../data/product-images';
 import {
 	heroPreloadSrc,
 	heroSizes,
@@ -114,10 +115,7 @@ const breadcrumbs = [
 	{ label: breadcrumbCurrent },
 ];
 
-const useHomeAgent =
-	heroImage === warzoneImages.agent ||
-	heroImage === siteConfig.defaultOgImage ||
-	heroImage.includes('warzone-cheats-hero');
+const useHomeAgent = isHeroMarketingImage(heroImage);
 ---
 
 <Layout

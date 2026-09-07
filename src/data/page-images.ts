@@ -9,6 +9,7 @@ import {
 	screenshotSourceKey,
 	screenshotIdFromSrc,
 	pickUniqueScreenshotIds,
+	isHeroMarketingImage,
 } from './product-images';
 
 const shot = screenshotSrc;
@@ -79,7 +80,7 @@ export function getGridScreenshotMeta(displayIndex: number) {
 	return getProductScreenshot(getGridScreenshotId(displayIndex));
 }
 
-/** Unique gallery shots per page — never repeats hero or duplicate source assets. */
+/** Unique gallery shots per page — never repeats hero art or duplicate source assets. */
 export function getPageGalleryImages(
 	pageId: PageId,
 	count = 3,
@@ -95,10 +96,12 @@ export function getPageGalleryImages(
 		startOffset: startIndex + 1,
 	});
 
-	return ids.map((id) => {
-		const meta = getProductScreenshot(id);
-		return { src: meta.src, alt: meta.alt, url: meta.url };
-	});
+	return ids
+		.map((id) => {
+			const meta = getProductScreenshot(id);
+			return { src: meta.src, alt: meta.alt, url: meta.url };
+		})
+		.filter((item) => !isHeroMarketingImage(item.src) && item.src !== heroSrc);
 }
 
 /** Stable screenshot for a single blog post (OG / article hero). */

@@ -43,8 +43,8 @@ export const brand = {
 	heroVideoUrl: '',
 	heroVideoMp4: '',
 	demoVideoPoster: '/images/warzone-hero-poster.webp',
-	/** Static preview for about section — hero video is homepage-only */
-	demoScreenshot: '/images/warzone-screenshot-01.webp',
+	/** In-game ESP screenshot for homepage about block — never the cinematic hero art. */
+	demoScreenshot: '/images/warzone-screenshot-02.webp',
 
 	plans: [
 		{ id: 'monthly', label: 'Monthly', price: 35, duration: 'P30D' },
