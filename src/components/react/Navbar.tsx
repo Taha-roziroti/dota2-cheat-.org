@@ -52,7 +52,11 @@ function NavbarInner({
 	const [scrolled, setScrolled] = useState(false);
 
 	const isActive = (href: string) => {
-		if (href === '/') return currentPath === '/' || currentPath === `/${locale}/`;
+		const localeHome = `/${locale}/`;
+		// Localized home is /{lang}/ — must be exact match only (startsWith would highlight home on every tab).
+		if (href === '/' || href === localeHome) {
+			return currentPath === '/' || currentPath === localeHome;
+		}
 		if (href === reviewsBasePath) return currentPath === href || currentPath.startsWith(href);
 		return currentPath === href || currentPath.startsWith(href);
 	};
