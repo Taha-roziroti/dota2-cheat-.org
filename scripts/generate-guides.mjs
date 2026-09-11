@@ -16,10 +16,10 @@ const URL_LIST = path.join(__dirname, 'guide-urls.raw.txt');
 const RAW_URLS = (await readFile(URL_LIST, 'utf8')).trim().split(/\s+/);
 
 const ANCHOR_TEXTS = [
-	'this resource',
-	'more game information',
-	'additional guides',
-	'related resources',
+	'this cheat resource',
+	'more cheat information',
+	'additional cheat guides',
+	'related cheat resources',
 ];
 
 const GAME_PROFILES = {
@@ -437,8 +437,11 @@ function classifyGame(host) {
 	return 'PC Gaming';
 }
 
-function slugify(text) {
-	return gameSlug(text);
+function shortHostSlug(host) {
+	return host
+		.replace(/^www\./, '')
+		.replace(/\.(com|net|org|co|xyz|io|gg|cc|uk|de|fr|es|it|pt|pl|ru|tr|nl|se|eu|info|biz|me|tv|us|ca|au|jp|kr|cn|in|br|mx|ch|at|be|nz|za|hk|sg|my|ph|id|th|vn|ua|cz|ro|sk|hu|fi|no|dk|ie|gr|il|ae|sa|pk|bd|lk|np)$/i, '')
+		.replace(/\./g, '');
 }
 
 function hashString(str) {
@@ -451,7 +454,7 @@ function pick(arr, seed) {
 	return arr[seed % arr.length];
 }
 
-function buildGuide(url, index) {
+function buildGuide(url, index, usedSlugs) {
 	const externalUrl = normalizeUrl(url);
 	const host = hostname(externalUrl);
 	const game = classifyGame(host);
@@ -463,57 +466,63 @@ function buildGuide(url, index) {
 	};
 	const seed = hashString(externalUrl);
 	const anchorText = pick(ANCHOR_TEXTS, seed);
-	const slug = `${gameSlug(game)}-${host.replace(/\./g, '-')}-guide`;
+	let slug = shortHostSlug(host);
+	if (usedSlugs.has(slug)) {
+		let n = 2;
+		while (usedSlugs.has(`${slug}-${n}`)) n++;
+		slug = `${slug}-${n}`;
+	}
+	usedSlugs.add(slug);
 	if (!IGN_SOURCE_IMAGES[game]) throw new Error(`Missing IGN source image for game: ${game}`);
 	const imageUrl = guideImagePath(game);
 
 	const angles = [
-		'beginner onboarding',
-		'ranked climb strategy',
-		'patch-day preparation',
-		'solo queue survival',
-		'squad coordination',
-		'economy and loadout planning',
-		'map control fundamentals',
-		'anti-cheat awareness',
+		'ESP and wallhack setup',
+		'aimbot configuration',
+		'radar overlay tuning',
+		'undetected cheat selection',
+		'soft aim vs hard lock',
+		'menu and loader setup',
+		'patch-day cheat safety',
+		'ranked cheat loadouts',
 	];
 	const angle = pick(angles, seed);
 	const mechanic = pick(profile.mechanics, seed + 3);
 	const mechanic2 = pick(profile.mechanics, seed + 7);
 
-	const title = `${game} Guide: ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} (2026)`;
-	const h1 = `${game} ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} Guide`;
-	const metaDescription = `A practical ${game} guide covering ${profile.genre} fundamentals, ${mechanic}, and ${profile.setting} — updated for 2026 PC players.`;
+	const title = `${game} Cheat Guide: ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} (2026)`;
+	const h1 = `${game} ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} Cheat Guide`;
+	const metaDescription = `${game} cheat guide for PC — ${angle}, ESP, aimbot, radar, and undetected setup tips for ${profile.setting}. Updated 2026.`;
 
-	const intro = `${game} remains one of the most discussed ${profile.genre} titles on PC, especially for players who want sharper reads in ${profile.setting}. This guide focuses on ${angle} without skipping the basics: how rounds flow, where teams win fights, and why ${mechanic} often decides outcomes before aim ever matters.`;
+	const intro = `${game} cheat users need more than a download link. This cheat guide covers ${angle} for ${profile.genre} sessions in ${profile.setting}: which features matter first, how overlays behave in live matches, and why ${mechanic} still affects whether ESP and aim assist feel useful instead of noisy.`;
 
 	const sections = [
 		{
-			h2: `How ${game} matches actually play out`,
+			h2: `${game} cheat features that matter first`,
 			paragraphs: [
-				`Most ${game} sessions are won in the minutes before a fight starts. Learn the default routes players take through ${profile.setting}, which angles give free information, and when to disengage. In ${profile.genre} titles, map timing beats raw reflexes more often than new players expect.`,
-				`Treat ${mechanic} as a repeatable checklist rather than a highlight-reel skill. When your plan is explicit — where you rotate, what you contest, and what you give up — you stop panic-switching mid-round and start forcing opponents into bad trades.`,
+				`Most ${game} cheat menus bundle ESP, aimbot, radar, and misc toggles. Start with player ESP and box settings before stacking extras — in ${profile.setting}, clean information beats a crowded overlay that blocks ${mechanic} reads.`,
+				`Wallhack and skeleton ESP should match your FOV and resolution. Test in a private lobby or low-stakes mode first so you can tune distance filters, team checks, and visibility rules without fighting ${profile.genre} chaos on day one.`,
 			],
 		},
 		{
-			h2: `${mechanic2} and mid-game decisions`,
+			h2: `Aimbot, soft aim, and ${mechanic2}`,
 			paragraphs: [
-				`${mechanic2} separates players who float with the lobby from players who steer it. Watch for audio cues, ability cooldowns, and objective timers that reveal when a squad is committed. In ${game}, the team that recognizes a committed enemy first usually wins the exchange.`,
-				`If you queue solo, ping information consistently and play for space instead of agent plays. Even in chaotic ${profile.genre} lobbies, disciplined spacing around ${profile.setting} creates openings that raw aggression cannot.`,
+				`Aimbot strength in ${game} should respect weapon TTK and crosshair placement habits. Use smoothing, FOV caps, and bone priority so assist looks like strong aim rather than snap locks — especially when ${mechanic2} forces fast target swaps.`,
+				`Pair aim settings with radar or ESP so you are not locking through walls blindly. Good ${game} cheat configs treat aimbot as confirmation after ESP gives you the angle, not as a replacement for ${mechanic}.`,
 			],
 		},
 		{
-			h2: 'Performance, settings, and fair-play context',
+			h2: 'Undetected use and anti-cheat context',
 			paragraphs: [
-				`Stable FPS and clean audio matter in ${game}. Cap background apps, use a sensible sensitivity, and keep drivers current so you are not fighting input lag during clutch moments. Small setting tweaks often produce bigger gains than switching gear every month.`,
-				`${game} uses ${profile.antiCheat}. Respect server rules, avoid sketchy downloads, and treat third-party tools as high-risk — policy changes and ban waves can land without warning after major patches.`,
+				`${game} runs ${profile.antiCheat}. No cheat stays undetected forever — patch days and ban waves are normal. Avoid public menus, keep loaders updated, and do not stream or clip obvious overlay footage if account safety matters.`,
+				`Use a spare account for testing new ${game} cheat builds. Kernel or external options differ by provider; read loader notes after every update and disable features that feel unstable in ${profile.setting}.`,
 			],
 		},
 		{
-			h2: 'Putting the guide into practice',
+			h2: 'Next steps and external cheat resources',
 			paragraphs: [
-				`Pick one focus per session: ${mechanic}, ${mechanic2}, or map timing. Review a round where you died early and name the decision that put you in a bad spot. That habit compounds faster than grinding dozens of unfocused matches.`,
-				`For more game updates, guides, and related resources, you can also explore <a href="${externalUrl}" target="_blank" rel="noopener noreferrer">${anchorText}</a>.`,
+				`Save one preset for ranked or high-stakes ${game} sessions and a looser preset for warmup. Change one variable at a time — ESP distance, aim smoothing, or radar scale — so you know what broke when ${profile.antiCheat} updates land.`,
+				`For provider-specific downloads, pricing, and feature lists, see <a href="${externalUrl}" target="_blank" rel="noopener noreferrer">${anchorText}</a>.`,
 			],
 		},
 	];
@@ -564,7 +573,8 @@ async function main() {
 		throw new Error(`URL dedupe mismatch: got ${urls.length}`);
 	}
 
-	const guides = urls.map((url, i) => buildGuide(url, i));
+	const usedSlugs = new Set();
+	const guides = urls.map((url, i) => buildGuide(url, i, usedSlugs));
 	const slugs = new Set();
 	const urlSet = new Set(urls);
 	for (const g of guides) {

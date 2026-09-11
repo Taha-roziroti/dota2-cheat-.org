@@ -4,25 +4,25 @@ import type { NativeGuideLink } from './types';
 export const nativeGuides: NativeGuideLink[] = [
 	{
 		slug: 'warzone-cheats',
-		href: '/warzone-cheats/',
+		href: '/cheats/',
 		title: 'Warzone Cheats Overview',
 		description: 'Full pillar guide to ESP, aimbot, radar, and undetected status for Call of Duty: Warzone on Windows PC.',
 	},
 	{
 		slug: 'warzone-esp',
-		href: '/warzone-esp/',
+		href: '/esp/',
 		title: 'Call of Duty: Warzone ESP & Wallhack',
 		description: 'How ESP overlays work in Call of Duty: Warzone — operator markers, threat cues, and distance readouts.',
 	},
 	{
 		slug: 'warzone-aimbot',
-		href: '/warzone-aimbot/',
+		href: '/aimbot/',
 		title: 'Call of Duty: Warzone Aimbot & Soft Aim',
 		description: 'Aimbot controls, smoothing, and FOV tuning for competitive Call of Duty: Warzone matches.',
 	},
 	{
 		slug: 'warzone-radar-hack',
-		href: '/warzone-radar-hack/',
+		href: '/radar/',
 		title: 'Call of Duty: Warzone Radar Hack',
 		description: '2D radar overlays for flanks, rotates, and zone awareness.',
 	},
