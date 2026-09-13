@@ -42,16 +42,18 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
+		/* Match hero.webm native ratio (1920×1080) — fills width with no letterboxing */
+		--hero-ratio: 16 / 9;
 		position: relative;
 		isolation: isolate;
 		display: grid;
 		grid-template-areas: 'hero-stack';
 		align-items: stretch;
 		width: 100%;
-		height: auto;
+		aspect-ratio: var(--hero-ratio);
 		min-height: 0;
 		background: var(--bg);
-		overflow: visible;
+		overflow: hidden;
 	}
 
 	.hero__media,
@@ -64,8 +66,10 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		position: relative;
 		z-index: 0;
 		width: 100%;
+		height: 100%;
+		min-height: 0;
+		overflow: hidden;
 		line-height: 0;
-		background: var(--bg);
 	}
 
 	.hero__media picture,
@@ -73,13 +77,12 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero__media video {
 		display: block;
 		width: 100%;
-		height: auto;
-		max-width: 100%;
+		height: 100%;
 		margin: 0;
 	}
 
 	.hero__media video {
-		object-fit: contain;
+		object-fit: cover;
 		object-position: center center;
 		filter: brightness(0.78) contrast(1.04);
 		animation: hero-in 0.9s ease-out both;
@@ -90,7 +93,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	.hero__media img {
-		object-fit: contain;
+		object-fit: cover;
 		object-position: center center;
 		image-rendering: auto;
 		transform: translateZ(0);
@@ -103,7 +106,7 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		z-index: 1;
 		align-self: stretch;
 		width: 100%;
-		min-height: 100%;
+		height: 100%;
 		pointer-events: none;
 		background:
 			linear-gradient(
@@ -312,12 +315,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	 * Mobile: overlay copy on lower third; keep a tall enough strip for art + text.
 	 */
 	@media (max-width: 900px) {
-		.hero__media video,
-		.hero__media img {
-			object-fit: contain;
-			object-position: center center;
-		}
-
 		.hero__veil {
 			background:
 				linear-gradient(
