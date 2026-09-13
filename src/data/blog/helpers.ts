@@ -2,6 +2,7 @@ import { siteConfig } from '../site';
 import {
 	defaultLocale,
 	localeCodes,
+	localeMap,
 	type LocaleCode,
 	locales,
 } from '../i18n/locales';
@@ -67,8 +68,10 @@ export function getBlogLocaleSwitchHref(pathname: string, targetLocale: LocaleCo
 }
 
 export function getBlogPostPath(locale: LocaleCode, slug: string): string {
-	const base = getBlogBasePath(locale);
-	return `${base}${slug}/`;
+	if (locale === defaultLocale) {
+		return `/${slug}/`;
+	}
+	return `/${locale}/${slug}/`;
 }
 
 export function absoluteBlogUrl(locale: LocaleCode, slug?: string): string {
@@ -124,27 +127,41 @@ export function getPostBySlug(locale: LocaleCode, slug: string): ResolvedBlogPos
 	return post ? resolvePost(post, locale) : undefined;
 }
 
-/** Hreflang alternates for a blog post — English only (locale blogs redirect to EN). */
+/** Hreflang alternates for a blog post — all 22 locales. */
 export function getBlogPostHreflangAlternates(
 	post: BlogPostDefinition,
 	currentLocale: LocaleCode = defaultLocale,
 ) {
-	const enSlug = post.translations[defaultLocale].slug;
-	const enHref = absoluteBlogUrl(defaultLocale, enSlug);
-	const enTag = locales.find((l) => l.code === defaultLocale)!.hreflang;
+	const byLocale = localeCodes.map((code) => ({
+		hreflang: localeMap[code].hreflang,
+		href: absoluteBlogUrl(code, post.translations[code].slug),
+		code,
+	}));
+	const self = byLocale.find((alt) => alt.code === currentLocale)!;
+	const others = byLocale.filter((alt) => alt.code !== currentLocale);
 	return [
-		{ hreflang: enTag, href: enHref },
-		{ hreflang: 'x-default' as const, href: enHref },
+		{ hreflang: self.hreflang, href: self.href },
+		...others.map(({ hreflang, href }) => ({ hreflang, href })),
+		{
+			hreflang: 'x-default' as const,
+			href: absoluteBlogUrl(defaultLocale, post.translations[defaultLocale].slug),
+		},
 	];
 }
 
-/** Hreflang alternates for a blog index — English only. */
-export function getBlogIndexHreflangAlternates(_currentLocale: LocaleCode = defaultLocale) {
-	const enHref = absoluteBlogUrl(defaultLocale);
-	const enTag = locales.find((l) => l.code === defaultLocale)!.hreflang;
+/** Hreflang alternates for a blog index — all 22 locales. */
+export function getBlogIndexHreflangAlternates(currentLocale: LocaleCode = defaultLocale) {
+	const byLocale = localeCodes.map((code) => ({
+		hreflang: localeMap[code].hreflang,
+		href: absoluteBlogUrl(code),
+		code,
+	}));
+	const self = byLocale.find((alt) => alt.code === currentLocale)!;
+	const others = byLocale.filter((alt) => alt.code !== currentLocale);
 	return [
-		{ hreflang: enTag, href: enHref },
-		{ hreflang: 'x-default' as const, href: enHref },
+		{ hreflang: self.hreflang, href: self.href },
+		...others.map(({ hreflang, href }) => ({ hreflang, href })),
+		{ hreflang: 'x-default' as const, href: absoluteBlogUrl(defaultLocale) },
 	];
 }
 

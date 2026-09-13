@@ -1,10 +1,14 @@
 import { seoFaqs, siteConfig, type FaqItem } from './site';
+import { defaultLocale, type LocaleCode } from './i18n/locales';
 import { crawlPhotoMeta } from './page-images';
 
 export const faqBasePath = '/faq/';
 
-export function getFaqPath(slug: string): string {
-	return `${faqBasePath}${slug}/`;
+export function getFaqPath(slug: string, locale: LocaleCode = defaultLocale): string {
+	if (locale === defaultLocale) {
+		return `${faqBasePath}${slug}/`;
+	}
+	return `/${locale}/faq/${slug}/`;
 }
 
 export function absoluteFaqUrl(slug?: string): string {

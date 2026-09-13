@@ -1,11 +1,20 @@
 ---
+import BlogPostPage from '../../../components/BlogPostPage.astro';
 import LocalizedPage from '../../../components/LocalizedPage.astro';
-import { localeCodes, defaultLocale, isLocaleCode } from '../../../data/i18n/locales';
+import { blogPosts, getPostBySlug } from '../../../data/blog/helpers';
+import { localeCodes, defaultLocale, isLocaleCode, type LocaleCode } from '../../../data/i18n/locales';
 import { localizedSlugs, pageIds, type PageId } from '../../../data/i18n/routing';
 import { sitemapExcludedPageIds } from '../../../data/seo-canonical';
 
+type PathProps =
+	| { locale: LocaleCode; pageId: PageId; isBlogPost?: false }
+	| { locale: LocaleCode; isBlogPost: true; blogSlug: string };
+
 export function getStaticPaths() {
-	const paths: { params: { lang: string; slug: string }; props: { locale: typeof localeCodes[number]; pageId: PageId } }[] = [];
+	const paths: {
+		params: { lang: string; slug: string };
+		props: PathProps;
+	}[] = [];
 
 	for (const lang of localeCodes) {
 		if (lang === defaultLocale) continue;
@@ -16,16 +25,34 @@ export function getStaticPaths() {
 			if (!slug) continue;
 			paths.push({ params: { lang, slug }, props: { locale: lang, pageId } });
 		}
+		for (const post of blogPosts) {
+			const slug = post.translations[lang].slug;
+			paths.push({
+				params: { lang, slug },
+				props: { locale: lang, isBlogPost: true, blogSlug: slug },
+			});
+		}
 	}
 
 	return paths;
 }
 
-const { locale, pageId } = Astro.props;
+const props = Astro.props as PathProps;
 
 if (!isLocaleCode(Astro.params.lang ?? '')) {
 	return Astro.redirect('/');
 }
+
+const blogPost = props.isBlogPost ? getPostBySlug(props.locale, props.blogSlug) : undefined;
+if (props.isBlogPost && !blogPost) {
+	return Astro.redirect('/404/', 404);
+}
 ---
 
-<LocalizedPage locale={locale} pageId={pageId} />
+{
+	props.isBlogPost && blogPost ? (
+		<BlogPostPage locale={props.locale} post={blogPost} />
+	) : (
+		<LocalizedPage locale={(props as { locale: LocaleCode; pageId: PageId }).locale} pageId={(props as { locale: LocaleCode; pageId: PageId }).pageId} />
+	)
+}

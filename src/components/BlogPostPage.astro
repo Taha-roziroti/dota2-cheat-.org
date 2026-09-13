@@ -27,7 +27,7 @@ const ui = blogUi[locale];
 const tServer = getT(locale);
 const t = post.translation;
 const homeHref = getLocalizedPath('home', locale);
-const blogHref = getBlogBasePath(defaultLocale);
+const blogHref = getBlogBasePath(locale);
 const related = getRelatedPostsByCategory(post, 3);
 const topicLinks = getTopicLinksForBlogCategory(post.category);
 
@@ -46,7 +46,7 @@ const articleBodyText = [
 const wordCount = countWords(articleBodyText);
 const metaKeywords = t.keywords.slice(0, 4);
 
-const articleUrl = absoluteBlogUrl(defaultLocale, post.translations[defaultLocale]?.slug ?? t.slug);
+const articleUrl = absoluteBlogUrl(locale, t.slug);
 const hreflangAlternates = getBlogPostHreflangAlternates(post, locale);
 const articleSchema = {
 	'@type': 'BlogPosting',
@@ -72,7 +72,7 @@ const articleSchema = {
 		'@type': 'WebPage',
 		'@id': `${articleUrl}#webpage`,
 	},
-	isPartOf: { '@id': `${absoluteBlogUrl(defaultLocale)}#collection` },
+	isPartOf: { '@id': `${absoluteBlogUrl(locale)}#collection` },
 	keywords: metaKeywords.join(', '),
 	articleSection: post.category,
 };

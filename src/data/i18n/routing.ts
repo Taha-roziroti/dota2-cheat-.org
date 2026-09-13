@@ -8,6 +8,13 @@ import {
 	locales,
 } from './locales';
 import { getCannibalTargetId, isCannibalPageId } from '../seo-cannibal-map';
+import { blogPosts } from '../blog/posts.generated';
+
+const blogPostSlugs = new Set(blogPosts.map((post) => post.translations.en.slug));
+
+export function isBlogPostSlug(slug: string): boolean {
+	return blogPostSlugs.has(slug);
+}
 
 /** Canonical page identifiers shared across all locales. */
 export type PageId =
@@ -693,6 +700,16 @@ export function localizeInternalHref(href: string, locale: LocaleCode): string {
 	if (withSlash === '/cheats/' || withSlash === '/warzone-cheats/') {
 		return getLocalizedPath('hacks', locale);
 	}
+	if (withSlash.startsWith('/blog/') && withSlash !== '/blog/') {
+		const legacySlug = withSlash.slice('/blog/'.length, -1);
+		if (isBlogPostSlug(legacySlug)) {
+			return locale === defaultLocale ? `/${legacySlug}/` : `/${locale}/${legacySlug}/`;
+		}
+	}
+	const rootSlug = trimmed.replace(/^\//, '');
+	if (rootSlug && isBlogPostSlug(rootSlug)) {
+		return locale === defaultLocale ? `/${rootSlug}/` : `/${locale}/${rootSlug}/`;
+	}
 	for (const pageId of pageIds) {
 		const english = englishPaths[pageId];
 		if (english === withSlash || english.replace(/\/+$/, '') === trimmed) {
@@ -769,6 +786,10 @@ export type PageContext = {
 	blogSlug?: string;
 	isReviewsIndex?: boolean;
 	reviewSlug?: string;
+	isFaqIndex?: boolean;
+	faqSlug?: string;
+	isGuidesIndex?: boolean;
+	guideSlug?: string;
 };
 
 function normalizePathname(pathname: string): string {
@@ -809,9 +830,27 @@ export function resolvePageContextFromPath(pathname: string): PageContext {
 
 	if (rest[0] === 'reviews') {
 		if (rest.length === 1) {
-			return { locale: defaultLocale, isReviewsIndex: true };
+			return { locale, isReviewsIndex: true };
 		}
-		return { locale: defaultLocale, reviewSlug: rest[1] };
+		return { locale, reviewSlug: rest[1] };
+	}
+
+	if (rest[0] === 'faq') {
+		if (rest.length === 1) {
+			return { locale, isFaqIndex: true };
+		}
+		return { locale, faqSlug: rest[1] };
+	}
+
+	if (rest[0] === 'guides') {
+		if (rest.length === 1) {
+			return { locale, isGuidesIndex: true };
+		}
+		return { locale, guideSlug: rest[1] };
+	}
+
+	if (rest.length === 1 && isBlogPostSlug(rest[0])) {
+		return { locale, blogSlug: rest[0] };
 	}
 
 	if (locale === defaultLocale) {
@@ -824,10 +863,26 @@ export function resolvePageContextFromPath(pathname: string): PageContext {
 /** Target URL for the same page in another locale (non-blog pages). */
 export function getPageLocaleSwitchHref(context: PageContext, targetLocale: LocaleCode): string {
 	if (context.isReviewsIndex) {
-		return '/reviews/';
+		return targetLocale === defaultLocale ? '/reviews/' : `/${targetLocale}/reviews/`;
 	}
 	if (context.reviewSlug) {
-		return `/reviews/${context.reviewSlug}/`;
+		return targetLocale === defaultLocale
+			? `/reviews/${context.reviewSlug}/`
+			: `/${targetLocale}/reviews/${context.reviewSlug}/`;
+	}
+	if (context.isFaqIndex) {
+		return getLocalizedPath('faq', targetLocale);
+	}
+	if (context.faqSlug) {
+		return targetLocale === defaultLocale
+			? `/faq/${context.faqSlug}/`
+			: `/${targetLocale}/faq/${context.faqSlug}/`;
+	}
+	if (context.isGuidesIndex) {
+		return '/guides/';
+	}
+	if (context.guideSlug) {
+		return '/guides/';
 	}
 	if (context.pageId) {
 		return getLocalizedPath(context.pageId, targetLocale);

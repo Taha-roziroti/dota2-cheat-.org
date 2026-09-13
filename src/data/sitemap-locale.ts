@@ -20,7 +20,10 @@ export type LocaleSitemapEntry = {
 /** Non-English locale codes included in regional sitemaps. */
 export const i18nLocaleCodes = localeCodes.filter((code) => code !== defaultLocale);
 
-const BLOG_PAGES_PER_LOCALE = 0; // Locale blogs 301 to EN — not indexed
+import { getBlogSitemapEntriesForLocale } from './blog/helpers';
+
+/** Blog index + posts per locale sitemap (flat post URLs under /{locale}/). */
+export const BLOG_PAGES_PER_LOCALE = 31;
 
 /** Build sitemap entries for one non-English locale (product pages + blog URLs). */
 export function buildLocaleSitemapEntries(locale: LocaleCode): LocaleSitemapEntry[] {
@@ -55,13 +58,16 @@ export function buildLocaleSitemapEntries(locale: LocaleCode): LocaleSitemapEntr
 		};
 	});
 
-	const blogEntries: LocaleSitemapEntry[] = [];
+	const blogEntries: LocaleSitemapEntry[] = getBlogSitemapEntriesForLocale(locale).map((entry) => ({
+		path: entry.path,
+		lastmod: entry.lastmod,
+		priority: entry.priority,
+		changefreq: entry.changefreq,
+		image: entry.images[0],
+	}));
 
 	return [...productEntries, ...blogEntries];
 }
-
-
-export { BLOG_PAGES_PER_LOCALE };
 
 export function localeSitemapFilename(locale: LocaleCode): string {
 	return `sitemap-${locale}.xml`;

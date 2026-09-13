@@ -1,11 +1,19 @@
 import { customerReviews, siteConfig } from './site';
+import { defaultLocale, type LocaleCode } from './i18n/locales';
 import { reviewsSitemapImageMeta } from './brand-sitemap';
 import { absoluteImageUrl, crawlPhotoMeta, reviewsImageSrc } from './page-images';
 
 export const reviewsBasePath = '/reviews/';
 
-export function getReviewPath(slug: string): string {
-	return `${reviewsBasePath}${slug}/`;
+export function getReviewPath(slug: string, locale: LocaleCode = defaultLocale): string {
+	if (locale === defaultLocale) {
+		return `${reviewsBasePath}${slug}/`;
+	}
+	return `/${locale}/reviews/${slug}/`;
+}
+
+export function getReviewsBasePath(locale: LocaleCode = defaultLocale): string {
+	return locale === defaultLocale ? reviewsBasePath : `/${locale}/reviews/`;
 }
 
 export function absoluteReviewUrl(slug?: string): string {

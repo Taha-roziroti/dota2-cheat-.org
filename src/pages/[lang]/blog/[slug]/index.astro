@@ -17,11 +17,12 @@ export function getStaticPaths() {
 	return paths;
 }
 
+const lang = Astro.params.lang ?? '';
 const slug = Astro.params.slug ?? '';
 
-if (!isLocaleCode(Astro.params.lang ?? '')) {
-	return Astro.redirect('/blog/', 301);
+if (!isLocaleCode(lang)) {
+	return Astro.redirect(`/${slug}/`, 301);
 }
 
-return Astro.redirect(`/blog/${slug}/`, 301);
+return Astro.redirect(`/${lang}/${slug}/`, 301);
 ---

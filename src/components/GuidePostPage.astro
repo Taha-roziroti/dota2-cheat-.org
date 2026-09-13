@@ -62,7 +62,7 @@ const articleSchema = {
 };
 
 function pageTitle(headline: string): string {
-	const suffix = ' | Guides';
+	const suffix = ` | ${t('common.guides')}`;
 	if (headline.length + suffix.length <= 60) return `${headline}${suffix}`;
 	return `${headline.slice(0, 57).trim()}…`;
 }
