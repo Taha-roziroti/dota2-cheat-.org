@@ -104,8 +104,6 @@ function HeroInner({
 						playsInline
 						preload="auto"
 						poster={heroVideoPoster ?? heroSrc}
-						width={heroWidth}
-						height={heroHeight}
 					>
 						<source src={heroVideoUrl} type="video/webm" />
 						{heroVideoMp4 ? <source src={heroVideoMp4} type="video/mp4" /> : null}

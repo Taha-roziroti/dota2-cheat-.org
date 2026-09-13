@@ -40,7 +40,7 @@ export const brand = {
 	defaultOgImage: '/images/warzone-screenshot-03.webp',
 	heroImage: '/images/warzone-cheats-hero.webp',
 	/** Cinematic hero loop — homepage hero banner only */
-	heroVideoUrl: '',
+	heroVideoUrl: '/videos/hero.webm',
 	heroVideoMp4: '',
 	demoVideoPoster: '/images/warzone-hero-poster.webp',
 	/** In-game ESP screenshot for homepage about block — never the cinematic hero art. */

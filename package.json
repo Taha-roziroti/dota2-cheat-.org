@@ -21,6 +21,7 @@
 		"optimize:images": "node scripts/optimize-responsive-images.mjs",
 		"fetch:images": "node scripts/fetch-warzone-images.mjs",
 		"fetch:hero": "node scripts/fetch-warzone-hero.mjs",
+		"import:hero-video": "node scripts/import-hero-webm.mjs",
 		"fetch:steam-hero": "node scripts/fetch-steam-hero.mjs",
 		"fetch:screenshots": "node scripts/import-warzone-screenshots.mjs",
 		"generate:brand": "node scripts/generate-brand-assets.mjs",

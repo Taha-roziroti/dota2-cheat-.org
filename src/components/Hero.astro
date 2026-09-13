@@ -42,37 +42,30 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
-		/*
-		 * Wide cinematic bar (3.15:1) — art is top-cropped so the operator head stays in frame.
-		 */
-		--hero-ratio: 3.15 / 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;
-		align-items: center;
-		overflow: clip;
-		background: var(--bg);
-		aspect-ratio: var(--hero-ratio);
+		grid-template-areas: 'hero-stack';
+		align-items: stretch;
 		width: 100%;
 		height: auto;
 		min-height: 0;
-		max-height: none;
+		background: var(--bg);
+		overflow: visible;
+	}
+
+	.hero__media,
+	.hero__veil,
+	.hero__content {
+		grid-area: hero-stack;
 	}
 
 	.hero__media {
-		position: absolute;
-		inset: 0;
+		position: relative;
 		z-index: 0;
-		overflow: hidden;
-	}
-
-	@media (min-width: 901px) {
-		.hero__media video,
-		.hero__media img {
-			width: 100%;
-			height: 100%;
-			margin: 0;
-		}
+		width: 100%;
+		line-height: 0;
+		background: var(--bg);
 	}
 
 	.hero__media picture,
@@ -80,11 +73,13 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero__media video {
 		display: block;
 		width: 100%;
-		height: 100%;
+		height: auto;
+		max-width: 100%;
+		margin: 0;
 	}
 
 	.hero__media video {
-		object-fit: cover;
+		object-fit: contain;
 		object-position: center center;
 		filter: brightness(0.78) contrast(1.04);
 		animation: hero-in 0.9s ease-out both;
@@ -94,20 +89,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		display: none;
 	}
 
-	@media (max-width: 900px) {
-		.hero__media img.hero__poster-fallback {
-			display: block;
-			position: absolute;
-			inset: 0;
-		}
-
-		.hero__media video {
-			display: none;
-		}
-	}
-
 	.hero__media img {
-		object-fit: cover;
+		object-fit: contain;
 		object-position: center center;
 		image-rendering: auto;
 		transform: translateZ(0);
@@ -116,9 +99,11 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	.hero__veil {
-		position: absolute;
-		inset: 0;
+		position: relative;
 		z-index: 1;
+		align-self: stretch;
+		width: 100%;
+		min-height: 100%;
 		pointer-events: none;
 		background:
 			linear-gradient(
@@ -143,6 +128,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		pointer-events: none;
 		padding-block: var(--hero-pad-y);
 		align-self: center;
+		justify-self: start;
+		width: 100%;
 		transform: none;
 		display: grid;
 		grid-template-columns: minmax(0, 1fr);
@@ -325,24 +312,10 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	 * Mobile: overlay copy on lower third; keep a tall enough strip for art + text.
 	 */
 	@media (max-width: 900px) {
-		.hero {
-			aspect-ratio: auto;
-			min-height: clamp(22rem, 88vw, 28rem);
-			height: auto;
-		}
-
-		.hero__media {
-			position: absolute;
-			inset: 0;
-			left: 0;
-			width: 100%;
-		}
-
+		.hero__media video,
 		.hero__media img {
-			object-fit: cover;
+			object-fit: contain;
 			object-position: center center;
-			width: 100%;
-			margin-left: 0;
 		}
 
 		.hero__veil {
@@ -357,17 +330,12 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		}
 
 		.hero__content {
-			position: relative;
-			z-index: 2;
-			transform: none;
 			align-self: end;
-			width: 100%;
 			min-height: 0;
 			display: flex;
 			align-items: flex-end;
 			padding-block: 1.35rem 1.2rem;
 			padding-bottom: max(1.2rem, env(safe-area-inset-bottom, 0px));
-			box-sizing: border-box;
 		}
 
 		.hero__copy {
@@ -457,10 +425,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	}
 
 	@media (max-width: 900px) and (orientation: landscape) and (max-height: 480px) {
-		.hero {
-			min-height: min(70svh, 16.5rem);
-		}
-
 		.hero__content {
 			padding-block: 0.85rem 0.8rem;
 		}
