@@ -42,8 +42,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
-		/* Match hero.webm native ratio (1920×1080) — fills width with no letterboxing */
-		--hero-ratio: 16 / 9;
+		/* Match hero.webm content frame (1920×815) — crops baked-in top/bottom bars only */
+		--hero-ratio: 1920 / 815;
 		position: relative;
 		isolation: isolate;
 		display: grid;
