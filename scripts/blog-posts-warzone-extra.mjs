@@ -53,7 +53,7 @@ export const extraBlogPosts = [
 				h2: 'Ricochet, reports, and patch-week habits',
 				paragraphs: [
 					`${EXT.ricochet} updates can change what detected tools look like in telemetry — not just what players see in-game. After every patch, confirm <a href="/updates/">undetected status</a> before Battle Royale queues. Avoid instant fire on pistol rounds and obvious through-smoke shots; those patterns generate reports even on clean builds.`,
-					'For a full stack with maintained rebuilds, compare <a href="/warzone-cheats/">Warzone Cheats</a>, <a href="/pricing/">Pricing</a>, and <a href="/blog/warzone-aimbot-settings-guide/">aimbot settings</a> before you buy.',
+					'For a full stack with maintained rebuilds, compare <a href="/warzone-cheats/">Warzone Cheats</a>, <a href="/pricing/">Pricing</a>, and <a href="/warzone-aimbot-settings-guide/">aimbot settings</a> before you buy.',
 				],
 			},
 		],
@@ -85,7 +85,7 @@ export const extraBlogPosts = [
 				h2: 'How Call of Duty: Warzone recoil actually works',
 				paragraphs: [
 					'Each rifle has a fixed spray pattern with vertical climb and horizontal sway. Crouching, moving, and first-shot accuracy all change where bullets land. Players searching warzone no recoil usually want assault rifles and SMGs beams at 15–30 meters — the range where most mid-range gunfights happen.',
-					'Practice in the range with burst fire before full sprays. Pull down smoothly during the first six bullets, then micro-adjust for horizontal ticks. Our <a href="/blog/warzone-warmup-routine/">warmup routine</a> includes a five-minute spray block you can run before public matches.',
+					'Practice in the range with burst fire before full sprays. Pull down smoothly during the first six bullets, then micro-adjust for horizontal ticks. Our <a href="/warzone-warmup-routine/">warmup routine</a> includes a five-minute spray block you can run before public matches.',
 				],
 			},
 			{
@@ -184,7 +184,7 @@ export const extraBlogPosts = [
 				h2: 'Radar + ESP — avoid double-reading',
 				paragraphs: [
 					'When wallhack is on, radar confirms rotations you already see through walls. Turn radar up when holding anchor — you are not looking at every angle. Turn ESP detail down on exec sites so you react from one source of truth.',
-					'Read our <a href="/warzone-radar-hack/">radar hack product page</a> and <a href="/blog/warzone-esp-wallhack-explained/">ESP explainer</a> for complementary setups.',
+					'Read our <a href="/warzone-radar-hack/">radar hack product page</a> and <a href="/warzone-esp-wallhack-explained/">ESP explainer</a> for complementary setups.',
 				],
 			},
 			{
@@ -276,7 +276,7 @@ export const extraBlogPosts = [
 				h2: 'What warzone cheat software actually ships',
 				paragraphs: [
 					'Legitimate warzone cheats for PC include overlays: player ESP, gadget markers, soft aim, radar, streamproof, and config save/load. Warzone Cheats does not market unlock all or skin unlock modules.',
-					'Compare <a href="/features/">Features</a> and <a href="/blog/warzone-cheats-buyers-guide/">buyers guide</a> before paying for vague "mod menu" listings.',
+					'Compare <a href="/features/">Features</a> and <a href="/warzone-cheats-buyers-guide/">buyers guide</a> before paying for vague "mod menu" listings.',
 				],
 			},
 			{
@@ -322,7 +322,7 @@ export const extraBlogPosts = [
 				h2: 'Per-weapon profiles',
 				paragraphs: [
 					'Operator and Marshal need tight FOV and low assist — one-tap weapons punish lazy tracking. SMGs and Spectre tolerate wider FOV on entry. Save separate configs and load before each session.',
-					'Deep dive: <a href="/blog/warzone-aimbot-settings-guide/">aimbot settings guide</a> and <a href="/warzone-aimbot/">product page</a>.',
+					'Deep dive: <a href="/warzone-aimbot-settings-guide/">aimbot settings guide</a> and <a href="/warzone-aimbot/">product page</a>.',
 				],
 			},
 			{
@@ -413,13 +413,13 @@ export const extraBlogPosts = [
 				h2: 'Radar corner and spike ESP',
 				paragraphs: [
 					'Custom radar in the corner indicates 2D radar hack bundled with ESP. Spike and gadget labels prove attacker utility ESP is active — watch for turret and trap callouts on Killjoy and Chamber clips.',
-					'Compare what clips show to our <a href="/warzone-esp/">ESP page</a> and <a href="/blog/warzone-wallhack-features/">wallhack features</a> article.',
+					'Compare what clips show to our <a href="/warzone-esp/">ESP page</a> and <a href="/warzone-wallhack-features/">wallhack features</a> article.',
 				],
 			},
 			{
 				h2: 'Before you buy — verify maintenance',
 				paragraphs: [
-					'Clips are often weeks old. Check <a href="/updates/">Updates</a> for the clip date versus last rebuild. Read <a href="/reviews/">buyer reviews</a> and <a href="/blog/warzone-cheats-buyers-guide/">buyers guide</a>, then compare <a href="/pricing/">Pricing</a>.',
+					'Clips are often weeks old. Check <a href="/updates/">Updates</a> for the clip date versus last rebuild. Read <a href="/reviews/">buyer reviews</a> and <a href="/warzone-cheats-buyers-guide/">buyers guide</a>, then compare <a href="/pricing/">Pricing</a>.',
 				],
 			},
 		],
@@ -458,13 +458,13 @@ export const extraBlogPosts = [
 				h2: 'Red flags when comparing shops',
 				paragraphs: [
 					'No dated status page, lifetime "never detected" claims, unlock-all bundled with gameplay cheats, or checkout only through anonymous crypto. Support email and refund policy should be visible before payment.',
-					'Read <a href="/blog/warzone-cheats-vs-cheatspike/">comparison methodology</a> and <a href="/faq/">FAQ</a> for delivery and license questions.',
+					'Read <a href="/warzone-cheats-vs-cheatspike/">comparison methodology</a> and <a href="/faq/">FAQ</a> for delivery and license questions.',
 				],
 			},
 			{
 				h2: 'Next steps',
 				paragraphs: [
-					'Start at <a href="/warzone-cheats/">Warzone Cheats</a>, verify <a href="/updates/">undetected status</a>, follow <a href="/setup/">Setup</a>, tune on <a href="/blog/warzone-mod-menu-overview/">mod menu overview</a>. Monthly ($35) vs lifetime ($150) on <a href="/pricing/">Pricing</a>.',
+					'Start at <a href="/warzone-cheats/">Warzone Cheats</a>, verify <a href="/updates/">undetected status</a>, follow <a href="/setup/">Setup</a>, tune on <a href="/warzone-mod-menu-overview/">mod menu overview</a>. Monthly ($35) vs lifetime ($150) on <a href="/pricing/">Pricing</a>.',
 				],
 			},
 		],
@@ -548,7 +548,7 @@ export const extraBlogPosts = [
 				h2: 'Map-by-map ESP and gadget priorities',
 				paragraphs: [
 					'On Bind and Haven, spike ESP and attacker gadget markers save retake timing. On Split and Fracture, skeleton ESP through vertical angles matters more. Toggle categories so only match-critical overlays stay on screen.',
-					'Read <a href="/warzone-esp/">ESP wallhack</a>, <a href="/blog/warzone-wallhack-features/">wallhack features</a>, and <a href="/undetected-warzone-cheats/">undetected status</a> before act day queues.',
+					'Read <a href="/warzone-esp/">ESP wallhack</a>, <a href="/warzone-wallhack-features/">wallhack features</a>, and <a href="/undetected-warzone-cheats/">undetected status</a> before act day queues.',
 				],
 			},
 			{
@@ -598,7 +598,7 @@ export const extraBlogPosts = [
 			{
 				h2: 'Where to compare gameplay features instead',
 				paragraphs: [
-					'For match advantage, start at <a href="/warzone-cheats/">Warzone Cheats</a>, <a href="/warzone-esp/">ESP</a>, and <a href="/warzone-aimbot/">Aimbot</a>. Read <a href="/blog/best-warzone-cheats-2026-comparison/">2026 comparison</a> before checkout.',
+					'For match advantage, start at <a href="/warzone-cheats/">Warzone Cheats</a>, <a href="/warzone-esp/">ESP</a>, and <a href="/warzone-aimbot/">Aimbot</a>. Read <a href="/best-warzone-cheats-2026-comparison/">2026 comparison</a> before checkout.',
 				],
 			},
 		],

@@ -616,7 +616,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Updates</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -746,7 +746,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Updates</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">warzone cheats pillar</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">warzone cheats pillar</a>.",
 							],
 						},
 					],
@@ -783,7 +783,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">warzone cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">warzone cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">warzone cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Support page</a>.",
 							],
 						},
@@ -792,7 +792,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">aimbot profiles</a> and ESP toggles.",
 								"Compare against <a href=\"/\">warzone cheats</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -1024,7 +1024,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Updates</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">warzone cheats pillar</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">pricing</a>.",
 							],
 						},
@@ -1880,7 +1880,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guía de trucos indetectables</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Mantenimiento Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -2010,7 +2010,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y Call of Duty: Warzone Aimbot indetectables para Call of Duty: Warzone en Windows PC. cómo se gestionan las actualizaciones Ricochet para Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guía de trucos indetectables</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Mantenimiento Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -2047,7 +2047,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Soporte</a>.",
 							],
 						},
@@ -2056,7 +2056,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot y soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Producto completo</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -2288,7 +2288,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Guía de trucos indetectables</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Resumen Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
@@ -3090,7 +3090,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guide triches indétectables</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Maintenance Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -3220,7 +3220,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et Call of Duty: Warzone Aimbot indétectables pour Call of Duty: Warzone sur PC Windows. gestion des mises à jour Ricochet pour Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guide triches indétectables</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Maintenance Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -3257,7 +3257,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
@@ -3266,7 +3266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot et soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produit complet</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -3498,7 +3498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Guide triches indétectables</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Aperçu Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
@@ -4300,7 +4300,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected Cheats Guide</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet Wartung</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -4430,7 +4430,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und Call of Duty: Warzone Aimbot als undetected Paket für Call of Duty: Warzone auf Windows PC. wie Ricochet Updates für Warzone Cheats gehandhabt werden",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected Cheats Guide</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet Wartung</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a>.",
 							],
 						},
 					],
@@ -4467,7 +4467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
@@ -4476,7 +4476,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot und Soft Aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Vollständiges Produkt</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -4708,7 +4708,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected Cheats Guide</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats Übersicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
@@ -5510,7 +5510,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guia de cheats indetectáveis</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Manutenção Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -5640,7 +5640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e Call of Duty: Warzone Aimbot indetectáveis para Call of Duty: Warzone no PC Windows. como as atualizações Ricochet são tratadas para Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guia de cheats indetectáveis</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Manutenção Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -5677,7 +5677,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Suporte</a>.",
 							],
 						},
@@ -5686,7 +5686,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produto completo</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -5918,7 +5918,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Guia de cheats indetectáveis</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Visão geral Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
@@ -6720,7 +6720,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Guida cheat indetectable</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Manutenzione Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -6850,7 +6850,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e Call of Duty: Warzone Aimbot indetectable per Call of Duty: Warzone su PC Windows. come vengono gestiti gli aggiornamenti Ricochet per Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Guida cheat indetectable</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Manutenzione Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -6887,7 +6887,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Supporto</a>.",
 							],
 						},
@@ -6896,7 +6896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot e soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Prodotto completo</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -7128,7 +7128,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Guida cheat indetectable</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Panoramica Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
@@ -7930,7 +7930,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats gids</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet onderhoud</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -8060,7 +8060,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en Call of Duty: Warzone Aimbot als undetected pakket voor Call of Duty: Warzone op Windows PC. hoe Ricochet updates worden afgehandeld voor Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats gids</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet onderhoud</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a>.",
 							],
 						},
 					],
@@ -8097,7 +8097,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
@@ -8106,7 +8106,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot en soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Volledig product</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -8338,7 +8338,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected cheats gids</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats overzicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
@@ -9140,7 +9140,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Przewodnik cheatów undetected</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Konserwacja Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -9270,7 +9270,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats łączy ESP wallhack, radar hack i Call of Duty: Warzone Aimbot jako pakiet undetected dla Call of Duty: Warzone na PC Windows. jak obsługiwane są aktualizacje Ricochet dla Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Przewodnik cheatów undetected</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Konserwacja Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -9307,7 +9307,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Wsparcie</a>.",
 							],
 						},
@@ -9316,7 +9316,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot i soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Pełny produkt</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -9548,7 +9548,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Przewodnik cheatów undetected</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Przegląd Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
@@ -10350,7 +10350,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Гайд undetected читов</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Обслуживание Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -10480,7 +10480,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats объединяет ESP wallhack, radar hack и Call of Duty: Warzone Aimbot в undetected пакете для Call of Duty: Warzone на Windows PC. как обрабатываются обновления Ricochet для Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected читов</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Обслуживание Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -10517,7 +10517,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Поддержка</a>.",
 							],
 						},
@@ -10526,7 +10526,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot и soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Полный продукт</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -10758,7 +10758,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Гайд undetected читов</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Обзор Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
@@ -11560,7 +11560,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected hile rehberi</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet bakımı</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -11690,7 +11690,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats, Call of Duty: Warzone için Windows PC üzerinde ESP wallhack, radar hack ve Call of Duty: Warzone Aimbot undetected paket sunar. Warzone cheats için Ricochet güncellemelerinin nasıl yönetildiği",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected hile rehberi</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet bakımı</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a>.",
 							],
 						},
 					],
@@ -11727,7 +11727,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">SSS</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">SSS</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Destek</a>.",
 							],
 						},
@@ -11736,7 +11736,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot ve soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Tam ürün</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -11968,7 +11968,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected hile rehberi</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats genel bakış</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
@@ -12770,7 +12770,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">دليل الغش غير المكتشف</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">صيانة Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -12900,7 +12900,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats يجمع ESP wallhack وradar hack وCall of Duty: Warzone Aimbot غير مكتشف لـ Call of Duty: Warzone على Windows PC. كيف تُدار تحديثات Ricochet لـ Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">دليل الغش غير المكتشف</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">صيانة Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -12937,7 +12937,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">الأسئلة الشائعة</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">الأسئلة الشائعة</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">الدعم</a>.",
 							],
 						},
@@ -12946,7 +12946,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot وSoft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">المنتج الكامل</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -13178,7 +13178,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">دليل الغش غير المكتشف</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">نظرة عامة على Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
@@ -13980,7 +13980,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetectedチートガイド</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochetメンテナンス</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -14110,7 +14110,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone CheatsはCall of Duty: Warzone向けWindows PC用ESP wallhack、radar hack、Call of Duty: Warzone Aimbotのundetectedパッケージです。Warzone cheats向けRicochet更新の対応方法",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetectedチートガイド</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochetメンテナンス</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats概要</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats概要</a>.",
 							],
 						},
 					],
@@ -14147,7 +14147,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats概要</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats概要</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats概要</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">サポート</a>.",
 							],
 						},
@@ -14156,7 +14156,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot・Soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">製品全体</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -14388,7 +14388,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetectedチートガイド</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats概要</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
@@ -15190,7 +15190,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected 치트 가이드</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet 유지보수</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -15320,7 +15320,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats는 Call of Duty: Warzone Windows PC용 ESP wallhack, radar hack, Call of Duty: Warzone Aimbot undetected 패키지입니다. Warzone cheats용 Ricochet 업데이트 처리 방법",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected 치트 가이드</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet 유지보수</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a>.",
 							],
 						},
 					],
@@ -15357,7 +15357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">지원</a>.",
 							],
 						},
@@ -15366,7 +15366,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot 및 soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">전체 제품</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -15598,7 +15598,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected 치트 가이드</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats 개요</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
@@ -16400,7 +16400,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected作弊指南</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet维护</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -16530,7 +16530,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats为Call of Duty: WarzoneWindows PC提供ESP wallhack、radar hack和Call of Duty: Warzone Aimbotundetected套餐。Warzone cheats的Ricochet更新处理方式",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected作弊指南</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats概览</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats概览</a>.",
 							],
 						},
 					],
@@ -16567,7 +16567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats概览</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats概览</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">常见问题</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats概览</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">常见问题</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">支持</a>.",
 							],
 						},
@@ -16576,7 +16576,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
 								"Compare against <a href=\"/\">完整产品</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -16808,7 +16808,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected作弊指南</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats概览</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">商店</a>.",
 							],
 						},
@@ -17610,7 +17610,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats गाइड</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet रखरखाव</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -17740,7 +17740,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats Call of Duty: Warzone के लिए Windows PC पर ESP wallhack, radar hack और Call of Duty: Warzone Aimbot undetected पैकेज देता है। Warzone cheats के लिए Ricochet updates कैसे handle होते हैं",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats गाइड</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet रखरखाव</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a>.",
 							],
 						},
 					],
@@ -17777,7 +17777,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">सहायता</a>.",
 							],
 						},
@@ -17786,7 +17786,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot और soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">पूरा उत्पाद</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -18018,7 +18018,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected cheats गाइड</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats अवलोकन</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
@@ -18820,7 +18820,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Panduan cheat undetected</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Pemeliharaan Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -18950,7 +18950,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan Call of Duty: Warzone Aimbot undetected untuk Call of Duty: Warzone di PC Windows. cara pembaruan Ricochet ditangani untuk Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Panduan cheat undetected</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Pemeliharaan Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -18987,7 +18987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Dukungan</a>.",
 							],
 						},
@@ -18996,7 +18996,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produk lengkap</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -19228,7 +19228,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Panduan cheat undetected</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Ringkasan Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
@@ -20030,7 +20030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">คู่มือ cheat undetected</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">การดูแล Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -20160,7 +20160,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats รวม ESP wallhack, radar hack และ Call of Duty: Warzone Aimbot แบบ undetected สำหรับ Call of Duty: Warzone บน Windows PC วิธีจัดการอัปเดต Ricochet สำหรับ Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">คู่มือ cheat undetected</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">การดูแล Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -20197,7 +20197,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
 							],
 						},
@@ -20206,7 +20206,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot และ soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -20438,7 +20438,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">คู่มือ cheat undetected</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">ภาพรวม Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
@@ -21240,7 +21240,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Hướng dẫn cheat undetected</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Bảo trì Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -21370,7 +21370,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats cung cấp ESP wallhack, radar hack và Call of Duty: Warzone Aimbot undetected cho Call of Duty: Warzone trên PC Windows. cách xử lý cập nhật Ricochet cho Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Hướng dẫn cheat undetected</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Bảo trì Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -21407,7 +21407,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Hỗ trợ</a>.",
 							],
 						},
@@ -21416,7 +21416,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot & soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Sản phẩm đầy đủ</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -21648,7 +21648,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Hướng dẫn cheat undetected</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Tổng quan Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
@@ -22450,7 +22450,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Гайд undetected чітів</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Обслуговування Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -22580,7 +22580,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats об'єднує ESP wallhack, radar hack і Call of Duty: Warzone Aimbot у undetected пакеті для Call of Duty: Warzone на Windows PC. як обробляються оновлення Ricochet для Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Гайд undetected чітів</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Обслуговування Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -22617,7 +22617,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Підтримка</a>.",
 							],
 						},
@@ -22626,7 +22626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot і soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Повний продукт</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -22858,7 +22858,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Гайд undetected чітів</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Огляд Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
@@ -23660,7 +23660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Průvodce undetected cheaty</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Údržba Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -23790,7 +23790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats spojuje ESP wallhack, radar hack a Call of Duty: Warzone Aimbot jako undetected balíček pro Call of Duty: Warzone na Windows PC. jak se řeší aktualizace Ricochet pro Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Průvodce undetected cheaty</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Údržba Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -23827,7 +23827,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Podpora</a>.",
 							],
 						},
@@ -23836,7 +23836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot a soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Kompletní produkt</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -24068,7 +24068,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Průvodce undetected cheaty</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Přehled Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
@@ -24870,7 +24870,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Ghid cheats undetected</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Mentenanță Ricochet</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -25000,7 +25000,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și Call of Duty: Warzone Aimbot undetected pentru Call of Duty: Warzone pe PC Windows. cum sunt gestionate actualizările Ricochet pentru Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Ghid cheats undetected</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Mentenanță Ricochet</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a>.",
 							],
 						},
 					],
@@ -25037,7 +25037,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Suport</a>.",
 							],
 						},
@@ -25046,7 +25046,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot și soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Produs complet</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -25278,7 +25278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Ghid cheats undetected</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Prezentare Warzone Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
@@ -26080,7 +26080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Step one: open <a href=\"/updates/\">Undetected cheats-guide</a> for the latest build date. Step two: read <a href=\"/ricochet-bypass/\">Ricochet-underhåll</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for Battle Royale.",
 								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/blog/warzone-cheats-buyers-guide/\">buyers guide</a>.",
+								"FAQ shortcuts: <a href=\"/faq/are-warzone-cheats-undetected-in-2026/\">undetected in 2026</a> · <a href=\"/faq/warzone-ricochet-bypass/\">ricochet bypass</a> · <a href=\"/warzone-cheats-buyers-guide/\">buyers guide</a>.",
 							],
 						},
 					],
@@ -26210,7 +26210,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och Call of Duty: Warzone Aimbot som undetected paket för Call of Duty: Warzone på Windows PC. hur Ricochet-uppdateringar hanteras för Warzone cheats",
 								"Patch-day checklist: (1) read <a href=\"/updates/\">Undetected cheats-guide</a>, (2) confirm Ricochet notes on <a href=\"/ricochet-bypass/\">Ricochet-underhåll</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/blog/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a>.",
+								"Deep dives: <a href=\"/undetected-warzone-cheats/\">undetected guide</a> · <a href=\"/undetected-warzone-cheats-eac/\">Ricochet reality blog</a> · <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a>.",
 							],
 						},
 					],
@@ -26247,7 +26247,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Before you buy in 2026",
 							paragraphs: [
 								"Read the <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a> checklist, <a href=\"/blog/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
+								"Also compare the <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a> checklist, <a href=\"/warzone-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
 								"Support is available at support@cheatsforwarzone.com via the <a href=\"/support/\">Support</a>.",
 							],
 						},
@@ -26256,7 +26256,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"2026 Battle Royale play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/warzone-aimbot/\">Aimbot och soft aim</a> and ESP toggles.",
 								"Compare against <a href=\"/\">Fullständig produkt</a> criteria and <a href=\"/undetected-warzone-cheats/\">undetected maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/blog/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/blog/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Blog: <a href=\"/warzone-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/warzone-cheats-complete-guide-2026/\">complete guide</a>.",
 							],
 						},
 					],
@@ -26488,7 +26488,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Compare Warzone Cheats vs typical budget shops",
 							paragraphs: [
 								"Budget stores often advertise $7 day keys with Discord-only status. Warzone Cheats ships ESP + radar + soft aim together with public <a href=\"/updates/\">Undetected cheats-guide</a> and email support.",
-								"Read named comparisons: <a href=\"/blog/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/blog/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
+								"Read named comparisons: <a href=\"/warzone-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/warzone-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
 								"Still deciding? <a href=\"/warzone-cheats/\">Warzone Cheats-översikt</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Butik</a>.",
 							],
 						},

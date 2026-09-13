@@ -67,14 +67,14 @@ const sources = [
 				h2: 'Buffs, nerfs, and removed items — a simple framework',
 				paragraphs: [
 					'When an item is removed from match weapon pickup pools, delete it from your mental shopping list the same day. Heavy nerfs demote a weapon from “default kit” to “situational.” Light nerfs are fine if you already shoot cleaner than most lobbies. Buffs deserve a short test block — ten focused matches — before you rebuild your entire progress around them.',
-					'Growth stats and bite damage changes usually matter more than a single gun’s recoil control number. If a popular round loses penetration against shield tiers, your Map push into squad competitive fights suddenly needs a different mag. Pair this reading habit with our <a href="/blog/warzone-weapon-tier-list/">Call of Duty: Warzone player tier list</a> so you are not chasing streamer builds that ignore your budget.',
+					'Growth stats and bite damage changes usually matter more than a single gun’s recoil control number. If a popular round loses penetration against shield tiers, your Map push into squad competitive fights suddenly needs a different mag. Pair this reading habit with our <a href="/warzone-weapon-tier-list/">Call of Duty: Warzone player tier list</a> so you are not chasing streamer builds that ignore your budget.',
 				],
 			},
 			{
 				h2: 'How patches reshuffle loadouts and map plans',
 				paragraphs: [
 					'When mid-tier ARs feel strong, prioritize optics and stats that win 40–70 meter peeks. When recoil gets tighter, play more conservatively near maps and buy stations and avoid ego third-parties. When a map POI shifts — new locked rooms, moved spawns, heli spawn changes — rewrite your first three minutes on that map before you farm it for match goals.',
-					'Keep in-game cosmetics chatter out of patch-day focus. Skin talk is fun; TTK and camping combat-zone patterns are what get you killed. For aggressive juvenile timing after a meta shift, see our <a href="/blog/warzone-weapon-drops-run-strategies/">farming-run strategies</a>.',
+					'Keep in-game cosmetics chatter out of patch-day focus. Skin talk is fun; TTK and camping combat-zone patterns are what get you killed. For aggressive juvenile timing after a meta shift, see our <a href="/warzone-weapon-drops-run-strategies/">farming-run strategies</a>.',
 					`On big mornings, confirm ${EXT.status} looks healthy before you assume your client is broken. Then run a short checklist: note removed items, update your progress “buy list,” play five intentional matches, and only then lock a new main kit.`,
 				],
 			},
@@ -121,7 +121,7 @@ const sources = [
 				h2: 'How to use leaks without getting played',
 				paragraphs: [
 					'Treat late-patch cycle leak waves as theme previews, not release dates. Decide a budget before something hits the store, not during the five-minute panic. A quiet daily habit works: open the shop for one minute, check your wishlist, then leave.',
-					'For official server readability tips that actually affect fights, pair this with our <a href="/blog/warzone-pro-settings-guide/">pro settings guide</a>. Looking clean matters less than seeing the other player first.',
+					'For official server readability tips that actually affect fights, pair this with our <a href="/warzone-pro-settings-guide/">pro settings guide</a>. Looking clean matters less than seeing the other player first.',
 				],
 			},
 		],
@@ -161,13 +161,13 @@ const sources = [
 				h2: 'Ammo, TTK, and peek discipline matter more than brand names',
 				paragraphs: [
 					'Time-to-kill in Call of Duty: Warzone is really time-to-pen. A soft gun with the right rounds beats a loud meta rifle feeding trash ammo into class-five armor. Learn which rounds you can afford this patch cycle, then pick a platform that controls recoil control at your skill level.',
-					'First-shot accuracy decides many peeks. A clean cadence — peek, fire a short burst, jiggle back, re-peek — beats standing still for ego sprays. Pair this mid-range plan with weapon pickup discipline from our <a href="/blog/warzone-weapon-drops-routes-guide/">loadout drop routes guide</a> so you actually load in with the ammo you planned to use.',
+					'First-shot accuracy decides many peeks. A clean cadence — peek, fire a short burst, jiggle back, re-peek — beats standing still for ego sprays. Pair this mid-range plan with weapon pickup discipline from our <a href="/warzone-weapon-drops-routes-guide/">loadout drop routes guide</a> so you actually load in with the ammo you planned to use.',
 				],
 			},
 			{
 				h2: 'Loadout pairings and common mistakes',
 				paragraphs: [
-					'A durable kit is usually a reliable mid-tier AR, an SMG build in buy stations or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In Resurgence sessions, that same spine supports the aggression patterns in our <a href="/blog/warzone-weapon-drops-run-strategies/">economy round strategies article</a>.',
+					'A durable kit is usually a reliable mid-tier AR, an SMG build in buy stations or high-traffic zones, enough meds, and an armor tier you can replace after deaths. In Resurgence sessions, that same spine supports the aggression patterns in our <a href="/warzone-weapon-drops-run-strategies/">economy round strategies article</a>.',
 					'Common mistakes: full-spraying from eighty meters, re-peeking the same pixel, swapping to an SMG at forty meters out of habit, and never practicing controlled bursts offline. If you also use aim-assist tooling, lock aim smoothing and fundamentals first, then review <a href="/warzone-aimbot/">Call of Duty: Warzone Aimbot settings</a>.',
 				],
 			},
@@ -213,7 +213,7 @@ const sources = [
 			{
 				h2: 'Warmup checklist before you load in with a starter kit',
 				paragraphs: [
-					'Know your map’s main bases, bring a simple med plan, and pick two POIs with cover ladders instead of open fields. Pair this article with <a href="/blog/warzone-weapon-drops-routes-guide/">loadout drop routes</a>, <a href="/blog/warzone-weapon-tier-list/">player tiers</a>, and <a href="/blog/warzone-warmup-routine/">warmup routines</a>.',
+					'Know your map’s main bases, bring a simple med plan, and pick two POIs with cover ladders instead of open fields. Pair this article with <a href="/warzone-weapon-drops-routes-guide/">loadout drop routes</a>, <a href="/warzone-weapon-tier-list/">player tiers</a>, and <a href="/warzone-warmup-routine/">warmup routines</a>.',
 					'Try one match where you force early contact only when you have armor and a usable gun — then track whether you extracted before the third-party window closed.',
 				],
 			},
@@ -253,13 +253,13 @@ const sources = [
 				h2: 'Spawn EV and loadout patterns that keep showing up',
 				paragraphs: [
 					'Score every spawn on contest rate, weapon pickup quality in the first few minutes, base safety, exit paths, and split potential with teammates. Edge spawns with clean exits often beat “sexy” mid-map landmarks that look good on stream and then get third-partied.',
-					'Expect a reliable mid-tier AR, an SMG build, mobility or stamina management, and enough meds. High-tier weapon pickup is taken when free, not forced — matching the mindset in our <a href="/blog/warzone-weapon-tier-list/">weapon tier list</a>.',
+					'Expect a reliable mid-tier AR, an SMG build, mobility or stamina management, and enough meds. High-tier weapon pickup is taken when free, not forced — matching the mindset in our <a href="/warzone-weapon-tier-list/">weapon tier list</a>.',
 				],
 			},
 			{
 				h2: 'What actually translates to normal matches',
 				paragraphs: [
-					'Steal weapon pickup-timer discipline, a simple weapon pickup path, earlier rotates, and selective fights. Do not blindly mirror a trio drop when you solo load in. Winners rotate early enough to choose sides — the same idea shows up in our <a href="/blog/warzone-weapon-drops-run-strategies/">eco round aggression guide</a>.',
+					'Steal weapon pickup-timer discipline, a simple weapon pickup path, earlier rotates, and selective fights. Do not blindly mirror a trio drop when you solo load in. Winners rotate early enough to choose sides — the same idea shows up in our <a href="/warzone-weapon-drops-run-strategies/">eco round aggression guide</a>.',
 					'Try this: watch fifteen minutes of a strong stream replay with five timestamps. Steal one mid-session habit only. Run it for a six-session match block before adding another.',
 				],
 			},
@@ -305,7 +305,7 @@ const sources = [
 			{
 				h2: 'Convert a strong load into a win',
 				paragraphs: [
-					'Pair these routes with <a href="/blog/warzone-weapon-drops-run-strategies/">eco round aggression</a> and <a href="/blog/warzone-weapon-tier-list/">player tiers</a>. Leave load in with gear advantage so mid-session becomes a skill check instead of a desperate growth panic.',
+					'Pair these routes with <a href="/warzone-weapon-drops-run-strategies/">eco round aggression</a> and <a href="/warzone-weapon-tier-list/">player tiers</a>. Leave load in with gear advantage so mid-session becomes a skill check instead of a desperate growth panic.',
 					'If you practice with operator markers, read <a href="/warzone-esp/">Call of Duty: Warzone ESP</a> for category toggles — then still run the timer so your habits stay sharp without overlays.',
 				],
 			},
@@ -344,7 +344,7 @@ const sources = [
 			{
 				h2: 'Sensitivity, ADS, and muscle memory',
 				paragraphs: [
-					'Pick one hip-fire and ADS relationship and stick with it for at least a week. Constantly rewriting sens after every death trains nothing. Warm up with the routine in our <a href="/blog/warzone-warmup-routine/">warmup guide</a> so your hands match the new numbers.',
+					'Pick one hip-fire and ADS relationship and stick with it for at least a week. Constantly rewriting sens after every death trains nothing. Warm up with the routine in our <a href="/warzone-warmup-routine/">warmup guide</a> so your hands match the new numbers.',
 					'If you later add soft aim tooling, match the in-game sens first, then tune FOV in the <a href="/warzone-aimbot/">aimbot guide</a>. Tools on top of a chaotic sens feel robotic and obvious.',
 				],
 			},
@@ -352,7 +352,7 @@ const sources = [
 				h2: 'Audio cues that win bases',
 				paragraphs: [
 					'Footsteps, ability cooldowns, and footstep audio often matter more than a tiny graphics slider. Use headphones, keep voice chat from drowning game audio, and learn the sound difference between a footstep shuffle and a player push.',
-					'Settings are leverage, not a cheat code. Pair them with map knowledge from our <a href="/blog/warzone-weapon-drops-routes-guide/">loadout drop routes</a> article so you know where those sounds are coming from.',
+					'Settings are leverage, not a cheat code. Pair them with map knowledge from our <a href="/warzone-weapon-drops-routes-guide/">loadout drop routes</a> article so you know where those sounds are coming from.',
 				],
 			},
 		],
@@ -397,7 +397,7 @@ const sources = [
 			{
 				h2: 'What to do right before you ready up',
 				paragraphs: [
-					'Check progress, ability cooldowns, and match plans, confirm your map bases, and skim <a href="/updates/">cheat status</a> if you use overlays after a patch. Pair warmup with <a href="/blog/warzone-pro-settings-guide/">settings</a> and <a href="/blog/warzone-weapon-tier-list/">player tiers</a> so you are not reinventing the kit every night.',
+					'Check progress, ability cooldowns, and match plans, confirm your map bases, and skim <a href="/updates/">cheat status</a> if you use overlays after a patch. Pair warmup with <a href="/warzone-pro-settings-guide/">settings</a> and <a href="/warzone-weapon-tier-list/">player tiers</a> so you are not reinventing the kit every night.',
 					'If the first two player deaths feel mechanical, stop stacking kits and repeat five minutes of ambush practice. Ego loading in while tilted is not a strategy.',
 				],
 			},
@@ -450,7 +450,7 @@ const sources = [
 			{
 				h2: 'How to buy and set up without wasting a night',
 				paragraphs: [
-					'Compare monthly and lifetime on <a href="/pricing/">Pricing</a>, then follow <a href="/setup/">Setup</a> after delivery. Keep your order ID ready for <a href="/support/">Support</a>. If you are still shopping, the <a href="/blog/warzone-cheats-buyers-guide/">buyers guide</a> lists the checklist we wish every shopper used.',
+					'Compare monthly and lifetime on <a href="/pricing/">Pricing</a>, then follow <a href="/setup/">Setup</a> after delivery. Keep your order ID ready for <a href="/support/">Support</a>. If you are still shopping, the <a href="/warzone-cheats-buyers-guide/">buyers guide</a> lists the checklist we wish every shopper used.',
 					'Warzone Cheats is built for Windows PC solo farmers and matchers play. It will not replace map knowledge — it amplifies the reads you already practice in matches.',
 				],
 			},
@@ -542,7 +542,7 @@ const sources = [
 			{
 				h2: 'What we recommend you do differently this year',
 				paragraphs: [
-					'Check status before patch-day load ins. Keep soft aim conservative. Use operator ESP filters so your screen stays clean. Read the <a href="/blog/warzone-cheats-complete-guide-2026/">complete 2026 guide</a> if you are new to the category.',
+					'Check status before patch-day load ins. Keep soft aim conservative. Use operator ESP filters so your screen stays clean. Read the <a href="/warzone-cheats-complete-guide-2026/">complete 2026 guide</a> if you are new to the category.',
 					'Pricing remains monthly and lifetime on <a href="/pricing/">Pricing</a> with digital delivery after payment.',
 				],
 			},
@@ -678,7 +678,7 @@ const sources = [
 			{
 				h2: 'Where to go next',
 				paragraphs: [
-					'Read <a href="/updates/">undetected warzone cheats</a>, the <a href="/blog/warzone-cheats-complete-guide-2026/">2026 complete guide</a>, and <a href="/pricing/">Pricing</a> if you want the maintained stack. Undetected status is a process you check — not a sticker on the box.',
+					'Read <a href="/updates/">undetected warzone cheats</a>, the <a href="/warzone-cheats-complete-guide-2026/">2026 complete guide</a>, and <a href="/pricing/">Pricing</a> if you want the maintained stack. Undetected status is a process you check — not a sticker on the box.',
 				],
 			},
 		],
@@ -717,7 +717,7 @@ const sources = [
 				h2: 'Price versus what you touch every match',
 				paragraphs: [
 					'If you only want basic player boxes in casual matches, a cheaper shop might feel enough. If you hold bases, run loadout drop routes, and hate dying to unseen flanks, radar and clean filters pay for themselves quickly.',
-					'Our monthly and lifetime options are on <a href="/pricing/">Pricing</a>. Read the <a href="/blog/warzone-cheats-buyers-guide/">buyers guide</a> before you compare three storefronts at once.',
+					'Our monthly and lifetime options are on <a href="/pricing/">Pricing</a>. Read the <a href="/warzone-cheats-buyers-guide/">buyers guide</a> before you compare three storefronts at once.',
 				],
 			},
 			{
@@ -941,7 +941,7 @@ const EXTRA_SECTIONS = {
 			h2: 'Cosmetics vs survival tools — keep the budget split clear',
 			paragraphs: [
 				'Skins are fun, but they do not replace map reads, match timing, or a stable kit. If you play for information advantage, budget for <a href="/warzone-esp/">ESP</a> and <a href="/features/">features</a> before you chase another cosmetic drop.',
-				'When a patch cycle shifts visibility or lighting, revisit your settings in our <a href="/blog/warzone-pro-settings-guide/">pro settings guide</a> before you blame a skin for a lost fight.',
+				'When a patch cycle shifts visibility or lighting, revisit your settings in our <a href="/warzone-pro-settings-guide/">pro settings guide</a> before you blame a skin for a lost fight.',
 			],
 		},
 	],
@@ -1013,7 +1013,7 @@ const EXTRA_SECTIONS = {
 			h2: 'Final checklist before checkout',
 			paragraphs: [
 				'Confirm dated status, operator ESP, radar, soft aim profiles, Windows support, and a written refund policy. If any item is missing, pause — cheap weekly subs add up when rebuilds are slow.',
-				'When the checklist passes, open <a href="/warzone-cheats/">Warzone Cheats</a>, compare <a href="/pricing/">Pricing</a>, and read <a href="/blog/warzone-cheats-complete-guide-2026/">the 2026 complete guide</a> for feature context.',
+				'When the checklist passes, open <a href="/warzone-cheats/">Warzone Cheats</a>, compare <a href="/pricing/">Pricing</a>, and read <a href="/warzone-cheats-complete-guide-2026/">the 2026 complete guide</a> for feature context.',
 			],
 		},
 	],
@@ -1030,7 +1030,7 @@ const EXTRA_SECTIONS = {
 		{
 			h2: 'Build a profile set you can trust in bases',
 			paragraphs: [
-				'Save AR, SMG, and long-range profiles separately. Test each on <a href="/blog/warzone-warmup-routine/">warmup maps</a> before you take a geared player into high-traffic zones.',
+				'Save AR, SMG, and long-range profiles separately. Test each on <a href="/warzone-warmup-routine/">warmup maps</a> before you take a geared player into high-traffic zones.',
 				'Combine tuned aim with <a href="/warzone-esp/">ESP</a> and <a href="/warzone-radar-hack/">radar</a> so you only assist fights you chose on purpose. After patches, confirm <a href="/updates/">Updates</a> before you tweak FOV on an old build.',
 			],
 		},
@@ -1058,7 +1058,7 @@ const EXTRA_SECTIONS = {
 			h2: 'Side-by-side before you choose a shop',
 			paragraphs: [
 				'Open each seller’s status page, feature list, and support channel on the same screen. If one shop hides status in private Discord only, weigh that against a lower sticker price.',
-				'When the checklist favors a full stack, compare <a href="/features/">Features</a> and <a href="/pricing/">Pricing</a> here, then read <a href="/blog/warzone-cheats-buyers-guide/">the buyers guide</a> before checkout.',
+				'When the checklist favors a full stack, compare <a href="/features/">Features</a> and <a href="/pricing/">Pricing</a> here, then read <a href="/warzone-cheats-buyers-guide/">the buyers guide</a> before checkout.',
 			],
 		},
 	],
