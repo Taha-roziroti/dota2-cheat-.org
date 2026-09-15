@@ -397,6 +397,7 @@ const links = [
 	}
 
 	.site-panel {
+		display: none;
 		border-top: 1px solid var(--line-soft);
 		background: var(--bg);
 		padding: 0.35rem 0 max(1.35rem, env(safe-area-inset-bottom, 0px));
@@ -509,7 +510,12 @@ const links = [
 			background: color-mix(in srgb, var(--bg) 88%, transparent);
 		}
 
-		.site-panel {
+		.site-header.is-open .site-panel {
+			display: block;
+			position: fixed;
+			inset-inline: 0;
+			top: calc(var(--header-h) + var(--safe-top, 0px));
+			z-index: 99;
 			max-height: calc(100dvh - var(--header-h) - var(--safe-top, 0px) - var(--safe-bottom, 0px));
 		}
 	}
