@@ -39,11 +39,10 @@ export const brand = {
 	logoRasterHeight: 512,
 	logoAlt: 'Dota 2 cheats site icon — ESP, aimbot and maphack tools for PC',
 	defaultOgImage: '/images/dota2-screenshot-03.webp',
-	heroImage: '/images/hero-banner.webp',
-	/** Placeholder — swap in video background later */
+	heroImage: '/images/dota2-cheats-hero.webp',
 	heroVideoUrl: '',
-	heroVideoMp4: '',
-	demoVideoPoster: '/images/hero-banner.webp',
+	heroVideoMp4: '/videos/Dota2-Hero.mp4',
+	demoVideoPoster: '/images/dota2-cheats-hero.webp',
 	demoScreenshot: '/images/dota2-screenshot-02.webp',
 
 	plans: [
