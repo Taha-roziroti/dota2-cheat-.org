@@ -67,13 +67,13 @@ export const simplePagesEn = {
 			{
 				h2: 'Gadget ESP options',
 				paragraphs: [
-					'Track utility, loadout drops, and operator loadouts through walls for better round reads.',
+					'Track utility, loadout drops, and operator item builds through walls for better round reads.',
 					'Filter gadget ESP categories so only the markers you need stay on screen.',
 				],
 				list: [
 					'Attacker Gadgets',
 					'ESP',
-					'Agents',
+					'heroes',
 					'Spike',
 					'Skeleton',
 					'Health',
@@ -108,7 +108,7 @@ export const simplePagesEn = {
 					'<a href="/dota2-wallhack/">Dota 2 wallhack features</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/forums/">Dota 2 Intel blog</a>',
+					'<a href="/forums/">Dota 2 cheats forums</a>',
 				],
 			},
 		],
@@ -116,9 +116,9 @@ export const simplePagesEn = {
 	pricing: {
 		title: 'Dota 2 Cheats Pricing | $35/mo or $150',
 		description:
-			'Buy Dota 2 cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked matches and Resurgence on PC. Same features, instant delivery.',
+			'Buy Dota 2 cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked and casual matches on PC. Same features, instant delivery.',
 		h1: 'Dota 2 Cheats Pricing — Monthly & Lifetime',
-		intro: 'Monthly and lifetime plans with the same ESP, soft aim, and radar stack.',
+		intro: 'Monthly and lifetime plans with the same ESP, Skillshot assist, and radar stack.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Setup guide',
 		ctaSecondaryHref: '/setup/',
@@ -128,7 +128,7 @@ export const simplePagesEn = {
 				h2: 'What you get',
 				paragraphs: [
 					'Full package access for Windows 10 / 11.',
-					'Same ESP, soft aim, and radar on monthly and lifetime plans.',
+					'Same ESP, Skillshot assist, and radar on monthly and lifetime plans.',
 				],
 				list: ['ESP, aimbot, and radar', 'Patch rebuilds while active', 'Digital delivery after checkout'],
 			},
@@ -157,7 +157,7 @@ export const simplePagesEn = {
 	updates: {
 		title: 'Dota 2 Status | VAC Updates | Dota 2 Cheats',
 		description:
-			'Live status after Dota 2 & VAC patches. Check reliable ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.',
+			'Live status after Dota 2 & VAC patches. Check ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.',
 		h1: 'Status',
 		intro: 'Check maintenance notes before you load in after a Dota 2 or VAC patch.',
 		ctaPrimary: 'Get Access',
@@ -174,7 +174,7 @@ export const simplePagesEn = {
 				list: [
 					'Check this page before every match after a patch',
 					'Monthly and lifetime licenses get rebuilds while active',
-					'No cheat stays reliable forever — status first, then play',
+					'Check patch status after every update — status first, then play',
 				],
 			},
 			{
@@ -198,10 +198,10 @@ export const simplePagesEn = {
 	hacks: {
 		title: 'Dota 2 Cheats Guide | ESP, Aimbot & Radar',
 		description:
-			'Dota 2 cheats guide — reliable ESP wallhack, soft aim, radar & VAC rebuilds for ranked matches and Resurgence on PC. Buy from $35 at dota2cheat.com.',
+			'Dota 2 cheats guide — ESP wallhack, Skillshot assist, radar & VAC rebuilds for ranked and casual matches on PC. Buy from $35 at dota2cheat.com.',
 		h1: 'Dota 2 Cheats — Full Guide',
 		intro:
-			'Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
+			'Dota 2 cheats add ESP, radar, and Skillshot assist on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
@@ -210,21 +210,21 @@ export const simplePagesEn = {
 			{
 				h2: 'What are dota 2 cheats?',
 				paragraphs: [
-					'Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.',
+					'Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, wards and runes visibility, off-screen radar, or smoother aim under pressure.',
 					'Dota 2 Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
 				h2: 'What Dota 2 Cheats includes',
 				paragraphs: [
-					'One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
+					'One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable Skillshot assist profiles per weapon.',
 					'Monthly and lifetime plans include the same feature stack with VAC rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
-					'Weapon drops and resource markers',
+					'wards and runes and resource markers',
 					'2D radar for off-screen threats',
-					'Soft aim & aimbot profiles',
+					'Skillshot assist & aimbot profiles',
 					'VAC rebuilds after patches',
 				],
 			},
@@ -236,20 +236,20 @@ export const simplePagesEn = {
 				],
 				list: [
 					'<a href="/dota2-esp/">Dota 2 ESP & wallhack</a>',
-					'<a href="/dota2-aimbot/">Dota 2 Aimbot & soft aim</a>',
+					'<a href="/dota2-aimbot/">Dota 2 Aimbot & Skillshot assist</a>',
 					'<a href="/dota2-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
-				h2: 'Reliable status & patches',
+				h2: 'patch status & patches',
 				paragraphs: [
-					'Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.',
-					'Read the reliable cheats guide and VAC maintenance notes for the full workflow.',
+					'Dota 2 uses VAC. Check patch status after every update — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.',
+					'Read the dota 2 cheats guide and VAC maintenance notes for the full workflow.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
-					'<a href="/updates/">Reliable cheats guide</a>',
+					'<a href="/updates/">dota 2 cheats guide</a>',
 					'<a href="/vac-bypass/">VAC maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
@@ -271,9 +271,9 @@ export const simplePagesEn = {
 	'dota2-esp': {
 		title: 'Dota 2 ESP | Wallhack & Player Boxes',
 		description:
-			'Dota 2 ESP wallhack — player boxes, operator markers & distance for ranked matches and Resurgence on PC. Bundled with aimbot & radar at dota2cheat.com.',
+			'Dota 2 ESP wallhack — player boxes, hero markers & distance for ranked and casual matches on PC. Bundled with aimbot & radar at dota2cheat.com.',
 		h1: 'Dota 2 ESP — Player Boxes & Wallhack',
-		intro: 'See players and weapon drops through walls during Dota 2 matches. Part of the same Dota 2 Cheats license.',
+		intro: 'See players and wards and runes through walls during Dota 2 matches. Part of the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
@@ -282,16 +282,16 @@ export const simplePagesEn = {
 			{
 				h2: 'What ESP shows',
 				paragraphs: [
-					'Boxes, distance, and filters for players, objects, and weapon drops.',
+					'Boxes, distance, and filters for players, objects, and wards and runes.',
 					'Toggle categories so only match-critical overlays stay active during rotations.',
 				],
-				list: ['Player ESP', 'Weapon drops markers', 'Objective and vehicle filters'],
+				list: ['Player ESP', 'wards and runes markers', 'Objective and vehicle filters'],
 			},
 			{
 				h2: 'When to use it',
 				paragraphs: [
 					'Clear high-traffic POIs and loadout drop routes without flooding the screen.',
-					'Tune opacity and filters for arena zones, spike sectors, and high-traffic PvP areas.',
+					'Tune opacity and filters for arena zones, team fights, and high-traffic PvP areas.',
 				],
 				list: ['Tune opacity', 'Filter noise', 'Pair with radar'],
 			},
@@ -310,11 +310,11 @@ export const simplePagesEn = {
 		],
 	},
 	'dota2-aimbot': {
-		title: 'Dota 2 Aimbot | Soft Aim & FOV Settings',
+		title: 'Dota 2 Aimbot | Skillshot assist & FOV Settings',
 		description:
-			'Dota 2 aimbot with soft aim, FOV & bone priority for ranked operator fights on PC. Reliable package with ESP & radar at dota2cheat.com.',
-		h1: 'Dota 2 Aimbot — Soft Aim for Windows PC',
-		intro: 'Soft aim and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license.',
+			'Dota 2 aimbot with Skillshot assist, FOV & bone priority for ranked operator fights on PC. package with ESP & radar at dota2cheat.com.',
+		h1: 'Dota 2 Aimbot — Skillshot assist for Windows PC',
+		intro: 'Skillshot assist and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
@@ -326,15 +326,15 @@ export const simplePagesEn = {
 					'Set FOV, smoothness, and bone priority before you queue.',
 					'Save per-weapon profiles for ARs, SMGs, and long-range rifles.',
 				],
-				list: ['Soft aim strength', 'Bone priority', 'Hotkeys mid-match'],
+				list: ['Skillshot assist strength', 'Bone priority', 'Hotkeys mid-match'],
 			},
 			{
 				h2: 'Play styles',
 				paragraphs: [
 					'Keep settings subtle for longer matches. Raise strength only when you accept more risk.',
-					'Soft aim works alongside ESP and radar in the same license.',
+					'Skillshot assist works alongside ESP and radar in the same license.',
 				],
-				list: ['Legit soft aim', 'Per-weapon profiles', 'Works with ESP'],
+				list: ['Legit Skillshot assist', 'Per-weapon profiles', 'Works with ESP'],
 			},
 			{
 				h2: 'Next steps',
@@ -353,7 +353,7 @@ export const simplePagesEn = {
 	radar: {
 		title: 'Dota 2 Radar Hack | 2D Threat Map',
 		description:
-			'2D radar hack for flank reads in Dota 2 ranked matches and Resurgence on PC. Bundled with ESP wallhack & soft aim in one license at dota2cheat.com.',
+			'2D radar hack for flank reads in Dota 2 ranked and casual matches on PC. Bundled with ESP wallhack & Skillshot assist in one license at dota2cheat.com.',
 		h1: 'Dota 2 Radar Hack — 2D Threat Awareness',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
@@ -373,7 +373,7 @@ export const simplePagesEn = {
 				h2: 'With ESP',
 				paragraphs: [
 					'Use radar for threats you cannot see yet. Use ESP when you push.',
-					'Radar complements ESP markers during squad pushes and zone fights.',
+					'Radar complements ESP markers during hero pushes and zone fights.',
 				],
 				list: [
 					'<a href="/dota2-esp/">ESP guide</a>',
@@ -386,7 +386,7 @@ export const simplePagesEn = {
 	setup: {
 		title: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Dota 2 Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.',
+			'Install Dota 2 Cheats on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.',
 		h1: 'Setup',
 		intro: 'Install and activate your license on Windows 10 or 11 before your first match.',
 		ctaPrimary: 'Get Access',
@@ -444,7 +444,7 @@ export const simplePagesEn = {
 				h2: 'Faster answers',
 				paragraphs: [
 					'Check FAQ and Status before you write. Many setup questions are already covered.',
-					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Activision and the <a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">official site</a>.',
+					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Valve and the <a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">official site</a>.',
 				],
 				list: ['<a href="/faq/">FAQ</a>', '<a href="/updates/">Status</a>', '<a href="/setup/">Setup</a>'],
 			},
@@ -453,7 +453,7 @@ export const simplePagesEn = {
 	faq: {
 		title: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		description:
-			'FAQ for Dota 2 cheats — delivery, setup, ranked matches and Resurgence use, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.',
+			'FAQ for Dota 2 cheats — delivery, setup, ranked and casual matches use, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.',
 		h1: 'Dota 2 Cheats FAQ — Common Questions',
 		intro: 'Common questions about Dota 2 Cheats — delivery, setup, updates, and refunds.',
 		ctaPrimary: 'Get Access',

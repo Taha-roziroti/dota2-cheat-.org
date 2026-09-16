@@ -5,10 +5,10 @@ export const enPages = {
 	home: {
 		title: 'Dota 2 Esp, Aimbot & Wallhack',
 		description:
-			'Dota 2 cheats with ESP, aimbot and wallhack for ranked matches on PC. Reliable player ESP, loot tags, soft aim, and radar with VAC maintenance.',
+			'Dota 2 cheats with ESP, aimbot and wallhack for ranked matches on PC. player ESP, loot tags, Skillshot assist, and radar with VAC maintenance.',
 		h1: 'Dota 2 Cheats',
 		intro:
-			'Dota 2 Cheats is the reliable dota 2 cheats package for Windows PC — player ESP, item ESP, 2D radar, and configurable aimbot with VAC maintenance after every major patch.',
+			'Dota 2 Cheats is the dota 2 cheats package for Windows PC — player ESP, item ESP, 2D radar, and configurable aimbot with VAC maintenance after every major patch.',
 		imageAlt: 'Dota 2 cheats hero — helicopter drop over the map with tactical operator overlooking the map',
 		galleryTitle: 'Dota 2 Cheats gallery — ESP, Aimbot and wallhack visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -17,29 +17,29 @@ export const enPages = {
 		sections: [
 			section(
 				'Why players choose dota 2 cheats in 2026',
-				'Dota 2 rewards map awareness. Dota 2 Cheats combines ESP wallhack for enemy operators and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked matches, Resurgence, and official servers.',
+				'Dota 2 rewards map awareness. Dota 2 Cheats combines ESP wallhack for enemy heroes and player positions, radar-style threat cues, and configurable Aimbot so you can read fights before committing — in ranked matches, ranked, and official servers.',
 				`Official seasons, patches, and anti-cheat updates come from ${EXT.dota2} and ${EXT.eac}. We rebuild ESP, radar, and Aimbot modules when those patches require maintenance — then post status on the <a href="/updates/">Updates page</a>.`,
 				'Licenses ship digitally after payment confirmation. Monthly ($35) and lifetime ($150) plans include VAC maintenance rebuilds when anti-cheat or game patches require updates.',
-				'Many shops sell ESP-only or aimbot-only modules. Dota 2 Cheats ships player ESP wallhack, operator ability markers, 2D radar overlays, and configurable soft aim in one license — with a public <a href="/updates/">status log</a> after VAC patches.',
-				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/reliable-dota2-cheats/">reliable dota 2 cheats</a>, and review <a href="/">dota 2 cheats 2026</a> criteria before checkout.',
+				'Many shops sell ESP-only or aimbot-only modules. Dota 2 Cheats ships player ESP wallhack, operator ability markers, 2D radar overlays, and configurable Skillshot assist in one license — with a public <a href="/updates/">status log</a> after VAC patches.',
+				'Compare our stack on <a href="/compare/">Compare</a>, read <a href="/premium-dota2-cheats/">dota 2 cheats</a>, and review <a href="/">dota 2 cheats 2026</a> criteria before checkout.',
 			),
 			section(
 				'ESP wallhack, radar hack, and Aimbot in one license',
-				'Instead of stacking separate tools, Dota 2 Cheats bundles player ESP wallhack, operator markers, 2D radar overlays, and Aimbot profiles in one reliable package built for ranked matches rounds and ranked matches matches — covering both “dota 2 cheats” and “dota 2 cheats” search intent.',
+				'Instead of stacking separate tools, Dota 2 Cheats bundles player ESP wallhack, hero markers, 2D radar overlays, and Aimbot profiles in one package built for ranked and casual matches — covering both “dota 2 cheats” and “dota 2 cheats” search intent.',
 				'Browse the <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, <a href="/dota2-esp/">wallhack</a>, and <a href="/dota2-radar-hack/">radar</a> pages for control details — or jump to <a href="/pricing/">Pricing</a> for monthly and lifetime options.',
 				`Before patch days, check ${EXT.status} for Dota 2 server status, then confirm our maintenance notes so you are not loading in on an outdated build.`,
-				'Dota 2 runs VAC at kernel level. No package stays reliable forever without rebuilds. We publish maintenance on <a href="/updates/">Updates</a> and explain the workflow on <a href="/vac-bypass/">VAC bypass</a>.',
-				'Use conservative soft aim FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href="/dota2-aimbot/">legit aimbot settings</a> and <a href="/dota2-cheats-2026/">dota 2 cheats 2026</a> before you queue.',
+				'Dota 2 runs VAC at kernel level. No package stays maintained after patches without rebuilds. We publish maintenance on <a href="/updates/">Updates</a> and explain the workflow on <a href="/vac-bypass/">VAC bypass</a>.',
+				'Use conservative Skillshot assist FOV, enable ESP categories selectively, and avoid rage settings that attract reports even when the build is clean. Read <a href="/dota2-aimbot/">legit aimbot settings</a> and <a href="/dota2-cheats-2026/">dota 2 cheats 2026</a> before you queue.',
 			),
 		],
 	},
 	'dota2-esp': {
 		title: 'Dota 2 ESP | Wallhack & Player Boxes | Dota 2 Cheats',
 		description:
-			'Dota 2 ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable dota 2 cheats with aimbot & radar. Shop at dota2cheat.com.',
+			'Dota 2 ESP wallhack — player boxes, hero markers & distance tags on PC. dota 2 cheats with aimbot & radar. Shop at dota2cheat.com.',
 		h1: 'Dota 2 ESP — Player Boxes & Wallhack',
 		intro:
-			'Dota 2 ESP visibility tools for ranked matches and Resurgence sessions. Read enemy squads, operators, weapon drops, and distance before you commit — toggleable Dota 2 ESP wallhack overlays bundled in our Dota 2 Cheats package.',
+			'Dota 2 ESP visibility tools for ranked and casual matches sessions. Read enemy heroes, heroes, wards and runes, and distance before you commit — toggleable Dota 2 ESP wallhack overlays bundled in our Dota 2 Cheats package.',
 		imageAlt: "Dota 2 ESP player boxes and distance readouts in a match",
 		galleryTitle: 'Dota 2 ESP overlay visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -48,25 +48,25 @@ export const enPages = {
 		sections: [
 			section(
 				'What Dota 2 ESP solves in matches',
-				'Dota 2 maps punish incomplete information. Dota 2 Cheats ESP wallhack helps you spot enemy squads early, spot enemy operators before they push your angle, and mark high-value eliminations worth the push.',
-				'In ranked matches, Resurgence, and official servers, that visibility gap is often the difference between a clean third-party and a patched squad. ESP ships bundled with radar overlays and Aimbot in one license.',
-				`Dota 2’s live seasons and map updates are published by Activision (${EXT.dota2}). When POIs or match rules shift, ESP categories stay useful because they track players and weapon drops — not a single static landmark.`,
+				'Dota 2 maps punish incomplete information. Dota 2 Cheats ESP wallhack helps you spot enemy heroes early, spot enemy heroes before they push your angle, and mark high-value eliminations worth the push.',
+				'In ranked matches, ranked, and official servers, that visibility gap is often the difference between a clean third-party and a patched hero. ESP ships bundled with radar overlays and Aimbot in one license.',
+				`Dota 2’s live seasons and map updates are published by Valve (${EXT.dota2}). When POIs or match rules shift, ESP categories stay useful because they track players and wards and runes — not a single static landmark.`,
 			),
 			section(
-				'Player, objective, and operator ESP wallhack categories',
-				'Toggle enemy player outlines, heli markers, match cues, and weapon drops pins so only match-critical ESP wallhack overlays stay active during rotations.',
-				'Distance readouts and snapline options help you control engagement range. Team and enemy colour coding supports ranked matches rounds and ranked matches matches lobbies alike.',
+				'Player, objective, and hero ESP wallhack categories',
+				'Toggle enemy player outlines, heli markers, match cues, and wards and runes pins so only match-critical ESP wallhack overlays stay active during rotations.',
+				'Distance readouts and snapline options help you control engagement range. Team and enemy colour coding supports ranked and casual matches lobbies alike.',
 				'Compare category detail on the <a href="/dota2-esp/">wallhack page</a> and pair visibility with the <a href="/dota2-radar-hack/">radar hack</a> for flanks outside your FOV.',
 				[
 					'Enemy player ESP outlines with distance',
-					'Weapon drops and operator markers for faster rotations',
-					'Weapon drops and POI awareness cues',
+					'wards and runes and hero markers for faster rotations',
+					'wards and runes and POI awareness cues',
 					'Toggleable categories to reduce overlay noise',
 				],
 			),
 			section(
-				'Reliable ESP with VAC maintenance',
-				'Dota 2 Cheats ESP wallhack is maintained for Dota 2 with rebuilds after VAC patches. Check the <a href="/updates/">Updates page</a> before you queue — no cheat guarantees permanent reliable status.',
+				'ESP with VAC maintenance',
+				'Dota 2 Cheats ESP wallhack is maintained for Dota 2 with rebuilds after VAC patches. Check the <a href="/updates/">Updates page</a> before you queue — no cheat guarantees permanent patch status.',
 				`Read ${EXT.eac} for how anti-cheat updates ship, then cross-check our <a href="/updates/">VAC maintenance guide</a> after major patches.`,
 				'Checkout includes instant digital delivery for Windows 10 and 11. After purchase, follow the <a href="/setup/">Setup guide</a> and tune overlays before your first match.',
 			),
@@ -83,21 +83,21 @@ export const enPages = {
 				'Stream-conscious players can reduce on-screen markers and rely on radar plus minimal boxes — see <a href="/features/">Features</a> for the full toggle list.',
 			),
 			section(
-				'How reliable ESP is maintained under VAC',
-				'ESP wallhack modules are rebuilt when VAC signatures or Dota 2 client updates change overlay behavior. Check <a href="/reliable-dota2-cheats/">reliable status</a> and <a href="/vac-bypass/">VAC maintenance</a> before patch-day queues.',
+				'How ESP is maintained under VAC',
+				'ESP wallhack modules are rebuilt when VAC signatures or Dota 2 client updates change overlay behavior. Check <a href="/premium-dota2-cheats/">patch status</a> and <a href="/vac-bypass/">VAC maintenance</a> before patch-day queues.',
 				'External-style overlays that avoid aggressive injection patterns are part of our maintenance strategy — not a guarantee against bans. Read <a href="/forums/dota2-esp-wallhack-explained/">ESP explained</a> for plain-English definitions.',
 				'Buy once, maintain ongoing: <a href="/pricing/">Pricing</a> · <a href="/setup/">Setup</a> · <a href="/reviews/">Buyer reviews</a>.',
 			),
 		],
 	},
 	'dota2-aimbot': {
-		title: 'Dota 2 Aimbot | Soft Aim & FOV Settings | Dota 2 Cheats',
+		title: 'Dota 2 Aimbot | Skillshot assist & FOV Settings | Dota 2 Cheats',
 		description:
-			'Dota 2 aimbot with soft aim, FOV, bone priority & hotkeys on PC. Reliable Dota 2 Cheats with ESP & radar included. dota2cheat.com.',
-		h1: 'Dota 2 Aimbot — Soft Aim for Windows PC',
+			'Dota 2 aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. dota 2 cheats with ESP & radar included. dota2cheat.com.',
+		h1: 'Dota 2 Aimbot — Skillshot assist for Windows PC',
 		intro:
-			'Configurable Aimbot tools for Dota 2 competitive fights. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP wallhack and radar in one reliable license.',
-		imageAlt: "Dota 2 Aimbot and soft aim controls on Windows PC",
+			'Configurable Aimbot tools for Dota 2 competitive fights. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP wallhack and radar in one license.',
+		imageAlt: "Dota 2 Aimbot and Skillshot assist controls on Windows PC",
 		galleryTitle: 'Dota 2 Aimbot combat previews',
 		ctaPrimary: 'Buy Dota 2 Cheats',
 		ctaSecondary: 'See ESP wallhack',
@@ -112,7 +112,7 @@ export const enPages = {
 			section(
 				'Per-weapon Aimbot profiles',
 				'Save separate Aimbot profiles for ARs, SMGs, and long-range rifles. Switch between long-range ambush competitive fights and high-traffic zone clears without reopening menus every match.',
-				'Prefer softer tracking? Read the <a href="/dota2-aimbot/">soft aim guide</a>.',
+				'Prefer softer tracking? Read the <a href="/dota2-aimbot/">Skillshot assist guide</a>.',
 				'Aimbot ships alongside <a href="/dota2-esp/">ESP wallhack</a> and <a href="/dota2-radar-hack/">2D radar</a> in the same Dota 2 Cheats license.',
 				[
 					'Smoothness, FOV, and aim smoothing sliders',
@@ -122,10 +122,10 @@ export const enPages = {
 				],
 			),
 			section(
-				'VAC maintenance for reliable Aimbot',
+				'VAC maintenance for Aimbot',
 				'Dota 2 Cheats rebuilds Aimbot behavior when VAC or major Dota 2 patches land. Maintenance notes appear on the <a href="/updates/">Updates page</a> so you know when a new build is live.',
 				`Cross-check service health on ${EXT.status} and anti-cheat context on ${EXT.eac}, then follow our <a href="/updates/">VAC maintenance guide</a> before loading in on patch day.`,
-				'Responsible settings matter — reliable status requires ongoing maintenance, not set-and-forget configs. Start with conservative smoothness, then tune.',
+				'Responsible settings matter — patch status requires ongoing maintenance, not set-and-forget configs. Start with conservative smoothness, then tune.',
 			),
 			section(
 				'Buy Aimbot with ESP — pricing and setup',
@@ -134,16 +134,16 @@ export const enPages = {
 				'Want the full control list first? Open <a href="/features/">Features</a> before checkout.',
 			),
 			section(
-				'Legit vs rage soft aim settings',
+				'Legit vs rage Skillshot assist settings',
 				'Legit settings use narrow FOV (roughly 4–12 degrees), medium smoothness, and visibility checks so tracking looks natural in killcam review. Rage settings widen FOV and reduce smoothing — higher ban risk from player reports even when VAC is clean.',
 				'Start with body-priority bones for entries, head-priority for cleanups, and per-weapon profiles for assault rifle vs Spectre fights. Full walkthrough: <a href="/forums/dota2-aimbot-settings-guide/">aimbot settings guide</a>.',
-				'Soft aim works best with ESP context — you still choose when to commit. Combine with <a href="/dota2-esp/">wallhack</a> and <a href="/dota2-radar-hack/">radar</a> rather than maxing every slider.',
+				'Skillshot assist works best with ESP context — you still choose when to commit. Combine with <a href="/dota2-esp/">wallhack</a> and <a href="/dota2-radar-hack/">radar</a> rather than maxing every slider.',
 			),
 			section(
 				'Triggerbot and recoil — what is included',
-				'Dota 2 Cheats focuses on soft aim profiles, not standalone triggerbot marketing. Recoil control is tuned through aimbot smoothing and per-weapon slots rather than a separate rage module.',
+				'Dota 2 Cheats focuses on Skillshot assist profiles, not standalone triggerbot marketing. Recoil control is tuned through aimbot smoothing and per-weapon slots rather than a separate rage module.',
 				'If a shop lists triggerbot separately, compare total cost against our full stack on <a href="/compare/">Compare</a>. Feature truth table: <a href="/features/">Features</a>.',
-				'Reliable aimbot maintenance publishes on <a href="/updates/">Updates</a> — never load outdated builds after VAC patches.',
+				'aimbot maintenance publishes on <a href="/updates/">Updates</a> — never load outdated builds after VAC patches.',
 			),
 		],
 	},
@@ -163,7 +163,7 @@ export const enPages = {
 			section(
 				'Aimbot options',
 				'Enable aimbot with full slider control for FOV, smoothness, max distance, and humanized tracking. Draw overlays show FOV circle, crosshair, and active target so you can tune settings before you drop.',
-				'Visibility check, save target, aim lock, and custom hitbox selection help you stay controlled in ranked matches and Resurgence lobbies on PC.',
+				'Visibility check, save target, aim lock, and custom hitbox selection help you stay controlled in ranked and casual matches lobbies on PC.',
 				[
 					'Enable Aimbot',
 					'Field Of View Slider',
@@ -185,7 +185,7 @@ export const enPages = {
 			),
 			section(
 				'Player ESP features',
-				'Player ESP shows enemy operators through walls with boxes, skeletons, nicknames, and distance readouts. Sliders control max range, font size, and line thickness so overlays stay readable in the map, Urzikstan, and Rebirth Island.',
+				'Player ESP shows enemy heroes through walls with boxes, skeletons, nicknames, and distance readouts. Sliders control max range, font size, and line thickness so overlays stay readable in the map, Urzikstan, and Rebirth Island.',
 				'Custom line positions and skeleton thickness help you spot third parties and gas-zone rotations without filling the screen.',
 				[
 					'Enable',
@@ -215,7 +215,7 @@ export const enPages = {
 			section(
 				'Items ESP options',
 				'Item ESP tags loot through walls — ammo types, cash, armor, perks, crates, missions, grenades, knives, and stim. Font scale slider keeps labels readable at range.',
-				'Toggle individual loot categories so buy stations, loadout drops, and contract rewards stay visible without cluttering your screen during endgame circles.',
+				'Toggle individual loot categories so shops, loadout drops, and contract rewards stay visible without cluttering your screen during endgame circles.',
 				[
 					'Font Scale Slider',
 					'Assault Rifle Ammo',
@@ -295,7 +295,7 @@ export const enPages = {
 			'Buy Dota 2 cheats at dota2cheat.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
 		h1: 'Dota 2 Cheats Pricing — Monthly & Lifetime',
 		intro:
-			'Choose monthly or lifetime access to reliable Dota 2 Cheats — ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC. Instant digital delivery after payment.',
+			'Choose monthly or lifetime access to dota 2 cheats — ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC. Instant digital delivery after payment.',
 		imageAlt: "Dota 2 Cheats store plans for monthly and lifetime licenses",
 		galleryTitle: 'Dota 2 Cheats package visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -305,12 +305,12 @@ export const enPages = {
 			section(
 				'Monthly and lifetime Dota 2 Cheats plans',
 				'Monthly license: $35 USD for 30 days of full ESP wallhack, radar hack, and Aimbot access with VAC maintenance included during your term.',
-				'Lifetime license: $150 USD for long-term access to the same reliable Dota 2 Cheats package — ideal if you play Dota 2 regularly across seasons.',
+				'Lifetime license: $150 USD for long-term access to the same dota 2 cheats package — ideal if you play Dota 2 regularly across seasons.',
 				'Both plans unlock the same feature stack described on <a href="/features/">Features</a>. Choose monthly to test, or lifetime if you already know you want the full toolkit.',
 			),
 			section(
 				'What every plan includes',
-				'Player ESP wallhack, operator markers, 2D radar overlays, Aimbot controls, in-client toggles, and maintenance rebuilds after VAC or major Dota 2 patches.',
+				'Player ESP wallhack, hero markers, 2D radar overlays, Aimbot controls, in-client toggles, and maintenance rebuilds after VAC or major Dota 2 patches.',
 				`Season calendars and client updates come from ${EXT.dota2}. Active licenses receive rebuild access when we publish maintenance on <a href="/updates/">Updates</a>.`,
 				'Digital delivery starts after payment confirmation. Keep your order reference for <a href="/support/">Support</a> requests and follow <a href="/setup/">Setup</a> for first launch.',
 			),
@@ -318,14 +318,14 @@ export const enPages = {
 				'Refund, billing, and buying checklist',
 				'Review the <a href="/refund-policy/">Refund Policy</a> before purchase. For billing or delivery issues, contact Support with your order details.',
 				'Prices are listed in USD. Availability is worldwide for Windows 10 and 11 PCs.',
-				'Still comparing tools? Read <a href="/dota2-cheats/">dota 2 cheats</a>, <a href="/dota2-cheats/">reliable status</a>, and <a href="/faq/">FAQ</a> before you checkout.',
+				'Still comparing tools? Read <a href="/dota2-cheats/">dota 2 cheats</a>, <a href="/dota2-cheats/">patch status</a>, and <a href="/faq/">FAQ</a> before you checkout.',
 			),
 		],
 	},
 	setup: {
 		title: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Dota 2 Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.',
+			'Install Dota 2 Cheats on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.',
 		h1: 'Dota 2 Cheats Setup — Windows PC Guide',
 		intro:
 			'Install and configure Dota 2 Cheats for Dota 2 on Windows 10 or 11. Activate your license, load ESP wallhack and Aimbot profiles, and verify VAC maintenance status before loading in.',
@@ -338,19 +338,19 @@ export const enPages = {
 			section(
 				'Before you install Dota 2 Cheats',
 				'Confirm your order email and license details. Check the <a href="/updates/">Updates page</a> for the latest VAC maintenance build before launching Dota 2.',
-				`Also glance at ${EXT.status} if Activision services look unstable on patch day — a platform outage is not a license fault.`,
+				`Also glance at ${EXT.status} if Valve services look unstable on patch day — a platform outage is not a license fault.`,
 				'Dota 2 Cheats requires Windows 10 or 11. Close conflicting overlay software that may interfere with ESP wallhack or Aimbot toggles.',
 			),
 			section(
 				'Activate ESP wallhack and Aimbot profiles',
-				'Follow the delivery instructions in your license email. Load default ESP wallhack categories for operators and weapons — then tune radar range and Aimbot smoothness to your playstyle.',
+				'Follow the delivery instructions in your license email. Load default ESP wallhack categories for heroes and weapons — then tune radar range and Aimbot smoothness to your playstyle.',
 				'Use in-client hotkeys to toggle ESP, radar, and Aimbot mid-match. Details for VAC module live on <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, and <a href="/dota2-cheats/">mod menu</a>.',
-				'Prefer a soft tracking feel? Start with the <a href="/dota2-aimbot/">soft aim</a> recommendations before raising aggressiveness.',
+				'Prefer a soft tracking feel? Start with the <a href="/dota2-aimbot/">Skillshot assist</a> recommendations before raising aggressiveness.',
 			),
 			section(
 				'After Dota 2 or VAC patches',
-				'When Activision ships a major Dota 2 update or VAC patch, revisit Updates before loading in. Download maintenance rebuilds when posted.',
-				`Official anti-cheat background: ${EXT.eac}. Our practical workflow is documented on the <a href="/vac-bypass/">VAC bypass page</a> and <a href="/reliable-dota2-cheats/">reliable guide</a>.`,
+				'When Valve ships a major Dota 2 update or VAC patch, revisit Updates before loading in. Download maintenance rebuilds when posted.',
+				`Official anti-cheat background: ${EXT.eac}. Our practical workflow is documented on the <a href="/vac-bypass/">VAC bypass page</a> and <a href="/premium-dota2-cheats/">guide</a>.`,
 				'Contact <a href="/support/">Support</a> with your order ID if activation fails after a patch — include Windows version and error details for faster replies.',
 			),
 		],
@@ -358,38 +358,38 @@ export const enPages = {
 	updates: {
 		title: 'Dota 2 Status | VAC Updates | Dota 2 Cheats',
 		description:
-			'Live status after Dota 2 & VAC patches. Check reliable ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.',
+			'Live status after Dota 2 & VAC patches. Check ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.',
 		h1: 'Dota 2 Cheats Updates — Maintenance Log',
 		intro:
-			'Track VAC maintenance and Dota 2 patch rebuilds for the reliable ESP wallhack, radar hack, and Aimbot package. Check here before loading in after major updates.',
+			'Track VAC maintenance and Dota 2 patch rebuilds for the ESP wallhack, radar hack, and Aimbot package. Check here before loading in after major updates.',
 		imageAlt: "Dota 2 Cheats live status after VAC and game patches",
 		galleryTitle: 'Dota 2 patch and maintenance visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
-		ctaSecondary: 'Reliable status guide',
+		ctaSecondary: 'patch status guide',
 		ctaSecondaryHref: '/dota2-cheats/',
 		sections: [
 			section(
 				'Why the Updates page matters',
 				'Dota 2 and VAC receive frequent patches. Dota 2 Cheats publishes maintenance notes when ESP wallhack, radar, or Aimbot behavior needs a rebuild.',
-				`Use ${EXT.status} for Activision platform health and this page for Dota 2 Cheats build status — both matter on big update days.`,
-				'Checking this log before you queue reduces surprises after game days or seasonal launches on ranked matches and Resurgence sessions.',
+				`Use ${EXT.status} for Valve platform health and this page for Dota 2 Cheats build status — both matter on big update days.`,
+				'Checking this log before you queue reduces surprises after game days or seasonal launches on ranked and casual matches sessions.',
 			),
 			section(
 				'What maintenance entries cover',
 				'Entries note VAC compatibility status, rebuilt ESP wallhack overlays, radar range fixes, Aimbot tuning after weapon balance changes, and digital delivery of new builds to active licenses.',
 				'Lifetime and monthly subscribers receive rebuild access during active license terms. See <a href="/pricing/">Pricing</a> if you need to renew.',
-				'For context on why rebuilds happen, read the <a href="/vac-bypass/">VAC bypass guide</a> and <a href="/reliable-dota2-cheats/">reliable dota 2 cheats</a> explainer.',
+				'For context on why rebuilds happen, read the <a href="/vac-bypass/">VAC bypass guide</a> and <a href="/premium-dota2-cheats/">dota 2 cheats</a> explainer.',
 			),
 			section(
-				'Staying reliable after patches',
-				'No cheat guarantees permanent reliable status. Combine maintenance updates with responsible in-game settings and patch awareness.',
+				'Staying after patches',
+				'No cheat guarantees permanent patch status. Combine maintenance updates with responsible in-game settings and patch awareness.',
 				`Follow season notes from ${EXT.dota2}, then confirm our rebuild is live before you queue.`,
 				'For urgent status questions after a VAC update, contact <a href="/support/">Support</a> with your license tier and last played build version.',
 			),
 			section(
 				'Maintenance changelog — recent Dota 2 & VAC windows',
-				'2026-08-25 — Full stack online: ESP wallhack, 2D radar, and soft aim profiles verified on Windows 10/11 after latest VAC compatibility check. No rebuild required.',
-				'2026-08-17 — Post-patch review completed for ranked matches and Resurgence queues. ESP operator markers and radar range defaults refreshed in maintenance notes.',
+				'2026-08-25 — Full stack online: ESP wallhack, 2D radar, and Skillshot assist profiles verified on Windows 10/11 after latest VAC compatibility check. No rebuild required.',
+				'2026-08-17 — Post-patch review completed for ranked and casual matches queues. ESP hero markers and radar range defaults refreshed in maintenance notes.',
 				'2026-08-10 — Seasonal content update: map rotation awareness copy refreshed; core ESP and aimbot modules unchanged. Check <a href="/vac-bypass/">VAC guide</a> before major patch days.',
 				'Always confirm Steam service health on the official status page before assuming a product outage. When in doubt, skip the queue until this log shows a green build.',
 			),
@@ -398,10 +398,10 @@ export const enPages = {
 	faq: {
 		title: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		description:
-			'FAQ for dota 2 cheats — delivery, setup, reliable status, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.',
+			'FAQ for dota 2 cheats — delivery, setup, patch status, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.',
 		h1: 'Dota 2 Cheats FAQ — Common Questions',
 		intro:
-			'Answers about reliable Dota 2 Cheats — ESP wallhack, radar hack, Aimbot, VAC maintenance, checkout, and Dota 2 compatibility on Windows PC.',
+			'Answers about dota 2 cheats — ESP wallhack, radar hack, Aimbot, VAC maintenance, checkout, and Dota 2 compatibility on Windows PC.',
 		imageAlt: "Dota 2 Cheats FAQ — delivery, setup, and update answers",
 		galleryTitle: 'Dota 2 Cheats FAQ visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -410,14 +410,14 @@ export const enPages = {
 		sections: [
 			section(
 				'What is Dota 2 Cheats?',
-				'Dota 2 Cheats is an reliable cheat package for Dota 2 on Windows PC. It includes ESP wallhack, 2D radar-style awareness, and Aimbot controls with VAC maintenance updates.',
-				'Packages cover ranked matches and Resurgence sessions. Explore <a href="/features/">Features</a> for the full control list and <a href="/dota2-esp/">ESP</a> / <a href="/dota2-aimbot/">Aimbot</a> for module detail.',
-				`Dota 2 itself is published by Activision (${EXT.dota2}). Cheats are third-party tools and may violate Activision rules — use is at your own risk.`,
+				'Dota 2 Cheats is a cheat package for Dota 2 on Windows PC. It includes ESP wallhack, 2D radar-style awareness, and Aimbot controls with VAC maintenance updates.',
+				'Packages cover ranked and casual matches sessions. Explore <a href="/features/">Features</a> for the full control list and <a href="/dota2-esp/">ESP</a> / <a href="/dota2-aimbot/">Aimbot</a> for module detail.',
+				`Dota 2 itself is published by Valve (${EXT.dota2}). Cheats are third-party tools and may violate Valve rules — use is at your own risk.`,
 			),
 			section(
-				'Are Dota 2 Cheats reliable in 2026?',
-				'Dota 2 Cheats is maintained with rebuilds after VAC and game patches. Check the <a href="/updates/">Updates page</a> for current status — no cheat can guarantee permanent reliable operation.',
-				'Read <a href="/dota2-cheats/">reliable dota 2 cheats</a> and the <a href="/updates/">VAC guide</a> for the maintenance workflow.',
+				'Are dota 2 cheats maintained in 2026?',
+				'Dota 2 Cheats is maintained with rebuilds after VAC and game patches. Check the <a href="/updates/">Updates page</a> for current status — no cheat can guarantee permanent operation.',
+				'Read <a href="/dota2-cheats/">dota 2 cheats</a> and the <a href="/updates/">VAC guide</a> for the maintenance workflow.',
 				'Responsible settings and reading maintenance notes before loading in are essential.',
 			),
 			section(
@@ -449,8 +449,8 @@ export const enPages = {
 			),
 			section(
 				'Response times and scope',
-				'Support requests are reviewed daily. Dota 2 Cheats support covers delivery, billing, setup, and maintenance — not in-game coaching or account recovery for Activision bans.',
-				`Account and game policy questions belong with Activision. We can help with license delivery and product configuration only.`,
+				'Support requests are reviewed daily. Dota 2 Cheats support covers delivery, billing, setup, and maintenance — not in-game coaching or account recovery for Valve bans.',
+				`Account and game policy questions belong with Valve. We can help with license delivery and product configuration only.`,
 				'Check the Updates page and FAQ before opening a ticket — many post-patch questions are answered there.',
 			),
 			section(
@@ -462,23 +462,23 @@ export const enPages = {
 		],
 	},
 	reliable: {
-		title: 'Reliable Dota 2 Cheats 2026 | VAC Safe',
+		title: 'dota 2 cheats 2026 | VAC Safe',
 		description:
-			'Reliable dota 2 cheats with VAC maintenance for ESP, soft aim & radar on PC. Public status, rebuild workflow — from $35 at dota2cheat.com.',
-		h1: 'Reliable Dota 2 Cheats — VAC Maintenance',
+			'dota 2 cheats with VAC maintenance for ESP, skillshot assist and radar on PC. Public status, rebuild workflow — from $35 at dota2cheat.com.',
+		h1: 'dota 2 cheats — VAC Maintenance',
 		intro:
-			'How Dota 2 Cheats stays maintained for Dota 2 after VAC patches — ESP wallhack, radar hack, and Aimbot rebuilds for Windows PC.',
-		imageAlt: "Dota 2 Cheats reliable status overview for Windows PC",
-		galleryTitle: 'Reliable Dota 2 Cheats visuals',
+			'How Dota 2 Cheats stays maintained for Dota 2 after VAC patches — ESP wallhack, radar hack, and aimbot rebuilds for Windows PC.',
+		imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
+		galleryTitle: 'dota 2 cheats visuals',
 		ctaPrimary: 'Buy Dota 2 Cheats',
-		ctaSecondary: 'VAC bypass guide',
+		ctaSecondary: 'VAC maintenance guide',
 		ctaSecondaryHref: '/updates/',
 		sections: [
 			section(
-				'What reliable means for Dota 2 Cheats',
-				'Reliable Dota 2 Cheats means the package is actively maintained against VAC and major Dota 2 patches — not that detection is impossible forever.',
+				'What patch maintenance means for Dota 2 Cheats',
+				'Patch maintenance means the package is actively updated after VAC and major Dota 2 patches — not that detection is impossible forever.',
 				'Rebuilds target ESP wallhack overlays, radar behavior, and Aimbot signatures after VAC security updates.',
-				`Anti-cheat technology is documented by ${EXT.eac}; Dota 2 client updates ship through ${EXT.dota2}. Reliable status is an ongoing process tied to those releases.`,
+				`Anti-cheat technology is documented by ${EXT.eac}; Dota 2 client updates ship through ${EXT.dota2}. patch status is an ongoing process tied to those releases.`,
 			),
 			section(
 				'VAC maintenance workflow',
@@ -488,25 +488,25 @@ export const enPages = {
 			),
 			section(
 				'Responsible use and next steps',
-				'Combine maintenance with conservative in-game settings. Read the <a href="/faq/">FAQ</a> and Updates log regularly — reliable status is not a one-time promise.',
+				'Combine maintenance with conservative in-game settings. Read the <a href="/faq/">FAQ</a> and Updates log regularly — patch status is not a one-time promise.',
 				'Lifetime and monthly plans include rebuild access during active terms — see <a href="/pricing/">Pricing</a>.',
 				'New buyers should also read <a href="/dota2-cheats-2026/">dota 2 cheats 2026</a> and complete <a href="/setup/">Setup</a> after delivery.',
 			),
 			section(
-				'How to verify reliable status before you queue',
-				'Step one: open <a href="/updates/">Updates</a> for the latest build date. Step two: read <a href="/vac-bypass/">VAC bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune soft aim and ESP toggles conservatively for ranked matches.',
+				'How to verify patch status before you queue',
+				'Step one: open <a href="/updates/">Updates</a> for the latest build date. Step two: read <a href="/vac-bypass/">VAC bypass</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.',
 				'Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href="/compare/">budget competitors</a> fairly.',
-				'FAQ shortcuts: <a href="/faq/are-dota2-cheats-reliable-in-2026/">reliable in 2026</a> · <a href="/faq/dota2-vac-bypass/">vac bypass</a> · <a href="/forums/dota2-cheats-buyers-guide/">buyers guide</a>.',
+				'FAQ shortcuts: <a href="/faq/are-dota2-cheats-premium-in-2026/">in 2026</a> · <a href="/faq/dota2-vac-bypass/">vac bypass</a> · <a href="/forums/dota2-cheats-buyers-guide/">buyers guide</a>.',
 			),
 		],
 	},
 	wallhack: {
-		title: 'Dota 2 Wallhack | ESP Boxes & Weapon drops Markers',
+		title: 'Dota 2 Wallhack | ESP Boxes & wards and runes Markers',
 		description:
-			'Dota 2 wallhack ESP with player boxes, operator markers & skeleton overlays on PC. Reliable dota 2 cheats with VAC rebuilds. dota2cheat.com.',
+			'Dota 2 wallhack ESP with player boxes, hero markers & skeleton overlays on PC. dota 2 cheats with VAC rebuilds. dota2cheat.com.',
 		h1: 'Dota 2 Wallhack — ESP Boxes & Visibility',
 		intro:
-			'Dota 2 wallhack ESP for Dota 2 — see players, weapon drops, enemy players, and resource nodes through toggleable wallhack overlays built for ranked matches rounds and ranked matches matches.',
+			'Dota 2 wallhack ESP for Dota 2 — see players, wards and runes, enemy players, and resource nodes through toggleable wallhack overlays built for ranked and casual matches.',
 		imageAlt: "dota 2 wallhack visibility through walls in a match",
 		galleryTitle: 'dota 2 wallhack ESP gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -515,20 +515,20 @@ export const enPages = {
 		sections: [
 			section(
 				'Wallhack ESP vs raw aim tools',
-				'A Dota 2 wallhack focuses on information — player outlines, weapon drops pins, threat cues — rather than automatic aiming. Dota 2 Cheats bundles wallhack ESP with radar and optional Aimbot in one license.',
-				'Toggle categories so only the wallhack overlays you need stay active during rotations and buy stations.',
+				'A Dota 2 wallhack focuses on information — player outlines, wards and runes pins, threat cues — rather than automatic aiming. Dota 2 Cheats bundles wallhack ESP with radar and optional Aimbot in one license.',
+				'Toggle categories so only the wallhack overlays you need stay active during rotations and shops.',
 				'For the broader ESP keyword page see <a href="/dota2-esp/">Dota 2 ESP</a>; for combat assist see <a href="/dota2-aimbot/">Aimbot</a>.',
 			),
 			section(
 				'Map coverage for wallhack ESP',
-				'Wallhack overlays support match, Resurgence sessions, and official servers with distance readouts and snaplines for engagement control.',
+				'Wallhack overlays support match, ranked matches, and official servers with distance readouts and snaplines for engagement control.',
 				`Season maps and POI changes are announced via ${EXT.dota2}. Wallhack remains useful because it tracks entities, not fixed landmarks alone.`,
 				'Pair wallhack awareness with <a href="/dota2-radar-hack/">radar hack</a> cues for flanks during arena corners and vertical fights.',
 			),
 			section(
-				'Reliable wallhack maintenance',
+				'wallhack maintenance',
 				'ESP wallhack modules rebuild after VAC patches. Follow the <a href="/updates/">Updates page</a> and complete checkout for instant license delivery on Windows PC.',
-				'Learn the full maintenance story on <a href="/reliable-dota2-cheats/">reliable dota 2 cheats</a> and <a href="/vac-bypass/">VAC bypass</a>.',
+				'Learn the full maintenance story on <a href="/premium-dota2-cheats/">dota 2 cheats</a> and <a href="/vac-bypass/">VAC bypass</a>.',
 				'Ready to buy? Compare <a href="/pricing/">Pricing</a> or continue to the <a href="/dota2-esp/">ESP hack</a> landing for alternate search wording.',
 			),
 		],
@@ -536,7 +536,7 @@ export const enPages = {
 	radar: {
 		title: 'Dota 2 Radar Hack | 2D Threat Map | Dota 2 Cheats',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. VAC maintenance at dota2cheat.com.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. VAC maintenance at dota2cheat.com.',
 		h1: 'Dota 2 Radar Hack — 2D Threat Awareness',
 		intro:
 			'2D radar-style overlay for Dota 2 — directional threat cues for nearby players outside your line of sight, bundled with ESP wallhack and Aimbot.',
@@ -549,12 +549,12 @@ export const enPages = {
 			section(
 				'Why radar hack matters in Dota 2',
 				'Map fights happen across open terrain — arenas, rooftops, and vertical routes. A 2D radar overlay shows nearby player threats outside direct line of sight so you can reposition before a third player.',
-				'Dota 2 Cheats radar complements <a href="/dota2-esp/">ESP wallhack</a> markers during squad pushes and zone fights.',
+				'Dota 2 Cheats radar complements <a href="/dota2-esp/">ESP wallhack</a> markers during hero pushes and zone fights.',
 				`Mode rules and seasonal changes come from ${EXT.dota2}. Radar range remains configurable when map scale or mobility meta shifts.`,
 			),
 			section(
 				'Configurable radar range',
-				'Adjust radar range for early rotations versus tight buy stations. Directional cues highlight flanks during zone recoveries and flank pushes across ranked matches and Resurgence sessions.',
+				'Adjust radar range for early rotations versus tight shops. Directional cues highlight flanks during zone recoveries and flank pushes across ranked and casual matches sessions.',
 				'Toggle radar alongside ESP and Aimbot with in-client hotkeys during live matches — see the <a href="/dota2-cheats/">mod menu</a> page.',
 				'Combat follow-up lives on <a href="/dota2-aimbot/">Aimbot</a> when you convert radar info into a fight.',
 			),
@@ -562,7 +562,7 @@ export const enPages = {
 				'Maintenance and licensing',
 				'Radar hack modules receive VAC maintenance rebuilds with the full Dota 2 Cheats package. Monthly and lifetime licenses include digital delivery — see <a href="/pricing/">Pricing</a>.',
 				'Check <a href="/updates/">Updates</a> after major Dota 2 patches before relying on previous radar configs.',
-				'New to the stack? Start at <a href="/features/">Features</a> or <a href="/dota2-cheats/">reliable status</a>.',
+				'New to the stack? Start at <a href="/features/">Features</a> or <a href="/dota2-cheats/">patch status</a>.',
 			),
 		],
 	},
@@ -581,7 +581,7 @@ export const enPages = {
 		sections: [
 			section(
 				'VAC overview',
-				`VAC is Activision' anti-cheat for Dota 2 on PC (see ${EXT.eac}). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for reliable packages.`,
+				`VAC is Valve' anti-cheat for Dota 2 on PC (see ${EXT.eac}). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.`,
 				`Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from ${EXT.dota2} to schedule module reviews.`,
 				'“VAC bypass” in our wording means timely maintenance — not a permanent free pass around anti-cheat.',
 			),
@@ -589,35 +589,35 @@ export const enPages = {
 				'What happens after a VAC patch',
 				'The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href="/updates/">Updates</a>, and ships rebuilt packages to active licenses.',
 				`Confirm Dota 2 server status on ${EXT.status} if the launcher or matchmaking fails during the same window.`,
-				'Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href="/dota2-cheats/">reliable dota 2 cheats</a>.',
+				'Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href="/dota2-cheats/">dota 2 cheats</a>.',
 			),
 			section(
 				'No permanent bypass guarantee',
-				'VAC bypass in practice means timely maintenance. Read the reliable guide, <a href="/faq/">FAQ</a>, and Updates log before every match.',
+				'VAC bypass in practice means timely maintenance. Read the guide, <a href="/faq/">FAQ</a>, and Updates log before every match.',
 				'Contact <a href="/support/">Support</a> if activation fails immediately after a posted rebuild.',
 				'Buying for the first time? Compare <a href="/pricing/">Pricing</a> and finish <a href="/setup/">Setup</a> only after <a href="/updates/">Updates</a> shows a live build.',
 			),
 			section(
 				'HWID bans, spoofers, and what we do not sell',
-				'Dota 2 can issue hardware (HWID) bans tied to your PC. Some competitors market HWID spoofers alongside cheats. Dota 2 Cheats does not sell a spoofer — we focus on maintained ESP, radar, and soft aim plus clear rebuild communication.',
+				'Dota 2 can issue hardware (HWID) bans tied to your PC. Some competitors market HWID spoofers alongside cheats. Dota 2 Cheats does not sell a spoofer — we focus on maintained ESP, radar, and Skillshot assist plus clear rebuild communication.',
 				'If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href="/faq/dota2-vac-bypass/">VAC FAQ</a> before buying anywhere.',
 				'Responsible use: conservative settings, public status checks, and avoiding obvious rage clips reduce report-based penalties.',
 			),
 			section(
 				'External architecture, stream proofing, and patch-day checklist',
 				'Maintenance prioritizes external-style overlays and behavioral tuning over risky injection patterns. Reduce on-screen ESP markers if you stream — pair with radar for awareness.',
-				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm VAC notes on <a href="/vac-bypass/">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune soft aim FOV if weapon balance changed.',
-				'Deep dives: <a href="/reliable-dota2-cheats/">reliable guide</a> · <a href="/forums/reliable-dota2-cheats-eac/">VAC reality blog</a> · <a href="/dota2-cheats/">dota 2 cheats pillar</a>.',
+				'Patch-day checklist: (1) read <a href="/updates/">Updates</a>, (2) confirm VAC notes on <a href="/vac-bypass/">this page</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.',
+				'Deep dives: <a href="/premium-dota2-cheats/">guide</a> · <a href="/forums/premium-dota2-cheats-eac/">VAC reality blog</a> · <a href="/dota2-cheats/">dota 2 cheats pillar</a>.',
 			),
 		],
 	},
 	'cheats-2026': {
-		title: 'Dota 2 Cheats 2026 | Reliable PC Hacks',
+		title: 'Dota 2 Cheats 2026 | PC Hacks',
 		description:
-			'Best Dota 2 cheats 2026 — reliable ESP, soft aim & 2D radar on PC. VAC maintenance & instant delivery at dota2cheat.com.',
-		h1: 'Dota 2 Cheats 2026 — ESP, Soft Aim & Radar',
+			'Best Dota 2 cheats 2026 — ESP, Skillshot assist & 2D radar on PC. VAC maintenance & instant delivery at dota2cheat.com.',
+		h1: 'Dota 2 Cheats 2026 — ESP, Skillshot assist & Radar',
 		intro:
-			'The 2026 Dota 2 Cheats package for Dota 2 — reliable ESP wallhack, radar hack, and Aimbot with VAC maintenance, instant delivery, and Windows PC support.',
+			'The 2026 Dota 2 Cheats package for Dota 2 — ESP wallhack, radar hack, and Aimbot with VAC maintenance, instant delivery, and Windows PC support.',
 		imageAlt: "Dota 2 Cheats product overview for Dota 2",
 		galleryTitle: 'Dota 2 Cheats 2026 gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -628,35 +628,35 @@ export const enPages = {
 				'Why dota 2 cheats buyers choose Dota 2 Cheats in 2026',
 				'2026 updates bring new maps, player balance changes, and VAC patches. Dota 2 Cheats bundles ESP wallhack, radar hack, and Aimbot with active maintenance — not a stale prior-year build.',
 				`Track official season messaging on ${EXT.dota2}, then use our <a href="/updates/">Updates log</a> for product rebuild timing.`,
-				'Monthly ($35) and lifetime ($150) plans cover ranked matches and Resurgence match loops — see <a href="/pricing/">Pricing</a>.',
+				'Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href="/pricing/">Pricing</a>.',
 			),
 			section(
 				'Full feature stack for 2026 buyers',
-				'Player ESP wallhack, operator markers, 2D radar overlays, Aimbot profiles, in-client toggles, and post-patch rebuilds — one license instead of stacking separate tools.',
-				'Deep links: <a href="/dota2-cheats/">Dota 2 Cheats pillar</a>, <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, <a href="/dota2-esp/">wallhack</a>, <a href="/dota2-radar-hack/">radar</a>, <a href="/dota2-cheats/">reliable</a>.',
+				'Player ESP wallhack, hero markers, 2D radar overlays, Aimbot profiles, in-client toggles, and post-patch rebuilds — one license instead of stacking separate tools.',
+				'Deep links: <a href="/dota2-cheats/">Dota 2 Cheats pillar</a>, <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, <a href="/dota2-esp/">wallhack</a>, <a href="/dota2-radar-hack/">radar</a>, <a href="/dota2-cheats/">premium</a>.',
 				'Instant digital delivery after checkout confirmation worldwide.',
 			),
 			section(
 				'Before you buy in 2026',
-				'Read the <a href="/dota2-cheats/">dota 2 cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check reliable status notes after every major patch — responsible use and maintenance awareness matter.',
+				'Read the <a href="/dota2-cheats/">dota 2 cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.',
 				'Also compare the <a href="/dota2-cheats/">dota 2 cheats</a> checklist, <a href="/forums/dota2-cheats-2026-whats-new/">2026 blog guide</a>, and <a href="/faq/">FAQ</a>.',
 				'Support is available at support@dota2cheat.com via the <a href="/support/">Support page</a>.',
 			),
 			section(
 				'Episode 10+ and ranked matches meta in 2026',
-				'2026 ranked matches play rewards information speed — ESP operator markers, radar flank cues, and soft aim tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href="/dota2-aimbot/">aimbot profiles</a> and ESP toggles.',
-				'Compare against <a href="/">dota 2 cheats</a> criteria and <a href="/reliable-dota2-cheats/">reliable maintenance</a> before switching shops mid-season.',
+				'2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href="/dota2-aimbot/">aimbot profiles</a> and ESP toggles.',
+				'Compare against <a href="/">dota 2 cheats</a> criteria and <a href="/premium-dota2-cheats/">maintenance</a> before switching shops mid-season.',
 				'Blog: <a href="/forums/dota2-cheats-2026-whats-new/">what changed in 2026</a> · <a href="/forums/dota2-cheats-complete-guide-2026/">complete guide</a>.',
 			),
 		],
 	},
 	hacks: {
-		title: 'Dota 2 Cheats | Reliable Hacks, ESP & Aimbot',
+		title: 'Dota 2 Cheats | Hacks, ESP & Aimbot',
 		description:
-			'Dota 2 cheats guide — reliable ESP wallhack, soft aim, radar & VAC rebuilds on PC. Compare features & buy from $35 at dota2cheat.com.',
+			'Dota 2 cheats guide — ESP wallhack, Skillshot assist, radar & VAC rebuilds on PC. Compare features & buy from $35 at dota2cheat.com.',
 		h1: 'Dota 2 Cheats — What You Get & How It Works',
 		intro:
-			'Dota 2 cheats give you extra information and combat tools on top of the base game: player ESP, operator markers, 2D radar, and configurable soft aim in one Windows PC license. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, and how maintenance works after VAC patches.',
+			'Dota 2 cheats give you extra information and combat tools on top of the base game: player ESP, hero markers, 2D radar, and configurable Skillshot assist in one Windows PC license. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, and how maintenance works after VAC patches.',
 		imageAlt: 'Dota 2 Cheats overview — ESP, aimbot, and radar for Dota 2',
 		galleryTitle: 'Dota 2 cheats feature gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -665,20 +665,20 @@ export const enPages = {
 		sections: [
 			section(
 				'What are dota 2 cheats?',
-				'Dota 2 is an information-heavy survival game. Dota 2 cheats are third-party tools that add overlays and assist features — typically ESP to see players and weapon drops through walls, radar for off-screen threats, and soft aim to smooth combat under pressure.',
-				'Dota 2 Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers match sessions, Resurgence sessions, and official servers on Windows 10 and 11.',
+				'Dota 2 is an information-heavy survival game. Dota 2 cheats are third-party tools that add overlays and assist features — typically ESP to see players and wards and runes through walls, radar for off-screen threats, and Skillshot assist to smooth combat under pressure.',
+				'Dota 2 Cheats bundles those tools in one maintained package instead of juggling separate downloads. One license covers match sessions, ranked matches, and official servers on Windows 10 and 11.',
 				`Game updates publish on ${EXT.dota2}. Our rebuild notes live on the <a href="/updates/">Updates page</a> so you know when to load in after a patch.`,
 			),
 			section(
 				'What Dota 2 Cheats includes',
-				'Player ESP wallhack outlines enemies and operators with distance readouts. Weapon drops ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Soft aim profiles let you tune FOV and smoothness per weapon.',
+				'Player ESP wallhack outlines enemies and heroes with distance readouts. wards and runes ESP highlights crates, corpses, and high-value resources. A 2D radar shows threats outside your view. Skillshot assist profiles let you tune FOV and smoothness per weapon.',
 				'Monthly ($35) and lifetime ($150) plans include the same feature stack — compare options on <a href="/pricing/">Pricing</a>.',
 				'Deep dives: <a href="/dota2-esp/">Dota 2 ESP</a>, <a href="/dota2-aimbot/">Dota 2 Aimbot</a>, <a href="/dota2-radar-hack/">radar hack</a>, and the full <a href="/features/">Features</a> list.',
 			),
 			section(
-				'Reliable status and VAC',
-				'Dota 2 runs on VAC. No cheat can promise permanent reliable status — what matters is maintenance after patches. Dota 2 Cheats rebuilds ESP, radar, and aim modules when VAC or Dota 2 updates ship.',
-				'Check the <a href="/updates/">Status page</a> before patch-day load ins. Read <a href="/reliable-dota2-cheats/">reliable dota 2 cheats</a> and <a href="/vac-bypass/">VAC bypass guide</a> for the full workflow.',
+				'patch status and VAC',
+				'Dota 2 runs on VAC. No cheat can promise permanent patch status — what matters is maintenance after patches. Dota 2 Cheats rebuilds ESP, radar, and aim modules when VAC or Dota 2 updates ship.',
+				'Check the <a href="/updates/">Status page</a> before patch-day load ins. Read <a href="/premium-dota2-cheats/">dota 2 cheats</a> and <a href="/vac-bypass/">VAC bypass guide</a> for the full workflow.',
 				'Official background: <a href="https://www.easy.ac/" target="_blank" rel="noopener noreferrer">VAC</a>. Questions before checkout: <a href="/faq/">FAQ</a> and <a href="/support/">Support</a>.',
 			),
 			section(
@@ -698,7 +698,7 @@ export const enPages = {
 	'cheat-download': {
 		title: 'Dota 2 Cheat Download | Instant Access | Dota 2 Cheats',
 		description:
-			'Dota 2 cheats download with instant license delivery — ESP, soft aim & radar on PC. Secure checkout & activation at dota2cheat.com from $35.',
+			'Dota 2 cheats download with instant license delivery — ESP, Skillshot assist & radar on PC. Secure checkout & activation at dota2cheat.com from $35.',
 		h1: 'Dota 2 Hack Download — Instant License Delivery',
 		intro:
 			'How dota 2 cheat download works for Dota 2 — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.',
@@ -712,11 +712,11 @@ export const enPages = {
 				'How dota 2 cheat download delivery works',
 				'After checkout confirms payment, Dota 2 Cheats license details arrive digitally by email. No physical shipment — access begins once activation instructions are delivered.',
 				'Keep your order confirmation and license email ready for the <a href="/setup/">Setup guide</a> and Support requests.',
-				`If Activision services are down, check ${EXT.status} before assuming a download failure.`,
+				`If Valve services are down, check ${EXT.status} before assuming a download failure.`,
 			),
 			section(
 				'What your download unlocks',
-				'Every dota 2 cheat download includes player ESP wallhack, weapon drops and operator markers, 2D radar overlays, Aimbot profiles, and in-client toggles for ranked matches rounds and ranked matches matches.',
+				'Every dota 2 cheat download includes player ESP wallhack, wards and runes and hero markers, 2D radar overlays, Aimbot profiles, and in-client toggles for ranked and casual matches.',
 				'Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href="/pricing/">Pricing page</a>.',
 				'Feature detail: <a href="/features/">Features</a>. Module pages: <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>.',
 			),
@@ -724,14 +724,14 @@ export const enPages = {
 				'After purchase — setup and updates',
 				'Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href="/updates/">Updates page</a> for maintenance rebuilds.',
 				'Contact <a href="/support/">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.',
-				'Also read <a href="/dota2-cheats/">reliable status</a> so you know what “download ready” means after a patch.',
+				'Also read <a href="/dota2-cheats/">patch status</a> so you know what “download ready” means after a patch.',
 			),
 		],
 	},
 	'mod-menu': {
 		title: 'Dota 2 Mod Menu | In-Match Toggles | Dota 2 Cheats',
 		description:
-			'Dota 2 mod menu for in-match ESP, soft aim & radar toggles on PC. Hotkeys & VAC maintenance included. Get access at dota2cheat.com.',
+			'Dota 2 mod menu for in-match ESP, Skillshot assist & radar toggles on PC. Hotkeys & VAC maintenance included. Get access at dota2cheat.com.',
 		h1: 'Dota 2 Mod Menu — In-Client Control Panel',
 		intro:
 			'Dota 2 mod menu controls for Dota 2 — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Dota 2 match on Windows PC.',
@@ -744,14 +744,14 @@ export const enPages = {
 			section(
 				'What a Dota 2 mod menu controls',
 				'A Dota 2 mod menu is the in-client panel where you enable ESP wallhack overlays, adjust radar range, and switch Aimbot profiles during live matches. Dota 2 Cheats keeps those toggles accessible with hotkeys.',
-				'Toggle player outlines, operator markers, vehicle cues, and per-weapon Aimbot settings without alt-tabbing out of Dota 2.',
+				'Toggle player outlines, hero markers, vehicle cues, and per-weapon Aimbot settings without alt-tabbing out of Dota 2.',
 				'Control deep-dives: <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, <a href="/dota2-radar-hack/">radar</a>.',
 			),
 			section(
-				'Mod menu categories for ranked matches rounds and ranked matches matches',
-				'Separate ESP wallhack categories for players, operators, operator abilitys, and weapon drops let you reduce overlay noise during rotations and buy stations.',
+				'Mod menu categories for ranked and casual matches',
+				'Separate ESP wallhack categories for players, heroes, operator abilitys, and wards and runes let you reduce overlay noise during rotations and shops.',
 				`Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when ${EXT.dota2} seasons change fight distances and mobility.`,
-				'Soft tracking players should start with <a href="/dota2-aimbot/">soft aim</a> profiles before aggressive FOV.',
+				'Soft tracking players should start with <a href="/dota2-aimbot/">Skillshot assist</a> profiles before aggressive FOV.',
 			),
 			section(
 				'Maintained mod menu after VAC patches',
@@ -762,33 +762,33 @@ export const enPages = {
 		],
 	},
 	'soft-aim': {
-		title: 'Dota 2 Soft Aim | Aimbot Settings | Dota 2 Cheats',
+		title: 'Dota 2 Skillshot assist | Aimbot Settings | Dota 2 Cheats',
 		description:
-			'Soft aim settings for natural tracking on PC — smoothness, FOV & bone priority. Included in reliable Dota 2 Cheats at dota2cheat.com.',
-		h1: 'Dota 2 Soft Aim — Smooth Aimbot Controls',
+			'Skillshot assist settings for natural tracking on PC — smoothness, FOV & bone priority. Included in dota 2 cheats at dota2cheat.com.',
+		h1: 'Dota 2 Skillshot assist — Smooth Aimbot Controls',
 		intro:
-			'Dota 2 soft aim settings for Dota 2 — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one reliable license.',
-		imageAlt: "Dota 2 soft aim FOV and smoothness settings",
-		galleryTitle: 'Dota 2 soft aim gallery',
+			'Dota 2 Skillshot assist settings for Dota 2 — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one license.',
+		imageAlt: "Dota 2 Skillshot assist FOV and smoothness settings",
+		galleryTitle: 'Dota 2 Skillshot assist gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
 		ctaSecondary: 'Aimbot controls',
 		ctaSecondaryHref: '/dota2-aimbot/',
 		sections: [
 			section(
-				'What Dota 2 soft aim means',
-				'Dota 2 soft aim refers to Aimbot behavior tuned for smooth, natural-looking tracking rather than instant snap. Dota 2 Cheats exposes smoothness, FOV, and aim smoothing sliders so you control how assist feels in BR competitive fights.',
+				'What Dota 2 Skillshot assist means',
+				'Dota 2 Skillshot assist refers to Aimbot behavior tuned for smooth, natural-looking tracking rather than instant snap. Dota 2 Cheats exposes smoothness, FOV, and aim smoothing sliders so you control how assist feels in ranked competitive fights.',
 				'Bone priority and target selection cover closest player, lowest health, or highest-threat targets during team fights.',
 				'Full Aimbot documentation: <a href="/dota2-aimbot/">Dota 2 Aimbot</a>. Alternate wording: <a href="/dota2-aimbot/">aimbot hack</a>.',
 			),
 			section(
-				'Soft aim profiles per weapon',
-				'Save separate soft aim profiles for ARs, SMGs, and long-range rifles. Switch between long-range ambush competitive fights and close team fights with hotkeys mid-session.',
+				'Skillshot assist profiles per weapon',
+				'Save separate Skillshot assist profiles for ARs, SMGs, and long-range rifles. Switch between long-range ambush competitive fights and close team fights with hotkeys mid-session.',
 				`Weapon TTKs shift with ${EXT.dota2} balance patches — retune smoothness after major combat updates.`,
-				'Soft aim ships alongside <a href="/dota2-esp/">ESP wallhack</a> and <a href="/dota2-radar-hack/">2D radar</a> overlays.',
+				'Skillshot assist ships alongside <a href="/dota2-esp/">ESP wallhack</a> and <a href="/dota2-radar-hack/">2D radar</a> overlays.',
 			),
 			section(
-				'Reliable soft aim with VAC maintenance',
-				'Aimbot modules rebuild after VAC patches. Check the <a href="/updates/">Updates page</a> before loading in — responsible settings and maintenance awareness matter for reliable play.',
+				'Skillshot assist with VAC maintenance',
+				'Aimbot modules rebuild after VAC patches. Check the <a href="/updates/">Updates page</a> before loading in — responsible settings and maintenance awareness matter for play.',
 				'Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href="/pricing/">Pricing</a>.',
 				'Activation help: <a href="/setup/">Setup</a> · status questions: <a href="/support/">Support</a>.',
 			),
@@ -797,10 +797,10 @@ export const enPages = {
 	'best-cheats': {
 		title: 'Best Dota 2 Cheats 2026 | Compare & Buy | Dota 2 Cheats',
 		description:
-			'Best Dota 2 cheats for 2026 — reliable ESP, soft aim & VAC maintenance on PC. Buyer checklist before checkout at dota2cheat.com.',
+			'Best Dota 2 cheats for 2026 — ESP, Skillshot assist & VAC maintenance on PC. Buyer checklist before checkout at dota2cheat.com.',
 		h1: 'Best Dota 2 Cheats — 2026 Buyer Guide',
 		intro:
-			'Compare dota 2 cheats for Dota 2 in 2026 — reliable ESP wallhack, radar hack, and Aimbot in one maintained package with VAC rebuilds and instant delivery.',
+			'Compare dota 2 cheats for Dota 2 in 2026 — ESP wallhack, radar hack, and Aimbot in one maintained package with VAC rebuilds and instant delivery.',
 		imageAlt: "Dota 2 Cheats overview for Dota 2 on PC",
 		galleryTitle: 'Best dota 2 cheats gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -810,36 +810,36 @@ export const enPages = {
 			section(
 				'What makes dota 2 cheats in 2026',
 				'The dota 2 cheats combine active VAC maintenance, a full ESP wallhack and radar stack, configurable Aimbot, and clear update communication — not a stale build from a prior season.',
-				'Dota 2 Cheats covers ranked matches and Resurgence sessions with in-client toggles and post-patch rebuilds.',
+				'Dota 2 Cheats covers ranked and casual matches sessions with in-client toggles and post-patch rebuilds.',
 				`Verify the live game is healthy via ${EXT.status}, then confirm our <a href="/updates/">Updates</a> note before you judge any package “best.”`,
 			),
 			section(
 				'Best dota 2 cheats feature checklist',
-				'Look for player ESP wallhack, operator markers, 2D radar overlays, Aimbot profiles, hotkey toggles, and documented maintenance after Dota 2 patches.',
-				'Review <a href="/features/">Features</a>, <a href="/dota2-cheats/">reliable status</a>, and <a href="/dota2-cheats/">dota 2 cheats 2026</a> before checkout — monthly ($35) and lifetime ($150) plans available.',
+				'Look for player ESP wallhack, hero markers, 2D radar overlays, Aimbot profiles, hotkey toggles, and documented maintenance after Dota 2 patches.',
+				'Review <a href="/features/">Features</a>, <a href="/dota2-cheats/">patch status</a>, and <a href="/dota2-cheats/">dota 2 cheats 2026</a> before checkout — monthly ($35) and lifetime ($150) plans available.',
 				'Module pages worth opening: <a href="/dota2-esp/">ESP</a>, <a href="/dota2-aimbot/">Aimbot</a>, <a href="/dota2-cheats/">hacks</a>.',
 			),
 			section(
 				'Buying dota 2 cheats safely',
 				'Purchase through secure checkout for instant digital delivery. Read Setup, FAQ, and Updates pages before your first load in — and contact Support with order details if activation needs help.',
-				'No cheat guarantees permanent reliable status — combine maintenance with responsible in-game settings.',
-				`Remember: using cheats can violate Activision terms. Proceed only if you accept that risk.`,
+				'No cheat guarantees permanent patch status — combine maintenance with responsible in-game settings.',
+				`Remember: using cheats can violate Valve terms. Proceed only if you accept that risk.`,
 			),
 			section(
 				'Compare Dota 2 Cheats vs typical budget shops',
-				'Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + soft aim together with public <a href="/updates/">Updates</a> and email support.',
+				'Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href="/updates/">Updates</a> and email support.',
 				'Read named comparisons: <a href="/forums/dota2-cheats-vs-cheatspike-comparison/">vs budget ESP shops</a> · <a href="/forums/dota2-cheats-vs-ghostware-features-pricing/">vs minimal ESP tools</a> · hub <a href="/compare/">Compare table</a>.',
 				'Still deciding? <a href="/dota2-cheats/">dota 2 cheats pillar</a> · <a href="/reviews/">reviews</a> · <a href="/pricing/">pricing</a>.',
 			),
 		],
 	},
 	'aimbot-hack': {
-		title: 'Dota 2 Aimbot Hack | Soft Aim | Dota 2 Cheats',
+		title: 'Dota 2 Aimbot Hack | Skillshot assist | Dota 2 Cheats',
 		description:
-			'Dota 2 aimbot hack with soft aim, FOV & bone priority on PC. ESP wallhack & radar bundled. Reliable with VAC updates at dota2cheat.com.',
-		h1: 'Dota 2 Aimbot Hack — Soft Aim Assist',
+			'Dota 2 aimbot hack with Skillshot assist, FOV & bone priority on PC. ESP wallhack & radar bundled. with VAC updates at dota2cheat.com.',
+		h1: 'Dota 2 Aimbot Hack — Skillshot assist Assist',
 		intro:
-			'Dota 2 Aimbot hack tools for Dota 2 — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one reliable license.',
+			'Dota 2 Aimbot hack tools for Dota 2 — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one license.',
 		imageAlt: "Dota 2 Aimbot hack controls and bone priority",
 		galleryTitle: 'Dota 2 Aimbot hack gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
@@ -849,8 +849,8 @@ export const enPages = {
 			section(
 				'Dota 2 Aimbot hack vs visibility tools',
 				'A Dota 2 Aimbot hack focuses on assisted targeting during competitive fights — while ESP wallhack and radar handle map awareness. Dota 2 Cheats bundles aimbot hack modules with visibility overlays in one license.',
-				'Smoothness, FOV, and aim smoothing controls tune assist for Dota 2 combat pace across ranked matches rounds and ranked matches matches.',
-				'Prefer softer tracking language? See <a href="/dota2-aimbot/">soft aim</a>. Full settings: <a href="/dota2-aimbot/">Aimbot page</a>.',
+				'Smoothness, FOV, and aim smoothing controls tune assist for Dota 2 combat pace across ranked and casual matches.',
+				'Prefer softer tracking language? See <a href="/dota2-aimbot/">Skillshot assist</a>. Full settings: <a href="/dota2-aimbot/">Aimbot page</a>.',
 			),
 			section(
 				'Aimbot hack controls and hotkeys',
@@ -859,7 +859,7 @@ export const enPages = {
 				`Balance patches from ${EXT.dota2} can change ideal FOV — retune after major weapon balance updates.`,
 			),
 			section(
-				'Reliable aimbot hack maintenance',
+				'aimbot hack maintenance',
 				'Aimbot hack signatures rebuild after VAC updates. Follow the <a href="/updates/">Updates page</a> and <a href="/vac-bypass/">VAC bypass guide</a> before loading in after patch days.',
 				'Checkout with instant digital delivery for Windows 10 and 11 — <a href="/pricing/">Pricing</a>.',
 				'Pair with <a href="/dota2-esp/">ESP</a> for the full information + assist loop.',
@@ -869,11 +869,11 @@ export const enPages = {
 	'esp-hack': {
 		title: 'Dota 2 ESP Hack | Wallhack Boxes | Dota 2 Cheats',
 		description:
-			'Dota 2 ESP hack with player boxes & operator markers on PC. Wallhack, radar & aimbot included in one license. Buy at dota2cheat.com from $35.',
+			'Dota 2 ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at dota2cheat.com from $35.',
 		h1: 'Dota 2 ESP Hack — Player Boxes Guide',
 		intro:
-			'Dota 2 ESP hack overlays for Dota 2 — player outlines, threat cues, operator ability markers with distance readouts across ranked matches and Resurgence sessions.',
-		imageAlt: "Dota 2 ESP hack boxes and operator markers",
+			'Dota 2 ESP hack overlays for Dota 2 — player outlines, threat cues, operator ability markers with distance readouts across ranked and casual matches sessions.',
+		imageAlt: "Dota 2 ESP hack boxes and hero markers",
 		galleryTitle: 'Dota 2 ESP hack gallery',
 		ctaPrimary: 'Buy Dota 2 Cheats',
 		ctaSecondary: 'ESP controls',
@@ -881,28 +881,28 @@ export const enPages = {
 		sections: [
 			section(
 				'What a Dota 2 ESP hack shows',
-				'A Dota 2 ESP hack renders enemy player outlines, vehicle positions, and weapon drops pins through walls and terrain — closing the information gap before you commit to a fight.',
-				'Distance readouts and snapline options help control engagement range during squad pushes and third-party scenarios.',
+				'A Dota 2 ESP hack renders enemy player outlines, vehicle positions, and wards and runes pins through walls and terrain — closing the information gap before you commit to a fight.',
+				'Distance readouts and snapline options help control engagement range during hero pushes and third-party scenarios.',
 				'Canonical visibility guide: <a href="/dota2-esp/">Dota 2 ESP</a>. Wallhack wording: <a href="/dota2-esp/">wallhack</a>.',
 			),
 			section(
 				'ESP hack categories for matches',
-				'Toggle player ESP hack, operator markers, chest pins, and vehicle cues independently so only match-critical overlays stay active during rotations.',
-				'Team and enemy colour coding supports ranked matches rounds and ranked matches matches.',
-				`POI and weapon drops changes publish through ${EXT.dota2} — keep categories toggled to what the current map rewards.`,
+				'Toggle player ESP hack, hero markers, chest pins, and vehicle cues independently so only match-critical overlays stay active during rotations.',
+				'Team and enemy colour coding supports ranked and casual matches.',
+				`POI and wards and runes changes publish through ${EXT.dota2} — keep categories toggled to what the current map rewards.`,
 			),
 			section(
-				'Reliable ESP hack with VAC maintenance',
+				'ESP hack with VAC maintenance',
 				'ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href="/updates/">Updates page</a> before loading in — pair ESP hack awareness with <a href="/dota2-radar-hack/">radar hack</a> for flank reads.',
 				'Licenses deliver digitally after checkout on Windows PC — see <a href="/pricing/">Pricing</a>.',
-				'Install steps: <a href="/setup/">Setup</a>. Status questions: <a href="/dota2-cheats/">reliable guide</a>.',
+				'Install steps: <a href="/setup/">Setup</a>. Status questions: <a href="/dota2-cheats/">guide</a>.',
 			),
 		],
 	},
 	'unlock-all': {
 		title: 'Dota 2 Unlock All | What It Really Means',
 		description:
-			'Unlock-all vs real Dota 2 cheats — ESP wallhack, soft aim & radar on PC. What Dota 2 Cheats offers before you buy at dota2cheat.com.',
+			'Unlock-all vs real Dota 2 cheats — ESP wallhack, Skillshot assist & radar on PC. What Dota 2 Cheats offers before you buy at dota2cheat.com.',
 		h1: 'Dota 2 Unlock All — What Players Search For',
 		intro:
 			'Dota 2 unlock-all is a common search term for Dota 2 — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools Dota 2 Cheats actually provides on Windows PC.',
@@ -915,18 +915,18 @@ export const enPages = {
 			section(
 				'What Dota 2 unlock-all usually means',
 				'Dota 2 unlock-all searches often refer to instant access to players, skins, or armor tiers. Those claims differ from visibility and combat-assist tools like ESP wallhack and Aimbot.',
-				'Dota 2 Cheats focuses on in-match awareness — player ESP, operator markers, radar overlays, and configurable Aimbot — not account-wide cosmetic unlocks.',
+				'Dota 2 Cheats focuses on in-match awareness — player ESP, hero markers, radar overlays, and configurable Aimbot — not account-wide cosmetic unlocks.',
 				`Cosmetics and patch cycle progression items are sold through ${EXT.dota2}. Be wary of unlock-all downloads that promise free skins — they are often scams.`,
 			),
 			section(
 				'Visibility tools vs unlock-all claims',
-				'ESP wallhack helps you spot enemy squads, enemy players, and high-value weapon drops during live matches. Radar hack adds flank awareness; Aimbot covers combat assist with smoothness and hotkey controls.',
-				'For loadout planning during a match, weapon drops and operator markers speed map rotations — see the <a href="/dota2-esp/">ESP</a> and <a href="/features/">Features</a> pages for the full tool list.',
+				'ESP wallhack helps you spot enemy heroes, enemy players, and high-value wards and runes during live matches. Radar hack adds flank awareness; Aimbot covers combat assist with smoothness and hotkey controls.',
+				'For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href="/dota2-esp/">ESP</a> and <a href="/features/">Features</a> pages for the full tool list.',
 				'Related: <a href="/dota2-cheats/">dota 2 cheats</a> and <a href="/dota2-cheats/">dota 2 cheats</a>.',
 			),
 			section(
 				'Buying Dota 2 Cheats for the right reasons',
-				'If you need reliable ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href="/pricing/">Pricing</a> and read the <a href="/setup/">Setup guide</a> before checkout.',
+				'If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href="/pricing/">Pricing</a> and read the <a href="/setup/">Setup guide</a> before checkout.',
 				'Check the <a href="/updates/">Updates page</a> after VAC patches — maintenance rebuilds publish for active licenses.',
 				'Questions? <a href="/faq/">FAQ</a> and <a href="/support/">Support</a> cover delivery and configuration — not cosmetic unlocks.',
 			),
@@ -1036,8 +1036,8 @@ export const enPages = {
 			),
 			section(
 				'Risk and anti-cheat disclaimer',
-				`Using cheats in Dota 2 may violate Activision terms and result in account penalties. Dota 2 Cheats provides maintenance but does not guarantee reliable status or account safety.`,
-				'You assume all risk. We are not liable for bans, data loss, or damages arising from product use. See also <a href="/dota2-cheats/">reliable status</a>.',
+				`Using cheats in Dota 2 may violate Valve terms and result in account penalties. Dota 2 Cheats provides maintenance but does not guarantee patch status or account safety.`,
+				'You assume all risk. We are not liable for bans, data loss, or damages arising from product use. See also <a href="/dota2-cheats/">patch status</a>.',
 			),
 			section(
 				'Changes and governing law',

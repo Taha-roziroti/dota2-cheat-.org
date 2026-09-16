@@ -270,6 +270,32 @@ if (aboutNode) {
 		<Analytics />
 	</head>
 	<body>
+		<a class="skip-link" href="#main-content">{
+			({
+				en: 'Skip to main content',
+				es: 'Saltar al contenido principal',
+				fr: 'Aller au contenu principal',
+				de: 'Zum Hauptinhalt springen',
+				pt: 'Ir para o conteúdo principal',
+				it: 'Vai al contenuto principale',
+				nl: 'Ga naar hoofdinhoud',
+				pl: 'Przejdź do treści',
+				ru: 'Перейти к содержимому',
+				tr: 'Ana içeriğe geç',
+				ar: 'انتقل إلى المحتوى الرئيسي',
+				ja: 'メインコンテンツへスキップ',
+				ko: '본문으로 건너뛰기',
+				zh: '跳到主要内容',
+				hi: 'मुख्य सामग्री पर जाएँ',
+				id: 'Lewati ke konten utama',
+				th: 'ข้ามไปเนื้อหาหลัก',
+				vi: 'Chuyển đến nội dung chính',
+				uk: 'Перейти до основного вмісту',
+				cs: 'Přejít na hlavní obsah',
+				ro: 'Salt la conținutul principal',
+				sv: 'Hoppa till huvudinnehåll',
+			})[locale] ?? 'Skip to main content'
+		}</a>
 		{pageId && <LocaleSuggest currentLocale={locale} pageId={pageId} />}
 		<slot />
 		<InlineBrandEditor />

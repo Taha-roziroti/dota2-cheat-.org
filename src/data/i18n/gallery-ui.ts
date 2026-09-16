@@ -19,7 +19,7 @@ export const galleryUi: Record<LocaleCode, GalleryUi> = {
 		highlights: [
 			{ title: 'dota 2 cheats esp', copy: 'See players through walls with dota 2 cheats esp and wallhack overlays.' },
 			{ title: 'dota 2 cheats radar', copy: 'Track nearby threats with dota 2 cheats radar before you push or rotate.' },
-			{ title: 'dota 2 cheats aimbot', copy: 'Use soft aim and aimbot controls tuned for Dota 2 matches on Windows PC.' },
+			{ title: 'dota 2 cheats aimbot', copy: 'Use Skillshot assist and aimbot controls tuned for Dota 2 matches on Windows PC.' },
 		],
 		updatesLabel: 'dota 2 cheats updates',
 		updatesShort: 'Updates',

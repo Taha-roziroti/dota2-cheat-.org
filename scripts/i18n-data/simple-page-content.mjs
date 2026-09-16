@@ -7,91 +7,91 @@ export const PAGE_CONTENT = {
 		"0": {
 			"en": [
 				"Full package access for Windows 10 / 11.",
-				"Same ESP, soft aim, and radar on monthly and lifetime plans."
+				"Same ESP, Skillshot assist, and radar on monthly and lifetime plans."
 			],
 			"es": [
 				"Acceso completo al paquete para Windows 10 / 11.",
-				"Mismo ESP, soft aim y radar en planes mensuales y de por vida."
+				"Mismo ESP, Skillshot assist y radar en planes mensuales y de por vida."
 			],
 			"fr": [
 				"Accès complet au squad pour Windows 10 / 11.",
-				"Même ESP, soft aim et radar sur les formules mensuelles et à vie."
+				"Même ESP, Skillshot assist et radar sur les formules mensuelles et à vie."
 			],
 			"de": [
 				"Voller Paketzugang für Windows 10 / 11.",
-				"Gleiches ESP, Soft Aim und Radar bei Monats- und Lifetime-Plänen."
+				"Gleiches ESP, Skillshot assist und Radar bei Monats- und Lifetime-Plänen."
 			],
 			"pt": [
 				"Acesso completo ao pacote para Windows 10 / 11.",
-				"Mesmo ESP, soft aim e radar nos planos mensais e vitalícios."
+				"Mesmo ESP, Skillshot assist e radar nos planos mensais e vitalícios."
 			],
 			"it": [
 				"Accesso completo al pacchetto per Windows 10 / 11.",
-				"Stesso ESP, soft aim e radar su piani mensili e lifetime."
+				"Stesso ESP, Skillshot assist e radar su piani mensili e lifetime."
 			],
 			"nl": [
 				"Volledige pakkettoegang voor Windows 10 / 11.",
-				"Dezelfde ESP, soft aim en radar op maand- en lifetime-plannen."
+				"Dezelfde ESP, Skillshot assist en radar op maand- en lifetime-plannen."
 			],
 			"pl": [
 				"Pełny dostęp do pakietu na Windows 10 / 11.",
-				"Ten sam ESP, soft aim i radar w planach miesięcznych i lifetime."
+				"Ten sam ESP, Skillshot assist i radar w planach miesięcznych i lifetime."
 			],
 			"ru": [
 				"Полный доступ к пакету для Windows 10 / 11.",
-				"Тот же ESP, soft aim и radar в месячных и lifetime тарифах."
+				"Тот же ESP, Skillshot assist и radar в месячных и lifetime тарифах."
 			],
 			"tr": [
 				"Windows 10 / 11 için tam paket erişimi.",
-				"Aylık ve lifetime planlarda aynı ESP, soft aim ve radar."
+				"Aylık ve lifetime planlarda aynı ESP, Skillshot assist ve radar."
 			],
 			"ar": [
 				"وصول كامل للحزمة على Windows 10 / 11.",
-				"نفس ESP وsoft aim وradar في الخطط الشهرية وlifetime."
+				"نفس ESP وSkillshot assist وradar في الخطط الشهرية وlifetime."
 			],
 			"ja": [
 				"Windows 10 / 11向けフルパッケージアクセス。",
-				"月額・lifetimeプランで同じESP、soft aim、radar。"
+				"月額・lifetimeプランで同じESP、Skillshot assist、radar。"
 			],
 			"ko": [
 				"Windows 10 / 11용 전체 패키지 액세스.",
-				"월간 및 lifetime 요금제에서 동일한 ESP, soft aim, radar."
+				"월간 및 lifetime 요금제에서 동일한 ESP, Skillshot assist, radar."
 			],
 			"zh": [
 				"Windows 10 / 11 完整套餐访问。",
-				"月付和 lifetime 方案包含相同的 ESP、soft aim 和 radar。"
+				"月付和 lifetime 方案包含相同的 ESP、Skillshot assist 和 radar。"
 			],
 			"hi": [
 				"Windows 10 / 11 के लिए पूरा पैकेज एक्सेस।",
-				"मासिक और lifetime प्लान पर एक जैसा ESP, soft aim और radar।"
+				"मासिक और lifetime प्लान पर एक जैसा ESP, Skillshot assist और radar।"
 			],
 			"id": [
 				"Akses paket penuh untuk Windows 10 / 11.",
-				"ESP, soft aim, dan radar yang sama di paket bulanan dan lifetime."
+				"ESP, Skillshot assist, dan radar yang sama di paket bulanan dan lifetime."
 			],
 			"th": [
 				"การเข้าถึงแพ็กเกจเต็มรูปแบบสำหรับ Windows 10 / 11",
-				"ESP, soft aim และ radar เหมือนกันทั้งแพ็กเกจรายเดือนและ lifetime"
+				"ESP, Skillshot assist และ radar เหมือนกันทั้งแพ็กเกจรายเดือนและ lifetime"
 			],
 			"vi": [
 				"Truy cập đầy đủ gói cho Windows 10 / 11.",
-				"Cùng ESP, soft aim và radar trên gói tháng và lifetime."
+				"Cùng ESP, Skillshot assist và radar trên gói tháng và lifetime."
 			],
 			"uk": [
 				"Повний доступ до пакета для Windows 10 / 11.",
-				"Той самий ESP, soft aim і radar у місячних і lifetime тарифах."
+				"Той самий ESP, Skillshot assist і radar у місячних і lifetime тарифах."
 			],
 			"cs": [
 				"Plný přístup k balíčku pro Windows 10 / 11.",
-				"Stejné ESP, soft aim a radar u měsíčních i lifetime plánů."
+				"Stejné ESP, Skillshot assist a radar u měsíčních i lifetime plánů."
 			],
 			"ro": [
 				"Acces complet la pachet pentru Windows 10 / 11.",
-				"Același ESP, soft aim și radar pe planurile lunare și lifetime."
+				"Același ESP, Skillshot assist și radar pe planurile lunare și lifetime."
 			],
 			"sv": [
 				"Full paketåtkomst för Windows 10 / 11.",
-				"Samma ESP, soft aim och radar på månads- och lifetime-planer."
+				"Samma ESP, Skillshot assist och radar på månads- och lifetime-planer."
 			]
 		},
 		"1": {
@@ -823,52 +823,52 @@ export const PAGE_CONTENT = {
 			"en": [
 				"Check this page before every match after a patch",
 				"Monthly and lifetime licenses get rebuilds while active",
-				"No cheat stays reliable forever — status first, then play"
+				"Check patch status after every update — status first, then play"
 			],
 			"es": [
 				"Revisa esta página antes de cada match tras un parche",
 				"Licencias mensuales y de por vida reciben rebuilds mientras estén activas",
-				"Ningún cheat permanece indetectable para siempre — estado primero, luego jugar"
+				"Ningún cheat permanece para siempre — estado primero, luego jugar"
 			],
 			"fr": [
 				"Consultez cette page avant chaque match après un patch",
 				"Les licences mensuelles et à vie reçoivent des reconstructions tant qu'actives",
-				"Aucune triche ne reste indétectable éternellement — statut d'abord, puis jouer"
+				"Aucune triche ne reste éternellement — statut d'abord, puis jouer"
 			],
 			"de": [
 				"Vor jedem match nach einem Patch diese Seite prüfen",
 				"Monats- und Lifetime-Lizenzen erhalten Rebuilds solange aktiv",
-				"Kein Cheat bleibt für immer reliable — erst Status, dann spielen"
+				"Kein Cheat bleibt für immer sicher — erst Status, dann spielen"
 			],
 			"pt": [
 				"Verifique esta página antes de cada match após patch",
 				"Licenças mensais e vitalícias recebem rebuilds enquanto ativas",
-				"Nenhum cheat fica indetectável para sempre — status primeiro, depois jogar"
+				"Nenhum cheat fica para sempre — status primeiro, depois jogar"
 			],
 			"it": [
 				"Controlla questa pagina prima di ogni match dopo una patch",
 				"Licenze mensili e lifetime ricevono rebuild finché attive",
-				"Nessun cheat resta indetectable per sempre — stato prima, poi gioca"
+				"Nessun cheat resta per sempre — stato prima, poi gioca"
 			],
 			"nl": [
 				"Check deze pagina voor elke match na een patch",
 				"Maand- en lifetime-licenties krijgen rebuilds zolang actief",
-				"Geen cheat blijft voor altijd reliable — eerst status, dan spelen"
+				"Geen cheat blijft voor altijd veilig — eerst status, dan spelen"
 			],
 			"pl": [
 				"Sprawdź tę stronę przed każdym match po patchu",
 				"Licencje miesięczne i lifetime dostają rebuildy przy aktywnej licencji",
-				"Żaden cheat nie jest reliable na zawsze — najpierw status, potem gra"
+				"Żaden cheat nie jest bezpieczny na zawsze — najpierw status, potem gra"
 			],
 			"ru": [
 				"Проверяйте эту страницу перед каждым match после патча",
 				"Месячные и lifetime лицензии получают пересборки при активной лицензии",
-				"Ни один чит не остаётся reliable навсегда — сначала статус, потом игра"
+				"Ни один чит не остаётся безопасен навсегда — сначала статус, потом игра"
 			],
 			"tr": [
 				"Yama sonrası her match öncesi bu sayfayı kontrol edin",
 				"Aylık ve lifetime lisanslar aktifken rebuild alır",
-				"Hiçbir hile sonsuza kadar reliable kalmaz — önce durum, sonra oyna"
+				"Hiçbir hile sonsuza kadar güvenli kalmaz — önce durum, sonra oyna"
 			],
 			"ar": [
 				"تحقق من هذه الصفحة قبل كل match بعد التصحيح",
@@ -878,57 +878,57 @@ export const PAGE_CONTENT = {
 			"ja": [
 				"パッチ後のレイド前に必ずこのページを確認",
 				"月額・lifetimeライセンスはアクティブ中リビルド対象",
-				"チートは永久にreliableではありません — 先にステータス確認"
+				"チートは永久に安全ではありません — 先にステータス確認"
 			],
 			"ko": [
 				"패치 후 레이드마다 이 페이지 확인",
 				"월간·lifetime 라이선스는 활성 기간 리빌드 제공",
-				"치트는 영원히 reliable가 아닙니다 — 상태 먼저, 그다음 플레이"
+				"치트는 영원히 안전하지 않습니다 — 상태 먼저, 그다음 플레이"
 			],
 			"zh": [
 				"补丁后每次 match 前查看此页",
 				"月付和 lifetime 许可证激活期间提供重建",
-				"没有作弊能永远 reliable — 先查状态再玩"
+				"没有作弊能永远安全 — 先查状态再玩"
 			],
 			"hi": [
 				"पैच के बाद हर match से पहले यह पेज देखें",
 				"मासिक और lifetime लाइसेंस सक्रिय रहते rebuild पाते हैं",
-				"कोई cheat हमेशा reliable नहीं रहता — पहले स्टेटस, फिर खेल"
+				"कोई cheat हमेशा सुरक्षित नहीं रहता — पहले स्टेटस, फिर खेल"
 			],
 			"id": [
 				"Cek halaman ini sebelum setiap match setelah patch",
 				"Lisensi bulanan dan lifetime dapat rebuild selama aktif",
-				"Tidak ada cheat reliable selamanya — status dulu, baru main"
+				"Tidak ada cheat aman selamanya — status dulu, baru main"
 			],
 			"th": [
 				"ตรวจหน้านี้ก่อน match ทุกครั้งหลังแพตช์",
 				"ใบอนุญาตรายเดือนและ lifetime ได้ rebuild ขณะใช้งาน",
-				"ไม่มี cheat reliable ตลอดไป — ตรวจสถานะก่อนเล่น"
+				"ไม่มี cheat ปลอดภัยตลอดไป — ตรวจสถานะก่อนเล่น"
 			],
 			"vi": [
 				"Kiểm tra trang này trước mỗi match sau bản vá",
 				"Giấy phép tháng và lifetime được rebuild khi còn hiệu lực",
-				"Không cheat nào reliable mãi — trạng thái trước, chơi sau"
+				"Không cheat nào an toàn mãi — trạng thái trước, chơi sau"
 			],
 			"uk": [
 				"Перевіряйте цю сторінку перед кожним match після патчу",
 				"Місячні та lifetime ліцензії отримують перезбірки під час активності",
-				"Жоден чит не reliable назавжди — спочатку статус, потім гра"
+				"Жоден чит не безпечний назавжди — спочатку статус, потім гра"
 			],
 			"cs": [
 				"Před každým match po patchi zkontrolujte tuto stránku",
 				"Měsíční a lifetime licence dostávají rebuildy při aktivní licenci",
-				"Žádný cheat není reliable navždy — nejdřív stav, pak hra"
+				"Žádný cheat není bezpečný navždy — nejdřív stav, pak hra"
 			],
 			"ro": [
 				"Verifică această pagină înainte de fiecare match după patch",
 				"Licențele lunare și lifetime primesc rebuild-uri cât sunt active",
-				"Niciun cheat nu rămâne reliable pentru totdeauna — status mai întâi"
+				"Niciun cheat nu rămâne sigur pentru totdeauna — status mai întâi"
 			],
 			"sv": [
 				"Kontrollera sidan före varje match efter patch",
 				"Månads- och lifetime-licenser får rebuilds medan aktiva",
-				"Ingen cheat förblir reliable för evigt — status först, sedan spela"
+				"Ingen cheat förblir säker för evigt — status först, sedan spela"
 			]
 		},
 		"list1": {
@@ -1137,35 +1137,35 @@ export const PAGE_CONTENT = {
 	"hacks": {
 		"0": {
 			"en": [
-				"Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.",
+				"Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, wards and runes visibility, off-screen radar, or smoother aim under pressure.",
 				"Dota 2 Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
 			],
 			"es": [
-				"Los trucos de Dota 2 son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca dota 2 cheats cuando quieren ESP de jugadores, visibilidad de weapon drops, radar fuera de pantalla o puntería más suave bajo presión.",
+				"Los trucos de Dota 2 son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca dota 2 cheats cuando quieren ESP de jugadores, visibilidad de wards and runes, radar fuera de pantalla o puntería más suave bajo presión.",
 				"Dota 2 Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
 			],
 			"fr": [
-				"Les triches Dota 2 sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent dota 2 cheats pour l'ESP joueurs, le weapon drops, le radar hors écran ou une visée plus fluide sous pression.",
+				"Les triches Dota 2 sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent dota 2 cheats pour l'ESP joueurs, le wards and runes, le radar hors écran ou une visée plus fluide sous pression.",
 				"Dota 2 Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
 			],
 			"de": [
-				"Dota 2 Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen dota 2 cheats für Spieler-ESP, Weapon drops-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+				"Dota 2 Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen dota 2 cheats für Spieler-ESP, wards and runes-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
 				"Dota 2 Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
 			],
 			"pt": [
-				"Dota 2 cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura dota 2 cheats por ESP de jogadores, weapon drops, radar off-screen ou mira mais suave sob pressão.",
+				"Dota 2 cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura dota 2 cheats por ESP de jogadores, wards and runes, radar off-screen ou mira mais suave sob pressão.",
 				"Dota 2 Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
 			],
 			"it": [
-				"I cheat Dota 2 sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano dota 2 cheats per ESP giocatori, weapon drops, radar off-screen o mira più fluida sotto pressione.",
+				"I cheat Dota 2 sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano dota 2 cheats per ESP giocatori, wards and runes, radar off-screen o mira più fluida sotto pressione.",
 				"Dota 2 Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
 			],
 			"nl": [
-				"Dota 2 cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken dota 2 cheats voor speler-ESP, weapon drops, off-screen radar of soepeler richten onder druk.",
+				"Dota 2 cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken dota 2 cheats voor speler-ESP, wards and runes, off-screen radar of soepeler richten onder druk.",
 				"Dota 2 Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
 			],
 			"pl": [
-				"Dota 2 cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka dota 2 cheats dla ESP graczy, weapon dropsu, radaru off-screen lub płynniejszego aimu pod presją.",
+				"Dota 2 cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka dota 2 cheats dla ESP graczy, wards and runesu, radaru off-screen lub płynniejszego aimu pod presją.",
 				"Dota 2 Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
 			],
 			"ru": [
@@ -1173,19 +1173,19 @@ export const PAGE_CONTENT = {
 				"Dota 2 Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
 			],
 			"tr": [
-				"Dota 2 hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, weapon drops, off-screen radar veya baskı altında daha yumuşak nişan için dota 2 cheats arar.",
+				"Dota 2 hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, wards and runes, off-screen radar veya baskı altında daha yumuşak nişan için dota 2 cheats arar.",
 				"Dota 2 Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
 			],
 			"ar": [
-				"dota 2 cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن dota 2 cheats لـ ESP اللاعبين والweapon drops والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+				"dota 2 cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن dota 2 cheats لـ ESP اللاعبين والwards and runes والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
 				"Dota 2 Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
 			],
 			"ja": [
-				"Dota 2チートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、weapon drops、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でdota 2 cheatsを探す人が多いです。",
+				"Dota 2チートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、wards and runes、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でdota 2 cheatsを探す人が多いです。",
 				"Dota 2 Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
 			],
 			"ko": [
-				"Dota 2 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, weapon drops, off-screen radar, 압박 상황에서 부드러운 에임을 위해 dota 2 cheats를 찾습니다.",
+				"Dota 2 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, wards and runes, off-screen radar, 압박 상황에서 부드러운 에임을 위해 dota 2 cheats를 찾습니다.",
 				"Dota 2 Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
 			],
 			"zh": [
@@ -1193,49 +1193,49 @@ export const PAGE_CONTENT = {
 				"Dota 2 Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
 			],
 			"hi": [
-				"Dota 2 cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, weapon drops visibility, off-screen radar या दबाव में smoother aim के लिए dota 2 cheats खोजते हैं।",
+				"Dota 2 cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, wards and runes visibility, off-screen radar या दबाव में smoother aim के लिए dota 2 cheats खोजते हैं।",
 				"Dota 2 Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
 			],
 			"id": [
-				"Dota 2 cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari dota 2 cheats untuk ESP pemain, weapon drops, radar off-screen, atau aim lebih halus under pressure.",
+				"Dota 2 cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari dota 2 cheats untuk ESP pemain, wards and runes, radar off-screen, atau aim lebih halus under pressure.",
 				"Dota 2 Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
 			],
 			"th": [
-				"Dota 2 cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา dota 2 cheats เพื่อ ESP ผู้เล่น weapon drops radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+				"Dota 2 cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา dota 2 cheats เพื่อ ESP ผู้เล่น wards and runes radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
 				"Dota 2 Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
 			],
 			"vi": [
-				"Dota 2 cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm dota 2 cheats cho ESP người chơi, weapon drops, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+				"Dota 2 cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm dota 2 cheats cho ESP người chơi, wards and runes, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
 				"Dota 2 Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
 			],
 			"uk": [
-				"Dota 2 cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають dota 2 cheats за ESP гравців, weapon drops, off-screen radar або плавніший aim під тиском.",
+				"Dota 2 cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають dota 2 cheats за ESP гравців, wards and runes, off-screen radar або плавніший aim під тиском.",
 				"Dota 2 Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
 			],
 			"cs": [
-				"Dota 2 cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá dota 2 cheats pro ESP hráčů, weapon drops, off-screen radar nebo plynulejší aim pod tlakem.",
+				"Dota 2 cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá dota 2 cheats pro ESP hráčů, wards and runes, off-screen radar nebo plynulejší aim pod tlakem.",
 				"Dota 2 Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
 			],
 			"ro": [
-				"Dota 2 cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută dota 2 cheats pentru ESP jucători, weapon drops, radar off-screen sau aim mai lin sub presiune.",
+				"Dota 2 cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută dota 2 cheats pentru ESP jucători, wards and runes, radar off-screen sau aim mai lin sub presiune.",
 				"Dota 2 Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
 			],
 			"sv": [
-				"Dota 2 cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker dota 2 cheats för spelar-ESP, weapon drops, off-screen radar eller mjukare sikte under press.",
+				"Dota 2 cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker dota 2 cheats för spelar-ESP, wards and runes, off-screen radar eller mjukare sikte under press.",
 				"Dota 2 Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
 			]
 		},
 		"1": {
 			"en": [
-				"One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
+				"One license covers the full match stack: player ESP with distance, hero markers, 2D radar for flanks, and configurable Skillshot assist profiles per weapon.",
 				"Monthly and lifetime plans include the same feature stack with VAC rebuilds."
 			],
 			"es": [
-				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de héroe, radar 2D para flancos y perfiles soft aim configurables por arma.",
+				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de héroe, radar 2D para flancos y perfiles Skillshot assist configurables por arma.",
 				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds VAC."
 			],
 			"fr": [
-				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de héros, radar 2D pour les flancs et profils soft aim configurables par arme.",
+				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de héros, radar 2D pour les flancs et profils Skillshot assist configurables par arme.",
 				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds VAC."
 			],
 			"de": [
@@ -1243,75 +1243,75 @@ export const PAGE_CONTENT = {
 				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit VAC-Rebuilds."
 			],
 			"pt": [
-				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de herói, radar 2D para flancos e perfis soft aim configuráveis por arma.",
+				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de herói, radar 2D para flancos e perfis Skillshot assist configuráveis por arma.",
 				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds VAC."
 			],
 			"it": [
-				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker eroe, radar 2D per i fianchi e profili soft aim configurabili per arma.",
+				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker eroe, radar 2D per i fianchi e profili Skillshot assist configurabili per arma.",
 				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild VAC."
 			],
 			"nl": [
-				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, hero-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen.",
+				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, hero-markers, 2D-radar voor flanks en configureerbare Skillshot assist-profielen per wapen.",
 				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met VAC-rebuilds."
 			],
 			"pl": [
-				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery bohaterów, radar 2D na flanki i konfigurowalne profile soft aim na broń.",
+				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery bohaterów, radar 2D na flanki i konfigurowalne profile Skillshot assist na broń.",
 				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami VAC."
 			],
 			"ru": [
-				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры героев, 2D radar для флангов и настраиваемые soft aim профили по оружию.",
+				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры героев, 2D radar для флангов и настраиваемые Skillshot assist профили по оружию.",
 				"Месячные и lifetime-планы включают тот же набор функций с VAC rebuilds."
 			],
 			"tr": [
-				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, kahraman işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri.",
+				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, kahraman işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir Skillshot assist profilleri.",
 				"Aylık ve lifetime planlar aynı özellik yığınını VAC rebuilds ile içerir."
 			],
 			"ar": [
-				"ترخيص واحد يغطي stack المباراة الكامل: ESP للاعبين مع المسافة وعلامات الأبطال وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح.",
+				"ترخيص واحد يغطي stack المباراة الكامل: ESP للاعبين مع المسافة وعلامات الأبطال وradar 2D للمناورات وملفات Skillshot assist قابلة للضبط لكل سلاح.",
 				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع VAC rebuilds."
 			],
 			"ja": [
-				"1ライセンスでフル match stack をカバー: 距離付きプレイヤーESP、ヒーローマーカー、側面用2D radar、武器別soft aimプロファイル。",
+				"1ライセンスでフル match stack をカバー: 距離付きプレイヤーESP、ヒーローマーカー、側面用2D radar、武器別Skillshot assistプロファイル。",
 				"月額とライフタイムプランは同じ機能 stack を VAC rebuilds 付きで含みます。"
 			],
 			"ko": [
-				"하나의 라이선스로 전체 match stack: 거리 표시 플레이어 ESP, 영웅 마커, 측면 2D radar, 무기별 soft aim 프로필.",
+				"하나의 라이선스로 전체 match stack: 거리 표시 플레이어 ESP, 영웅 마커, 측면 2D radar, 무기별 Skillshot assist 프로필.",
 				"월간 및 lifetime 플랜은 VAC rebuilds가 포함된 동일한 기능 stack을 제공합니다."
 			],
 			"zh": [
-				"一份许可证覆盖完整 match 套件：带距离的玩家 ESP、英雄标记、侧翼 2D radar 和按武器可调的 soft aim 配置。",
+				"一份许可证覆盖完整 match 套件：带距离的玩家 ESP、英雄标记、侧翼 2D radar 和按武器可调的 Skillshot assist 配置。",
 				"月付和终身计划包含相同功能 stack，并提供 VAC rebuilds。"
 			],
 			"hi": [
-				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, operator markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
+				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, hero markers, flanks के लिए 2D radar, और प्रति हथियार Skillshot assist profiles।",
 				"Monthly और lifetime plans में VAC rebuilds के साथ same feature stack शामिल है।"
 			],
 			"id": [
-				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker hero, radar 2D untuk flank, dan profil soft aim per senjata.",
+				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker hero, radar 2D untuk flank, dan profil Skillshot assist per senjata.",
 				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan VAC rebuilds."
 			],
 			"th": [
-				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ฮีโร่ radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ",
+				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ฮีโร่ radar 2D สำหรับ flank และโปรไฟล์ Skillshot assist ต่ออาวุธ",
 				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม VAC rebuilds"
 			],
 			"vi": [
-				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker tướng, radar 2D cho flank, profile soft aim theo vũ khí.",
+				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker tướng, radar 2D cho flank, profile Skillshot assist theo vũ khí.",
 				"Gói tháng và lifetime bao gồm cùng feature stack với VAC rebuilds."
 			],
 			"uk": [
-				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери героїв, 2D radar для флангів і профілі soft aim на зброю.",
+				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери героїв, 2D radar для флангів і профілі Skillshot assist на зброю.",
 				"Місячні та lifetime тарифи включають той самий feature stack з VAC rebuilds."
 			],
 			"cs": [
-				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, agent markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň.",
+				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, agent markery, 2D radar pro flanky a konfigurovatelné Skillshot assist profily na zbraň.",
 				"Měsíční i lifetime plány obsahují stejný feature stack s VAC rebuilds."
 			],
 			"ro": [
-				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri eroi, radar 2D pentru flancuri și profile soft aim per armă.",
+				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri eroi, radar 2D pentru flancuri și profile Skillshot assist per armă.",
 				"Planurile lunare și lifetime includ același feature stack cu VAC rebuilds."
 			],
 			"sv": [
-				"En licens täcker hela match-stacken: spelar-ESP med avstånd, hjältemarkörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen.",
+				"En licens täcker hela match-stacken: spelar-ESP med avstånd, hjältemarkörer, 2D-radar för flanker och konfigurerbara Skillshot assist-profiler per vapen.",
 				"Månads- och lifetime-planer inkluderar samma feature stack med VAC rebuilds."
 			]
 		},
@@ -1386,71 +1386,71 @@ export const PAGE_CONTENT = {
 		},
 		"3": {
 			"en": [
-				"Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.",
-				"Read the reliable cheats guide and VAC maintenance notes for the full workflow."
+				"Dota 2 uses VAC. Check patch status after every update — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.",
+				"Read the dota 2 cheats guide and VAC maintenance notes for the full workflow."
 			],
 			"es": [
-				"Dota 2 usa VAC. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Dota 2 o VAC antes de entrar."
+				"Dota 2 usa VAC. Ningún cheat permanece para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Dota 2 o VAC antes de entrar."
 			],
 			"fr": [
-				"Dota 2 utilise VAC. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Dota 2 ou VAC avant de jouer."
+				"Dota 2 utilise VAC. Aucune triche ne reste éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Dota 2 ou VAC avant de jouer."
 			],
 			"de": [
-				"Dota 2 nutzt VAC. Kein Cheat bleibt für immer reliable — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Dota 2- oder VAC-Update vor dem Spielen."
+				"Dota 2 nutzt VAC. Kein Cheat bleibt für immer sicher — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Dota 2- oder VAC-Update vor dem Spielen."
 			],
 			"pt": [
-				"Dota 2 usa VAC. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Dota 2 ou VAC antes de entrar."
+				"Dota 2 usa VAC. Nenhum cheat fica para sempre — manutenção após patches importa. Verifique a página Status após cada update Dota 2 ou VAC antes de entrar."
 			],
 			"it": [
-				"Dota 2 usa VAC. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Dota 2 o VAC prima di giocare."
+				"Dota 2 usa VAC. Nessun cheat resta per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Dota 2 o VAC prima di giocare."
 			],
 			"nl": [
-				"Dota 2 gebruikt VAC. Geen cheat blijft voor altijd reliable — onderhoud na patches telt. Check de Status-pagina na elke Dota 2- of EAC-update vóór je speelt."
+				"Dota 2 gebruikt VAC. Geen cheat blijft voor altijd veilig — onderhoud na patches telt. Check de Status-pagina na elke Dota 2- of EAC-update vóór je speelt."
 			],
 			"pl": [
-				"Dota 2 używa VAC. Żaden cheat nie jest reliable na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Dota 2 lub EAC przed grą."
+				"Dota 2 używa VAC. Żaden cheat nie jest bezpieczny na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Dota 2 lub EAC przed grą."
 			],
 			"ru": [
-				"Dota 2 использует VAC. Ни один чит не reliable навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Dota 2 или VAC перед игрой."
+				"Dota 2 использует VAC. Ни один чит не безопасен навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Dota 2 или VAC перед игрой."
 			],
 			"tr": [
-				"Dota 2 VAC kullanır. Hiçbir hile sonsuza kadar reliable kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Dota 2 veya VAC güncellemesinden sonra Durum sayfasını kontrol edin."
+				"Dota 2 VAC kullanır. Hiçbir hile sonsuza kadar güvenli kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Dota 2 veya VAC güncellemesinden sonra Durum sayfasını kontrol edin."
 			],
 			"ar": [
 				"Dota 2 يستخدم VAC. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Dota 2 أو EAC قبل الدخول."
 			],
 			"ja": [
-				"Dota 2はVACを使用。チートは永久にreliableではありません — パッチ後のメンテナンスが重要です。プレイ前にDota 2またはVAC更新後はステータスページを確認してください。"
+				"Dota 2はVACを使用。チートは永久に安全ではありません — パッチ後のメンテナンスが重要です。プレイ前にDota 2またはVAC更新後はステータスページを確認してください。"
 			],
 			"ko": [
-				"Dota 2는 VAC를 사용합니다. 치트는 영원히 reliable가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Dota 2 또는 VAC 업데이트마다 상태 페이지를 확인하세요."
+				"Dota 2는 VAC를 사용합니다. 치트는 영원히 안전하지 않습니다 — 패치 후 유지보수가 중요합니다. 접속 전 Dota 2 또는 VAC 업데이트마다 상태 페이지를 확인하세요."
 			],
 			"zh": [
-				"Dota 2 使用 VAC。没有作弊能永远 reliable — 补丁后维护才是关键。每次 Dota 2 或 VAC 更新后、进游戏前先查状态页。"
+				"Dota 2 使用 VAC。没有作弊能永远安全 — 补丁后维护才是关键。每次 Dota 2 或 VAC 更新后、进游戏前先查状态页。"
 			],
 			"hi": [
-				"Dota 2 VAC उपयोग करता है। कोई cheat हमेशा reliable नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Dota 2 या VAC अपडेट के बाद Status पेज देखें।"
+				"Dota 2 VAC उपयोग करता है। कोई cheat हमेशा सुरक्षित नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Dota 2 या VAC अपडेट के बाद Status पेज देखें।"
 			],
 			"id": [
-				"Dota 2 memakai VAC. Tidak ada cheat reliable selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Dota 2 atau VAC sebelum main."
+				"Dota 2 memakai VAC. Tidak ada cheat aman selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Dota 2 atau VAC sebelum main."
 			],
 			"th": [
-				"Dota 2 ใช้ VAC ไม่มี cheat reliable ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Dota 2 หรือ VAC ก่อนเข้าเกม"
+				"Dota 2 ใช้ VAC ไม่มี cheat ปลอดภัยตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Dota 2 หรือ VAC ก่อนเข้าเกม"
 			],
 			"vi": [
-				"Dota 2 dùng VAC. Không cheat nào reliable mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Dota 2 hoặc VAC trước khi vào game."
+				"Dota 2 dùng VAC. Không cheat nào an toàn mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Dota 2 hoặc VAC trước khi vào game."
 			],
 			"uk": [
-				"Dota 2 використовує VAC. Жоден чит не reliable назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Dota 2 або EAC перед грою."
+				"Dota 2 використовує VAC. Жоден чит не безпечний назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Dota 2 або EAC перед грою."
 			],
 			"cs": [
-				"Dota 2 používá VAC. Žádný cheat není reliable navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Dota 2 nebo EAC."
+				"Dota 2 používá VAC. Žádný cheat není bezpečný navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Dota 2 nebo EAC."
 			],
 			"ro": [
-				"Dota 2 folosește VAC. Niciun cheat nu rămâne reliable pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Dota 2 sau EAC înainte de joc."
+				"Dota 2 folosește VAC. Niciun cheat nu rămâne sigur pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Dota 2 sau EAC înainte de joc."
 			],
 			"sv": [
-				"Dota 2 använder VAC. Ingen cheat förblir reliable för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Dota 2- eller EAC-uppdatering före spel."
+				"Dota 2 använder VAC. Ingen cheat förblir säker för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Dota 2- eller EAC-uppdatering före spel."
 			]
 		},
 		"4": {
@@ -1524,304 +1524,304 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy."
+				"Dota 2 cheats add ESP, radar, and Skillshot assist on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy."
 			],
 			"es": [
-				"Los trucos de Dota 2 añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los dota 2 cheats, qué incluye Dota 2 Cheats, cómo funciona el mantenimiento de VAC y dónde ir antes de comprar."
+				"Los trucos de Dota 2 añaden ESP, radar y Skillshot assist sobre el juego base. Esta página explica qué son los dota 2 cheats, qué incluye Dota 2 Cheats, cómo funciona el mantenimiento de VAC y dónde ir antes de comprar."
 			],
 			"fr": [
-				"Les triches Dota 2 ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les dota 2 cheats, ce que Dota 2 Cheats inclut, la maintenance VAC et où aller avant d'acheter."
+				"Les triches Dota 2 ajoutent ESP, radar et Skillshot assist au jeu de base. Cette page explique ce que sont les dota 2 cheats, ce que Dota 2 Cheats inclut, la maintenance VAC et où aller avant d'acheter."
 			],
 			"de": [
-				"Dota 2 Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt dota 2 cheats, den Dota 2 Cheats-Umfang, VAC-Wartung und nächste Schritte vor dem Kauf."
+				"Dota 2 Cheats fügen ESP, Radar und Skillshot assist zum Basisspiel hinzu. Diese Seite erklärt dota 2 cheats, den Dota 2 Cheats-Umfang, VAC-Wartung und nächste Schritte vor dem Kauf."
 			],
 			"pt": [
-				"Dota 2 cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são dota 2 cheats, o que o Dota 2 Cheats inclui, manutenção VAC e próximos passos antes de comprar."
+				"Dota 2 cheats adicionam ESP, radar e Skillshot assist ao jogo base. Esta página explica o que são dota 2 cheats, o que o Dota 2 Cheats inclui, manutenção VAC e próximos passos antes de comprar."
 			],
 			"it": [
-				"I cheat Dota 2 aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i dota 2 cheats, cosa include Dota 2 Cheats, manutenzione VAC e dove andare prima dell'acquisto."
+				"I cheat Dota 2 aggiungono ESP, radar e Skillshot assist al gioco base. Questa pagina spiega cosa sono i dota 2 cheats, cosa include Dota 2 Cheats, manutenzione VAC e dove andare prima dell'acquisto."
 			],
 			"nl": [
-				"Dota 2 cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat dota 2 cheats zijn, wat Dota 2 Cheats bevat, VAC-onderhoud en volgende stappen vóór aankoop."
+				"Dota 2 cheats voegen ESP, radar en Skillshot assist toe aan het basisspel. Deze pagina legt uit wat dota 2 cheats zijn, wat Dota 2 Cheats bevat, VAC-onderhoud en volgende stappen vóór aankoop."
 			],
 			"pl": [
-				"Dota 2 cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są dota 2 cheats, co zawiera Dota 2 Cheats, konserwację VAC i co dalej przed zakupem."
+				"Dota 2 cheats dodają ESP, radar i Skillshot assist do gry bazowej. Ta strona wyjaśnia czym są dota 2 cheats, co zawiera Dota 2 Cheats, konserwację VAC i co dalej przed zakupem."
 			],
 			"ru": [
-				"Dota 2 cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое dota 2 cheats, что входит в Dota 2 Cheats, обслуживание VAC и куда идти перед покупкой."
+				"Dota 2 cheats добавляют ESP, radar и Skillshot assist к базовой игре. Эта страница объясняет что такое dota 2 cheats, что входит в Dota 2 Cheats, обслуживание VAC и куда идти перед покупкой."
 			],
 			"tr": [
-				"Dota 2 hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa dota 2 cheats nedir, Dota 2 Cheats neleri içerir, VAC bakımı ve satın almadan önce nereye gidileceğini açıklar."
+				"Dota 2 hileleri temel oyuna ESP, radar ve Skillshot assist ekler. Bu sayfa dota 2 cheats nedir, Dota 2 Cheats neleri içerir, VAC bakımı ve satın almadan önce nereye gidileceğini açıklar."
 			],
 			"ar": [
-				"تضيف dota 2 cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي dota 2 cheats وما يتضمنه Dota 2 Cheats وصيانة VAC وأين تذهب قبل الشراء."
+				"تضيف dota 2 cheats الـ ESP والرادار وSkillshot assist فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي dota 2 cheats وما يتضمنه Dota 2 Cheats وصيانة VAC وأين تذهب قبل الشراء."
 			],
 			"ja": [
-				"Dota 2チートはベースゲームにESP、radar、soft aimを追加します。このページではdota 2 cheatsの概要、Dota 2 Cheatsの内容、VACメンテナンス、購入前の確認先を説明します。"
+				"Dota 2チートはベースゲームにESP、radar、Skillshot assistを追加します。このページではdota 2 cheatsの概要、Dota 2 Cheatsの内容、VACメンテナンス、購入前の確認先を説明します。"
 			],
 			"ko": [
-				"Dota 2 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 dota 2 cheats란, Dota 2 Cheats 포함 사항, VAC 유지보수, 구매 전 확인할 곳을 설명합니다."
+				"Dota 2 치트는 기본 게임 위에 ESP, radar, Skillshot assist을 추가합니다. 이 페이지는 dota 2 cheats란, Dota 2 Cheats 포함 사항, VAC 유지보수, 구매 전 확인할 곳을 설명합니다."
 			],
 			"zh": [
-				"Dota 2 cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 dota 2 cheats、Dota 2 Cheats 包含什么、VAC 维护以及购买前该看哪里。"
+				"Dota 2 cheats 在基础游戏上添加 ESP、radar 和 Skillshot assist。本页说明什么是 dota 2 cheats、Dota 2 Cheats 包含什么、VAC 维护以及购买前该看哪里。"
 			],
 			"hi": [
-				"Dota 2 cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है dota 2 cheats क्या हैं, Dota 2 Cheats में क्या है, VAC रखरखाव और खरीद से पहले कहाँ जाएँ।"
+				"Dota 2 cheats बेस गेम पर ESP, radar और Skillshot assist जोड़ते हैं। यह पेज बताता है dota 2 cheats क्या हैं, Dota 2 Cheats में क्या है, VAC रखरखाव और खरीद से पहले कहाँ जाएँ।"
 			],
 			"id": [
-				"Dota 2 cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu dota 2 cheats, apa yang termasuk Dota 2 Cheats, pemeliharaan VAC, dan langkah sebelum membeli."
+				"Dota 2 cheats menambahkan ESP, radar, dan Skillshot assist di atas game dasar. Halaman ini menjelaskan apa itu dota 2 cheats, apa yang termasuk Dota 2 Cheats, pemeliharaan VAC, dan langkah sebelum membeli."
 			],
 			"th": [
-				"Dota 2 cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย dota 2 cheats คืออะไร Dota 2 Cheats รวมอะไร การดูแล VAC และขั้นตอนก่อนซื้อ"
+				"Dota 2 cheats เพิ่ม ESP, radar และ Skillshot assist บนเกมหลัก หน้านี้อธิบาย dota 2 cheats คืออะไร Dota 2 Cheats รวมอะไร การดูแล VAC และขั้นตอนก่อนซื้อ"
 			],
 			"vi": [
-				"Dota 2 cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích dota 2 cheats là gì, Dota 2 Cheats gồm gì, bảo trì VAC và bước tiếp theo trước khi mua."
+				"Dota 2 cheats thêm ESP, radar và Skillshot assist lên game gốc. Trang này giải thích dota 2 cheats là gì, Dota 2 Cheats gồm gì, bảo trì VAC và bước tiếp theo trước khi mua."
 			],
 			"uk": [
-				"Dota 2 cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке dota 2 cheats, що входить у Dota 2 Cheats, обслуговування VAC і куди йти перед покупкою."
+				"Dota 2 cheats додають ESP, radar і Skillshot assist до базової гри. Ця сторінка пояснює що таке dota 2 cheats, що входить у Dota 2 Cheats, обслуговування VAC і куди йти перед покупкою."
 			],
 			"cs": [
-				"Dota 2 cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou dota 2 cheats, co obsahuje Dota 2 Cheats, údržbu VAC a kam jít před nákupem."
+				"Dota 2 cheaty přidávají ESP, radar a Skillshot assist k základní hře. Tato stránka vysvětluje co jsou dota 2 cheats, co obsahuje Dota 2 Cheats, údržbu VAC a kam jít před nákupem."
 			],
 			"ro": [
-				"Dota 2 cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt dota 2 cheats, ce include Dota 2 Cheats, mentenanța VAC și pașii înainte de cumpărare."
+				"Dota 2 cheats adaugă ESP, radar și Skillshot assist peste jocul de bază. Această pagină explică ce sunt dota 2 cheats, ce include Dota 2 Cheats, mentenanța VAC și pașii înainte de cumpărare."
 			],
 			"sv": [
-				"Dota 2 cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad dota 2 cheats är, vad Dota 2 Cheats innehåller, VAC-underhåll och nästa steg före köp."
+				"Dota 2 cheats lägger till ESP, radar och Skillshot assist ovanpå basspelet. Den här sidan förklarar vad dota 2 cheats är, vad Dota 2 Cheats innehåller, VAC-underhåll och nästa steg före köp."
 			]
 		},
 		"list1": {
 			"en": [
 				"ESP / wallhack with distance readouts",
-				"Weapon drops and resource markers",
+				"wards and runes and resource markers",
 				"2D radar for off-screen threats",
-				"Soft aim & aimbot profiles",
+				"Skillshot assist & aimbot profiles",
 				"VAC rebuilds after patches"
 			],
 			"es": [
 				"ESP / wallhack con distancias",
-				"Marcadores de weapon drops y recursos",
+				"Marcadores de wards and runes y recursos",
 				"Radar 2D para amenazas fuera de pantalla",
-				"Perfiles soft aim y aimbot",
+				"Perfiles Skillshot assist y aimbot",
 				"Reconstrucciones VAC tras parches"
 			],
 			"fr": [
 				"ESP / wallhack avec distances",
-				"Marqueurs de weapon drops et ressources",
+				"Marqueurs de wards and runes et ressources",
 				"Radar 2D pour menaces hors écran",
-				"Profils soft aim et aimbot",
+				"Profils Skillshot assist et aimbot",
 				"Reconstructions VAC après patchs"
 			],
 			"de": [
 				"ESP / Wallhack mit Distanzanzeige",
-				"Weapon drops- und Ressourcen-Marker",
+				"wards and runes- und Ressourcen-Marker",
 				"2D-Radar für Off-Screen-Bedrohungen",
 				"Soft-Aim- & Aimbot-Profile",
 				"VAC Rebuilds nach Patches"
 			],
 			"pt": [
 				"ESP / wallhack com distâncias",
-				"Marcadores de weapon drops e recursos",
+				"Marcadores de wards and runes e recursos",
 				"Radar 2D para ameaças off-screen",
-				"Perfis soft aim e aimbot",
+				"Perfis Skillshot assist e aimbot",
 				"Rebuilds VAC após patches"
 			],
 			"it": [
 				"ESP / wallhack con distanze",
-				"Marker weapon drops e risorse",
+				"Marker wards and runes e risorse",
 				"Radar 2D per minacce off-screen",
-				"Profili soft aim e aimbot",
+				"Profili Skillshot assist e aimbot",
 				"Rebuild VAC dopo patch"
 			],
 			"nl": [
 				"ESP / wallhack met afstand",
-				"Weapon drops- en resource-markers",
+				"wards and runes- en resource-markers",
 				"2D-radar voor off-screen dreiging",
-				"Soft aim- en aimbot-profielen",
+				"Skillshot assist- en aimbot-profielen",
 				"VAC rebuilds na patches"
 			],
 			"pl": [
 				"ESP / wallhack z dystansem",
-				"Markery weapon dropsu i zasobów",
+				"Markery wards and runesu i zasobów",
 				"Radar 2D na zagrożenia off-screen",
-				"Profile soft aim i aimbot",
+				"Profile Skillshot assist i aimbot",
 				"Rebuildy VAC po patchach"
 			],
 			"ru": [
 				"ESP / wallhack с дистанцией",
 				"Маркеры лута и ресурсов",
 				"2D radar для off-screen угроз",
-				"Профили soft aim и aimbot",
+				"Профили Skillshot assist и aimbot",
 				"Пересборки VAC после патчей"
 			],
 			"tr": [
 				"Mesafeli ESP / wallhack",
-				"Weapon drops ve kaynak işaretleri",
+				"wards and runes ve kaynak işaretleri",
 				"Off-screen tehditler için 2D radar",
-				"Soft aim ve aimbot profilleri",
+				"Skillshot assist ve aimbot profilleri",
 				"Yama sonrası VAC rebuild"
 			],
 			"ar": [
 				"ESP / wallhack مع المسافات",
-				"علامات weapon drops والموارد",
+				"علامات wards and runes والموارد",
 				"radar 2D للتهديدات خارج الشاشة",
-				"ملفات soft aim وaimbot",
+				"ملفات Skillshot assist وaimbot",
 				"إعادة بناء VAC بعد التصحيحات"
 			],
 			"ja": [
 				"距離表示ESP / wallhack",
-				"weapon drops・資源マーカー",
+				"wards and runes・資源マーカー",
 				"オフスクリーン脅威用2D radar",
-				"soft aim・aimbotプロファイル",
+				"Skillshot assist・aimbotプロファイル",
 				"パッチ後のVACリビルド"
 			],
 			"ko": [
 				"거리 표시 ESP / wallhack",
-				"weapon drops 및 자원 마커",
+				"wards and runes 및 자원 마커",
 				"off-screen 위협용 2D radar",
-				"soft aim 및 aimbot 프로필",
+				"Skillshot assist 및 aimbot 프로필",
 				"패치 후 VAC 리빌드"
 			],
 			"zh": [
 				"带距离 ESP / wallhack",
 				"物资和资源标记",
 				"屏幕外威胁 2D radar",
-				"soft aim 和 aimbot 配置",
+				"Skillshot assist 和 aimbot 配置",
 				"VAC 补丁后重建"
 			],
 			"hi": [
 				"दूरी के साथ ESP / wallhack",
-				"Weapon drops और resource markers",
+				"wards and runes और resource markers",
 				"Off-screen threats के लिए 2D radar",
-				"Soft aim और aimbot profiles",
+				"Skillshot assist और aimbot profiles",
 				"VAC पैच के बाद rebuild"
 			],
 			"id": [
 				"ESP / wallhack dengan jarak",
-				"Marker weapon drops dan resource",
+				"Marker wards and runes dan resource",
 				"Radar 2D untuk ancaman off-screen",
-				"Profil soft aim & aimbot",
+				"Profil Skillshot assist & aimbot",
 				"Rebuild VAC setelah patch"
 			],
 			"th": [
 				"ESP / wallhack พร้อมระยะ",
-				"มาร์กเกอร์ weapon drops และทรัพยากร",
+				"มาร์กเกอร์ wards and runes และทรัพยากร",
 				"radar 2D สำหรับภัยคุกคามนอกจอ",
-				"โปรไฟล์ soft aim และ aimbot",
+				"โปรไฟล์ Skillshot assist และ aimbot",
 				"รีบิลด์ VAC หลังแพตช์"
 			],
 			"vi": [
 				"ESP / wallhack kèm khoảng cách",
-				"Marker weapon drops và tài nguyên",
+				"Marker wards and runes và tài nguyên",
 				"Radar 2D cho mối đe dọa off-screen",
-				"Profile soft aim & aimbot",
+				"Profile Skillshot assist & aimbot",
 				"Rebuild VAC sau bản vá"
 			],
 			"uk": [
 				"ESP / wallhack з дистанцією",
-				"Маркери weapon drops і ресурсів",
+				"Маркери wards and runes і ресурсів",
 				"2D radar для off-screen загроз",
-				"Профілі soft aim і aimbot",
+				"Профілі Skillshot assist і aimbot",
 				"Перезбірки VAC після патчів"
 			],
 			"cs": [
 				"ESP / wallhack s distancí",
-				"Weapon drops a resource markery",
+				"wards and runes a resource markery",
 				"2D radar pro off-screen hrozby",
-				"Soft aim a aimbot profily",
+				"Skillshot assist a aimbot profily",
 				"Rebuildy VAC po patchi"
 			],
 			"ro": [
 				"ESP / wallhack cu distanță",
-				"Markeri weapon drops și resurse",
+				"Markeri wards and runes și resurse",
 				"Radar 2D pentru amenințări off-screen",
-				"Profile soft aim și aimbot",
+				"Profile Skillshot assist și aimbot",
 				"Rebuild-uri VAC după patch"
 			],
 			"sv": [
 				"ESP / wallhack med avstånd",
-				"Weapon drops- och resursmarkörer",
+				"wards and runes- och resursmarkörer",
 				"2D-radar för off-screen hot",
-				"Soft aim- och aimbot-profiler",
+				"Skillshot assist- och aimbot-profiler",
 				"VAC rebuilds efter patchar"
 			]
 		},
 		"list2": {
 			"en": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Full feature list</a>"
 			],
 			"es": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP y wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot y soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot y Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de funciones</a>"
 			],
 			"fr": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP et wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot et soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot et Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Liste complète des fonctions</a>"
 			],
 			"de": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & Wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Soft Aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar-Hack-Overlay</a>",
 				"<a href=\"/features/\">Vollständige Feature-Liste</a>"
 			],
 			"pt": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP e wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de recursos</a>"
 			],
 			"it": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP e wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Elenco completo funzioni</a>"
 			],
 			"nl": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Volledige functielijst</a>"
 			],
 			"pl": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP i wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot i soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot i Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Pełna lista funkcji</a>"
 			],
 			"ru": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP и wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot и soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot и Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Полный список функций</a>"
 			],
 			"tr": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP ve wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot ve soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot ve Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Tam özellik listesi</a>"
 			],
 			"ar": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP وWallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot وSoft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot وSkillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">تراكب radar hack</a>",
 				"<a href=\"/features/\">قائمة الميزات الكاملة</a>"
 			],
 			"ja": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP・Wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot・Soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot・Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">レーダーハックオーバーレイ</a>",
 				"<a href=\"/features/\">全機能リスト</a>"
 			],
 			"ko": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP 및 wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot 및 soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot 및 Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">레이더 핵 오버레이</a>",
 				"<a href=\"/features/\">전체 기능 목록</a>"
 			],
@@ -1833,49 +1833,49 @@ export const PAGE_CONTENT = {
 			],
 			"hi": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP और wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot और soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot और Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">पूरी फ़ीचर सूची</a>"
 			],
 			"id": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Daftar fitur lengkap</a>"
 			],
 			"th": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP และ wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot และ soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot และ Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
 				"<a href=\"/features/\">รายการฟีเจอร์ทั้งหมด</a>"
 			],
 			"vi": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Danh sách tính năng đầy đủ</a>"
 			],
 			"uk": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP і wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot і soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot і Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Повний список функцій</a>"
 			],
 			"cs": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP a wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot a soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot a Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Úplný seznam funkcí</a>"
 			],
 			"ro": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP și wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot și soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot și Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completă de funcții</a>"
 			],
 			"sv": [
 				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
-				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Skillshot assist</a>",
 				"<a href=\"/dota2-radar-hack/\">Radar hack-overlay</a>",
 				"<a href=\"/features/\">Fullständig funktionslista</a>"
 			]
@@ -1883,25 +1883,25 @@ export const PAGE_CONTENT = {
 		"list3": {
 			"en": [
 				"<a href=\"/updates/\">Live status & patch notes</a>",
-				"<a href=\"/updates/\">Reliable cheats guide</a>",
+				"<a href=\"/updates/\">dota 2 cheats guide</a>",
 				"<a href=\"/updates/\">VAC maintenance</a>",
 				"<a href=\"/faq/\">FAQ before you buy</a>"
 			],
 			"es": [
 				"<a href=\"/updates/\">Estado en vivo y notas de parche</a>",
-				"<a href=\"/updates/\">Guía de trucos indetectables</a>",
+				"<a href=\"/updates/\">Guía de trucos s</a>",
 				"<a href=\"/updates/\">Mantenimiento VAC</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"fr": [
 				"<a href=\"/updates/\">Statut en direct et notes de patch</a>",
-				"<a href=\"/updates/\">Guide triches indétectables</a>",
+				"<a href=\"/updates/\">Guide triches s</a>",
 				"<a href=\"/updates/\">Maintenance VAC</a>",
 				"<a href=\"/faq/\">FAQ avant achat</a>"
 			],
 			"de": [
 				"<a href=\"/updates/\">Live-Status & Patchnotes</a>",
-				"<a href=\"/updates/\">Reliable Cheats Guide</a>",
+				"<a href=\"/updates/\">dota 2 cheats Guide</a>",
 				"<a href=\"/updates/\">VAC Wartung</a>",
 				"<a href=\"/faq/\">FAQ vor dem Kauf</a>"
 			],
@@ -1913,25 +1913,25 @@ export const PAGE_CONTENT = {
 			],
 			"it": [
 				"<a href=\"/updates/\">Stato live e note patch</a>",
-				"<a href=\"/updates/\">Guida cheat indetectable</a>",
+				"<a href=\"/updates/\">Guida cheat </a>",
 				"<a href=\"/updates/\">Manutenzione VAC</a>",
 				"<a href=\"/faq/\">FAQ prima di acquistare</a>"
 			],
 			"nl": [
 				"<a href=\"/updates/\">Live status en patchnotes</a>",
-				"<a href=\"/updates/\">Reliable cheats gids</a>",
+				"<a href=\"/updates/\">dota 2 cheats gids</a>",
 				"<a href=\"/updates/\">VAC onderhoud</a>",
 				"<a href=\"/faq/\">FAQ voor aankoop</a>"
 			],
 			"pl": [
 				"<a href=\"/updates/\">Status na żywo i notatki patch</a>",
-				"<a href=\"/updates/\">Przewodnik cheatów reliable</a>",
+				"<a href=\"/updates/\">Przewodnik cheatów</a>",
 				"<a href=\"/updates/\">Konserwacja VAC</a>",
 				"<a href=\"/faq/\">FAQ przed zakupem</a>"
 			],
 			"ru": [
 				"<a href=\"/updates/\">Статус онлайн и патч-ноуты</a>",
-				"<a href=\"/updates/\">Гайд reliable читов</a>",
+				"<a href=\"/updates/\">Гайд читов</a>",
 				"<a href=\"/updates/\">Обслуживание VAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкой</a>"
 			],
@@ -1967,49 +1967,49 @@ export const PAGE_CONTENT = {
 			],
 			"hi": [
 				"<a href=\"/updates/\">लाइव स्टेटस और पैच नोट्स</a>",
-				"<a href=\"/updates/\">Reliable cheats गाइड</a>",
+				"<a href=\"/updates/\">dota 2 cheats गाइड</a>",
 				"<a href=\"/updates/\">VAC रखरखाव</a>",
 				"<a href=\"/faq/\">खरीदने से पहले FAQ</a>"
 			],
 			"id": [
 				"<a href=\"/updates/\">Status langsung & catatan patch</a>",
-				"<a href=\"/updates/\">Panduan cheat reliable</a>",
+				"<a href=\"/updates/\">Panduan cheat</a>",
 				"<a href=\"/updates/\">Pemeliharaan VAC</a>",
 				"<a href=\"/faq/\">FAQ sebelum membeli</a>"
 			],
 			"th": [
 				"<a href=\"/updates/\">สถานะสดและบันทึกแพตช์</a>",
-				"<a href=\"/updates/\">คู่มือ cheat reliable</a>",
+				"<a href=\"/updates/\">คู่มือ cheat</a>",
 				"<a href=\"/updates/\">การดูแล VAC</a>",
 				"<a href=\"/faq/\">FAQ ก่อนซื้อ</a>"
 			],
 			"vi": [
 				"<a href=\"/updates/\">Trạng thái trực tiếp & ghi chú bản vá</a>",
-				"<a href=\"/updates/\">Hướng dẫn cheat reliable</a>",
+				"<a href=\"/updates/\">Hướng dẫn cheat</a>",
 				"<a href=\"/updates/\">Bảo trì VAC</a>",
 				"<a href=\"/faq/\">FAQ trước khi mua</a>"
 			],
 			"uk": [
 				"<a href=\"/updates/\">Статус онлайн і патч-ноти</a>",
-				"<a href=\"/updates/\">Гайд reliable чітів</a>",
+				"<a href=\"/updates/\">Статус патчу</a>",
 				"<a href=\"/updates/\">Обслуговування VAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкою</a>"
 			],
 			"cs": [
 				"<a href=\"/updates/\">Živý stav a patch poznámky</a>",
-				"<a href=\"/updates/\">Průvodce reliable cheaty</a>",
+				"<a href=\"/updates/\">Stav patchi</a>",
 				"<a href=\"/updates/\">Údržba VAC</a>",
 				"<a href=\"/faq/\">FAQ před nákupem</a>"
 			],
 			"ro": [
 				"<a href=\"/updates/\">Status live și note patch</a>",
-				"<a href=\"/updates/\">Ghid cheats reliable</a>",
+				"<a href=\"/updates/\">Status patch</a>",
 				"<a href=\"/updates/\">Mentenanță VAC</a>",
 				"<a href=\"/faq/\">FAQ înainte de cumpărare</a>"
 			],
 			"sv": [
 				"<a href=\"/updates/\">Livestatus och patchanteckningar</a>",
-				"<a href=\"/updates/\">Reliable cheats-guide</a>",
+				"<a href=\"/updates/\">dota 2 cheats-guide</a>",
 				"<a href=\"/updates/\">VAC-underhåll</a>",
 				"<a href=\"/faq/\">FAQ innan köp</a>"
 			]
@@ -2130,77 +2130,77 @@ export const PAGE_CONTENT = {
 	"dota2-esp": {
 		"0": {
 			"en": [
-				"Boxes, distance, and filters for players, objects, and weapon drops.",
+				"Boxes, distance, and filters for players, objects, and wards and runes.",
 				"Toggle categories so only match-critical overlays stay active during rotations."
 			],
 			"es": [
-				"Cajas, distancia y filtros para jugadores, científicos y weapon drops."
+				"Cajas, distancia y filtros para jugadores, científicos y wards and runes."
 			],
 			"fr": [
-				"Boîtes, distance et filtres pour joueurs, scientifiques et weapon drops."
+				"Boîtes, distance et filtres pour joueurs, scientifiques et wards and runes."
 			],
 			"de": [
-				"Boxen, Distanz und Filter für Spieler, Wissenschaftler und Weapon drops."
+				"Boxen, Distanz und Filter für Spieler, Wissenschaftler und wards and runes."
 			],
 			"pt": [
-				"Caixas, distância e filtros para jogadores, cientistas e weapon drops."
+				"Caixas, distância e filtros para jogadores, cientistas e wards and runes."
 			],
 			"it": [
-				"Box, distanza e filtri per giocatori, scienziati e weapon drops."
+				"Box, distanza e filtri per giocatori, scienziati e wards and runes."
 			],
 			"nl": [
-				"Boxen, afstand en filters voor spelers, contestants en weapon drops."
+				"Boxen, afstand en filters voor spelers, contestants en wards and runes."
 			],
 			"pl": [
-				"Boxy, dystans i filtry dla graczy, naukowców i weapon dropsu."
+				"Boxy, dystans i filtry dla graczy, naukowców i wards and runesu."
 			],
 			"ru": [
 				"Боксы, дистанция и фильтры для игроков, учёных и лута."
 			],
 			"tr": [
-				"Oyuncular, bilim insanları ve weapon drops için kutular, mesafe ve filtreler."
+				"Oyuncular, bilim insanları ve wards and runes için kutular, mesafe ve filtreler."
 			],
 			"ar": [
-				"صناديق ومسافة وفلاتر للاعبين والعلماء والweapon drops."
+				"صناديق ومسافة وفلاتر للاعبين والعلماء والwards and runes."
 			],
 			"ja": [
-				"プレイヤー、科学者、weapon drops向けボックス、距離、フィルター。"
+				"プレイヤー、科学者、wards and runes向けボックス、距離、フィルター。"
 			],
 			"ko": [
-				"플레이어, 과학자, weapon drops용 박스, 거리, 필터."
+				"플레이어, 과학자, wards and runes용 박스, 거리, 필터."
 			],
 			"zh": [
 				"玩家、科学家和物资的框体、距离和过滤器。"
 			],
 			"hi": [
-				"Players, contestants और weapon drops के लिए boxes, distance और filters।"
+				"Players, contestants और wards and runes के लिए boxes, distance और filters।"
 			],
 			"id": [
-				"Kotak, jarak, dan filter untuk pemain, scientist, dan weapon drops."
+				"Kotak, jarak, dan filter untuk pemain, scientist, dan wards and runes."
 			],
 			"th": [
-				"กล่อง ระยะ และฟิลเตอร์สำหรับผู้เล่น นักวิทยาศาสตร์ และ weapon drops"
+				"กล่อง ระยะ และฟิลเตอร์สำหรับผู้เล่น นักวิทยาศาสตร์ และ wards and runes"
 			],
 			"vi": [
-				"Hộp, khoảng cách và bộ lọc cho người chơi, scientist và weapon drops."
+				"Hộp, khoảng cách và bộ lọc cho người chơi, scientist và wards and runes."
 			],
 			"uk": [
-				"Бокси, дистанція та фільтри для гравців, вчених і weapon drops."
+				"Бокси, дистанція та фільтри для гравців, вчених і wards and runes."
 			],
 			"cs": [
-				"Boxy, vzdálenost a filtry pro hráče, vědce a weapon drops."
+				"Boxy, vzdálenost a filtry pro hráče, vědce a wards and runes."
 			],
 			"ro": [
-				"Cutii, distanță și filtre pentru jucători, oameni de știință și weapon drops."
+				"Cutii, distanță și filtre pentru jucători, oameni de știință și wards and runes."
 			],
 			"sv": [
-				"Boxar, avstånd och filter för spelare, contestants och weapon drops."
+				"Boxar, avstånd och filter för spelare, contestants och wards and runes."
 			]
 		},
 		"1": {
 			"en": [
 				"Clear high-traffic POIs and loadout drop routes without flooding the screen.",
-				"Tune opacity and filters for arena zones, spike sectors, and high-traffic PvP areas."
+				"Tune opacity and filters for arena zones, team fights, and high-traffic PvP areas."
 			],
 			"es": [
 				"Limpia zonas de POI de alto tráfico y loadout drop routes sin inundar la pantalla."
@@ -2209,7 +2209,7 @@ export const PAGE_CONTENT = {
 				"Gardez les zones de high-traffic POIs et loadout drop routes lisibles sans saturer l'écran."
 			],
 			"de": [
-				"Monument-Zonen und Weapon drops-Runs klar halten, ohne den Bildschirm zu überladen."
+				"Monument-Zonen und wards and runes-Runs klar halten, ohne den Bildschirm zu überladen."
 			],
 			"pt": [
 				"Mantenha POI de alto tráfico e loadout drop routes claros sem lotar a tela."
@@ -2239,7 +2239,7 @@ export const PAGE_CONTENT = {
 				"화면을 가리지 않고 POI와 loadout drop routes 구역을 깔끔하게."
 			],
 			"zh": [
-				"清晰显示 POI 和 weapon drops 路线，不遮挡屏幕。"
+				"清晰显示 POI 和 wards and runes 路线，不遮挡屏幕。"
 			],
 			"hi": [
 				"स्क्रीन भरे बिना POI zones और loadout drop routes साफ रखें।"
@@ -2337,111 +2337,111 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"See players and weapon drops through walls during Dota 2 matches. Part of the same Dota 2 Cheats license."
+				"See players and wards and runes through walls during Dota 2 matches. Part of the same Dota 2 Cheats license."
 			],
 			"es": [
-				"Ve jugadores y weapon drops a través de las paredes durante matches de Dota 2. Parte de la misma licencia Dota 2 Cheats."
+				"Ve jugadores y wards and runes a través de las paredes durante matches de Dota 2. Parte de la misma licencia Dota 2 Cheats."
 			],
 			"fr": [
-				"Voyez joueurs et weapon drops à travers les murs pendant les matches Dota 2. Inclus dans la même licence Dota 2 Cheats."
+				"Voyez joueurs et wards and runes à travers les murs pendant les matches Dota 2. Inclus dans la même licence Dota 2 Cheats."
 			],
 			"de": [
-				"Sieh Spieler und Weapon drops durch Wände bei Dota 2 matches. Teil derselben Dota 2 Cheats-Lizenz."
+				"Sieh Spieler und wards and runes durch Wände bei Dota 2 matches. Teil derselben Dota 2 Cheats-Lizenz."
 			],
 			"pt": [
-				"Veja jogadores e weapon drops através das paredes em matches de Dota 2. Parte da mesma licença Dota 2 Cheats."
+				"Veja jogadores e wards and runes através das paredes em matches de Dota 2. Parte da mesma licença Dota 2 Cheats."
 			],
 			"it": [
-				"Vedi giocatori e weapon drops attraverso i muri durante i match Dota 2. Parte della stessa licenza Dota 2 Cheats."
+				"Vedi giocatori e wards and runes attraverso i muri durante i match Dota 2. Parte della stessa licenza Dota 2 Cheats."
 			],
 			"nl": [
-				"Zie spelers en weapon drops door muren tijdens Dota 2 matches. Onderdeel van dezelfde Dota 2 Cheats-licentie."
+				"Zie spelers en wards and runes door muren tijdens Dota 2 matches. Onderdeel van dezelfde Dota 2 Cheats-licentie."
 			],
 			"pl": [
-				"Widz graczy i weapon drops przez ściany podczas matchów Dota 2. Część tej samej licencji Dota 2 Cheats."
+				"Widz graczy i wards and runes przez ściany podczas matchów Dota 2. Część tej samej licencji Dota 2 Cheats."
 			],
 			"ru": [
 				"Видьте игроков и лут сквозь стены в рейдах Dota 2. Часть той же лицензии Dota 2 Cheats."
 			],
 			"tr": [
-				"Dota 2 matchlerinde duvarların ardından oyuncuları ve weapon drops'u görün. Aynı Dota 2 Cheats lisansının parçası."
+				"Dota 2 matchlerinde duvarların ardından oyuncuları ve wards and runes'u görün. Aynı Dota 2 Cheats lisansının parçası."
 			],
 			"ar": [
-				"شاهد اللاعبين والweapon drops عبر الجدران أثناء matches في Dota 2. جزء من نفس ترخيص Dota 2 Cheats."
+				"شاهد اللاعبين والwards and runes عبر الجدران أثناء matches في Dota 2. جزء من نفس ترخيص Dota 2 Cheats."
 			],
 			"ja": [
-				"Dota 2レイド中に壁越しでプレイヤーとweapon dropsを確認。同じDota 2 Cheatsライセンスに含まれます。"
+				"Dota 2レイド中に壁越しでプレイヤーとwards and runesを確認。同じDota 2 Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Dota 2 레이드 중 벽 너머로 플레이어와 weapon drops를 확인하세요. 동일 Dota 2 Cheats 라이선스에 포함됩니다."
+				"Dota 2 레이드 중 벽 너머로 플레이어와 wards and runes를 확인하세요. 동일 Dota 2 Cheats 라이선스에 포함됩니다."
 			],
 			"zh": [
 				"在 Dota 2 match 中透视玩家和物资。包含在同一 Dota 2 Cheats 许可证中。"
 			],
 			"hi": [
-				"Dota 2 matches में दीवारों के पार players और weapon drops देखें। उसी Dota 2 Cheats लाइसेंस का हिस्सा।"
+				"Dota 2 matches में दीवारों के पार players और wards and runes देखें। उसी Dota 2 Cheats लाइसेंस का हिस्सा।"
 			],
 			"id": [
-				"Lihat pemain dan weapon drops menembus dinding saat match Dota 2. Bagian dari lisensi Dota 2 Cheats yang sama."
+				"Lihat pemain dan wards and runes menembus dinding saat match Dota 2. Bagian dari lisensi Dota 2 Cheats yang sama."
 			],
 			"th": [
-				"มองเห็นผู้เล่นและ weapon drops ผ่านกำแพงระหว่าง match ใน Dota 2 ส่วนหนึ่งของใบอนุญาต Dota 2 Cheats เดียวกัน"
+				"มองเห็นผู้เล่นและ wards and runes ผ่านกำแพงระหว่าง match ใน Dota 2 ส่วนหนึ่งของใบอนุญาต Dota 2 Cheats เดียวกัน"
 			],
 			"vi": [
-				"Nhìn xuyên tường thấy người chơi và weapon drops khi match Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
+				"Nhìn xuyên tường thấy người chơi và wards and runes khi match Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
 			],
 			"uk": [
-				"Бачте гравців і weapon drops крізь стіни під час match у Dota 2. Частина тієї самої ліцензії Dota 2 Cheats."
+				"Бачте гравців і wards and runes крізь стіни під час match у Dota 2. Частина тієї самої ліцензії Dota 2 Cheats."
 			],
 			"cs": [
-				"Vidíte hráče a weapon drops skrz zdi během matchů Dota 2. Součást stejné licence Dota 2 Cheats."
+				"Vidíte hráče a wards and runes skrz zdi během matchů Dota 2. Součást stejné licence Dota 2 Cheats."
 			],
 			"ro": [
-				"Vezi jucători și weapon drops prin pereți în match-uri Dota 2. Parte din aceeași licență Dota 2 Cheats."
+				"Vezi jucători și wards and runes prin pereți în match-uri Dota 2. Parte din aceeași licență Dota 2 Cheats."
 			],
 			"sv": [
-				"Se spelare och weapon drops genom väggar under Dota 2 matches. Ingår i samma Dota 2 Cheats-licens."
+				"Se spelare och wards and runes genom väggar under Dota 2 matches. Ingår i samma Dota 2 Cheats-licens."
 			]
 		},
 		"list0": {
 			"en": [
 				"Player ESP",
-				"Weapon drops markers",
+				"wards and runes markers",
 				"Objective and vehicle filters"
 			],
 			"es": [
 				"ESP de jugador",
-				"Marcadores de weapon drops",
+				"Marcadores de wards and runes",
 				"Filtros de heli y objective"
 			],
 			"fr": [
 				"ESP joueur",
-				"Marqueurs de weapon drops",
+				"Marqueurs de wards and runes",
 				"Filtres héli et objective"
 			],
 			"de": [
 				"Spieler-ESP",
-				"Weapon drops-Marker",
+				"wards and runes-Marker",
 				"Heli- und objective-Filter"
 			],
 			"pt": [
 				"ESP de jogador",
-				"Marcadores de weapon drops",
+				"Marcadores de wards and runes",
 				"Filtros de heli e objective"
 			],
 			"it": [
 				"ESP giocatore",
-				"Marker weapon drops",
+				"Marker wards and runes",
 				"Filtri elicottero e objective"
 			],
 			"nl": [
 				"Speler-ESP",
-				"Weapon drops-markers",
+				"wards and runes-markers",
 				"Heli- en objective-filters"
 			],
 			"pl": [
 				"ESP gracza",
-				"Markery weapon dropsu",
+				"Markery wards and runesu",
 				"Filtry helikoptera i objective"
 			],
 			"ru": [
@@ -2451,22 +2451,22 @@ export const PAGE_CONTENT = {
 			],
 			"tr": [
 				"Oyuncu ESP",
-				"Weapon drops işaretleri",
+				"wards and runes işaretleri",
 				"Heli ve objective filtreleri"
 			],
 			"ar": [
 				"ESP اللاعب",
-				"علامات weapon drops",
+				"علامات wards and runes",
 				"فلاتر Heli وobjective"
 			],
 			"ja": [
 				"プレイヤーESP",
-				"weapon dropsマーカー",
+				"wards and runesマーカー",
 				"Heli・objectiveフィルター"
 			],
 			"ko": [
 				"플레이어 ESP",
-				"weapon drops 마커",
+				"wards and runes 마커",
 				"Heli 및 objective 필터"
 			],
 			"zh": [
@@ -2476,42 +2476,42 @@ export const PAGE_CONTENT = {
 			],
 			"hi": [
 				"Player ESP",
-				"Weapon drops markers",
+				"wards and runes markers",
 				"Heli और objective filters"
 			],
 			"id": [
 				"ESP pemain",
-				"Marker weapon drops",
+				"Marker wards and runes",
 				"Filter Heli dan objective"
 			],
 			"th": [
 				"ESP ผู้เล่น",
-				"มาร์กเกอร์ weapon drops",
+				"มาร์กเกอร์ wards and runes",
 				"ฟิลเตอร์ Heli และ objective"
 			],
 			"vi": [
 				"ESP người chơi",
-				"Marker weapon drops",
+				"Marker wards and runes",
 				"Bộ lọc Heli và objective"
 			],
 			"uk": [
 				"ESP гравців",
-				"Маркери weapon drops",
+				"Маркери wards and runes",
 				"Фільтри Heli та objective"
 			],
 			"cs": [
 				"ESP hráčů",
-				"Weapon drops markery",
+				"wards and runes markery",
 				"Filtry Heli a objective"
 			],
 			"ro": [
 				"ESP jucător",
-				"Markeri weapon drops",
+				"Markeri wards and runes",
 				"Filtre Heli și objective"
 			],
 			"sv": [
 				"Spelar-ESP",
-				"Weapon drops-markörer",
+				"wards and runes-markörer",
 				"Heli- och objective-filter"
 			]
 		},
@@ -2813,7 +2813,7 @@ export const PAGE_CONTENT = {
 		"1": {
 			"en": [
 				"Keep settings subtle for longer matches. Raise strength only when you accept more risk.",
-				"Soft aim works alongside ESP and radar in the same license."
+				"Skillshot assist works alongside ESP and radar in the same license."
 			],
 			"es": [
 				"Mantén ajustes sutiles para matches largos. Sube la fuerza solo cuando aceptes más riesgo."
@@ -2950,85 +2950,85 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Soft aim and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license."
+				"Skillshot assist and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license."
 			],
 			"es": [
-				"Soft aim y asistencia de puntería que puedes ajustar para Dota 2. Incluido en la misma licencia Dota 2 Cheats."
+				"Skillshot assist y asistencia de puntería que puedes ajustar para Dota 2. Incluido en la misma licencia Dota 2 Cheats."
 			],
 			"fr": [
-				"Soft aim et aide à la visée réglables pour Dota 2. Inclus dans la même licence Dota 2 Cheats."
+				"Skillshot assist et aide à la visée réglables pour Dota 2. Inclus dans la même licence Dota 2 Cheats."
 			],
 			"de": [
-				"Soft Aim und Zielhilfe, die du für Dota 2 einstellen kannst. In derselben Dota 2 Cheats-Lizenz enthalten."
+				"Skillshot assist und Zielhilfe, die du für Dota 2 einstellen kannst. In derselben Dota 2 Cheats-Lizenz enthalten."
 			],
 			"pt": [
-				"Soft aim e assistência de mira ajustáveis para Dota 2. Incluído na mesma licença Dota 2 Cheats."
+				"Skillshot assist e assistência de mira ajustáveis para Dota 2. Incluído na mesma licença Dota 2 Cheats."
 			],
 			"it": [
-				"Soft aim e assistenza mira regolabili per Dota 2. Incluso nella stessa licenza Dota 2 Cheats."
+				"Skillshot assist e assistenza mira regolabili per Dota 2. Incluso nella stessa licenza Dota 2 Cheats."
 			],
 			"nl": [
-				"Soft aim en richt-hulp die je voor Dota 2 kunt afstellen. Inbegrepen in dezelfde Dota 2 Cheats-licentie."
+				"Skillshot assist en richt-hulp die je voor Dota 2 kunt afstellen. Inbegrepen in dezelfde Dota 2 Cheats-licentie."
 			],
 			"pl": [
-				"Soft aim i asysta celowania do ustawienia w Dota 2. W tej samej licencji Dota 2 Cheats."
+				"Skillshot assist i asysta celowania do ustawienia w Dota 2. W tej samej licencji Dota 2 Cheats."
 			],
 			"ru": [
-				"Soft aim и помощь прицеливания, настраиваемые для Dota 2. Включено в ту же лицензию Dota 2 Cheats."
+				"Skillshot assist и помощь прицеливания, настраиваемые для Dota 2. Включено в ту же лицензию Dota 2 Cheats."
 			],
 			"tr": [
-				"Dota 2 için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Dota 2 Cheats lisansına dahil."
+				"Dota 2 için ayarlayabileceğiniz Skillshot assist ve nişan desteği. Aynı Dota 2 Cheats lisansına dahil."
 			],
 			"ar": [
-				"Soft aim ومساعدة تصويب قابلة للضبط لـ Dota 2. مضمن في نفس ترخيص Dota 2 Cheats."
+				"Skillshot assist ومساعدة تصويب قابلة للضبط لـ Dota 2. مضمن في نفس ترخيص Dota 2 Cheats."
 			],
 			"ja": [
-				"Dota 2向けに調整できるsoft aimとエイム支援。同じDota 2 Cheatsライセンスに含まれます。"
+				"Dota 2向けに調整できるSkillshot assistとエイム支援。同じDota 2 Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Dota 2용으로 조절 가능한 soft aim 및 에임 보조. 동일 Dota 2 Cheats 라이선스에 포함."
+				"Dota 2용으로 조절 가능한 Skillshot assist 및 에임 보조. 동일 Dota 2 Cheats 라이선스에 포함."
 			],
 			"zh": [
-				"可为 Dota 2 调节的 soft aim 和瞄准辅助。包含在同一 Dota 2 Cheats 许可证中。"
+				"可为 Dota 2 调节的 Skillshot assist 和瞄准辅助。包含在同一 Dota 2 Cheats 许可证中。"
 			],
 			"hi": [
-				"Dota 2 के लिए ट्यून करने योग्य soft aim और aim assist। उसी Dota 2 Cheats लाइसेंस में शामिल।"
+				"Dota 2 के लिए ट्यून करने योग्य Skillshot assist और aim assist। उसी Dota 2 Cheats लाइसेंस में शामिल।"
 			],
 			"id": [
-				"Soft aim dan bantuan aim yang bisa disesuaikan untuk Dota 2. Termasuk dalam lisensi Dota 2 Cheats yang sama."
+				"Skillshot assist dan bantuan aim yang bisa disesuaikan untuk Dota 2. Termasuk dalam lisensi Dota 2 Cheats yang sama."
 			],
 			"th": [
-				"Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Dota 2 รวมในใบอนุญาต Dota 2 Cheats เดียวกัน"
+				"Skillshot assist และการช่วยเล็งที่ปรับได้สำหรับ Dota 2 รวมในใบอนุญาต Dota 2 Cheats เดียวกัน"
 			],
 			"vi": [
-				"Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
+				"Skillshot assist và hỗ trợ ngắm có thể tinh chỉnh cho Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
 			],
 			"uk": [
-				"Soft aim і допомога прицілювання, які можна налаштувати для Dota 2. У тій самій ліцензії Dota 2 Cheats."
+				"Skillshot assist і допомога прицілювання, які можна налаштувати для Dota 2. У тій самій ліцензії Dota 2 Cheats."
 			],
 			"cs": [
-				"Soft aim a aim assist nastavitelný pro Dota 2. Součást stejné licence Dota 2 Cheats."
+				"Skillshot assist a aim assist nastavitelný pro Dota 2. Součást stejné licence Dota 2 Cheats."
 			],
 			"ro": [
-				"Soft aim și asistență țintire reglabile pentru Dota 2. Inclus în aceeași licență Dota 2 Cheats."
+				"Skillshot assist și asistență țintire reglabile pentru Dota 2. Inclus în aceeași licență Dota 2 Cheats."
 			],
 			"sv": [
-				"Soft aim och siktehjälp du kan ställa in för Dota 2. Ingår i samma Dota 2 Cheats-licens."
+				"Skillshot assist och siktehjälp du kan ställa in för Dota 2. Ingår i samma Dota 2 Cheats-licens."
 			]
 		},
 		"list0": {
 			"en": [
-				"Soft aim strength",
+				"Skillshot assist strength",
 				"Bone priority",
 				"Hotkeys mid-match"
 			],
 			"es": [
-				"Fuerza de soft aim",
+				"Fuerza de Skillshot assist",
 				"Prioridad de huesos",
 				"Teclas rápidas en partida"
 			],
 			"fr": [
-				"Force du soft aim",
+				"Force du Skillshot assist",
 				"Priorité d'os",
 				"Raccourcis en match"
 			],
@@ -3038,204 +3038,204 @@ export const PAGE_CONTENT = {
 				"Hotkeys im Match"
 			],
 			"pt": [
-				"Força do soft aim",
+				"Força do Skillshot assist",
 				"Prioridade de ossos",
 				"Teclas rápidas em partida"
 			],
 			"it": [
-				"Forza soft aim",
+				"Forza Skillshot assist",
 				"Priorità ossa",
 				"Tasti rapidi in match"
 			],
 			"nl": [
-				"Soft aim-sterkte",
+				"Skillshot assist-sterkte",
 				"Bot-prioriteit",
 				"Hotkeys tijdens match"
 			],
 			"pl": [
-				"Siła soft aim",
+				"Siła Skillshot assist",
 				"Priorytet kości",
 				"Skróty w trakcie meczu"
 			],
 			"ru": [
-				"Сила soft aim",
+				"Сила Skillshot assist",
 				"Приоритет костей",
 				"Хоткеи в матче"
 			],
 			"tr": [
-				"Soft aim gücü",
+				"Skillshot assist gücü",
 				"Kemik önceliği",
 				"Maç içi kısayollar"
 			],
 			"ar": [
-				"قوة soft aim",
+				"قوة Skillshot assist",
 				"أولوية العظام",
 				"اختصارات أثناء المباراة"
 			],
 			"ja": [
-				"soft aim強度",
+				"Skillshot assist強度",
 				"ボーン優先度",
 				"マッチ中ホットキー"
 			],
 			"ko": [
-				"soft aim 강도",
+				"Skillshot assist 강도",
 				"본 우선순위",
 				"매치 중 단축키"
 			],
 			"zh": [
-				"soft aim 强度",
+				"Skillshot assist 强度",
 				"骨骼优先级",
 				"对局中热键"
 			],
 			"hi": [
-				"Soft aim strength",
+				"Skillshot assist strength",
 				"Bone priority",
 				"मैच में hotkeys"
 			],
 			"id": [
-				"Kekuatan soft aim",
+				"Kekuatan Skillshot assist",
 				"Prioritas tulang",
 				"Hotkey saat match"
 			],
 			"th": [
-				"ความแรง soft aim",
+				"ความแรง Skillshot assist",
 				"ลำดับกระดูก",
 				"ปุ่มลัดระหว่างแมตช์"
 			],
 			"vi": [
-				"Cường độ soft aim",
+				"Cường độ Skillshot assist",
 				"Ưu tiên xương",
 				"Phím tắt giữa trận"
 			],
 			"uk": [
-				"Сила soft aim",
+				"Сила Skillshot assist",
 				"Пріоритет кісток",
 				"Гарячі клавіші в матчі"
 			],
 			"cs": [
-				"Síla soft aim",
+				"Síla Skillshot assist",
 				"Priorita kostí",
 				"Klávesové zkratky v zápase"
 			],
 			"ro": [
-				"Putere soft aim",
+				"Putere Skillshot assist",
 				"Prioritate oase",
 				"Hotkey-uri în meci"
 			],
 			"sv": [
-				"Soft aim-styrka",
+				"Skillshot assist-styrka",
 				"Benprioritet",
 				"Snabbtangenter i match"
 			]
 		},
 		"list1": {
 			"en": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Per-weapon profiles",
 				"Works with ESP"
 			],
 			"es": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Perfiles por arma",
 				"Funciona con ESP"
 			],
 			"fr": [
-				"Soft aim discret",
+				"Skillshot assist discret",
 				"Profils par arme",
 				"Fonctionne avec ESP"
 			],
 			"de": [
-				"Legit Soft Aim",
+				"Legit Skillshot assist",
 				"Profile pro Waffe",
 				"Funktioniert mit ESP"
 			],
 			"pt": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Perfis por arma",
 				"Funciona com ESP"
 			],
 			"it": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Profili per arma",
 				"Funziona con ESP"
 			],
 			"nl": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Profielen per wapen",
 				"Werkt met ESP"
 			],
 			"pl": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Profile na broń",
 				"Działa z ESP"
 			],
 			"ru": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Профили по оружию",
 				"Работает с ESP"
 			],
 			"tr": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Silah başına profiller",
 				"ESP ile çalışır"
 			],
 			"ar": [
-				"Soft aim شرعي",
+				"Skillshot assist شرعي",
 				"ملفات لكل سلاح",
 				"يعمل مع ESP"
 			],
 			"ja": [
-				"自然なsoft aim",
+				"自然なSkillshot assist",
 				"武器別プロファイル",
 				"ESPと併用"
 			],
 			"ko": [
-				"자연스러운 soft aim",
+				"자연스러운 Skillshot assist",
 				"무기별 프로필",
 				"ESP와 호환"
 			],
 			"zh": [
-				"低调 soft aim",
+				"低调 Skillshot assist",
 				"按武器配置",
 				"配合 ESP"
 			],
 			"hi": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"प्रति-हथियार profiles",
 				"ESP के साथ"
 			],
 			"id": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Profil per senjata",
 				"Bekerja dengan ESP"
 			],
 			"th": [
-				"Soft aim แบบ legit",
+				"Skillshot assist แบบ legit",
 				"โปรไฟล์ต่ออาวุธ",
 				"ใช้กับ ESP"
 			],
 			"vi": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Profile theo vũ khí",
 				"Hoạt động với ESP"
 			],
 			"uk": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Профілі на зброю",
 				"Працює з ESP"
 			],
 			"cs": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Profily na zbraň",
 				"Funguje s ESP"
 			],
 			"ro": [
-				"Soft aim legit",
+				"Skillshot assist legit",
 				"Profile per armă",
 				"Funcționează cu ESP"
 			],
 			"sv": [
-				"Legit soft aim",
+				"Legit Skillshot assist",
 				"Profiler per vapen",
 				"Fungerar med ESP"
 			]
@@ -4472,7 +4472,7 @@ export const PAGE_CONTENT = {
 		"1": {
 			"en": [
 				"Check FAQ and Status before you write. Many setup questions are already covered.",
-				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Activision and the <a href=\"https://www.callofduty.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
+				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Valve and the <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
 			],
 			"es": [
 				"Revisa FAQ y Estado antes de escribir. Muchas dudas de instalación ya están cubiertas."

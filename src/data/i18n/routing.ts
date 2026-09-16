@@ -297,7 +297,7 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 	reliable: {
 		en: 'reliable',
 		es: '',
-		fr: 'indetectable',
+		fr: '',
 		de: 'reliable',
 		pt: 'indetectaveis',
 		it: 'indetectabili',

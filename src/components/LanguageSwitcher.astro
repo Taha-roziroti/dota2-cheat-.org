@@ -37,7 +37,7 @@ const currentMeta = locales.find((l) => l.code === currentLocale)!;
 ---
 
 <details class="lang-switcher">
-	<summary class="lang-switcher__toggle" aria-label="Select language">
+	<summary class="lang-switcher__toggle" aria-label={currentLocale === 'en' ? 'Select language' : locales.find(l => l.code === currentLocale)?.nativeName ? `Language: ${currentMeta.nativeName}` : 'Select language'}>
 		<svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 			<circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"></circle>
 			<path
@@ -168,7 +168,7 @@ const currentMeta = locales.find((l) => l.code === currentLocale)!;
 </style>
 
 <script>
-	document.querySelectorAll('.lang-switcher__link[data-locale]').foreach((link) => {
+		document.querySelectorAll('.lang-switcher__link[data-locale]').forEach((link) => {
 		link.addEventListener('click', () => {
 			const code = link.getAttribute('data-locale');
 			if (code) {

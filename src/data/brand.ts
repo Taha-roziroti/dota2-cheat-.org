@@ -14,7 +14,7 @@ export const brand = {
 	market: 'Worldwide',
 	supportEmail: 'support@dota2cheat.com',
 	/** Replace with your live affiliate / store URL */
-	checkoutUrl: 'https://dota2cheat.com/store',
+	checkoutUrl: 'https://zadeyo.com/go/TAHA?to=%2Fproducts%2Fdota-2',
 
 	/** Public profiles for Organization sameAs + Twitter cards (edit in Brand Studio). */
 	social: {

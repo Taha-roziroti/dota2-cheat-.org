@@ -100,12 +100,12 @@ export function clampDesc(s) {
 /** Remove checkout from meta title/description strings only. */
 export function stripcheckoutFromMeta(text) {
 	return text
-		.replace(/\s*[—–-]\s*checkout via checkout\.?/gi, '.')
+		.replace(/\s*[—–-]\s*secure checkout\.?/gi, '.')
 		.replace(/\s*[—–-]\s*checkout en checkout\.?/gi, '.')
 		.replace(/\s*[—–-]\s*checkout über checkout\.?/gi, '.')
 		.replace(/\s*with secure checkout\.?/gi, '.')
 		.replace(/\s*via secure checkout\.?/gi, '.')
-		.replace(/\s*Checkout via checkout\.?/gi, '')
+		.replace(/\s*secure checkout\.?/gi, '')
 		.replace(/\s*secure checkout,?\s*/gi, ' ')
 		.replace(/\s*checkout delivery\.?/gi, ' instant digital delivery.')
 		.replace(/\s*and checkout delivery\.?/gi, ' and instant digital delivery.')
@@ -132,20 +132,20 @@ export function section(h2, ...args) {
 
 /** Authoritative external citation helpers (open in new tab). */
 export const EXT = {
-	activision:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+	Valve:
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	rust:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	finals:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	naraka:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	dota2:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	status:
-		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2 on PC</a>',
+		'<a href="https://www.dota2.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2 on PC</a>',
 	eac:
-		'<a href="https://www.callofduty.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
+		'<a href="https://www.dota2.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
 	vac:
-		'<a href="https://www.callofduty.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
+		'<a href="https://www.dota2.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
 };

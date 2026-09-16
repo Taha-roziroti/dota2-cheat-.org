@@ -60,7 +60,7 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripcheckoutFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripcheckoutFromMeta(
-				`${topicName} for Dota 2 ranked matches and Resurgence on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official dota 2 cheats at dota2cheat.com.`,
+				`${topicName} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official dota 2 cheats at dota2cheat.com.`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,
@@ -98,16 +98,16 @@ function localizeRichPage(enPage, locale, pageKey) {
 /** Optional native h2 overrides for rich pages. */
 const RICH_SECTION_H2 = {
 	es: {
-		'dota2-esp': ['Qué resuelve el ESP en matches', 'Categorías ESP jugador, apex y weapon drops', 'ESP indetectable con mantenimiento EAC', 'ESP — siguientes pasos'],
-		hacks: ['¿Qué son los trucos de Dota 2?', 'Qué incluye Dota 2 Cheats', 'Estado indetectable y VAC', 'Primeros pasos'],
+		'dota2-esp': ['Qué resuelve el ESP en matches', 'Categorías ESP jugador, apex y wards and runes', 'ESP con mantenimiento EAC', 'ESP — siguientes pasos'],
+		hacks: ['¿Qué son los trucos de Dota 2?', 'Qué incluye Dota 2 Cheats', 'Estado y VAC', 'Primeros pasos'],
 	},
 	fr: {
-		'dota2-esp': ['Ce que l\'ESP résout en match', 'Catégories ESP joueur, apex et weapon drops', 'ESP indétectable avec maintenance EAC', 'ESP — prochaines étapes'],
-		hacks: ['Que sont les triches Dota 2 ?', 'Ce que Dota 2 Cheats inclut', 'Statut indétectable et VAC', 'Premiers pas'],
+		'dota2-esp': ['Ce que l\'ESP résout en match', 'Catégories ESP joueur, apex et wards and runes', 'ESP avec maintenance EAC', 'ESP — prochaines étapes'],
+		hacks: ['Que sont les triches Dota 2 ?', 'Ce que Dota 2 Cheats inclut', 'Statut et VAC', 'Premiers pas'],
 	},
 	de: {
-		'dota2-esp': ['Was ESP in matches löst', 'Spieler-, Apex- und Weapon drops-ESP-Kategorien', 'Reliable ESP mit EAC-Wartung', 'ESP — nächste Schritte'],
-		hacks: ['Was sind Dota 2 Cheats?', 'Was Dota 2 Cheats enthält', 'Reliable-Status und VAC', 'Erste Schritte'],
+		'dota2-esp': ['Was ESP in matches löst', 'Spieler-, Apex- und wards and runes-ESP-Kategorien', 'ESP mit EAC-Wartung', 'ESP — nächste Schritte'],
+		hacks: ['Was sind Dota 2 Cheats?', 'Was Dota 2 Cheats enthält', 'Patch-Status und VAC', 'Erste Schritte'],
 	},
 };
 

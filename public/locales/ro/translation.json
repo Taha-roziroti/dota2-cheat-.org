@@ -20,7 +20,7 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Cheats Dota 2 reliable",
+    "accent": "Dota 2 Cheats",
     "accentShort": "Dota 2 Cheats",
     "title": "Dota 2 Cheats",
     "subtitle": "ESP wallhack, radar hack și Aimbot pentru Dota 2 pe PC Windows — mentenanță VAC inclusă.",
@@ -30,7 +30,7 @@
     "priceFrom": "from",
     "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
-    "chipAim": "Soft aim",
+    "chipAim": "Asistență skillshot",
     "chipRadar": "2D radar",
     "chipUpdates": "Actualizări"
   },
@@ -55,7 +55,7 @@
     "available": "Disponibil acum",
     "gameBadge": "Dota 2",
     "platformBadge": "Windows PC",
-    "statusBadge": "Pachet reliable",
+    "statusBadge": "pachet premium",
     "days30": "30",
     "oneTime": "Pe viață",
     "plans": "Prețuri",
@@ -88,7 +88,7 @@
     "languageSuggestion": "Limbă",
     "dismiss": "Dismiss",
     "localeVersion": "{{name}} version",
-    "localeSuggestLead": "{{nativeName}} ({{region}}) — ",
+    "localeSuggestLead": "{{nativeName}} ({{region}}) —",
     "breadcrumb": "Breadcrumb",
     "gallery": "Gallery",
     "inGameLook": "In-game look",
@@ -102,8 +102,7 @@
     "shareX": "Share on X",
     "shareReddit": "Share on Reddit",
     "shareFacebook": "Share on Facebook",
-    "blog": "Blog",
-    "guides": "Guides",
+    "blog": "Forumuri",
     "home": "Home",
     "support": "Support",
     "privacy": "Privacy",
@@ -112,35 +111,37 @@
     "pricingPlans": "Prețuri",
     "buyerReviewsNav": "Ce spun jucătorii",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy"
+    "refundPolicy": "Refund policy",
+    "forums": "Forumuri"
   },
   "footer": {
     "explore": "Explorează",
     "help": "Ajutor și legal",
-    "tagline": "ESP, wallhack, radar și Aimbot reliable pentru Dota 2 — checkout via checkout."
+    "tagline": "ESP, wallhack, radar și Aimbot pentru Dota 2 ."
   },
   "home": {
-    "aboutTitle": "cheat-uri reliable pentru Dota 2",
-    "aboutP1": "Pachet reliable Dota 2 pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță VAC. Prețuri · Actualizări.",
+    "aboutTitle": "cheat-uri pentru Dota 2",
+    "aboutP1": "pachet premium Dota 2 pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță VAC. Prețuri · Actualizări.",
     "aboutPricingCta": "Compară prețurile",
     "aboutP2Before": "Începe cu",
     "aboutPillar": "ghidul Dota 2 Cheats",
     "aboutEsp": "ghidul ESP",
     "aboutAimbot": "controalele aimbot",
-    "aboutReliable": "statusul reliable",
-    "aboutP2Mid": ", ",
-    "aboutP2Or": ", sau ",
-    "aboutP2After": " dacă încă compari instrumentele.",
+    "aboutReliable": "status patch",
+    "aboutP2Mid": ",",
+    "aboutP2Or": ", sau",
+    "aboutP2After": "dacă încă compari instrumentele.",
     "playDemoVideo": "Play Dota 2 cheats demo video",
     "pauseDemoVideo": "Pause Dota 2 cheats demo video",
     "demoVideoCaption": "Dota 2 Cheats — ESP, aimbot & radar in match",
     "volumeLabel": "Volume",
     "muteVideo": "Mute video",
     "unmuteVideo": "Unmute video",
-    "seekLabel": "Video progress"
+    "seekLabel": "Video progress",
+    "aboutStatus": "statusul"
   },
   "homeSeo": {
-    "eyebrow": "Guides",
+    "eyebrow": "Explore",
     "title": "Pagini related by category",
     "lede": "Funcții, Actualizări, Prețuri, FAQ.",
     "catFeatures": "Funcții",
@@ -156,7 +157,6 @@
     "linkAimbot": "Aimbot",
     "linkRadar": "Radar",
     "linkLiveStatus": "Actualizări",
-    "linkReliable": "Pachet reliable",
     "linkVAC": "VAC",
     "linkSetup": "Instalare",
     "linkPlans": "Prețuri",
@@ -165,20 +165,21 @@
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Instalare",
-    "linkBlog": "Blog",
+    "linkBlog": "Forumuri",
     "linkRefunds": "Refunds",
     "faqEyebrow": "FAQ",
     "faqTitle": "FAQ",
     "faqLede": "Livrare digitală instantă",
     "allAnswers": "FAQ",
-    "openFullPage": "Citește ghidul"
+    "openFullPage": "Citește ghidul",
+    "linkPatchStatus": "status patch"
   },
   "deals": {
     "pricing": "Prețuri",
     "chooseLicense": "Prețuri",
     "features": "Funcții",
     "featEsp": "ESP / wallhack",
-    "featAim": "Aimbot",
+    "featAim": "Asistență skillshot",
     "featRadar": "2D radar",
     "featUpdates": "Actualizări"
   },
@@ -193,11 +194,12 @@
     "aimbot": "Aimbot",
     "radar": "Radar",
     "wallhack": "Wallhack",
-    "reliable": "Pachet reliable",
     "features": "Funcții",
     "pricing": "Prețuri",
     "setup": "Instalare",
-    "blog": "Blog"
+    "blog": "Forumuri",
+    "forums": "Forumuri",
+    "premium": "pachet premium"
   },
   "internalLinks": {
     "relatedLede": "Dota 2 Cheats — Pagini related.",
@@ -214,10 +216,11 @@
     "status": "Actualizări",
     "faq": "FAQ",
     "support": "Support",
-    "blog": "Blog",
+    "blog": "Forumuri Dota 2",
     "reviews": "Ce spun jucătorii",
     "hacks": "Cheats",
-    "reliable": "Pachet reliable"
+    "patchStatus": "Patch status",
+    "premium": "pachet premium"
   },
   "externalResources": {
     "title": "Guías oficiales del juego y recursos",
@@ -248,31 +251,21 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Soft aim assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator loadouts and POIs in Dota 2"
-  },
-  "guides": {
-    "hubTitle": "Game Guides Hub",
-    "hubIntro": "Dota 2 Cheats product guides sit at the top. Scroll down for dedicated PC game cheat guides — ESP, aimbot, radar, and reliable setup for other titles.",
-    "nativeTitle": "Dota 2 Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on dota2cheat.com.",
-    "gameTitle": "Other Game Cheat Guides",
-    "gameLede": "Cheat guides for Fortnite, Tarkov, Valorant, Marvel Rivals, and more — ESP, aimbot, wallhack, and reliable tips per title below.",
-    "readGuide": "Read guide",
-    "published": "Published",
-    "updated": "Updated"
+    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
-    "blogTitle": "Dota 2 Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Dota 2 guides — competitive tips, ESP, aimbot notes, loadout drop routes, and VAC update coverage. English blog at dota2cheat.com/forums/.",
-    "blogH1": "Dota 2 Cheats Intel",
-    "blogIntro": "Actionable Dota 2 guides for ranked matches and ranked — meta breakdowns, loadout routes, weapon tiers, and warmup routines. Pair these tips with our Dota 2 Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
+    "blogTitle": "Dota 2 Cheats Forums | Setup Tips & Feature Talk",
+    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.",
+    "blogH1": "Community Forums",
+    "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running dota 2 cheats on PC.",
     "readMore": "Read guide",
     "published": "Published",
     "updated": "Updated",
@@ -286,13 +279,13 @@
     "eyebrow": "Dota 2 Cheats",
     "title": "Dota 2 Cheats gallery",
     "subtitle": "Dota 2 Cheats visuals — ESP, wallhack, aimbot, and radar for Dota 2 on PC.",
-    "lead": "Dota 2 Cheats helps you spot enemy operators, weapon drops, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "lead": "Dota 2 Cheats helps you spot enemy heroes, wards, and objectives with ESP, skillshot assist, and radar in one license.",
     "highlightEspTitle": "Dota 2 Cheats ESP",
-    "highlightEspCopy": "See enemy operators through walls with Dota 2 Cheats ESP and wallhack overlays.",
+    "highlightEspCopy": "See enemy heroes through fog with Dota 2 Cheats ESP and wallhack overlays.",
     "highlightRadarTitle": "Dota 2 Cheats radar",
     "highlightRadarCopy": "Track nearby threats with Dota 2 Cheats radar before you push or rotate.",
     "highlightAimbotTitle": "Dota 2 Cheats aimbot",
-    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Dota 2 matches on Windows PC.",
+    "highlightAimbotCopy": "Use skillshot assist and aimbot controls tuned for Dota 2 matches on Windows PC.",
     "updatesLabel": "Dota 2 Cheats updates",
     "updatesShort": "Updates"
   },
@@ -300,19 +293,19 @@
     "items": {
       "what-are-dota2-cheats": {
         "q": "¿Qué es Dota 2 Cheats?",
-        "a": "Dota 2 Cheats es un paquete de cheats reliable para Dota 2 en PC Windows. Incluye ESP wallhack, radar 2D y controles de aimbot, con mantenimiento VAC y soporte de instalación."
+        "a": "Dota 2 Cheats es un paquete de trucos para Dota 2 en PC Windows. Incluye ESP wallhack, radar 2D y asistencia de skillshot, con mantenimiento VAC y soporte de instalación."
       },
       "are-dota2-cheats-reliable-in-2026": {
-        "q": "¿Los Dota 2 Cheats son reliable en 2026?",
-        "a": "Dota 2 Cheats se mantiene para Dota 2 con reconstrucciones tras parches de VAC y del juego. Revisa la Status antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente."
+        "q": "¿Se mantienen los trucos de Dota 2 en 2026?",
+        "a": "Dota 2 Cheats se actualiza tras parches de VAC y del juego. Revisa la Status antes de entrar en cola. Ningún cheat puede garantizar detección cero permanente."
       },
       "solo-farmer-and-raider-sessions": {
         "q": "Funcționează în runde battle royale și meciuri ranked?",
-        "a": "Da. ESP, radar și aimbot sunt construite pentru fluxul de meci Dota 2 — citirea eroilor inamici, urmărirea weapon drops-ului și utility placements, și vigilență lângă POI și zone de luptă în ranked și Ranked."
+        "a": "Da. ESP, radar și aimbot sunt construite pentru fluxul de meci Dota 2 — citirea eroilor inamici, urmărirea wards and runes-ului și utility placements, și vigilență lângă POI și zone de luptă în ranked și Ranked."
       },
       "esp-wallhack-radar-or-aimbot": {
-        "q": "¿Qué incluye: ESP, wallhack, radar o Aimbot?",
-        "a": "Dota 2 Cheats agrupa ESP wallhack, marcadores de weapon drops, radar 2D y Aimbot configurable en una licencia. Consulta Funcții para la lista completa."
+        "q": "¿Qué incluye: ESP, wallhack, radar o aimbot?",
+        "a": "Dota 2 Cheats agrupa ESP wallhack, marcadores de wards, radar 2D y skillshot assist configurable en una licencia. Consulta Funcții para la lista completa."
       },
       "how-are-licenses-delivered": {
         "q": "¿Cómo se entregan las licencias?",
@@ -332,27 +325,27 @@
       },
       "does-dota2-cheats-include-radar-hack": {
         "q": "¿Dota 2 Cheats incluye radar hack?",
-        "a": "Sí. Dota 2 Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone."
+        "a": "Sí. Dota 2 Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para ganks y rotaciones."
       },
       "vac-anti-cheat-and-dota2-cheats": {
-        "q": "¿Cómo afecta VAC a los Dota 2 Cheats?",
-        "a": "VAC monitoriza Dota 2 en PC Windows. Dota 2 Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar."
+        "q": "¿Cómo afecta VAC a los trucos de Dota 2?",
+        "a": "VAC monitoriza Dota 2 en PC Windows. Dota 2 Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Status antes de jugar."
       },
       "buy-reliable-dota2-cheats-windows-pc": {
-        "q": "¿Puedo comprar trucos reliable de Dota 2 para PC Windows?",
-        "a": "Sí: Dota 2 Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y aimbot en un solo paquete. Compara planes en la Magazin antes del checkout."
+        "q": "¿Puedo comprar trucos de Dota 2 para PC Windows?",
+        "a": "Sí: Dota 2 Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y skillshot assist en un solo paquete. Compara planes en la Magazin antes del checkout."
       },
       "how-much-do-dota2-cheats-cost": {
         "q": "How much do dota 2 cheats cost in 2026?",
-        "a": "Dota 2 Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and VAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
+        "a": "Dota 2 Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, skillshot assist, and VAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
       "what-is-dota2-esp-hack": {
         "q": "Ce este un ESP hack Dota 2?",
-        "a": "Un ESP hack Dota 2 este un overlay de vizibilitate care arată eroi inamici, arme și weapon drops prin pereți. Dota 2 Cheats ESP include cutii jucător, etichete distanță, semnale grapple și ultimate, și categorii pentru ranked și Ranked."
+        "a": "Un ESP hack Dota 2 este un overlay de vizibilitate care arată eroi inamici, arme și wards and runes prin pereți. Dota 2 Cheats ESP include cutii jucător, etichete distanță, semnale grapple și ultimate, și categorii pentru ranked și Ranked."
       },
       "what-is-dota2-aimbot-hack": {
         "q": "Ce este un aimbot hack Dota 2?",
-        "a": "Un aimbot hack Dota 2 oferă aim assist cu FOV, smoothing și prioritate oase configurabile. Dota 2 Cheats folosește profiluri soft aim naturale în team fight-uri și dueluri — reglează în meniul mod înainte de cozile Ranked."
+        "a": "Un aimbot hack Dota 2 oferă aim assist cu FOV, smoothing și prioritate oase configurabile. Dota 2 Cheats folosește profiluri Skillshot assist naturale în team fight-uri și dueluri — reglează în meniul mod înainte de cozile Ranked."
       },
       "how-to-install-dota2-cheats": {
         "q": "How do I install dota 2 cheats on Windows PC?",
@@ -360,7 +353,7 @@
       },
       "best-dota2-cheats-in-2026": {
         "q": "What are the best dota 2 cheats in 2026?",
-        "a": "Top dota 2 cheats in 2026 combine ESP, soft aim, 2D radar, and fast VAC maintenance after patches. Dota 2 Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+        "a": "Top dota 2 cheats in 2026 combine ESP, skillshot assist, 2D radar, and fast VAC maintenance after patches. Dota 2 Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
       },
       "monthly-vs-lifetime-dota2-cheats": {
         "q": "Should I buy monthly or lifetime dota 2 cheats?",
@@ -371,8 +364,8 @@
         "a": "Yes. Dota 2 Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
       },
       "what-is-dota2-soft-aim": {
-        "q": "Ce este soft aim Dota 2?",
-        "a": "Soft aim Dota 2 ghidează ușor ținta spre obiective într-un FOV setat în loc de snap instant. Dota 2 Cheats permite ajustarea smoothing-ului, priorității oaselor și profilurilor pe tip de armă în ranked și Ranked."
+        "q": "Ce este Skillshot assist Dota 2?",
+        "a": "Skillshot assist Dota 2 ghidează ușor ținta spre obiective într-un FOV setat în loc de snap instant. Dota 2 Cheats permite ajustarea smoothing-ului, priorității oaselor și profilurilor pe tip de armă în ranked și Ranked."
       },
       "free-dota2-cheat-download": {
         "q": "Is there a free Dota 2 hack download?",
@@ -384,7 +377,7 @@
       },
       "dota2-cheats-for-ranked": {
         "q": "Funcționează dota 2 cheats în competiția ranked?",
-        "a": "Da. ESP, radar și soft aim sunt construite pentru Ranked și ranked în Dota 2 pe PC Windows. Folosește setări overlay conservatoare, citește notele după patch-uri și confirmă statusul reliable pe pagina Actualizări înainte de cozile competitive."
+        "a": "Da. ESP, radar și Skillshot assist sunt construite pentru Ranked și ranked în Dota 2 pe PC Windows. Folosește setări overlay conservatoare, citește notele după patch-uri și confirmă statusul pe pagina Actualizări înainte de cozile competitive."
       },
       "what-is-dota2-mod-menu": {
         "q": "What is a Dota 2 mod menu?",
@@ -392,7 +385,7 @@
       },
       "external-vs-internal-dota2-cheats": {
         "q": "What is the difference between external and internal dota 2 cheats?",
-        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Dota 2 Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with VAC maintenance after patches."
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Dota 2 Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and skillshot assist with VAC maintenance after patches."
       },
       "how-long-dota2-cheat-setup-takes": {
         "q": "How long does dota 2 cheats setup take?",
@@ -400,7 +393,7 @@
       },
       "does-dota2-cheats-include-triggerbot": {
         "q": "Does Dota 2 Cheats include triggerbot?",
-        "a": "Dota 2 Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+        "a": "Dota 2 Cheats focuses on ESP wallhack, 2D radar, and skillshot assist profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
       }
     }
   },
@@ -410,7 +403,7 @@
   },
   "agent": {
     "accent": "2026 — ESP, Aimbot & Wallhack",
-    "accentShort": "Reliable dota 2 cheats 2026",
+    "accentShort": "dota 2 cheats 2026",
     "title": "Dota 2 Cheats",
     "subtitle": "ESP, aimbot, and wallhack for Dota 2 on Windows PC — VAC maintenance included.",
     "subtitleShort": "ESP, aimbot & wallhack for Dota 2 PC",
@@ -419,8 +412,8 @@
     "priceFrom": "from",
     "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
-    "chipAim": "Soft aim",
-    "chipRadar": "2D radar",
+    "chipAim": "Skillshot assist",
+    "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
   }
 }

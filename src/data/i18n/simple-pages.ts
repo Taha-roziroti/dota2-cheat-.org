@@ -56,7 +56,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				list: ['Player boxes & distance', 'Weapon drops and operator markers', 'Heli and Bradley filters'],
 			},
 			{
-				h2: 'Aimbot & soft aim',
+				h2: 'Aimbot & Skillshot assist',
 				paragraphs: [
 					'Aim help you can tune to feel natural.',
 					'Set FOV, smoothness, and bone priority per weapon before you queue.',
@@ -78,11 +78,11 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				],
 				list: [
 					'<a href="/dota2-esp/">ESP & wallhack guide</a>',
-					'<a href="/dota2-aimbot/">Aimbot & soft aim</a>',
+					'<a href="/dota2-aimbot/">Aimbot & Skillshot assist</a>',
 					'<a href="/dota2-radar-hack/">2D radar overlay</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/forums/">Dota 2 Intel blog</a>',
+					'<a href="/forums/">Dota 2 cheats forums</a>',
 					'<a href="https://www.dota2.com//news" target="_blank" rel="noopener noreferrer">Official Dota 2 patch notes</a>',
 					'<a href="https://dota2.fandom.com/wiki/Call_of_Duty:_Dota 2" target="_blank" rel="noopener noreferrer">Dota 2 Wiki (Fandom)</a>',
 				],
@@ -112,7 +112,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				h2: 'What you get',
 				paragraphs: [
 					'Full package access for Windows 10 / 11.',
-					'Same ESP, soft aim, and radar on monthly and lifetime plans.',
+					'Same ESP, Skillshot assist, and radar on monthly and lifetime plans.',
 				],
 				list: ['ESP, aimbot, and radar', 'Patch rebuilds while active', 'Digital delivery after checkout'],
 			},
@@ -176,7 +176,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		description: brandSeo.previewDescription,
 		h1: 'Dota 2 Cheats — Full Guide',
 		intro:
-			'Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
+			'Dota 2 cheats add ESP, radar, and Skillshot assist on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
 		ctaPrimary: brandCopy.ctaBuy,
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
@@ -192,14 +192,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			{
 				h2: 'What Dota 2 Cheats includes',
 				paragraphs: [
-					'One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
+					'One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable Skillshot assist profiles per weapon.',
 					'Monthly and lifetime plans include the same feature stack with VAC rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
 					'Weapon drops and resource markers',
 					'2D radar for off-screen threats',
-					'Soft aim & aimbot profiles',
+					'Skillshot assist & aimbot profiles',
 					'VAC rebuilds after patches',
 				],
 			},
@@ -210,19 +210,19 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				],
 				list: [
 					'<a href="/dota2-esp/">Dota 2 ESP & wallhack</a>',
-					'<a href="/dota2-aimbot/">Dota 2 Aimbot & soft aim</a>',
+					'<a href="/dota2-aimbot/">Dota 2 Aimbot & Skillshot assist</a>',
 					'<a href="/dota2-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
-				h2: 'Reliable status & patches',
+				h2: 'patch status & patches',
 				paragraphs: [
 					'Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
-					'<a href="/updates/">Reliable status guide</a>',
+					'<a href="/updates/">patch status guide</a>',
 					'<a href="/vac-bypass/">VAC maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
@@ -273,11 +273,11 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		],
 	}),
 	'dota2-aimbot': page({
-		title: 'Dota 2 Aimbot | Soft Aim & FOV Settings | {brand}',
+		title: 'Dota 2 Aimbot | Skillshot assist & FOV Settings | {brand}',
 		description:
-			'Dota 2 aimbot with soft aim, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. dota2cheat.com.',
+			'Dota 2 aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. dota2cheat.com.',
 		h1: 'Aimbot',
-		intro: 'Soft aim and aim assist you can tune for Dota 2. Included in the same {brand} license.',
+		intro: 'Skillshot assist and aim assist you can tune for Dota 2. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
 		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
@@ -286,12 +286,12 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			{
 				h2: 'Controls',
 				paragraphs: ['Set FOV, smoothness, and bone priority before you queue.'],
-				list: ['Soft aim strength', 'Bone priority', 'Hotkeys mid-match'],
+				list: ['Skillshot assist strength', 'Bone priority', 'Hotkeys mid-match'],
 			},
 			{
 				h2: 'Play styles',
 				paragraphs: ['Keep settings subtle for longer matches. Raise strength only when you accept more risk.'],
-				list: ['Legit soft aim', 'Per-weapon profiles', 'Works with ESP'],
+				list: ['Legit Skillshot assist', 'Per-weapon profiles', 'Works with ESP'],
 			},
 			{
 				h2: 'Next steps',
@@ -307,7 +307,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	radar: page({
 		title: 'Dota 2 Radar Hack | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. VAC maintenance at dota2cheat.com.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. VAC maintenance at dota2cheat.com.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,

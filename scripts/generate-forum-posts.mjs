@@ -5,6 +5,7 @@
 import { writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { LOCALES, localizeForumPost } from './i18n-data/forum-i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'src/data/blog/posts.generated.ts');
@@ -428,6 +429,53 @@ function esc(s) {
 	return s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
 }
 
+function genLocaleBlock(locale, p, enBlock) {
+	if (locale === 'en') return enBlock;
+	const loc = localizeForumPost(
+		{
+			slug: p.slug,
+			title: p.title,
+			metaDescription: p.metaDescription,
+			h1: p.h1,
+			intro: p.intro,
+			keywords: p.keywords,
+			imageAlt: p.imageAlt,
+			sections: p.sections,
+			comments: p.comments,
+		},
+		locale,
+		p.id,
+	);
+	const sections = loc.sections
+		.map(
+			(s) => `			{
+				h2: "${esc(s.h2)}",
+				paragraphs: [
+${s.paragraphs.map((para) => `					"${esc(para)}",`).join('\n')}
+				],
+			}`,
+		)
+		.join(',\n');
+	const comments = (loc.comments ?? [])
+		.map((c) => `			{ author: "${esc(c.author)}", date: "${c.date}", body: "${esc(c.body)}" }`)
+		.join(',\n');
+	return `		${locale}: {
+		slug: "${loc.slug}",
+		title: "${esc(loc.title)}",
+		metaDescription: "${esc(loc.metaDescription)}",
+		h1: "${esc(loc.h1)}",
+		intro: "${esc(loc.intro)}",
+		keywords: [${loc.keywords.map((k) => `"${esc(k)}"`).join(',')}],
+		imageAlt: "${esc(loc.imageAlt)}",
+		sections: [
+${sections}
+		],
+		comments: [
+${comments}
+		],
+		},`;
+}
+
 function genPost(p) {
 	const sections = p.sections
 		.map(
@@ -446,15 +494,7 @@ ${s.paragraphs.map((para) => `					"${esc(para)}",`).join('\n')}
 		)
 		.join(',\n');
 
-	return `	{
-		id: "${p.id}",
-		imageKey: "${p.imageKey}",
-		published: "${p.published}",
-		updated: "${p.updated}",
-		category: "${esc(p.category)}",
-		featured: ${p.featured},
-		translations: {
-		en: {
+	const enBlock = `		en: {
 		slug: "${p.slug}",
 		title: "${esc(p.title)}",
 		metaDescription: "${esc(p.metaDescription)}",
@@ -468,7 +508,20 @@ ${sections}
 		comments: [
 ${comments}
 		],
-		},
+		},`;
+
+	const otherLocales = LOCALES.filter((l) => l !== 'en').map((l) => genLocaleBlock(l, p, enBlock)).join('\n');
+
+	return `	{
+		id: "${p.id}",
+		imageKey: "${p.imageKey}",
+		published: "${p.published}",
+		updated: "${p.updated}",
+		category: "${esc(p.category)}",
+		featured: ${p.featured},
+		translations: {
+${enBlock}
+${otherLocales}
 		},
 	}`;
 }

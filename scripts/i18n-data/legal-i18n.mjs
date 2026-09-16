@@ -121,7 +121,7 @@ export const LEGAL_I18N = {
 		},
 		terms: {
 			h2: ['Acceptatie van voorwaarden', 'Risicowaarschuwing', 'Beleidswijzigingen'],
-			sec2p2: 'Cheats gebruiken kan in strijd zijn met de voorwaarden van het Activision — u neemt alle ban-risico\'s op u.',
+			sec2p2: 'Cheats gebruiken kan in strijd zijn met de voorwaarden van het Valve — u neemt alle ban-risico\'s op u.',
 		},
 		sec1p1: 'Contact-e-mail, checkout-orderreferenties en basisbeveiligingsgegevens van de site.',
 		emailLabel: 'E-mail:',
@@ -436,7 +436,7 @@ export const LEGAL_I18N = {
 		},
 		terms: {
 			h2: ['Godkännande av villkor', 'Riskvarning', 'Policyändringar'],
-			sec2p2: 'Att använda cheats kan bryta mot Activision terms — du tar all ban-risk.',
+			sec2p2: 'Att använda cheats kan bryta mot Valve terms — du tar all ban-risk.',
 		},
 		sec1p1: 'Kontakt-e-post, checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.',
 		emailLabel: 'E-post:',

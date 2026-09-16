@@ -41,6 +41,657 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
 		],
 		},
+		es: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Antes de download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		fr: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Installer des triches Dota 2 sur PC Windows",
+		metaDescription: "Installation triches Dota 2 Windows 10/11. Clé, overlay ESP, checklist ranked.",
+		h1: "Installer des triches Dota 2 sur PC Windows",
+		intro: "Première installation ? Téléchargement, licence, overlay et réglages avant ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Avant de download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		de: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Dota 2 Cheats auf Windows installieren",
+		metaDescription: "Dota 2 Cheats Installation Windows 10/11. Lizenz, ESP-Overlay, Ranked-Checkliste.",
+		h1: "Dota 2 Cheats auf Windows installieren",
+		intro: "Erstes Setup? Download, Lizenz, Overlay und Einstellungen vor Ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Bevor Sie download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		pt: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Como instalar cheats Dota 2 no Windows",
+		metaDescription: "Instalação de cheats Dota 2 no Windows. Chave, overlay ESP e checklist.",
+		h1: "Como instalar cheats Dota 2 no Windows",
+		intro: "Primeira vez? Download, licença, overlay e ajustes antes do ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		it: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Come installare cheat Dota 2 su Windows",
+		metaDescription: "Installazione cheat Dota 2 su Windows. Chiave, overlay ESP, checklist.",
+		h1: "Come installare cheat Dota 2 su Windows",
+		intro: "Prima installazione? Download, licenza, overlay e impostazioni prima del ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		nl: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		pl: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		ru: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Как установить читы Dota 2 на Windows",
+		metaDescription: "Установка читов Dota 2 на Windows. Ключ, ESP-оверлей, чеклист.",
+		h1: "Как установить читы Dota 2 на Windows",
+		intro: "Первый раз? Загрузка, ключ, оверлей и настройки перед ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		tr: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		ar: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		ja: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "WindowsでDota 2チートをインストールする方法",
+		metaDescription: "Windows 10/11向けDota 2チートのインストール手順。",
+		h1: "WindowsでDota 2チートをインストールする方法",
+		intro: "初めてのセットアップ？ダウンロード、ライセンス、オーバーレイ、ランク前の設定。",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		ko: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Windows에서 Dota 2 치트 설치 방법",
+		metaDescription: "Windows 10/11 Dota 2 치트 설치 가이드.",
+		h1: "Windows에서 Dota 2 치트 설치 방법",
+		intro: "처음 설정? 다운로드, 라이선스, 오버레이, 랭크 전 설정.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		zh: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "在 Windows 上安装 Dota 2 作弊",
+		metaDescription: "Windows 10/11 的 Dota 2 作弊安装步骤。",
+		h1: "在 Windows 上安装 Dota 2 作弊",
+		intro: "第一次设置？下载、许可证、覆盖层与排位前设置。",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		hi: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		id: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		th: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		vi: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		uk: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		cs: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		ro: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
+		sv: {
+		slug: "how-to-install-dota-2-cheats-windows",
+		title: "Cómo instalar trucos de Dota 2 en PC Windows",
+		metaDescription: "Instalación de trucos Dota 2 en Windows 10/11. Clave, overlay ESP y checklist antes de ranked.",
+		h1: "Cómo instalar trucos de Dota 2 en PC Windows",
+		intro: "¿Primera vez configurando trucos para Dota 2? Guía de descarga, licencia, overlay y ajustes antes de ranked.",
+		keywords: ["dota 2 cheats install","dota 2 hack setup","dota 2 esp setup"],
+		imageAlt: "Dota 2 cheats installer screen on Windows PC",
+		sections: [
+			{
+				h2: "Before you download anything",
+				paragraphs: [
+					"Close Steam completely, disable any leftover overlay apps, and run the installer as admin. Windows Defender will flag most cheat loaders — add the install folder to exclusions before you extract files.",
+					"Grab your license from the email receipt. Keys are single-seat; do not share them in Discord DMs asking for \"help.\"",
+				],
+			},
+			{
+				h2: "Launch order that actually works",
+				paragraphs: [
+					"Open the loader first, paste the key, wait for the green status light, then start Dota 2. Inject after the main menu loads — not during the Valve splash.",
+					"Toggle ESP on low opacity for the first match. Cranking every slider day one is how people clip themselves on stream by accident.",
+				],
+			}
+		],
+		comments: [
+			{ author: "stack_player", date: "2026-08-14", body: "took me two tries bc i launched dota before the loader. this order fixed it" },
+			{ author: "mid_or_feed", date: "2026-08-14", body: "works on win11 23h2 for me. defender exclusion is mandatory tho" },
+			{ author: "ancient_5", date: "2026-08-15", body: "my key said already used, support swapped it in like 20 min. annoying but they fixed it" },
+			{ author: "ward_boy", date: "2026-08-16", body: "solid guide. wish the loader had a verify button before inject" }
+		],
+		},
 		},
 	},
 	{
@@ -57,6 +708,636 @@ export const blogPosts: BlogPostDefinition[] = [
 		metaDescription: "Dota 2 ESP settings for ranked — hero boxes, ward vision, rune timers, and opacity levels that stay readable without cluttering your screen.",
 		h1: "Dota 2 ESP Settings: What Works Best in Ranked?",
 		intro: "Ranked ESP is not about seeing everything — it is about seeing the right things at the right time. Here is how I run hero ESP, ward dots, and courier tags without turning the screen into a Christmas tree.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		es: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		fr: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Réglages ESP Dota 2 : que choisir en ranked ?",
+		metaDescription: "Réglages ESP Dota 2 ranked — boîtes, wards, runes, opacité.",
+		h1: "Réglages ESP Dota 2 : que choisir en ranked ?",
+		intro: "L'ESP ranked n'est pas tout voir — c'est voir au bon moment.",
+		keywords: ["dota 2 esp settings","dota 2 esp classé","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "classé feels smoother at 60% box opacity. trust" }
+		],
+		},
+		de: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Dota 2 ESP-Einstellungen für Ranked",
+		metaDescription: "Dota 2 ESP für Ranked — Boxen, Wards, Runen, Deckkraft.",
+		h1: "Dota 2 ESP-Einstellungen für Ranked",
+		intro: "Ranked-ESP heißt nicht alles sehen — sondern das Richtige zur richtigen Zeit.",
+		keywords: ["dota 2 esp settings","dota 2 esp Ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "Ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		pt: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		it: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		nl: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		pl: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		ru: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ранкед","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ранкед feels smoother at 60% box opacity. trust" }
+		],
+		},
+		tr: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		ar: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		ja: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ランク","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ランク feels smoother at 60% box opacity. trust" }
+		],
+		},
+		ko: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp 랭크","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "랭크 feels smoother at 60% box opacity. trust" }
+		],
+		},
+		zh: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp 排位","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "排位 feels smoother at 60% box opacity. trust" }
+		],
+		},
+		hi: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		id: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		th: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		vi: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		uk: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		cs: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		ro: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
+		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
+		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
+		sections: [
+			{
+				h2: "Hero ESP vs map clutter",
+				paragraphs: [
+					"Keep enemy hero boxes at 70% opacity and disable ally skeletons unless you play support. Distance tags past 3000 units are noise in lane.",
+					"Ward ESP saved me more MMR than any aim feature. Set ward dots to pulse only when within smoke range.",
+				],
+			},
+			{
+				h2: "Profiles per role",
+				paragraphs: [
+					"Mid profile: skillshot assist low, ESP high, minimap radar medium. Hard support: ward vision max, hero ESP medium, courier tag on.",
+					"Save profiles per hero if you swap roles. Copying a carry config on Rubick feels awful.",
+				],
+			}
+		],
+		comments: [
+			{ author: "pos4_grinder", date: "2026-08-19", body: "ward esp alone worth the sub. finally dewarding spots i never checked" },
+			{ author: "toxic_archon", date: "2026-08-20", body: "too much opacity and teammates asked if my monitor was broken lol" },
+			{ author: "smurf_again", date: "2026-08-21", body: "ranked feels smoother at 60% box opacity. trust" }
+		],
+		},
+		sv: {
+		slug: "dota-2-esp-settings-ranked-matches",
+		title: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		metaDescription: "Ajustes ESP Dota 2 para ranked — cajas, wards, runas y opacidad.",
+		h1: "Ajustes ESP Dota 2: ¿qué funciona en ranked?",
+		intro: "El ESP en ranked no es ver todo — es ver lo correcto a tiempo.",
 		keywords: ["dota 2 esp settings","dota 2 esp ranked","dota 2 wallhack settings"],
 		imageAlt: "Dota 2 ESP settings panel with hero overlay toggles",
 		sections: [
@@ -123,6 +1404,678 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
 		],
 		},
+		es: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		fr: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist : quel niveau et risque de ban ?",
+		metaDescription: "Réglages skillshot assist — lissage, FOV, humanizer, VAC.",
+		h1: "Skillshot assist : quel niveau et risque de ban ?",
+		intro: "La question classique sur Discord. Mes réglages Invoker et Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in classé.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		de: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot-Assist: Level & Ban-Risiko",
+		metaDescription: "Skillshot-Assist Dota 2 — Glättung, FOV, Humanizer, VAC.",
+		h1: "Skillshot-Assist: Level & Ban-Risiko",
+		intro: "Die Standard-Frage im Discord. Meine Invoker- und Pudge-Werte.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in Ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		pt: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		it: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		nl: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		pl: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		ru: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ранкед.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		tr: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		ar: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		ja: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ランク.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		ko: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in 랭크.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		zh: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in 排位.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		hi: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		id: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		th: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		vi: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		uk: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		cs: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		ro: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
+		sv: {
+		slug: "skillshot-assist-settings-level-why-wont-i-get-banned",
+		title: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		metaDescription: "Ajustes skillshot assist Dota 2 — suavizado, FOV, humanizer y VAC.",
+		h1: "Skillshot assist: ¿qué nivel y riesgo de ban?",
+		intro: "Todos preguntan qué slider los banea. Esto es lo que uso en Invoker y Pudge.",
+		keywords: ["dota 2 aimbot settings","dota 2 skillshot assist","dota 2 hack ban"],
+		imageAlt: "Dota 2 skillshot assist FOV and smoothing sliders",
+		sections: [
+			{
+				h2: "Smoothing beats raw snap",
+				paragraphs: [
+					"Humanizer at 65–75% with FOV under 12 degrees looks like a good player on a lucky day. Instant snap hooks across the map are how you get reported nine times in one game.",
+					"VAC does not read your chat. It reads patterns. Randomize reaction delay between 80–140 ms on skillshot assist.",
+				],
+			},
+			{
+				h2: "Hero-specific caps",
+				paragraphs: [
+					"Pudge: medium assist, manual finish on clutch hooks. Invoker: only Sun Strike assist, not full combo scripts in ranked.",
+					"If you climb two ranks in a week, tone it down. Players notice before Valve does.",
+				],
+			}
+		],
+		comments: [
+			{ author: "hook_sniper", date: "2026-08-23", body: "dropped fov to 10 and reports stopped. still hitting hooks just not circus ones" },
+			{ author: "vac_wave_survivor", date: "2026-08-24", body: "got hit on a different provider last year. this build survived march patch for me" },
+			{ author: "legit_dealer", date: "2026-08-25", body: "humanizer at 50 feels sluggish. 70 is the sweet spot for me" },
+			{ author: "mad_support", date: "2026-08-26", body: "stop using max assist on rubick stuns. you are not fooling anyone" },
+			{ author: "chart_watcher", date: "2026-08-27", body: "good thread. saved my smurf from looking like a script kiddie" }
+		],
+		},
 		},
 	},
 	{
@@ -138,6 +2091,636 @@ export const blogPosts: BlogPostDefinition[] = [
 		title: "Dota 2 Cheats Features — Full Breakdown",
 		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
 		h1: "Dota 2 Cheats Features — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		es: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funciones — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funciones — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		fr: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Fonctions — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Fonctions — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real classé game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		de: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funktionen — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funktionen — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real Ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		pt: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Recursos — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Recursos — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		it: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funzioni — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funzioni — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		nl: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Functies — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Functies — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		pl: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funkcje — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funkcje — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		ru: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Функции — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Функции — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ранкед game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		tr: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Özellikler — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Özellikler — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		ar: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats الميزات — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats الميزات — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		ja: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats 機能 — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats 機能 — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ランク game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		ko: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats 기능 — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats 기능 — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real 랭크 game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		zh: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats 功能 — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats 功能 — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real 排位 game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		hi: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats फ़ीचर — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats फ़ीचर — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		id: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Fitur — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Fitur — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		th: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats ฟีเจอร์ — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats ฟีเจอร์ — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		vi: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Tính năng — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Tính năng — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		uk: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Функції — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Функції — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		cs: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funkce — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funkce — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		ro: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funcții — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funcții — Full Breakdown",
+		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
+		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
+		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
+		sections: [
+			{
+				h2: "Vision tools",
+				paragraphs: [
+					"Hero ESP, ward vision, rune timers, and courier tracking fall under vision. Maphack draws jungle camps and enemy last-known positions through fog.",
+					"Radar overlay mirrors minimap threats with audio pings — optional but strong for offlaners.",
+				],
+			},
+			{
+				h2: "Mechanical assists",
+				paragraphs: [
+					"Skillshot assist, auto last hit, combo scripts, and armlet toggle helpers are mechanical. Higher risk, higher reward.",
+					"Camera distance hack is subtle if you stay within 10% of default. Stretch to moon view and everyone knows.",
+				],
+			}
+		],
+		comments: [
+			{ author: "feature_guy", date: "2026-08-26", body: "combo script for meepo is insane but drains fps on older laptops" },
+			{ author: "carry_only", date: "2026-08-27", body: "auto last hit at 85% feels legit. 100% looks robotic in replays" },
+			{ author: "salty_legend", date: "2026-08-28", body: "half these toggles are gimmicks. esp + wards is 90% of value" }
+		],
+		},
+		sv: {
+		slug: "dota-2-cheats-features-full-breakdown",
+		title: "Dota 2 Cheats Funktioner — Full Breakdown",
+		metaDescription: "Every dota 2 cheats feature explained — ESP, maphack, skillshot assist, auto last hit, camera hack, radar, and combo scripts. What each toggle does in match.",
+		h1: "Dota 2 Cheats Funktioner — Full Breakdown",
 		intro: "Marketing pages list features in bullet points. This thread explains what each toggle actually does in a real ranked game, and which ones I leave off.",
 		keywords: ["dota 2 cheats features","dota 2 hack features","dota 2 esp aimbot"],
 		imageAlt: "Dota 2 cheats feature list with ESP and maphack toggles",
@@ -202,6 +2785,615 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
 		],
 		},
+		es: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		fr: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		de: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		pt: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		it: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		nl: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		pl: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		ru: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		tr: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		ar: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		ja: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		ko: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		zh: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		hi: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		id: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		th: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		vi: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		uk: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		cs: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		ro: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
+		sv: {
+		slug: "maphack-vs-ward-vision-difference",
+		title: "Maphack vs Ward Vision — What's the Difference?",
+		metaDescription: "Dota 2 maphack vs ward ESP explained. Fog removal, hero positions, and which setting gives better info for dewarding and ganks.",
+		h1: "Maphack vs Ward Vision — What's the Difference?",
+		intro: "New buyers toggle both and wonder why the screen looks wrong. Maphack and ward vision solve different problems — here is when to use each.",
+		keywords: ["dota 2 maphack","dota 2 ward hack","dota 2 wallhack"],
+		imageAlt: "Dota 2 maphack fog removal compared to ward ESP dots",
+		sections: [
+			{
+				h2: "Maphack draws geometry",
+				paragraphs: [
+					"Maphack removes fog of war on terrain and shows enemy heroes last seen on map. It does not replace true vision — you still cannot see invisible heroes without sentries.",
+					"Best for rotations and smoke breaks. Terrible if you stare at map instead of lane creeps.",
+				],
+			},
+			{
+				h2: "Ward vision is precision",
+				paragraphs: [
+					"Ward ESP highlights observer and sentry wards through trees. Pair with dewarding range indicator for offlane wins.",
+					"I run ward vision always, maphack only on supports and initiators.",
+				],
+			}
+		],
+		comments: [
+			{ author: "offlane_king", date: "2026-08-29", body: "ward esp > maphack for climbing. learned that the hard way" },
+			{ author: "map_stare", date: "2026-08-30", body: "maphack got me killed more bc i stopped watching lane. user error tbh" }
+		],
+		},
 		},
 	},
 	{
@@ -213,6 +3405,510 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		es: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		fr: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		de: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		pt: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		it: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		nl: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		pl: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		ru: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		tr: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		ar: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		ja: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		ko: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		zh: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		hi: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		id: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		th: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		vi: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		uk: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		cs: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		ro: {
+		slug: "auto-last-hit-script-natural-settings",
+		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
+		h1: "Auto Last Hit Script: Settings That Actually Feel Natural",
+		intro: "Perfect last hit scripts exist. Perfect last hit scripts also get you reported by your own team. Here is how I miss a creep on purpose sometimes.",
+		keywords: ["dota 2 auto last hit","dota 2 scripts","dota 2 cheat lane"],
+		imageAlt: "Dota 2 auto last hit script timing settings",
+		sections: [
+			{
+				h2: "Miss rate matters",
+				paragraphs: [
+					"Set intentional miss rate to 8–12% on ranged carries. Melee can run tighter because attack anims hide timing.",
+					"Deny assist should be lower priority than last hits — obvious deny scripts are meme clips.",
+				],
+			}
+		],
+		comments: [
+			{ author: "cs_student", date: "2026-09-02", body: "12% miss still averages better than my hands at 3am" },
+			{ author: "mid_gap", date: "2026-09-03", body: "deny assist too obvious in replays. turned off" },
+			{ author: "lane_bully", date: "2026-09-04", body: "works on win10. broke once after sept patch, update fixed next day" },
+			{ author: "free_cookies", date: "2026-09-05", body: "not worth on invoker. just practice" }
+		],
+		},
+		sv: {
 		slug: "auto-last-hit-script-natural-settings",
 		title: "Auto Last Hit Script: Settings That Actually Feel Natural",
 		metaDescription: "Dota 2 auto last hit script settings for lane — miss rate, attack move delay, and deny assist. Stay believable while securing CS.",
@@ -268,6 +3964,468 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
 		],
 		},
+		es: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		fr: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in classé replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for classé. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		de: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in Ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for Ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		pt: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		it: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		nl: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		pl: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		ru: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ранкед replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ранкед. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		tr: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		ar: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		ja: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ランク replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ランク. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		ko: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in 랭크 replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for 랭크. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		zh: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in 排位 replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for 排位. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		hi: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		id: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		th: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		vi: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		uk: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		cs: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		ro: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
+		sv: {
+		slug: "camera-hack-distance-how-far-is-too-far",
+		title: "Camera Hack Distance: How Far Is Too Far?",
+		metaDescription: "Dota 2 camera hack distance settings — zoom limits, default comparison, and what enemies notice in ranked replays.",
+		h1: "Camera Hack Distance: How Far Is Too Far?",
+		intro: "Camera distance is the most subtle cheat until it is not. This thread covers safe zoom ranges and why your offlane feels different at +15%.",
+		keywords: ["dota 2 camera hack","dota 2 zoom hack","dota 2 cheats camera"],
+		imageAlt: "Dota 2 camera distance hack slider comparison",
+		sections: [
+			{
+				h2: "Safe zoom bands",
+				paragraphs: [
+					"Stay within 5–10% above default for ranked. Tournament players use high camera too — abuse that cover story.",
+					"Beyond 15% you see rune spawns early and off-screen ganks. Teammates with replays will clock it.",
+				],
+			}
+		],
+		comments: [
+			{ author: "zoomer", date: "2026-09-04", body: "8% is my cap. anything more feels like playing a different game" },
+			{ author: "replay_hunter", date: "2026-09-05", body: "saw a guy on 20% in legend. whole team flamed him in all chat" }
+		],
+		},
 		},
 	},
 	{
@@ -279,6 +4437,531 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		es: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		fr: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		de: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		pt: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		it: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		nl: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		pl: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		ru: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		tr: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		ar: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		ja: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		ko: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		zh: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		hi: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		id: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		th: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		vi: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		uk: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		cs: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		ro: {
+		slug: "cheat-stopped-working-after-patch-fix",
+		title: "Why My Cheat Stopped Working (And How I Fixed It)",
+		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
+		h1: "Why My Cheat Stopped Working (And How I Fixed It)",
+		intro: "Patch day panic thread. If ESP vanished mid-session, work through this list before blaming the license.",
+		keywords: ["dota 2 cheat not working","dota 2 hack patch","dota 2 vac update"],
+		imageAlt: "Dota 2 cheat loader error after game patch",
+		sections: [
+			{
+				h2: "Patch day checklist",
+				paragraphs: [
+					"Check the status page first. If build is red, wait — injecting into outdated client is how you force a restart loop.",
+					"Delete old config JSON after major patches. Sliders from last meta sometimes crash overlay init.",
+				],
+			}
+		],
+		comments: [
+			{ author: "panic_queue", date: "2026-09-06", body: "status page said wait 4 hrs. worked after rebuild. patience" },
+			{ author: "old_config", date: "2026-09-07", body: "deleting config fixed crash on launch. should be in pin" },
+			{ author: "refund_threat", date: "2026-09-08", body: "took 6 hours last patch. annoying but came back" },
+			{ author: "linux_guy", date: "2026-09-09", body: "doesnt work on linux. vm only. wish i knew earlier" },
+			{ author: "fixed_it", date: "2026-09-10", body: "reinstall loader only, not whole game. saved time" }
+		],
+		},
+		sv: {
 		slug: "cheat-stopped-working-after-patch-fix",
 		title: "Why My Cheat Stopped Working (And How I Fixed It)",
 		metaDescription: "Dota 2 cheat not working after patch — loader errors, VAC update, overlay crash fixes. Checklist before opening a support ticket.",
@@ -336,6 +5019,489 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
 		],
 		},
+		es: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		fr: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily classé grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		de: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily Ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		pt: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		it: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		nl: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		pl: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		ru: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ранкед grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		tr: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		ar: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		ja: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ランク grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		ko: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily 랭크 grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		zh: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily 排位 grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		hi: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		id: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		th: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		vi: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		uk: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		cs: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		ro: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
+		sv: {
+		slug: "monthly-vs-lifetime-license-worth-it",
+		title: "Monthly vs Lifetime License — Worth It?",
+		metaDescription: "Dota 2 cheats monthly vs lifetime license comparison. Break-even math, patch support, and which plan fits casual vs daily ranked grinders.",
+		h1: "Monthly vs Lifetime License — Worth It?",
+		intro: "Lifetime looks expensive until you do the math. Monthly looks cheap until you forget to cancel for eight months.",
+		keywords: ["dota 2 cheats price","dota 2 hack monthly","dota 2 cheats lifetime"],
+		imageAlt: "Dota 2 cheats monthly and lifetime pricing comparison",
+		sections: [
+			{
+				h2: "Break-even at month five",
+				paragraphs: [
+					"$35 monthly vs $150 lifetime — lifetime wins if you play two seasons. Casual weekend warriors should stay monthly.",
+					"Both tiers get same features. Lifetime is not a separate build.",
+				],
+			}
+		],
+		comments: [
+			{ author: "budget_mike", date: "2026-09-08", body: "monthly for me. play 2 weekends a month" },
+			{ author: "daily_grind", date: "2026-09-09", body: "lifetime paid off in 4 months. no brainer if you queue daily" },
+			{ author: "skeptic_sam", date: "2026-09-10", body: "worried provider dies before lifetime pays off. monthly feels safer" }
+		],
+		},
 		},
 	},
 	{
@@ -347,6 +5513,489 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		es: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		fr: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		de: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		pt: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		it: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		nl: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		pl: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		ru: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		tr: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		ar: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		ja: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		ko: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		zh: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		hi: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		id: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		th: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		vi: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		uk: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		cs: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		ro: {
+		slug: "radar-hack-missing-enemies-minimap",
+		title: "Radar Hack for Missing Enemies on Map",
+		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
+		h1: "Radar Hack for Missing Enemies on Map",
+		intro: "Maphack shows fog. Radar tells you someone left lane three seconds ago. Different tools — here is my radar config.",
+		keywords: ["dota 2 radar hack","dota 2 esp minimap","dota 2 cheats radar"],
+		imageAlt: "Dota 2 radar hack minimap enemy ping overlay",
+		sections: [
+			{
+				h2: "Audio vs visual pings",
+				paragraphs: [
+					"Visual-only radar is easy to miss in team fights. I run soft audio ping on missing mid and jungler crossing river.",
+					"Disable ally false positives — courier and illusions spam the log otherwise.",
+				],
+			}
+		],
+		comments: [
+			{ author: "support_main", date: "2026-09-10", body: "audio ping saved so many ganks. underrated feature" },
+			{ author: "turned_off", date: "2026-09-11", body: "too noisy with naga illusions. needs filter" },
+			{ author: "mid_life", date: "2026-09-12", body: "pair with ward esp. radar alone not enough high mmr" }
+		],
+		},
+		sv: {
 		slug: "radar-hack-missing-enemies-minimap",
 		title: "Radar Hack for Missing Enemies on Map",
 		metaDescription: "Dota 2 radar hack setup — minimap pings, missing hero alerts, and audio cues when enemies leave lane. Config for supports and mids.",
@@ -402,6 +6051,489 @@ export const blogPosts: BlogPostDefinition[] = [
 			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
 		],
 		},
+		es: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Configuración Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Configuración Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		fr: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Configuration Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in classé without locking your screen.",
+		h1: "Meepo Combo Scripts — Configuration Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		de: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Setup Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in Ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Setup Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		pt: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Configuração Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Configuração Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		it: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Configurazione Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Configurazione Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		nl: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Setup Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Setup Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		pl: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Konfiguracja Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Konfiguracja Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		ru: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Настройка Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ранкед without locking your screen.",
+		h1: "Meepo Combo Scripts — Настройка Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		tr: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Kurulum Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Kurulum Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		ar: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — الإعداد Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — الإعداد Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		ja: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — セットアップ Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ランク without locking your screen.",
+		h1: "Meepo Combo Scripts — セットアップ Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		ko: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — 설정 Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in 랭크 without locking your screen.",
+		h1: "Meepo Combo Scripts — 설정 Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		zh: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — 设置 Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in 排位 without locking your screen.",
+		h1: "Meepo Combo Scripts — 设置 Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		hi: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — सेटअप Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — सेटअप Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		id: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Pengaturan Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Pengaturan Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		th: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — การตั้งค่า Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — การตั้งค่า Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		vi: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Cài đặt Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Cài đặt Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		uk: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Налаштування Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Налаштування Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		cs: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Nastavení Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Nastavení Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		ro: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Configurare Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Configurare Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
+		sv: {
+		slug: "meepo-combo-script-setup-guide",
+		title: "Meepo Combo Scripts — Installation Guide",
+		metaDescription: "Dota 2 meepo combo script setup — poof chains, tab cycle, and fail-safes. Settings that work in ranked without locking your screen.",
+		h1: "Meepo Combo Scripts — Installation Guide",
+		intro: "Meepo is the reason combo scripts exist. This is how I bound poof chains without fat-fingering buyback.",
+		keywords: ["dota 2 meepo script","dota 2 combo script","dota 2 cheats meepo"],
+		imageAlt: "Dota 2 meepo combo script keybind configuration",
+		sections: [
+			{
+				h2: "Keybind layout",
+				paragraphs: [
+					"One key for net + poof, separate key for hex focus. Never bind full burst to spacebar — you will panic press it in fountain.",
+					"Human delay between poofs at 40–60 ms looks cleaner on replay than instant frame-perfect chains.",
+				],
+			}
+		],
+		comments: [
+			{ author: "meepo_one", date: "2026-09-12", body: "finally hit 5k after script setup. still miss manual poofs sometimes lol" },
+			{ author: "anti_script", date: "2026-09-13", body: "scripts ruin the hero. learn poofs" },
+			{ author: "lag_spike", date: "2026-09-14", body: "script desynced on 120 ping. fine on 30" }
+		],
+		},
 		},
 	},
 	{
@@ -413,6 +6545,510 @@ export const blogPosts: BlogPostDefinition[] = [
 		featured: false,
 		translations: {
 		en: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		es: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		fr: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		de: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		pt: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		it: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		nl: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		pl: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		ru: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		tr: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		ar: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		ja: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		ko: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		zh: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		hi: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		id: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		th: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		vi: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		uk: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		cs: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		ro: {
+		slug: "vac-update-what-to-do-before-ranked",
+		title: "VAC Update: What to Do Before Queuing Ranked",
+		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",
+		h1: "VAC Update: What to Do Before Queuing Ranked",
+		intro: "Valve pushed a client update at 2am and half the forum is in meltdown. Read this before you inject and blame the loader.",
+		keywords: ["dota 2 vac update","dota 2 cheat vac","dota 2 hack ban risk"],
+		imageAlt: "Dota 2 VAC update status check before launching cheats",
+		sections: [
+			{
+				h2: "Wait for green status",
+				paragraphs: [
+					"Status page green means tested against current client. Yellow means use at own risk. Red means close the loader and touch grass.",
+					"Do not run old loader versions \"because it worked yesterday.\" That is how accounts get flagged.",
+				],
+			}
+		],
+		comments: [
+			{ author: "patient_zero", date: "2026-09-14", body: "waited 3 hrs after vac notes. no issues since" },
+			{ author: "impatient", date: "2026-09-15", body: "injected on yellow. worked but wont risk again" },
+			{ author: "banned_2024", date: "2026-09-15", body: "learned this after a 6 month ban on another tool. not worth rushing" },
+			{ author: "status_watcher", date: "2026-09-16", body: "discord ping when green would be nice. had to refresh page all day" }
+		],
+		},
+		sv: {
 		slug: "vac-update-what-to-do-before-ranked",
 		title: "VAC Update: What to Do Before Queuing Ranked",
 		metaDescription: "Dota 2 VAC update checklist for cheat users — when to wait, how to verify build status, and safe relaunch steps after Valve patches.",

@@ -2,23 +2,23 @@
 
 import { FAQ_ACCURACY_FIXES } from './faq-accuracy-fixes.mjs';
 
-export const FAQ_I18N = {
+const CORE_FAQ = {
 	es: {
 		'what-are-dota2-cheats': {
 			q: '¿Qué es Dota 2 Cheats?',
-			a: 'Dota 2 Cheats es un paquete de trucos indetectables para Dota 2 en PC Windows. Incluye ESP wallhack, radar 2D y controles de aimbot, con mantenimiento VAC y soporte de instalación.',
+			a: 'Dota 2 Cheats es un paquete de trucos para Dota 2 en PC Windows. Incluye ESP wallhack, radar 2D y asistencia de skillshot, con mantenimiento VAC y soporte de instalación.',
 		},
 		'are-dota2-cheats-reliable-in-2026': {
-			q: '¿Los trucos de Dota 2 son indetectables en 2026?',
-			a: 'Dota 2 Cheats se mantiene para Dota 2 con reconstrucciones tras parches de VAC y del juego. Revisa la página de Estado antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente.',
+			q: '¿Se mantienen los trucos de Dota 2 en 2026?',
+			a: 'Dota 2 Cheats se actualiza tras parches de VAC y del juego. Revisa la página de Estado antes de entrar en cola. Ningún cheat puede garantizar detección cero permanente.',
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: '¿Funciona en matches de base y PvP?',
-			a: 'Sí. ESP, radar y aimbot están pensados para el flujo de match de Dota 2: leer jugadores y agents, detectar weapon drops y mantener conciencia cerca de sitios de bomba y spike sectors.',
+			q: '¿Funciona en partidas ranked y casuales?',
+			a: 'Sí. ESP, radar y skillshot assist están pensados para el flujo de partida de Dota 2: leer héroes enemigos, rastrear wards y runas, y mantener visión en líneas y objetivos.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
-			q: '¿Qué incluye: ESP, wallhack, radar o Aimbot?',
-			a: 'Dota 2 Cheats agrupa ESP wallhack, marcadores de weapon drops, radar 2D y Aimbot configurable en una licencia. Consulta Funciones para la lista completa.',
+			q: '¿Qué incluye: ESP, wallhack, radar o aimbot?',
+			a: 'Dota 2 Cheats agrupa ESP wallhack, marcadores de wards, radar 2D y skillshot assist configurable en una licencia. Consulta Funciones para la lista completa.',
 		},
 		'how-are-licenses-delivered': {
 			q: '¿Cómo se entregan las licencias?',
@@ -34,37 +34,37 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-dota2-wallhack': {
 			q: '¿Qué es un wallhack de Dota 2?',
-			a: 'Un wallhack de Dota 2 es un overlay ESP que muestra jugadores, agents y weapon drops a través de las paredes. Dota 2 Cheats incluye distancias, señales de match y categorías configurables.',
+			a: 'Un wallhack de Dota 2 es un overlay ESP que muestra héroes enemigos a través del terreno y la niebla. Dota 2 Cheats incluye distancias, señales de habilidades y categorías configurables.',
 		},
 		'does-dota2-cheats-include-radar-hack': {
 			q: '¿Dota 2 Cheats incluye radar hack?',
-			a: 'Sí. Dota 2 Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone.',
+			a: 'Sí. Dota 2 Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para ganks y rotaciones.',
 		},
 		'vac-anti-cheat-and-dota2-cheats': {
 			q: '¿Cómo afecta VAC a los trucos de Dota 2?',
 			a: 'VAC monitoriza Dota 2 en PC Windows. Dota 2 Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar.',
 		},
 		'buy-reliable-dota2-cheats-windows-pc': {
-			q: '¿Puedo comprar trucos indetectables de Dota 2 para PC Windows?',
-			a: 'Sí: Dota 2 Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y aimbot en un solo paquete. Compara planes en la Tienda antes del checkout.',
+			q: '¿Puedo comprar trucos de Dota 2 para PC Windows?',
+			a: 'Sí: Dota 2 Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y skillshot assist en un solo paquete. Compara planes en la Tienda antes del checkout.',
 		},
 	},
 	fr: {
 		'what-are-dota2-cheats': {
 			q: "Qu'est-ce que Dota 2 Cheats ?",
-			a: "Dota 2 Cheats est un squad de triches indétectables pour Dota 2 sur PC Windows. Il inclut ESP wallhack, radar 2D et contrôles aimbot, avec maintenance VAC et aide à l'installation.",
+			a: "Dota 2 Cheats est un pack de triches pour Dota 2 sur PC Windows. Il inclut ESP wallhack, radar 2D et assistance skillshot, avec maintenance VAC et aide à l'installation.",
 		},
 		'are-dota2-cheats-reliable-in-2026': {
-			q: 'Les triches Dota 2 sont-elles indétectables en 2026 ?',
-			a: "Dota 2 Cheats est maintenu pour Dota 2 avec des rebuilds après les patchs VAC et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente.",
+			q: 'Les triches Dota 2 sont-elles maintenues en 2026 ?',
+			a: "Dota 2 Cheats est maintenu pour Dota 2 avec des rebuilds après les patchs VAC et du jeu. Consultez la page Statut avant de jouer. Aucune triche ne garantit une détection zéro permanente.",
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: 'Est-ce que ça fonctionne en matches de base et en PvP ?',
-			a: "Oui. ESP, radar et aimbot sont conçus pour le flux de match Dota 2 — lire les joueurs et agents, repérer le weapon drops et rester vigilant près des bomb sites.",
+			q: 'Est-ce que ça fonctionne en ranked et en casual ?',
+			a: "Oui. ESP, radar et skillshot assist sont conçus pour le flux de match Dota 2 — lire les héros ennemis, repérer les wards et runes, et garder la vision sur les lanes et objectifs.",
 		},
 		'esp-wallhack-radar-or-aimbot': {
-			q: "Qu'est-ce qui est inclus — ESP, wallhack, radar ou Aimbot ?",
-			a: "Dota 2 Cheats regroupe ESP wallhack, marqueurs de weapon drops, radar 2D et Aimbot configurable dans une licence. Voir Fonctions pour la liste complète.",
+			q: "Qu'est-ce qui est inclus — ESP, wallhack, radar ou aimbot ?",
+			a: "Dota 2 Cheats regroupe ESP wallhack, marqueurs de wards, radar 2D et skillshot assist configurable dans une licence. Voir Fonctions pour la liste complète.",
 		},
 		'how-are-licenses-delivered': {
 			q: 'Comment les licences sont-elles livrées ?',
@@ -72,7 +72,7 @@ export const FAQ_I18N = {
 		},
 		'where-to-check-updates': {
 			q: 'Où vérifier les mises à jour après un patch Dota 2 ou VAC ?',
-			a: "Les notes de maintenance sont publiées sur la page Statut quand un patch affecte le squad. C'est l'endroit le plus rapide pour confirmer une nouvelle build.",
+			a: "Les notes de maintenance sont publiées sur la page Statut quand un patch affecte le pack. C'est l'endroit le plus rapide pour confirmer une nouvelle build.",
 		},
 		'how-to-contact-support': {
 			q: 'Comment contacter le support ?',
@@ -80,7 +80,7 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-dota2-wallhack': {
 			q: "Qu'est-ce qu'un wallhack Dota 2 ?",
-			a: "Un wallhack Dota 2 est un overlay ESP qui affiche joueurs, agents et weapon drops à travers les murs. Dota 2 Cheats inclut distances, signaux de match et catégories configurables.",
+			a: "Un wallhack Dota 2 est un overlay ESP qui affiche les héros ennemis à travers le terrain et le fog. Dota 2 Cheats inclut distances, signaux de capacités et catégories configurables.",
 		},
 		'does-dota2-cheats-include-radar-hack': {
 			q: 'Dota 2 Cheats inclut-il un radar hack ?',
@@ -91,26 +91,26 @@ export const FAQ_I18N = {
 			a: "VAC surveille Dota 2 sur PC Windows. Dota 2 Cheats publie des notes de maintenance après les patchs. Consultez Statut avant de jouer.",
 		},
 		'buy-reliable-dota2-cheats-windows-pc': {
-			q: 'Puis-je acheter des triches Dota 2 indétectables pour PC Windows ?',
-			a: "Oui — Dota 2 Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et aimbot. Comparez les formules sur la page Tarifs.",
+			q: 'Puis-je acheter des triches Dota 2 pour PC Windows ?',
+			a: "Oui — Dota 2 Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et skillshot assist. Comparez les formules sur la page Tarifs.",
 		},
 	},
 	de: {
 		'what-are-dota2-cheats': {
 			q: 'Was ist Dota 2 Cheats?',
-			a: 'Dota 2 Cheats ist ein reliable Paket für Dota 2 auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Aimbot-Steuerung mit VAC-Wartung und Setup-Support.',
+			a: 'Dota 2 Cheats ist ein Premium-Paket für Dota 2 auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Skillshot-Assist mit VAC-Wartung und Setup-Support.',
 		},
 		'are-dota2-cheats-reliable-in-2026': {
-			q: 'Sind Dota 2 Cheats 2026 reliable?',
-			a: 'Dota 2 Cheats wird für Dota 2 mit Rebuilds nach VAC- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Reliable-Garantie geben.',
+			q: 'Werden Dota 2 Cheats 2026 gewartet?',
+			a: 'Dota 2 Cheats wird für Dota 2 mit Rebuilds nach VAC- und Spiel-Patches gewartet. Prüfe die Status-Seite vor dem Queueing. Kein Cheat kann dauerhafte Null-Erkennung garantieren.',
 		},
 		'solo-farmer-and-raider-sessions': {
-			q: 'Funktioniert das bei Basis-Raids und PvP?',
-			a: 'Ja. ESP, Radar und Aimbot sind für den Dota 2-Raid-Flow gebaut — Spieler und agents lesen, Weapon drops erkennen und bei Monumenten wachsam bleiben.',
+			q: 'Funktioniert das in Ranked und Casual?',
+			a: 'Ja. ESP, Radar und Skillshot-Assist sind für den Dota 2-Match-Flow gebaut — feindliche Helden lesen, Wards und Runen tracken und Vision auf Lanes und Objectives behalten.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: 'Was ist enthalten — ESP, Wallhack, Radar oder Aimbot?',
-			a: 'Dota 2 Cheats bündelt ESP Wallhack, Weapon drops-Marker, 2D-Radar und konfigurierbaren Aimbot in einer Lizenz. Siehe Features für die vollständige Liste.',
+			a: 'Dota 2 Cheats bündelt ESP Wallhack, Ward-Marker, 2D-Radar und konfigurierbaren Skillshot-Assist in einer Lizenz. Siehe Features für die vollständige Liste.',
 		},
 		'how-are-licenses-delivered': {
 			q: 'Wie werden Lizenzen geliefert?',
@@ -126,7 +126,7 @@ export const FAQ_I18N = {
 		},
 		'what-is-a-dota2-wallhack': {
 			q: 'Was ist ein Dota 2 Wallhack?',
-			a: 'Ein Dota 2 Wallhack ist ein ESP-Overlay, das Spieler, agents und Weapon drops durch Wände zeigt. Dota 2 Cheats enthält Distanzen, Raid-Hinweise und umschaltbare Kategorien.',
+			a: 'Ein Dota 2 Wallhack ist ein ESP-Overlay, das feindliche Helden durch Terrain und Fog zeigt. Dota 2 Cheats enthält Distanzen, Ability-Hinweise und umschaltbare Kategorien.',
 		},
 		'does-dota2-cheats-include-radar-hack': {
 			q: 'Enthält Dota 2 Cheats einen Radar Hack?',
@@ -137,13 +137,15 @@ export const FAQ_I18N = {
 			a: 'VAC überwacht Dota 2 auf Windows PC. Dota 2 Cheats veröffentlicht Wartungshinweise nach Patches. Prüfe Status vor dem Spielen.',
 		},
 		'buy-reliable-dota2-cheats-windows-pc': {
-			q: 'Kann ich reliable Dota 2 Cheats für Windows PC kaufen?',
-			a: 'Ja — Dota 2 Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Aimbot. Vergleiche Pläne auf der Preisseite.',
+			q: 'Kann ich Dota 2 Cheats für Windows PC kaufen?',
+			a: 'Ja — Dota 2 Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Skillshot-Assist. Vergleiche Pläne auf der Preisseite.',
 		},
 	},
 };
 
-/** Populate remaining locales from Spanish template with locale-specific labels. */
+export const FAQ_I18N = { ...CORE_FAQ };
+
+/** Label swaps for locales generated from Spanish base. */
 const FAQ_TEMPLATES = {
 	pt: { status: 'Estado', features: 'Recursos', store: 'Loja', setup: 'Instalação', support: 'Suporte' },
 	it: { status: 'Stato', features: 'Funzioni', store: 'Negozio', setup: 'Setup', support: 'Supporto' },
@@ -176,22 +178,19 @@ for (const [locale, labels] of Object.entries(FAQ_TEMPLATES)) {
 				.replace(/Funciones/g, labels.features)
 				.replace(/Tienda/g, labels.store)
 				.replace(/Instalación/g, labels.setup)
-				.replace(/Soporte/g, labels.support)
-				.replace(/trucos de Dota 2/g, 'Dota 2 Cheats')
-				.replace(/indetectables/g, 'reliable'),
+				.replace(/Soporte/g, labels.support),
 			a: entry.a
 				.replace(/página de Estado/g, labels.status)
 				.replace(/Funciones/g, labels.features)
 				.replace(/Tienda/g, labels.store)
 				.replace(/Soporte/g, labels.support)
-				.replace(/indetectables/g, 'reliable')
-				.replace(/trucos/g, 'cheats'),
+				.replace(/Estado/g, labels.status),
 		};
 	}
 	FAQ_I18N[locale] = items;
 }
 
-/** Apply Dota 2-accurate FAQ copy over legacy Dota 2 terminology. */
+/** Apply Dota 2-accurate FAQ copy over legacy terminology. */
 for (const [locale, fixes] of Object.entries(FAQ_ACCURACY_FIXES)) {
 	if (!FAQ_I18N[locale]) FAQ_I18N[locale] = {};
 	Object.assign(FAQ_I18N[locale], fixes);

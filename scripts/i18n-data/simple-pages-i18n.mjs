@@ -157,53 +157,53 @@ function locSection(sec, locale) {
 }
 
 function buildFeatures(locale, u, p) {
-	const focus = FOCUS_I18N[locale]?.features ?? 'ESP, soft aim, radar controls';
+	const focus = FOCUS_I18N[locale]?.features ?? 'ESP, Skillshot assist, radar controls';
 	const t = {
 		es: {
-			h2: ['ESP y wallhack', 'Aimbot y soft aim', 'Radar', 'Explorar temas relacionados', 'Actualizaciones y soporte'],
+			h2: ['ESP y wallhack', 'Aimbot y Skillshot assist', 'Radar', 'Explorar temas relacionados', 'Actualizaciones y soporte'],
 			p: [
-				['Ve jugadores, científicos y weapon drops a través de las paredes con distancias.', 'Usa filtros para mantener el overlay claro en sitios de bomba, spike sectors y zonas PvP.'],
+				['Ve jugadores, científicos y wards and runes a través de las paredes con distancias.', 'Usa filtros para mantener el overlay claro en sitios de bomba, team fights y zonas PvP.'],
 				['Asistencia de puntería que puedes ajustar para que se sienta natural.', 'Configura FOV, suavidad y prioridad de huesos por arma antes del match.'],
 				['Un radar 2D simple para amenazas fuera de tu vista.', 'Detecta flancos cerca de sitios de bomba sin llenar toda la pantalla.'],
 				['La mayoría de sitios de trucos cubren ESP, aimbot, radar, instalación y estado en páginas separadas. Usa estas guías:', 'Cada guía cubre una parte del stack de match para que compares antes del checkout.'],
 				['Reconstruimos tras parches grandes de Dota 2 o VAC.', 'Revisa Estado antes de jugar después de un día de parche.', 'Verifica cambios oficiales en las notas de Dota 2 y la Wiki de Dota 2 antes de ajustar overlays.'],
 			],
 			list: [
-				['Cajas de jugador y distancia', 'Marcadores de weapon drops y base', 'Filtros de heli y objective'],
-				['Fuerza de soft aim', 'FOV y prioridad de huesos', 'Teclas rápidas en partida'],
+				['Cajas de jugador y distancia', 'Marcadores de wards and runes y base', 'Filtros de heli y objective'],
+				['Fuerza de Skillshot assist', 'FOV y prioridad de huesos', 'Teclas rápidas en partida'],
 				['Señales de enemigos cercanos', 'Rango ajustable', 'Funciona en matches y roaming'],
 				null,
 				['Estado en la página de Estado', 'Guía de instalación incluida', 'Soporte por email con tu ID de pedido'],
 			],
 		},
 		fr: {
-			h2: ['ESP et wallhack', 'Aimbot et soft aim', 'Radar', 'Explorer les sujets liés', 'Mises à jour et support'],
+			h2: ['ESP et wallhack', 'Aimbot et Skillshot assist', 'Radar', 'Explorer les sujets liés', 'Mises à jour et support'],
 			p: [
-				['Voyez joueurs, héros et weapon drops à travers les murs avec distances.', 'Utilisez des filtres pour garder l\'overlay lisible dans les POI et zones PvP.'],
+				['Voyez joueurs, héros et wards and runes à travers les murs avec distances.', 'Utilisez des filtres pour garder l\'overlay lisible dans les POI et zones PvP.'],
 				['Aide à la visée réglable pour un rendu naturel.', 'Définissez FOV, fluidité et priorité d\'os par arme avant le match.'],
 				['Un radar 2D simple pour les menaces hors champ.', 'Repérez les flancs près des POI sans remplir l\'écran.'],
 				['La plupart des sites couvrent ESP, aimbot, radar, installation et statut sur des pages séparées. Utilisez ces guides :', 'Chaque guide couvre une partie du stack de match pour comparer avant le checkout.'],
 				['Nous reconstruisons après les gros patchs Dota 2 ou VAC.', 'Consultez Statut avant de jouer après un jour de patch.', 'Vérifiez les notes Dota 2 et le Wiki Dota 2 avant d\'ajuster les overlays.'],
 			],
 			list: [
-				['Boîtes joueur et distance', 'Marqueurs de weapon drops et base', 'Filtres héli et objective'],
-				['Force du soft aim', 'FOV et priorité d\'os', 'Raccourcis en match'],
+				['Boîtes joueur et distance', 'Marqueurs de wards and runes et base', 'Filtres héli et objective'],
+				['Force du Skillshot assist', 'FOV et priorité d\'os', 'Raccourcis en match'],
 				['Indices d\'ennemis proches', 'Portée réglable', 'Fonctionne en matches et roaming'],
 				null,
 				['Statut sur la page Statut', 'Guide d\'installation inclus', 'Support email avec votre ID commande'],
 			],
 		},
 		de: {
-			h2: ['ESP & Wallhack', 'Aimbot & Soft Aim', 'Radar', 'Verwandte Themen', 'Updates & Support'],
+			h2: ['ESP & Wallhack', 'Aimbot & Skillshot assist', 'Radar', 'Verwandte Themen', 'Updates & Support'],
 			p: [
-				['Spieler, Wissenschaftler und Weapon drops durch Wände mit Distanzanzeige sehen.', 'Filter nutzen, damit das Overlay in Monumenten und PvP-Zonen klar bleibt.'],
+				['Spieler, Wissenschaftler und wards and runes durch Wände mit Distanzanzeige sehen.', 'Filter nutzen, damit das Overlay in Monumenten und PvP-Zonen klar bleibt.'],
 				['Zielhilfe, die sich natürlich anfühlt.', 'FOV, Smoothness und Knochenpriorität pro Waffe before queueing einstellen.'],
 				['Einfaches 2D-Radar für Bedrohungen außerhalb des Sichtfelds.', 'Flanken bei Monumenten erkennen, ohne den ganzen Bildschirm zu füllen.'],
 				['Die meisten Cheat-Seiten behandeln ESP, Aimbot, Radar, Setup und Status auf separaten Seiten. Nutze diese Guides:', 'Jeder Guide deckt einen Teil des match stacks ab, damit du vor dem Checkout vergleichen kannst.'],
 				['Wir bauen nach großen Dota 2- oder VAC-Patches neu.', 'Prüfe Status vor dem Spielen nach Patch-Tagen.', 'Offizielle Änderungen in Dota 2-Patchnotes und Dota 2 Wiki prüfen, bevor du Overlays anpasst.'],
 			],
 			list: [
-				['Spielerboxen & Distanz', 'Weapon drops- und Basis-Marker', 'Heli- und objective-Filter'],
+				['Spielerboxen & Distanz', 'wards and runes- und Basis-Marker', 'Heli- und objective-Filter'],
 				['Soft-Aim-Stärke', 'FOV und Knochenpriorität', 'Hotkeys im Match'],
 				['Nahe Feind-Hinweise', 'Einstellbare Reichweite', 'Funktioniert in matches & Roaming'],
 				null,
@@ -215,7 +215,7 @@ function buildFeatures(locale, u, p) {
 	if (!content) {
 		return {
 			title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Dota 2 Cheats`),
-			description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.reliable}.`)),
+			description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.premium}.`)),
 			h1: modulePageH1('features', locale) ?? u.features,
 			intro: p.s1(`${u.features} für Dota 2 auf ${p.win}.`),
 			ctaPrimary: u.buy,
@@ -232,7 +232,7 @@ function buildFeatures(locale, u, p) {
 	const en = simplePagesEn.features;
 	return {
 		title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Dota 2 Cheats`),
-		description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.reliable}.`)),
+		description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.premium}.`)),
 		h1: modulePageH1('features', locale) ?? u.features,
 		intro: p.s1(`${u.features} für Dota 2 auf ${p.win}.`),
 		ctaPrimary: u.buy,
@@ -277,7 +277,7 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripcheckoutFromMeta(
-					`${h1} for Dota 2 ranked matches and Resurgence on Windows PC — ${focus}. ${p.delivery}. Official dota 2 cheats at dota2cheat.com.`,
+					`${h1} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. Official dota 2 cheats at dota2cheat.com.`,
 				),
 			),
 			h1,
@@ -347,7 +347,7 @@ function getNativeSimpleContent(locale, u, p) {
 			{ h2: sectionTitle(L, 'whatAreCheats'), paragraphs: sectionParas(L, 'hacks', 0, p) },
 			{ h2: sectionTitle(L, 'whatIncludes'), paragraphs: sectionParas(L, 'hacks', 1, p), list: sectionList(L, 'hacks', 1) },
 			{ h2: sectionTitle(L, 'moduleGuides'), paragraphs: sectionParas(L, 'hacks', 2, p), list: sectionList(L, 'hacks', 2, L) },
-			{ h2: sectionTitle(L, 'reliablePatches'), paragraphs: sectionParas(L, 'hacks', 3, p), list: sectionList(L, 'hacks', 3, L) },
+			{ h2: sectionTitle(L, 'premiumPatches'), paragraphs: sectionParas(L, 'hacks', 3, p), list: sectionList(L, 'hacks', 3, L) },
 			{ h2: sectionTitle(L, 'getStarted'), paragraphs: sectionParas(L, 'hacks', 4, p), list: sectionList(L, 'hacks', 4, L) },
 		],
 	});
@@ -427,7 +427,7 @@ const SECTION_TITLES = {
 	whatAreCheats: { es: '¿Qué son los trucos de Dota 2?', fr: 'Que sont les triches Dota 2 ?', de: 'Was sind Dota 2 Cheats?', pt: 'O que são cheats de Dota 2?', it: 'Cosa sono i cheat Dota 2?', nl: 'Wat zijn Dota 2 cheats?', pl: 'Czym są cheaty Dota 2?', ru: 'Что такое читы Dota 2?', tr: 'Dota 2 hileleri nedir?', ar: 'ما هي غش Dota 2؟', ja: 'Dota 2チートとは？', ko: 'Dota 2 치트란?', zh: '什么是Dota 2作弊？', hi: 'Dota 2 cheats क्या हैं?', id: 'Apa itu cheat Dota 2?', th: 'Dota 2 cheats คืออะไร?', vi: 'Cheat Dota 2 là gì?', uk: 'Що таке чіти Dota 2?', cs: 'Co jsou dota 2 cheaty?', ro: 'Ce sunt cheats Dota 2?', sv: 'Vad är Dota 2 cheats?' },
 	whatIncludes: { es: 'Qué incluye Dota 2 Cheats', fr: 'Ce que Dota 2 Cheats inclut', de: 'Was Dota 2 Cheats enthält', pt: 'O que o Dota 2 Cheats inclui', it: 'Cosa include Dota 2 Cheats', nl: 'Wat Dota 2 Cheats bevat', pl: 'Co zawiera Dota 2 Cheats', ru: 'Что входит в Dota 2 Cheats', tr: 'Dota 2 Cheats neleri içerir', ar: 'ماذا يتضمن Dota 2 Cheats', ja: 'Dota 2 Cheatsの内容', ko: 'Dota 2 Cheats 포함 사항', zh: 'Dota 2 Cheats包含什么', hi: 'Dota 2 Cheats में क्या शामिल है', id: 'Apa yang termasuk Dota 2 Cheats', th: 'Dota 2 Cheats รวมอะไรบ้าง', vi: 'Dota 2 Cheats bao gồm gì', uk: 'Що входить до Dota 2 Cheats', cs: 'Co obsahuje Dota 2 Cheats', ro: 'Ce include Dota 2 Cheats', sv: 'Vad Dota 2 Cheats innehåller' },
 	moduleGuides: { es: 'Guías de módulos', fr: 'Guides des modules', de: 'Modul-Guides', pt: 'Guias de módulos', it: 'Guide ai moduli', nl: 'Modulegidsen', pl: 'Przewodniki modułów', ru: 'Гайды по модулям', tr: 'Modül rehberleri', ar: 'أدلة الوحدات', ja: 'モジュールガイド', ko: '모듈 가이드', zh: '模块指南', hi: 'मॉड्यूल गाइड', id: 'Panduan modul', th: 'คู่มือโมดูล', vi: 'Hướng dẫn module', uk: 'Гайди модулів', cs: 'Průvodce moduly', ro: 'Ghiduri module', sv: 'Modulguider' },
-	reliablePatches: { es: 'Estado indetectable y parches', fr: 'Statut indétectable et patchs', de: 'Reliable-Status & Patches', pt: 'Status indetectável e patches', it: 'Stato indetectable e patch', nl: 'Reliable status en patches', pl: 'Status reliable i patche', ru: 'Reliable статус и патчи', tr: 'Reliable durumu ve yamalar', ar: 'الحالة غير المكتشفة والتصحيحات', ja: 'Reliableステータスとパッチ', ko: 'Reliable 상태 및 패치', zh: 'Reliable状态和补丁', hi: 'Reliable स्थिति और पैच', id: 'Status reliable dan patch', th: 'สถานะ reliable และแพตช์', vi: 'Trạng thái reliable và bản vá', uk: 'Reliable статус і патчі', cs: 'Reliable stav a patche', ro: 'Status reliable și patch-uri', sv: 'Reliable-status och patchar' },
+	premiumPatches: { es: 'Estado y parches', fr: 'Statut et patchs', de: 'Patch-Status & Patches', pt: 'Status e patches', it: 'Stato e patch', nl: 'patch status en patches', pl: 'patch status i patche', ru: 'статус и патчи', tr: 'durumu ve yamalar', ar: 'الحالة غير المكتشفة والتصحيحات', ja: 'Premiumステータスとパッチ', ko: '상태 및 패치', zh: 'Premium状态和补丁', hi: 'स्थिति और पैच', id: 'patch status dan patch', th: 'สถานะ และแพตช์', vi: 'Trạng thái và bản vá', uk: 'статус і патчі', cs: 'stav a patche', ro: 'patch status și patch-uri', sv: 'Patch-Status och patchar' },
 	getStarted: { es: 'Cómo empezar', fr: 'Comment commencer', de: 'So startest du', pt: 'Como começar', it: 'Come iniziare', nl: 'Aan de slag', pl: 'Jak zacząć', ru: 'Как начать', tr: 'Nasıl başlanır', ar: 'كيف تبدأ', ja: '始め方', ko: '시작 방법', zh: '如何开始', hi: 'कैसे शुरू करें', id: 'Cara memulai', th: 'วิธีเริ่มต้น', vi: 'Cách bắt đầu', uk: 'Як почати', cs: 'Jak začít', ro: 'Cum să începi', sv: 'Kom igång' },
 	whatEspShows: { es: 'Qué muestra el ESP', fr: 'Ce que l\'ESP affiche', de: 'Was ESP zeigt', pt: 'O que o ESP mostra', it: 'Cosa mostra l\'ESP', nl: 'Wat ESP toont', pl: 'Co pokazuje ESP', ru: 'Что показывает ESP', tr: 'ESP ne gösterir', ar: 'ماذا يعرض ESP', ja: 'ESPの表示内容', ko: 'ESP 표시 내용', zh: 'ESP显示什么', hi: 'ESP क्या दिखाता है', id: 'Apa yang ditampilkan ESP', th: 'ESP แสดงอะไร', vi: 'ESP hiển thị gì', uk: 'Що показує ESP', cs: 'Co ESP zobrazuje', ro: 'Ce arată ESP', sv: 'Vad ESP visar' },
 	whenToUse: { es: 'Cuándo usarlo', fr: 'Quand l\'utiliser', de: 'Wann nutzen', pt: 'Quando usar', it: 'Quando usarlo', nl: 'Wanneer gebruiken', pl: 'Kiedy używać', ru: 'Когда использовать', tr: 'Ne zaman kullanılır', ar: 'متى تستخدمه', ja: '使いどき', ko: '사용 시기', zh: '何时使用', hi: 'कब उपयोग करें', id: 'Kapan menggunakan', th: 'เมื่อไหร่ควรใช้', vi: 'Khi nào sử dụng', uk: 'Коли використовувати', cs: 'Kdy použít', ro: 'Când să folosești', sv: 'När du använder det' },
