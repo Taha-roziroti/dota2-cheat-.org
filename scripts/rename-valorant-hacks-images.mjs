@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Rename /images/warzone-cheats-* assets → /images/warzone-cheats-* and update references.
- * Run: node scripts/rename-warzone-cheats-images.mjs
+ * Rename /images/dota2-cheats-* assets → /images/dota2-cheats-* and update references.
+ * Run: node scripts/rename-dota2-cheats-images.mjs
  */
 import { readFile, writeFile, rename, readdir, stat } from 'node:fs/promises';
 import path from 'node:path';
@@ -17,7 +17,7 @@ const SKIP_DIRS = new Set([
 	'tmp',
 	'.astro',
 	'the-finals-cheats-org',
-	'warzone-cheats-org-audit',
+	'dota2-cheats-org-audit',
 ]);
 
 async function walk(dir, files = []) {
@@ -32,10 +32,10 @@ async function walk(dir, files = []) {
 }
 
 // 1. Rename image files on disk
-const imageFiles = (await readdir(IMAGES)).filter((f) => f.includes('warzone-cheats'));
+const imageFiles = (await readdir(IMAGES)).filter((f) => f.includes('dota2-cheats'));
 let renamed = 0;
 for (const file of imageFiles) {
-	const next = file.replace(/warzone-cheats/g, 'warzone-cheats');
+	const next = file.replace(/dota2-cheats/g, 'dota2-cheats');
 	if (next === file) continue;
 	await rename(path.join(IMAGES, file), path.join(IMAGES, next));
 	renamed++;
@@ -43,20 +43,20 @@ for (const file of imageFiles) {
 }
 
 // 2. Update text references
-const FROM = '/images/warzone-cheats-';
-const TO = '/images/warzone-cheats-';
+const FROM = '/images/dota2-cheats-';
+const TO = '/images/dota2-cheats-';
 let updated = 0;
 for (const file of await walk(ROOT)) {
 	if (file.startsWith(IMAGES)) continue;
 	if (/\.(png|jpg|jpeg|webp|gif|ico|woff2?|mp4)$/i.test(file)) continue;
 	const text = await readFile(file, 'utf8');
-	if (!text.includes(FROM) && !text.includes('warzone-cheats-hero') && !text.includes('warzone-cheats-logo')) {
+	if (!text.includes(FROM) && !text.includes('dota2-cheats-hero') && !text.includes('dota2-cheats-logo')) {
 		continue;
 	}
 	const next = text
 		.replaceAll(FROM, TO)
-		.replaceAll("'warzone-cheats-hero'", "'warzone-cheats-hero'")
-		.replaceAll("'warzone-cheats-logo'", "'warzone-cheats-logo'");
+		.replaceAll("'dota2-cheats-hero'", "'dota2-cheats-hero'")
+		.replaceAll("'dota2-cheats-logo'", "'dota2-cheats-logo'");
 	if (next !== text) {
 		await writeFile(file, next, 'utf8');
 		updated++;
@@ -64,4 +64,4 @@ for (const file of await walk(ROOT)) {
 	}
 }
 
-console.log(`\nrename-warzone-cheats-images: ${renamed} file(s) renamed, ${updated} reference file(s) updated`);
+console.log(`\nrename-dota2-cheats-images: ${renamed} file(s) renamed, ${updated} reference file(s) updated`);

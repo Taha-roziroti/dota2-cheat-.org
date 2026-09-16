@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * One-time migration: Warzone Hacks → Tarkov Cheats (Escape from Tarkov).
+ * One-time migration: Dota 2 Hacks → Tarkov Cheats (Escape from Tarkov).
  * Domain: tarkovcheats.org
  * Run from project root: node scripts/adapt-tarkov.mjs
  */
@@ -11,102 +11,102 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 const RENAME_PAGE_DIRS = [
-	['warzone-aimbot', 'tarkov-aimbot'],
-	['warzone-esp', 'tarkov-esp'],
-	['warzone-wallhack', 'tarkov-wallhack'],
-	['warzone-radar-hack', 'tarkov-radar-hack'],
-	['undetected-warzone-cheats', 'undetected-tarkov-cheats'],
-	['warzone-cheats-2026', 'tarkov-cheats-2026'],
-	['ricochet-bypass', 'battleye-bypass'],
-	['warzone-hacks', 'tarkov-cheats'],
-	['warzone-cheat-download', 'tarkov-cheat-download'],
-	['warzone-mod-menu', 'tarkov-mod-menu'],
-	['warzone-soft-aim', 'tarkov-soft-aim'],
-	['best-warzone-cheats', 'best-tarkov-cheats'],
-	['warzone-aimbot-hack', 'tarkov-aimbot-hack'],
-	['warzone-esp-hack', 'tarkov-esp-hack'],
-	['warzone-unlock-all', 'tarkov-unlock-all'],
+	['dota2-aimbot', 'tarkov-aimbot'],
+	['dota2-esp', 'tarkov-esp'],
+	['dota2-wallhack', 'tarkov-wallhack'],
+	['dota2-radar-hack', 'tarkov-radar-hack'],
+	['reliable-dota2-cheats', 'reliable-tarkov-cheats'],
+	['dota2-cheats-2026', 'tarkov-cheats-2026'],
+	['vac-bypass', 'battleye-bypass'],
+	['dota2-hacks', 'tarkov-cheats'],
+	['dota2-cheat-download', 'tarkov-cheat-download'],
+	['dota2-mod-menu', 'tarkov-mod-menu'],
+	['dota2-soft-aim', 'tarkov-soft-aim'],
+	['best-dota2-cheats', 'best-tarkov-cheats'],
+	['dota2-aimbot-hack', 'tarkov-aimbot-hack'],
+	['dota2-esp-hack', 'tarkov-esp-hack'],
+	['dota2-unlock-all', 'tarkov-unlock-all'],
 ];
 
 /** Ordered replacements — specific patterns first. */
 const REPLACEMENTS = [
-	['https://warzonehacks.net', 'https://tarkovcheats.org'],
-	['https://www.warzonehacks.net', 'https://www.tarkovcheats.org'],
-	['www.warzonehacks.net', 'www.tarkovcheats.org'],
-	['warzonehacks.net', 'tarkovcheats.org'],
-	['support@warzonehacks.net', 'support@tarkovcheats.org'],
-	['support@warzonescheats.net', 'support@tarkovcheats.org'],
-	['warzonescheats.net', 'tarkovcheats.org'],
-	['warzonescheats.com', 'tarkovcheats.org'],
-	['warzonescheats.xyz', 'tarkovcheats.org'],
-	['/products/warzone', '/products/tarkov'],
-	['project-name=warzonehacks', 'project-name=besttarkovcheats'],
-	['project-name=warzonescheats', 'project-name=besttarkovcheats'],
-	['name = "warzonehacks"', 'name = "besttarkovcheats"'],
-	['name = "warzonescheats"', 'name = "besttarkovcheats"'],
-	['"name": "warzone-hacks"', '"name": "tarkov-cheats"'],
-	['warzone-esp-player-tags', 'tarkov-esp-player-tags'],
-	['warzone-wallhack-skeleton', 'tarkov-wallhack-skeleton'],
-	['warzone-aimbot-sniper', 'tarkov-aimbot-sniper'],
-	['warzone-aimbot-skeleton', 'tarkov-aimbot-skeleton'],
-	['warzone-esp-radar', 'tarkov-esp-radar'],
-	['warzone-cheats-combat', 'tarkov-cheats-combat'],
-	['warzone-hacks-logo', 'tarkov-cheats-logo'],
-	['warzone-hero-banner', 'tarkov-hero-banner'],
-	['warzone-hero-ghost', 'tarkov-hero-ghost'],
-	['warzone-hero-source', 'tarkov-hero-source'],
-	['undetected-warzone-cheats', 'undetected-tarkov-cheats'],
-	['best-warzone-cheats', 'best-tarkov-cheats'],
-	['warzone-cheat-download', 'tarkov-cheat-download'],
-	['warzone-cheats-2026', 'tarkov-cheats-2026'],
-	['warzone-radar-hack', 'tarkov-radar-hack'],
-	['warzone-aimbot-hack', 'tarkov-aimbot-hack'],
-	['warzone-esp-hack', 'tarkov-esp-hack'],
-	['warzone-unlock-all', 'tarkov-unlock-all'],
-	['warzone-soft-aim', 'tarkov-soft-aim'],
-	['warzone-mod-menu', 'tarkov-mod-menu'],
-	['warzone-wallhack', 'tarkov-wallhack'],
-	['warzone-hacks', 'tarkov-cheats'],
-	['warzone-aimbot', 'tarkov-aimbot'],
-	['warzone-esp', 'tarkov-esp'],
-	['ricochet-bypass', 'battleye-bypass'],
-	["'ricochet'", "'battleye'"],
-	['| ricochet', '| battleye'],
-	['pageId="ricochet"', 'pageId="battleye"'],
-	['pageId: \'ricochet\'', "pageId: 'battleye'"],
-	['"ricochet"', '"battleye"'],
-	['call-of-duty-warzone-cheats', 'escape-from-tarkov-cheats'],
-	['Call of Duty: Warzone', 'Escape from Tarkov'],
-	['Call of Duty Warzone', 'Escape from Tarkov'],
-	['Warzone Hacks', 'Tarkov Cheats'],
-	['Warzone Cheats', 'Tarkov Cheats'],
-	['Warzone cheats', 'Tarkov cheats'],
-	['Warzone cheat', 'Tarkov cheat'],
-	['Warzone hacks', 'Tarkov cheats'],
-	['Warzone hack', 'Tarkov cheat'],
-	['WarzoneCheatsSite', 'TarkovCheatsSite'],
-	['Warzone Intel', 'Tarkov Intel'],
-	['Ricochet anti-cheat', 'BattlEye anti-cheat'],
-	['Ricochet maintenance', 'BattlEye maintenance'],
-	['Ricochet bypass', 'BattlEye bypass'],
-	['Ricochet Bypass', 'BattlEye Bypass'],
-	['Ricochet patches', 'BattlEye patches'],
-	['Ricochet patch', 'BattlEye patch'],
-	['Ricochet updates', 'BattlEye updates'],
-	['Ricochet update', 'BattlEye update'],
-	['after Ricochet', 'after BattlEye'],
+	['https://dota2hacks.net', 'https://tarkovcheats.org'],
+	['https://www.dota2hacks.net', 'https://www.tarkovcheats.org'],
+	['www.dota2hacks.net', 'www.tarkovcheats.org'],
+	['dota2hacks.net', 'tarkovcheats.org'],
+	['support@dota2hacks.net', 'support@tarkovcheats.org'],
+	['support@dota2scheats.net', 'support@tarkovcheats.org'],
+	['dota2scheats.net', 'tarkovcheats.org'],
+	['dota2scheats.com', 'tarkovcheats.org'],
+	['dota2scheats.xyz', 'tarkovcheats.org'],
+	['/products/dota2', '/products/tarkov'],
+	['project-name=dota2hacks', 'project-name=besttarkovcheats'],
+	['project-name=dota2scheats', 'project-name=besttarkovcheats'],
+	['name = "dota2hacks"', 'name = "besttarkovcheats"'],
+	['name = "dota2scheats"', 'name = "besttarkovcheats"'],
+	['"name": "dota2-hacks"', '"name": "tarkov-cheats"'],
+	['dota2-esp-player-tags', 'tarkov-esp-player-tags'],
+	['dota2-wallhack-skeleton', 'tarkov-wallhack-skeleton'],
+	['dota2-aimbot-sniper', 'tarkov-aimbot-sniper'],
+	['dota2-aimbot-skeleton', 'tarkov-aimbot-skeleton'],
+	['dota2-esp-radar', 'tarkov-esp-radar'],
+	['dota2-cheats-combat', 'tarkov-cheats-combat'],
+	['dota2-hacks-logo', 'tarkov-cheats-logo'],
+	['dota2-hero-banner', 'tarkov-hero-banner'],
+	['dota2-hero-ghost', 'tarkov-hero-ghost'],
+	['dota2-hero-source', 'tarkov-hero-source'],
+	['reliable-dota2-cheats', 'reliable-tarkov-cheats'],
+	['best-dota2-cheats', 'best-tarkov-cheats'],
+	['dota2-cheat-download', 'tarkov-cheat-download'],
+	['dota2-cheats-2026', 'tarkov-cheats-2026'],
+	['dota2-radar-hack', 'tarkov-radar-hack'],
+	['dota2-aimbot-hack', 'tarkov-aimbot-hack'],
+	['dota2-esp-hack', 'tarkov-esp-hack'],
+	['dota2-unlock-all', 'tarkov-unlock-all'],
+	['dota2-soft-aim', 'tarkov-soft-aim'],
+	['dota2-mod-menu', 'tarkov-mod-menu'],
+	['dota2-wallhack', 'tarkov-wallhack'],
+	['dota2-hacks', 'tarkov-cheats'],
+	['dota2-aimbot', 'tarkov-aimbot'],
+	['dota2-esp', 'tarkov-esp'],
+	['vac-bypass', 'battleye-bypass'],
+	["'vac'", "'battleye'"],
+	['| vac', '| battleye'],
+	['pageId="vac"', 'pageId="battleye"'],
+	['pageId: \'vac\'', "pageId: 'battleye'"],
+	['"vac"', '"battleye"'],
+	['call-of-duty-dota2-cheats', 'escape-from-tarkov-cheats'],
+	['Dota 2', 'Escape from Tarkov'],
+	['Dota 2 Dota 2', 'Escape from Tarkov'],
+	['Dota 2 Hacks', 'Tarkov Cheats'],
+	['Dota 2 Cheats', 'Tarkov Cheats'],
+	['Dota 2 cheats', 'Tarkov cheats'],
+	['Dota 2 cheat', 'Tarkov cheat'],
+	['Dota 2 hacks', 'Tarkov cheats'],
+	['Dota 2 hack', 'Tarkov cheat'],
+	['Dota 2CheatsSite', 'TarkovCheatsSite'],
+	['Dota 2 Intel', 'Tarkov Intel'],
+	['VAC anti-cheat', 'BattlEye anti-cheat'],
+	['VAC maintenance', 'BattlEye maintenance'],
+	['VAC bypass', 'BattlEye bypass'],
+	['VAC Bypass', 'BattlEye Bypass'],
+	['VAC patches', 'BattlEye patches'],
+	['VAC patch', 'BattlEye patch'],
+	['VAC updates', 'BattlEye updates'],
+	['VAC update', 'BattlEye update'],
+	['after VAC', 'after BattlEye'],
 	['RICOCHET', 'BattlEye'],
-	['Ricochet', 'BattlEye'],
-	['ricochet', 'battleye'],
-	['warzone hacks', 'tarkov cheats'],
-	['warzone cheats', 'tarkov cheats'],
-	['warzone hack', 'tarkov cheat'],
-	['warzone cheat', 'tarkov cheat'],
-	['Verdansk, Urzikstan, and Rebirth Island', 'Customs, Woods, and Streets of Tarkov'],
-	['Verdansk, Urzikstan and Rebirth Island', 'Customs, Woods and Streets of Tarkov'],
-	['Verdansk, Urzikstan et Rebirth Island', 'Customs, Woods et Streets of Tarkov'],
-	['Verdansk, Urzikstan e Rebirth Island', 'Customs, Woods e Streets of Tarkov'],
-	['Verdansk, Urzikstan und Rebirth Island', 'Customs, Woods und Streets of Tarkov'],
+	['VAC', 'BattlEye'],
+	['vac', 'battleye'],
+	['dota 2 hacks', 'tarkov cheats'],
+	['dota 2 cheats', 'tarkov cheats'],
+	['dota 2 hack', 'tarkov cheat'],
+	['dota 2 cheat', 'tarkov cheat'],
+	['the map, Urzikstan, and Rebirth Island', 'Customs, Woods, and Streets of Tarkov'],
+	['the map, Urzikstan and Rebirth Island', 'Customs, Woods and Streets of Tarkov'],
+	['the map, Urzikstan et Rebirth Island', 'Customs, Woods et Streets of Tarkov'],
+	['the map, Urzikstan e Rebirth Island', 'Customs, Woods e Streets of Tarkov'],
+	['the map, Urzikstan und Rebirth Island', 'Customs, Woods und Streets of Tarkov'],
 	['gulag fights', 'extract fights'],
 	['gulag fight', 'extract fight'],
 	['gulag rounds', 'raid rounds'],
@@ -114,8 +114,8 @@ const REPLACEMENTS = [
 	['BR and Resurgence-style modes', 'PMC raids and Scav runs'],
 	['BR and Resurgence', 'PMC raids and Scav runs'],
 	['BR & Resurgence', 'PMC & Scav'],
-	['Resurgence and Battle Royale', 'PMC raids and Scav runs'],
-	['Battle Royale', 'raid'],
+	['Resurgence and ranked matches', 'PMC raids and Scav runs'],
+	['ranked matches', 'raid'],
 	['Resurgence', 'Scav run'],
 	['resurgence', 'scav run'],
 	['contract markers', 'extract and weapon drops markers'],
@@ -124,43 +124,43 @@ const REPLACEMENTS = [
 	['Operators', 'PMCs'],
 	['operators', 'PMCs'],
 	['UAV', 'extract timer'],
-	['warzoneImages', 'tarkovImages'],
-	["from './warzone'", "from './tarkov'"],
-	["from '../data/warzone'", "from '../data/tarkov'"],
-	["from '../../data/warzone'", "from '../../data/tarkov'"],
-	['fetch-warzone-images', 'fetch-tarkov-images'],
-	['warzone-hack-overlays', 'tarkov-hack-overlays'],
-	['trucos-warzone', 'trucos-tarkov'],
-	['triche-warzone', 'triche-tarkov'],
-	['cheats-warzone', 'cheats-tarkov'],
-	['trucchi-warzone', 'trucchi-tarkov'],
-	['cheaty-warzone', 'cheaty-tarkov'],
-	['chity-warzone', 'chity-tarkov'],
-	['chitov-warzone', 'chitov-tarkov'],
-	['chitiv-warzone', 'chitiv-tarkov'],
-	['cheatow-warzone', 'cheatow-tarkov'],
-	['hile-warzone', 'hile-tarkov'],
-	['warzone-hile', 'tarkov-hile'],
-	['warzone-esp-chity', 'tarkov-esp-chity'],
-	['warzone-aimbot-chity', 'tarkov-aimbot-chity'],
-	['unentdeckte-warzone-cheats', 'unentdeckte-tarkov-cheats'],
-	['cheats-warzone-indetectaveis', 'cheats-tarkov-indetectaveis'],
-	['trucchi-warzone-indetectabili', 'trucchi-tarkov-indetectabili'],
-	['niewykrywalne-cheats-warzone', 'niewykrywalne-cheats-tarkov'],
-	['nedecektiruemye-chity-warzone', 'nedecektiruemye-chity-tarkov'],
-	['tespit-edilemeyen-warzone-hileleri', 'tespit-edilemeyen-tarkov-hileleri'],
-	['nedecektovani-chity-warzone', 'nedecektovani-chity-tarkov'],
-	['cheats-warzone-nedetectabile', 'cheats-tarkov-nedetectabile'],
-	['basta-warzone-cheats', 'basta-tarkov-cheats'],
-	['warzone-cheats-funktionen', 'tarkov-cheats-funktionen'],
-	['warzone-cheats-functies', 'tarkov-cheats-functies'],
-	['caracteristicas-trucos-warzone', 'caracteristicas-trucos-tarkov'],
-	['fonctionnalites-triche-warzone', 'fonctionnalites-triche-tarkov'],
-	['recursos-cheats-warzone', 'recursos-cheats-tarkov'],
-	['call-of-duty-warzone', 'escape-from-tarkov'],
-	['Buy Warzone Hacks', 'Buy Tarkov Cheats'],
-	['Warzone', 'Tarkov'],
-	['warzone', 'tarkov'],
+	['dota2Images', 'tarkovImages'],
+	["from './dota2'", "from './tarkov'"],
+	["from '../data/dota2'", "from '../data/tarkov'"],
+	["from '../../data/dota2'", "from '../../data/tarkov'"],
+	['fetch-dota2-images', 'fetch-tarkov-images'],
+	['dota2-hack-overlays', 'tarkov-hack-overlays'],
+	['trucos-dota2', 'trucos-tarkov'],
+	['triche-dota2', 'triche-tarkov'],
+	['cheats-dota2', 'cheats-tarkov'],
+	['trucchi-dota2', 'trucchi-tarkov'],
+	['cheaty-dota2', 'cheaty-tarkov'],
+	['chity-dota2', 'chity-tarkov'],
+	['chitov-dota2', 'chitov-tarkov'],
+	['chitiv-dota2', 'chitiv-tarkov'],
+	['cheatow-dota2', 'cheatow-tarkov'],
+	['hile-dota2', 'hile-tarkov'],
+	['dota2-hile', 'tarkov-hile'],
+	['dota2-esp-chity', 'tarkov-esp-chity'],
+	['dota2-aimbot-chity', 'tarkov-aimbot-chity'],
+	['unentdeckte-dota2-cheats', 'unentdeckte-tarkov-cheats'],
+	['cheats-dota2-indetectaveis', 'cheats-tarkov-indetectaveis'],
+	['trucchi-dota2-indetectabili', 'trucchi-tarkov-indetectabili'],
+	['niewykrywalne-cheats-dota2', 'niewykrywalne-cheats-tarkov'],
+	['nedecektiruemye-chity-dota2', 'nedecektiruemye-chity-tarkov'],
+	['tespit-edilemeyen-dota2-hileleri', 'tespit-edilemeyen-tarkov-hileleri'],
+	['nedecektovani-chity-dota2', 'nedecektovani-chity-tarkov'],
+	['cheats-dota2-nedetectabile', 'cheats-tarkov-nedetectabile'],
+	['basta-dota2-cheats', 'basta-tarkov-cheats'],
+	['dota2-cheats-funktionen', 'tarkov-cheats-funktionen'],
+	['dota2-cheats-functies', 'tarkov-cheats-functies'],
+	['caracteristicas-trucos-dota2', 'caracteristicas-trucos-tarkov'],
+	['fonctionnalites-triche-dota2', 'fonctionnalites-triche-tarkov'],
+	['recursos-cheats-dota2', 'recursos-cheats-tarkov'],
+	['call-of-duty-dota2', 'escape-from-tarkov'],
+	['Buy Dota 2 Hacks', 'Buy Tarkov Cheats'],
+	['Dota 2', 'Tarkov'],
+	['dota2', 'tarkov'],
 ];
 
 const TEXT_EXTENSIONS = new Set([
@@ -169,7 +169,7 @@ const TEXT_EXTENSIONS = new Set([
 
 const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', '.astro']);
 const SKIP_FILES = new Set([
-	'adapt-warzone.mjs',
+	'adapt-dota2.mjs',
 	'adapt-fortnite.mjs',
 	'adapt-tarkov.mjs',
 ]);
@@ -227,22 +227,22 @@ async function renamePageDirs() {
 	}
 }
 
-async function renameWarzoneTs() {
-	const from = path.join(ROOT, 'src', 'data', 'warzone.ts');
+async function renameDota 2Ts() {
+	const from = path.join(ROOT, 'src', 'data', 'dota2.ts');
 	const to = path.join(ROOT, 'src', 'data', 'tarkov.ts');
 	try {
 		await rename(from, to);
-		console.log('Renamed warzone.ts → tarkov.ts');
+		console.log('Renamed dota2.ts → tarkov.ts');
 	} catch (e) {
-		console.warn(`warzone.ts rename: ${e.message}`);
+		console.warn(`dota2.ts rename: ${e.message}`);
 	}
 }
 
 async function renameScripts() {
 	const pairs = [
-		['fetch-warzone-images.mjs', 'fetch-tarkov-images.mjs'],
-		['warzone-hack-overlays.mjs', 'tarkov-hack-overlays.mjs'],
-		['fix-warzone-copy.mjs', 'fix-tarkov-copy.mjs'],
+		['fetch-dota2-images.mjs', 'fetch-tarkov-images.mjs'],
+		['dota2-hack-overlays.mjs', 'tarkov-hack-overlays.mjs'],
+		['fix-dota2-copy.mjs', 'fix-tarkov-copy.mjs'],
 	];
 	for (const [from, to] of pairs) {
 		try {
@@ -260,7 +260,7 @@ async function updatePageAstroFiles() {
 		'tarkov-esp': 'tarkov-esp',
 		'tarkov-wallhack': 'wallhack',
 		'tarkov-radar-hack': 'radar',
-		'undetected-tarkov-cheats': 'undetected',
+		'reliable-tarkov-cheats': 'reliable',
 		'tarkov-cheats-2026': 'cheats-2026',
 		'battleye-bypass': 'battleye',
 		'tarkov-cheats': 'hacks',
@@ -298,8 +298,8 @@ async function renameImages() {
 		return;
 	}
 	for (const file of files) {
-		if (!file.includes('warzone')) continue;
-		const newName = file.replace(/warzone/g, 'tarkov').replace(/tarkov-hacks-logo/g, 'tarkov-cheats-logo');
+		if (!file.includes('dota2')) continue;
+		const newName = file.replace(/dota2/g, 'tarkov').replace(/tarkov-hacks-logo/g, 'tarkov-cheats-logo');
 		if (newName !== file) {
 			try {
 				await rename(path.join(imagesDir, file), path.join(imagesDir, newName));
@@ -312,9 +312,9 @@ async function renameImages() {
 }
 
 async function main() {
-	console.log('Adapting Warzone Hacks → Tarkov Cheats (tarkovcheats.org)...\n');
+	console.log('Adapting Dota 2 Hacks → Tarkov Cheats (tarkovcheats.org)...\n');
 	await renamePageDirs();
-	await renameWarzoneTs();
+	await renameDota 2Ts();
 	await renameScripts();
 	await transformTextFiles();
 	await updatePageAstroFiles();

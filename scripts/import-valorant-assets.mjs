@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Import user-provided Call of Duty: Warzone screenshots and agent assets.
+ * Import user-provided Dota 2 screenshots and agent assets.
  */
 import { mkdir, copyFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -40,7 +40,7 @@ async function main() {
 	for (let i = 0; i < SCREENSHOTS.length; i++) {
 		const num = String(i + 1).padStart(2, '0');
 		const src = path.join(ASSETS, SCREENSHOTS[i]);
-		const base = `warzone-screenshot-${num}`;
+		const base = `dota2-screenshot-${num}`;
 		await toWebp(src, path.join(OUT, `${base}.webp`), 1920);
 		await toWebp(src, path.join(OUT, `${base}-960w.webp`), 960);
 		await toWebp(src, path.join(OUT, `${base}-480w.webp`), 480);
@@ -49,25 +49,25 @@ async function main() {
 
 	// Agent from dark cinematic still (screenshot 8)
 	const heroSrc = path.join(ASSETS, SCREENSHOTS[7]);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-hero-poster.webp'), 1920);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-cheats-hero.webp'), 1920);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-cheats-hero-1199w.webp'), 1199);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-cheats-hero-1024w.webp'), 1024);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-cheats-hero-640w.webp'), 640);
-	await toWebp(heroSrc, path.join(OUT, 'warzone-cheats-hero-480w.webp'), 480);
-	await sharp(heroSrc).resize(512).webp({ quality: 85 }).toFile(path.join(OUT, 'warzone-cheats-logo.webp'));
-	await sharp(heroSrc).resize(512).png().toFile(path.join(OUT, 'warzone-cheats-logo.png'));
+	await toWebp(heroSrc, path.join(OUT, 'dota2-hero-poster.webp'), 1920);
+	await toWebp(heroSrc, path.join(OUT, 'dota2-cheats-hero.webp'), 1920);
+	await toWebp(heroSrc, path.join(OUT, 'dota2-cheats-hero-1199w.webp'), 1199);
+	await toWebp(heroSrc, path.join(OUT, 'dota2-cheats-hero-1024w.webp'), 1024);
+	await toWebp(heroSrc, path.join(OUT, 'dota2-cheats-hero-640w.webp'), 640);
+	await toWebp(heroSrc, path.join(OUT, 'dota2-cheats-hero-480w.webp'), 480);
+	await sharp(heroSrc).resize(512).webp({ quality: 85 }).toFile(path.join(OUT, 'dota2-cheats-logo.webp'));
+	await sharp(heroSrc).resize(512).png().toFile(path.join(OUT, 'dota2-cheats-logo.png'));
 
 	// Use gameplay shots for product gallery aliases
 	const aliases = [
-		['warzone-cheats-esp.webp', 0],
-		['warzone-cheats-aimbot.webp', 1],
-		['warzone-cheats-wallhack.webp', 2],
-		['warzone-cheats-radar.webp', 5],
-		['warzone-wallhack-skeleton.webp', 3],
-		['warzone-aimbot-skeleton.webp', 4],
-		['warzone-esp-radar.webp', 5],
-		['warzone-esp-player-tags.webp', 6],
+		['dota2-cheats-esp.webp', 0],
+		['dota2-cheats-aimbot.webp', 1],
+		['dota2-cheats-wallhack.webp', 2],
+		['dota2-cheats-radar.webp', 5],
+		['dota2-wallhack-skeleton.webp', 3],
+		['dota2-aimbot-skeleton.webp', 4],
+		['dota2-esp-radar.webp', 5],
+		['dota2-esp-player-tags.webp', 6],
 	];
 	for (const [name, idx] of aliases) {
 		await toWebp(path.join(ASSETS, SCREENSHOTS[idx]), path.join(OUT, name), 1280);

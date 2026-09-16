@@ -1,5 +1,5 @@
 /**
- * Import additional user-provided Call of Duty: Warzone screenshots for blog posts (slots 16–22).
+ * Import additional user-provided Dota 2 screenshots for blog posts (slots 16–22).
  */
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -37,7 +37,7 @@ await mkdir(imagesDir, { recursive: true });
 
 for (let i = 0; i < SOURCES.length; i += 1) {
 	const num = String(16 + i).padStart(2, '0');
-	const base = `warzone-screenshot-${num}`;
+	const base = `dota2-screenshot-${num}`;
 	const input = path.join(ASSETS, SOURCES[i]);
 	console.log(`Processing ${base}…`);
 	for (const width of WIDTHS) {

@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import { getUi } from '../data/i18n';
 import { getLocalizedPath, resolvePageContextFromPath, type PageId } from '../data/i18n/routing';
-import { warzoneImages } from '../data/warzone';
+import { dota2Images } from '../data/dota2';
 import { isHeroMarketingImage } from '../data/product-images';
 import {
 	heroPreloadSrc,
@@ -59,7 +59,7 @@ const {
 	intro,
 	breadcrumbLabel,
 	eyebrow,
-	heroImage = warzoneImages.hero,
+	heroImage = dota2Images.hero,
 	heroAlt,
 	gallery: galleryProp,
 	galleryTitle,
@@ -78,7 +78,7 @@ const t = getT(locale);
 const resolvedHeroAlt =
 	(heroAlt && heroAlt.trim()) ||
 	t('images.hero') ||
-	`${siteConfig.name} — Call of Duty: Warzone ESP and aimbot`;
+	`${siteConfig.name} — Dota 2 ESP and aimbot`;
 const resolvedGalleryTitle = galleryTitle ?? t('common.inGameLook');
 
 function resolvePageId(path: string): PageId | undefined {
@@ -88,7 +88,7 @@ function resolvePageId(path: string): PageId | undefined {
 const pageId = pageIdProp ?? resolvePageId(canonicalPath);
 const gallery =
 	galleryProp ??
-	(pageId ? getPageGalleryImages(pageId) : warzoneImages.product.slice(0, 3));
+	(pageId ? getPageGalleryImages(pageId) : dota2Images.product.slice(0, 3));
 const ui = getUi(locale);
 const homeHref = getLocalizedPath('home', locale);
 const breadcrumbCurrent = breadcrumbLabel?.trim() || heading;
@@ -330,7 +330,7 @@ const useHomeAgent = isHeroMarketingImage(heroImage);
 
 	.banner__title {
 		margin: 0;
-		font-family: var(--font-warzone);
+		font-family: var(--font-dota2);
 		font-size: clamp(2rem, 4.2vw, 3rem);
 		font-weight: 400;
 		letter-spacing: 0.06em;

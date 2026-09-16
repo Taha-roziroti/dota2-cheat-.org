@@ -16,7 +16,7 @@ export {
 
 export const sitemapExcludedPageIds = new Set<PageId>([...(cannibalPageIds as PageId[])]);
 
-/** Primary commercial landing for the head term "warzone cheats". */
+/** Primary commercial landing for the head term "dota 2 cheats". */
 export const MONEY_PAGE_ID = 'home' as const satisfies PageId;
 export const MONEY_PATH = '/' as const;
 

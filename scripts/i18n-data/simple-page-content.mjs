@@ -593,91 +593,91 @@ export const PAGE_CONTENT = {
 	"updates": {
 		"0": {
 			"en": [
-				"As of 13 Aug 2026 the package is online for Call of Duty: Warzone on Windows PC. We post a new note here when a game or Ricochet patch needs a rebuild.",
+				"As of 13 Aug 2026 the package is online for Dota 2 on Windows PC. We post a new note here when a game or VAC patch needs a rebuild.",
 				"If Status is green, you can match. If we are rebuilding, wait for the next note."
 			],
 			"es": [
-				"A 13 ago 2026 el paquete está online para Call of Duty: Warzone en Windows PC. Publicamos una nota aquí cuando un parche de Call of Duty: Warzone o Ricochet requiere rebuild.",
+				"A 13 ago 2026 el paquete está online para Dota 2 en Windows PC. Publicamos una nota aquí cuando un parche de Dota 2 o VAC requiere rebuild.",
 				"Si el Estado está en verde, puedes matchear. Si estamos reconstruyendo, espera la siguiente nota."
 			],
 			"fr": [
-				"Au 13 août 2026, le squad est en ligne pour Call of Duty: Warzone sur PC Windows. Nous publions une note ici quand un patch Call of Duty: Warzone ou Ricochet nécessite une reconstruction.",
+				"Au 13 août 2026, le squad est en ligne pour Dota 2 sur PC Windows. Nous publions une note ici quand un patch Dota 2 ou VAC nécessite une reconstruction.",
 				"Si le Statut est vert, vous pouvez matcher. Si nous reconstruisons, attendez la prochaine note."
 			],
 			"de": [
-				"Stand 13. Aug. 2026 ist das Paket für Call of Duty: Warzone auf Windows PC online. Wir posten hier eine Notiz, wenn ein Call of Duty: Warzone- oder Ricochet-Patch einen Rebuild braucht.",
+				"Stand 13. Aug. 2026 ist das Paket für Dota 2 auf Windows PC online. Wir posten hier eine Notiz, wenn ein Dota 2- oder VAC-Patch einen Rebuild braucht.",
 				"Ist der Status grün, kannst du matchen. Bei Rebuild warte auf die nächste Notiz."
 			],
 			"pt": [
-				"Em 13 ago 2026 o pacote está online para Call of Duty: Warzone no Windows PC. Publicamos uma nota aqui quando um patch de Call of Duty: Warzone ou Ricochet precisa de rebuild.",
+				"Em 13 ago 2026 o pacote está online para Dota 2 no Windows PC. Publicamos uma nota aqui quando um patch de Dota 2 ou VAC precisa de rebuild.",
 				"Se o Status estiver verde, pode matchear. Se estivermos reconstruindo, aguarde a próxima nota."
 			],
 			"it": [
-				"Al 13 ago 2026 il pacchetto è online per Call of Duty: Warzone su Windows PC. Pubblichiamo una nota qui quando una patch Call of Duty: Warzone o Ricochet richiede rebuild.",
+				"Al 13 ago 2026 il pacchetto è online per Dota 2 su Windows PC. Pubblichiamo una nota qui quando una patch Dota 2 o VAC richiede rebuild.",
 				"Se lo Stato è verde, puoi matchare. Se stiamo ricostruendo, attendi la prossima nota."
 			],
 			"nl": [
-				"Per 13 aug 2026 is het pakket online voor Call of Duty: Warzone op Windows PC. We plaatsen hier een notitie wanneer een Call of Duty: Warzone- of Ricochet-patch een rebuild nodig heeft.",
+				"Per 13 aug 2026 is het pakket online voor Dota 2 op Windows PC. We plaatsen hier een notitie wanneer een Dota 2- of VAC-patch een rebuild nodig heeft.",
 				"Is Status groen, dan kun je matchen. Bij rebuild wacht op de volgende notitie."
 			],
 			"pl": [
-				"Na 13 sie 2026 pakiet jest online dla Call of Duty: Warzone na Windows PC. Publikujemy tu notatkę, gdy patch Call of Duty: Warzone lub Ricochet wymaga rebuildu.",
+				"Na 13 sie 2026 pakiet jest online dla Dota 2 na Windows PC. Publikujemy tu notatkę, gdy patch Dota 2 lub VAC wymaga rebuildu.",
 				"Gdy Status jest zielony, możesz matchić. Przy rebuildzie czekaj na kolejną notatkę."
 			],
 			"ru": [
-				"На 13 авг. 2026 пакет онлайн для Call of Duty: Warzone на Windows PC. Мы публикуем заметку, когда патч Call of Duty: Warzone или Ricochet требует пересборки.",
+				"На 13 авг. 2026 пакет онлайн для Dota 2 на Windows PC. Мы публикуем заметку, когда патч Dota 2 или VAC требует пересборки.",
 				"Если Статус зелёный — можно играть. При пересборке ждите следующую заметку."
 			],
 			"tr": [
-				"13 Ağu 2026 itibarıyla paket Call of Duty: Warzone için Windows PC'de online. Call of Duty: Warzone veya Ricochet yaması rebuild gerektirdiğinde burada not paylaşırız.",
+				"13 Ağu 2026 itibarıyla paket Dota 2 için Windows PC'de online. Dota 2 veya VAC yaması rebuild gerektirdiğinde burada not paylaşırız.",
 				"Durum yeşilse match atabilirsiniz. Rebuild sırasında sonraki notu bekleyin."
 			],
 			"ar": [
-				"اعتباراً من 13 أغسطس 2026 الحزمة متاحة لـ Call of Duty: Warzone على Windows PC. ننشر ملاحظة هنا عندما يتطلب تصحيح Call of Duty: Warzone أو Ricochet إعادة بناء.",
+				"اعتباراً من 13 أغسطس 2026 الحزمة متاحة لـ Dota 2 على Windows PC. ننشر ملاحظة هنا عندما يتطلب تصحيح Dota 2 أو VAC إعادة بناء.",
 				"إذا كانت الحالة خضراء يمكنك الraid. أثناء إعادة البناء انتظر الملاحظة التالية."
 			],
 			"ja": [
-				"2026年8月13日時点で、Windows PC向けCall of Duty: Warzoneパッケージはオンラインです。Call of Duty: WarzoneまたはRicochetパッチでリビルドが必要な際はここに投稿します。",
+				"2026年8月13日時点で、Windows PC向けDota 2パッケージはオンラインです。Dota 2またはVACパッチでリビルドが必要な際はここに投稿します。",
 				"ステータスが緑ならレイド可能。リビルド中は次の投稿を待ってください。"
 			],
 			"ko": [
-				"2026년 8월 13일 기준 Call of Duty: Warzone Windows PC 패키지는 온라인입니다. Call of Duty: Warzone 또는 Ricochet 패치로 리빌드가 필요하면 여기에 공지합니다.",
+				"2026년 8월 13일 기준 Dota 2 Windows PC 패키지는 온라인입니다. Dota 2 또는 VAC 패치로 리빌드가 필요하면 여기에 공지합니다.",
 				"상태가 녹색이면 레이드 가능. 리빌드 중에는 다음 공지를 기다리세요."
 			],
 			"zh": [
-				"截至2026年8月13日，Call of Duty: Warzone Windows PC 套餐已上线。Call of Duty: Warzone 或 Ricochet 补丁需要重建时我们会在此发布说明。",
+				"截至2026年8月13日，Dota 2 Windows PC 套餐已上线。Dota 2 或 VAC 补丁需要重建时我们会在此发布说明。",
 				"状态为绿色即可 match。重建中请等待下一条说明。"
 			],
 			"hi": [
-				"13 अगस्त 2026 तक पैकेज Call of Duty: Warzone Windows PC पर online है। Call of Duty: Warzone या Ricochet पैच पर rebuild नोट यहाँ पोस्ट होता है।",
+				"13 अगस्त 2026 तक पैकेज Dota 2 Windows PC पर online है। Dota 2 या VAC पैच पर rebuild नोट यहाँ पोस्ट होता है।",
 				"स्टेटस हरा हो तो match करें। rebuild पर अगली नोट का इंतज़ार करें।"
 			],
 			"id": [
-				"Per 13 Agu 2026 paket online untuk Call of Duty: Warzone di Windows PC. Kami posting catatan di sini saat patch Call of Duty: Warzone atau Ricochet butuh rebuild.",
+				"Per 13 Agu 2026 paket online untuk Dota 2 di Windows PC. Kami posting catatan di sini saat patch Dota 2 atau VAC butuh rebuild.",
 				"Jika Status hijau, Anda bisa match. Saat rebuild, tunggu catatan berikutnya."
 			],
 			"th": [
-				"ณ 13 ส.ค. 2026 แพ็กเกจออนไลน์สำหรับ Call of Duty: Warzone บน Windows PC เราโพสต์บันทึกเมื่อแพตช์ Call of Duty: Warzone หรือ Ricochet ต้อง rebuild",
+				"ณ 13 ส.ค. 2026 แพ็กเกจออนไลน์สำหรับ Dota 2 บน Windows PC เราโพสต์บันทึกเมื่อแพตช์ Dota 2 หรือ VAC ต้อง rebuild",
 				"ถ้าสถานะเป็นสีเขียว match ได้ หากกำลัง rebuild รอบันทึกถัดไป"
 			],
 			"vi": [
-				"Tính đến 13/8/2026 gói đang online cho Call of Duty: Warzone trên Windows PC. Chúng tôi đăng ghi chú khi bản vá Call of Duty: Warzone hoặc Ricochet cần rebuild.",
+				"Tính đến 13/8/2026 gói đang online cho Dota 2 trên Windows PC. Chúng tôi đăng ghi chú khi bản vá Dota 2 hoặc VAC cần rebuild.",
 				"Nếu Trạng thái xanh, bạn có thể match. Đang rebuild thì chờ ghi chú tiếp theo."
 			],
 			"uk": [
-				"Станом на 13 серп. 2026 пакет онлайн для Call of Duty: Warzone на Windows PC. Публікуємо нотатку, коли патч Call of Duty: Warzone або Ricochet потребує перезбірки.",
+				"Станом на 13 серп. 2026 пакет онлайн для Dota 2 на Windows PC. Публікуємо нотатку, коли патч Dota 2 або VAC потребує перезбірки.",
 				"Якщо Статус зелений — можна matchiти. Під час перезбірки чекайте наступну нотатку."
 			],
 			"cs": [
-				"K 13. 8. 2026 je balíček online pro Call of Duty: Warzone na Windows PC. Zde zveřejníme poznámku, když patch Call of Duty: Warzone nebo Ricochet vyžaduje rebuild.",
+				"K 13. 8. 2026 je balíček online pro Dota 2 na Windows PC. Zde zveřejníme poznámku, když patch Dota 2 nebo VAC vyžaduje rebuild.",
 				"Je-li Stav zelený, můžete matchovat. Při rebuildu počkejte na další poznámku."
 			],
 			"ro": [
-				"La 13 aug 2026 pachetul este online pentru Call of Duty: Warzone pe Windows PC. Postăm o notă aici când un patch Call of Duty: Warzone sau Ricochet necesită rebuild.",
+				"La 13 aug 2026 pachetul este online pentru Dota 2 pe Windows PC. Postăm o notă aici când un patch Dota 2 sau VAC necesită rebuild.",
 				"Dacă Statusul e verde, poți matcha. La rebuild așteaptă următoarea notă."
 			],
 			"sv": [
-				"Per 13 aug 2026 är paketet online för Call of Duty: Warzone på Windows PC. Vi postar en notis här när en Call of Duty: Warzone- eller Ricochet-patch kräver rebuild.",
+				"Per 13 aug 2026 är paketet online för Dota 2 på Windows PC. Vi postar en notis här när en Dota 2- eller VAC-patch kräver rebuild.",
 				"Är Status grön kan du matcha. Vid rebuild vänta på nästa notis."
 			]
 		},
@@ -823,7 +823,7 @@ export const PAGE_CONTENT = {
 			"en": [
 				"Check this page before every match after a patch",
 				"Monthly and lifetime licenses get rebuilds while active",
-				"No cheat stays undetected forever — status first, then play"
+				"No cheat stays reliable forever — status first, then play"
 			],
 			"es": [
 				"Revisa esta página antes de cada match tras un parche",
@@ -838,7 +838,7 @@ export const PAGE_CONTENT = {
 			"de": [
 				"Vor jedem match nach einem Patch diese Seite prüfen",
 				"Monats- und Lifetime-Lizenzen erhalten Rebuilds solange aktiv",
-				"Kein Cheat bleibt für immer undetected — erst Status, dann spielen"
+				"Kein Cheat bleibt für immer reliable — erst Status, dann spielen"
 			],
 			"pt": [
 				"Verifique esta página antes de cada match após patch",
@@ -853,22 +853,22 @@ export const PAGE_CONTENT = {
 			"nl": [
 				"Check deze pagina voor elke match na een patch",
 				"Maand- en lifetime-licenties krijgen rebuilds zolang actief",
-				"Geen cheat blijft voor altijd undetected — eerst status, dan spelen"
+				"Geen cheat blijft voor altijd reliable — eerst status, dan spelen"
 			],
 			"pl": [
 				"Sprawdź tę stronę przed każdym match po patchu",
 				"Licencje miesięczne i lifetime dostają rebuildy przy aktywnej licencji",
-				"Żaden cheat nie jest undetected na zawsze — najpierw status, potem gra"
+				"Żaden cheat nie jest reliable na zawsze — najpierw status, potem gra"
 			],
 			"ru": [
 				"Проверяйте эту страницу перед каждым match после патча",
 				"Месячные и lifetime лицензии получают пересборки при активной лицензии",
-				"Ни один чит не остаётся undetected навсегда — сначала статус, потом игра"
+				"Ни один чит не остаётся reliable навсегда — сначала статус, потом игра"
 			],
 			"tr": [
 				"Yama sonrası her match öncesi bu sayfayı kontrol edin",
 				"Aylık ve lifetime lisanslar aktifken rebuild alır",
-				"Hiçbir hile sonsuza kadar undetected kalmaz — önce durum, sonra oyna"
+				"Hiçbir hile sonsuza kadar reliable kalmaz — önce durum, sonra oyna"
 			],
 			"ar": [
 				"تحقق من هذه الصفحة قبل كل match بعد التصحيح",
@@ -878,57 +878,57 @@ export const PAGE_CONTENT = {
 			"ja": [
 				"パッチ後のレイド前に必ずこのページを確認",
 				"月額・lifetimeライセンスはアクティブ中リビルド対象",
-				"チートは永久にundetectedではありません — 先にステータス確認"
+				"チートは永久にreliableではありません — 先にステータス確認"
 			],
 			"ko": [
 				"패치 후 레이드마다 이 페이지 확인",
 				"월간·lifetime 라이선스는 활성 기간 리빌드 제공",
-				"치트는 영원히 undetected가 아닙니다 — 상태 먼저, 그다음 플레이"
+				"치트는 영원히 reliable가 아닙니다 — 상태 먼저, 그다음 플레이"
 			],
 			"zh": [
 				"补丁后每次 match 前查看此页",
 				"月付和 lifetime 许可证激活期间提供重建",
-				"没有作弊能永远 undetected — 先查状态再玩"
+				"没有作弊能永远 reliable — 先查状态再玩"
 			],
 			"hi": [
 				"पैच के बाद हर match से पहले यह पेज देखें",
 				"मासिक और lifetime लाइसेंस सक्रिय रहते rebuild पाते हैं",
-				"कोई cheat हमेशा undetected नहीं रहता — पहले स्टेटस, फिर खेल"
+				"कोई cheat हमेशा reliable नहीं रहता — पहले स्टेटस, फिर खेल"
 			],
 			"id": [
 				"Cek halaman ini sebelum setiap match setelah patch",
 				"Lisensi bulanan dan lifetime dapat rebuild selama aktif",
-				"Tidak ada cheat undetected selamanya — status dulu, baru main"
+				"Tidak ada cheat reliable selamanya — status dulu, baru main"
 			],
 			"th": [
 				"ตรวจหน้านี้ก่อน match ทุกครั้งหลังแพตช์",
 				"ใบอนุญาตรายเดือนและ lifetime ได้ rebuild ขณะใช้งาน",
-				"ไม่มี cheat undetected ตลอดไป — ตรวจสถานะก่อนเล่น"
+				"ไม่มี cheat reliable ตลอดไป — ตรวจสถานะก่อนเล่น"
 			],
 			"vi": [
 				"Kiểm tra trang này trước mỗi match sau bản vá",
 				"Giấy phép tháng và lifetime được rebuild khi còn hiệu lực",
-				"Không cheat nào undetected mãi — trạng thái trước, chơi sau"
+				"Không cheat nào reliable mãi — trạng thái trước, chơi sau"
 			],
 			"uk": [
 				"Перевіряйте цю сторінку перед кожним match після патчу",
 				"Місячні та lifetime ліцензії отримують перезбірки під час активності",
-				"Жоден чит не undetected назавжди — спочатку статус, потім гра"
+				"Жоден чит не reliable назавжди — спочатку статус, потім гра"
 			],
 			"cs": [
 				"Před každým match po patchi zkontrolujte tuto stránku",
 				"Měsíční a lifetime licence dostávají rebuildy při aktivní licenci",
-				"Žádný cheat není undetected navždy — nejdřív stav, pak hra"
+				"Žádný cheat není reliable navždy — nejdřív stav, pak hra"
 			],
 			"ro": [
 				"Verifică această pagină înainte de fiecare match după patch",
 				"Licențele lunare și lifetime primesc rebuild-uri cât sunt active",
-				"Niciun cheat nu rămâne undetected pentru totdeauna — status mai întâi"
+				"Niciun cheat nu rămâne reliable pentru totdeauna — status mai întâi"
 			],
 			"sv": [
 				"Kontrollera sidan före varje match efter patch",
 				"Månads- och lifetime-licenser får rebuilds medan aktiva",
-				"Ingen cheat förblir undetected för evigt — status först, sedan spela"
+				"Ingen cheat förblir reliable för evigt — status först, sedan spela"
 			]
 		},
 		"list1": {
@@ -1005,7 +1005,7 @@ export const PAGE_CONTENT = {
 			"hi": [
 				"नवीनतम स्टेटस नोट पढ़ें",
 				"समस्या हो तो सेटअप फॉलो करें",
-				"ऑर्डर ID के साथ support@cheatsforwarzone.com"
+				"ऑर्डर ID के साथ support@dota2cheat.com"
 			],
 			"id": [
 				"Baca catatan status terbaru",
@@ -1137,182 +1137,182 @@ export const PAGE_CONTENT = {
 	"hacks": {
 		"0": {
 			"en": [
-				"Warzone cheats are third-party tools that give you extra information and combat assist during matches. Most players search for warzone cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.",
-				"Warzone Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
+				"Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.",
+				"Dota 2 Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot."
 			],
 			"es": [
-				"Los trucos de Call of Duty: Warzone son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca warzone cheats cuando quieren ESP de jugadores, visibilidad de weapon drops, radar fuera de pantalla o puntería más suave bajo presión.",
-				"Warzone Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
+				"Los trucos de Dota 2 son herramientas de terceros que te dan información extra y asistencia en combate durante matches. La mayoría busca dota 2 cheats cuando quieren ESP de jugadores, visibilidad de weapon drops, radar fuera de pantalla o puntería más suave bajo presión.",
+				"Dota 2 Cheats agrupa esas herramientas en una licencia para Windows PC — sin descargas separadas para wallhack, radar y aimbot."
 			],
 			"fr": [
-				"Les triches Call of Duty: Warzone sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent warzone cheats pour l'ESP joueurs, le weapon drops, le radar hors écran ou une visée plus fluide sous pression.",
-				"Warzone Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
+				"Les triches Dota 2 sont des outils tiers qui donnent des infos supplémentaires et une aide au combat pendant les matches. La plupart cherchent dota 2 cheats pour l'ESP joueurs, le weapon drops, le radar hors écran ou une visée plus fluide sous pression.",
+				"Dota 2 Cheats regroupe ces outils dans une licence PC Windows — sans empiler wallhack, radar et aimbot séparément."
 			],
 			"de": [
-				"Warzone Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen warzone cheats für Spieler-ESP, Weapon drops-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
-				"Warzone Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
+				"Dota 2 Cheats sind Drittanbieter-Tools mit Extra-Infos und Kampfhilfe in matches. Die meisten suchen dota 2 cheats für Spieler-ESP, Weapon drops-Sicht, Off-Screen-Radar oder sanfteres Zielen unter Druck.",
+				"Dota 2 Cheats bündelt diese Tools in einer Windows-PC-Lizenz — ohne separate Downloads für Wallhack, Radar und Aimbot."
 			],
 			"pt": [
-				"Warzone cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura warzone cheats por ESP de jogadores, weapon drops, radar off-screen ou mira mais suave sob pressão.",
-				"Warzone Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
+				"Dota 2 cheats são ferramentas de terceiros que dão informação extra e assistência de combate em matches. A maioria procura dota 2 cheats por ESP de jogadores, weapon drops, radar off-screen ou mira mais suave sob pressão.",
+				"Dota 2 Cheats reúne essas ferramentas numa licença Windows PC — sem empilhar wallhack, radar e aimbot separados."
 			],
 			"it": [
-				"I cheat Call of Duty: Warzone sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano warzone cheats per ESP giocatori, weapon drops, radar off-screen o mira più fluida sotto pressione.",
-				"Warzone Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
+				"I cheat Dota 2 sono tool di terze parti che danno info extra e assistenza in combattimento durante i match. Molti cercano dota 2 cheats per ESP giocatori, weapon drops, radar off-screen o mira più fluida sotto pressione.",
+				"Dota 2 Cheats raggruppa questi tool in una licenza Windows PC — senza download separati per wallhack, radar e aimbot."
 			],
 			"nl": [
-				"Warzone cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken warzone cheats voor speler-ESP, weapon drops, off-screen radar of soepeler richten onder druk.",
-				"Warzone Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
+				"Dota 2 cheats zijn tools van derden met extra info en gevechtshulp tijdens matches. De meeste zoeken dota 2 cheats voor speler-ESP, weapon drops, off-screen radar of soepeler richten onder druk.",
+				"Dota 2 Cheats bundelt die tools in één Windows PC-licentie — geen aparte wallhack-, radar- en aimbot-downloads."
 			],
 			"pl": [
-				"Warzone cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka warzone cheats dla ESP graczy, weapon dropsu, radaru off-screen lub płynniejszego aimu pod presją.",
-				"Warzone Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
+				"Dota 2 cheats to narzędzia firm trzecich dające dodatkowe info i wsparcie w walce podczas matchów. Większość szuka dota 2 cheats dla ESP graczy, weapon dropsu, radaru off-screen lub płynniejszego aimu pod presją.",
+				"Dota 2 Cheats łączy te narzędzia w jednej licencji na Windows PC — bez osobnych pobrań wallhack, radar i aimbot."
 			],
 			"ru": [
-				"Warzone cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут warzone cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
-				"Warzone Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
+				"Dota 2 cheats — сторонние инструменты с доп. информацией и боевой помощью в рейдах. Ищут dota 2 cheats за ESP игроков, лут, off-screen radar или более плавный aim под давлением.",
+				"Dota 2 Cheats объединяет эти инструменты в одной лицензии для Windows PC — без отдельных загрузок wallhack, radar и aimbot."
 			],
 			"tr": [
-				"Call of Duty: Warzone hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, weapon drops, off-screen radar veya baskı altında daha yumuşak nişan için warzone cheats arar.",
-				"Warzone Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
+				"Dota 2 hileleri match sırasında ekstra bilgi ve savaş desteği veren üçüncü taraf araçlardır. Çoğu oyuncu ESP, weapon drops, off-screen radar veya baskı altında daha yumuşak nişan için dota 2 cheats arar.",
+				"Dota 2 Cheats bu araçları Windows PC için tek lisans altında toplar — ayrı wallhack, radar ve aimbot indirmeleri yok."
 			],
 			"ar": [
-				"warzone cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن warzone cheats لـ ESP اللاعبين والweapon drops والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
-				"Warzone Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
+				"dota 2 cheats أدوات طرف ثالث تمنحك معلومات إضافية ومساعدة قتالية أثناء الraid. يبحث معظم اللاعبين عن dota 2 cheats لـ ESP اللاعبين والweapon drops والradar خارج الشاشة أو تصويب أنعم تحت الضغط.",
+				"Dota 2 Cheats يجمع هذه الأدوات في ترخيص واحد لـ Windows PC — دون تحميلات منفصلة للwallhack والradar والaimbot."
 			],
 			"ja": [
-				"Call of Duty: Warzoneチートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、weapon drops、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でwarzone cheatsを探す人が多いです。",
-				"Warzone Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
+				"Dota 2チートはレイド中に追加情報と戦闘支援を提供するサードパーティツールです。プレイヤーESP、weapon drops、オフスクリーンradar、プレッシャー下でのスムーズなエイム目的でdota 2 cheatsを探す人が多いです。",
+				"Dota 2 Cheatsはwallhack、radar、aimbotをWindows PC向け1ライセンスにまとめます — 個別ダウンロード不要。"
 			],
 			"ko": [
-				"Call of Duty: Warzone 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, weapon drops, off-screen radar, 압박 상황에서 부드러운 에임을 위해 warzone cheats를 찾습니다.",
-				"Warzone Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
+				"Dota 2 치트는 레이드 중 추가 정보와 전투 보조를 제공하는 서드파티 도구입니다. 플레이어 ESP, weapon drops, off-screen radar, 압박 상황에서 부드러운 에임을 위해 dota 2 cheats를 찾습니다.",
+				"Dota 2 Cheats는 wallhack, radar, aimbot을 Windows PC 단일 라이선스로 묶습니다 — 별도 다운로드 불필요."
 			],
 			"zh": [
-				"Warzone cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 warzone cheats。",
-				"Warzone Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
+				"Dota 2 cheats 是第三方工具，在 match 中提供额外信息和战斗辅助。多数玩家为玩家 ESP、物资可见、屏幕外 radar 或高压下更稳的瞄准而搜索 dota 2 cheats。",
+				"Dota 2 Cheats 将这些工具整合为 Windows PC 单一许可证 — 无需分别下载 wallhack、radar 和 aimbot。"
 			],
 			"hi": [
-				"Warzone cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, weapon drops visibility, off-screen radar या दबाव में smoother aim के लिए warzone cheats खोजते हैं।",
-				"Warzone Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
+				"Dota 2 cheats तीसरे पक्ष के टूल हैं जो match में अतिरिक्त जानकारी और combat assist देते हैं। ज़्यादातर player ESP, weapon drops visibility, off-screen radar या दबाव में smoother aim के लिए dota 2 cheats खोजते हैं।",
+				"Dota 2 Cheats इन टूल को Windows PC की एक लाइसेंस में बंडल करता है — अलग wallhack, radar, aimbot डाउनलोड नहीं।"
 			],
 			"id": [
-				"Warzone cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari warzone cheats untuk ESP pemain, weapon drops, radar off-screen, atau aim lebih halus under pressure.",
-				"Warzone Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
+				"Dota 2 cheats adalah alat pihak ketiga yang memberi info ekstra dan bantuan tempur saat match. Kebanyakan mencari dota 2 cheats untuk ESP pemain, weapon drops, radar off-screen, atau aim lebih halus under pressure.",
+				"Dota 2 Cheats menggabungkan alat tersebut dalam satu lisensi Windows PC — tanpa unduhan terpisah wallhack, radar, aimbot."
 			],
 			"th": [
-				"Warzone cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา warzone cheats เพื่อ ESP ผู้เล่น weapon drops radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
-				"Warzone Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
+				"Dota 2 cheats เป็นเครื่องมือบุคคลที่สามที่ให้ข้อมูลเพิ่มและช่วยต่อสู้ระหว่าง match ผู้เล่นส่วนใหญ่ค้นหา dota 2 cheats เพื่อ ESP ผู้เล่น weapon drops radar นอกจอ หรือ aim ที่นุ่มนวลภายใต้ความกดดัน",
+				"Dota 2 Cheats รวมเครื่องมือเหล่านี้ในใบอนุญาต Windows PC เดียว — ไม่ต้องดาวน์โหลด wallhack radar aimbot แยก"
 			],
 			"vi": [
-				"Warzone cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm warzone cheats cho ESP người chơi, weapon drops, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
-				"Warzone Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
+				"Dota 2 cheats là công cụ bên thứ ba cung cấp thông tin thêm và hỗ trợ chiến đấu khi match. Nhiều người tìm dota 2 cheats cho ESP người chơi, weapon drops, radar ngoài màn hình hoặc aim mượt hơn dưới áp lực.",
+				"Dota 2 Cheats gom các công cụ trong một giấy phép Windows PC — không cần tải riêng wallhack, radar, aimbot."
 			],
 			"uk": [
-				"Warzone cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають warzone cheats за ESP гравців, weapon drops, off-screen radar або плавніший aim під тиском.",
-				"Warzone Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
+				"Dota 2 cheats — сторонні інструменти з додатковою інформацією та боєвою допомогою під час match. Шукають dota 2 cheats за ESP гравців, weapon drops, off-screen radar або плавніший aim під тиском.",
+				"Dota 2 Cheats об’єднує ці інструменти в одній ліцензії для Windows PC — без окремих завантажень wallhack, radar і aimbot."
 			],
 			"cs": [
-				"Warzone cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá warzone cheats pro ESP hráčů, weapon drops, off-screen radar nebo plynulejší aim pod tlakem.",
-				"Warzone Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
+				"Dota 2 cheaty jsou nástroje třetích stran s extra informacemi a bojovou asistencí při matchech. Většina hledá dota 2 cheats pro ESP hráčů, weapon drops, off-screen radar nebo plynulejší aim pod tlakem.",
+				"Dota 2 Cheats spojuje tyto nástroje v jedné licenci pro Windows PC — bez samostatných downloadů wallhack, radar a aimbot."
 			],
 			"ro": [
-				"Warzone cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută warzone cheats pentru ESP jucători, weapon drops, radar off-screen sau aim mai lin sub presiune.",
-				"Warzone Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
+				"Dota 2 cheats sunt tool-uri terțe care oferă info extra și asistență de luptă în match-uri. Majoritatea caută dota 2 cheats pentru ESP jucători, weapon drops, radar off-screen sau aim mai lin sub presiune.",
+				"Dota 2 Cheats grupează aceste tool-uri într-o licență Windows PC — fără descărcări separate wallhack, radar, aimbot."
 			],
 			"sv": [
-				"Warzone cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker warzone cheats för spelar-ESP, weapon drops, off-screen radar eller mjukare sikte under press.",
-				"Warzone Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
+				"Dota 2 cheats är tredjepartsverktyg med extra info och stridsassistans under matches. De flesta söker dota 2 cheats för spelar-ESP, weapon drops, off-screen radar eller mjukare sikte under press.",
+				"Dota 2 Cheats buntar ihop dessa verktyg i en Windows PC-licens — inga separata nedladdningar för wallhack, radar och aimbot."
 			]
 		},
 		"1": {
 			"en": [
 				"One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.",
-				"Monthly and lifetime plans include the same feature stack with Ricochet rebuilds."
+				"Monthly and lifetime plans include the same feature stack with VAC rebuilds."
 			],
 			"es": [
 				"Una licencia cubre el stack completo de match: ESP de jugadores con distancia, marcadores de héroe, radar 2D para flancos y perfiles soft aim configurables por arma.",
-				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds Ricochet."
+				"Los planes mensual y de por vida incluyen el mismo stack de funciones con rebuilds VAC."
 			],
 			"fr": [
 				"Une licence couvre la stack match complète : ESP joueurs avec distance, marqueurs de héros, radar 2D pour les flancs et profils soft aim configurables par arme.",
-				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds Ricochet."
+				"Les formules mensuelle et à vie incluent la même stack de fonctionnalités avec rebuilds VAC."
 			],
 			"de": [
 				"Eine Lizenz deckt den kompletten Match-Stack ab: Spieler-ESP mit Distanz, Helden-Marker, 2D-Radar für Flanken und konfigurierbare Soft-Aim-Profile pro Waffe.",
-				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit Ricochet-Rebuilds."
+				"Monats- und Lifetime-Pläne enthalten denselben Feature-Stack mit VAC-Rebuilds."
 			],
 			"pt": [
 				"Uma licença cobre a stack completa de match: ESP de jogadores com distância, marcadores de herói, radar 2D para flancos e perfis soft aim configuráveis por arma.",
-				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds Ricochet."
+				"Planos mensais e vitalícios incluem o mesmo stack de recursos com rebuilds VAC."
 			],
 			"it": [
 				"Una licenza copre lo stack match completo: ESP giocatori con distanza, marker eroe, radar 2D per i fianchi e profili soft aim configurabili per arma.",
-				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild Ricochet."
+				"I piani mensili e lifetime includono lo stesso stack di funzioni con rebuild VAC."
 			],
 			"nl": [
 				"Eén licentie dekt de volledige match-stack: speler-ESP met afstand, hero-markers, 2D-radar voor flanks en configureerbare soft aim-profielen per wapen.",
-				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met Ricochet-rebuilds."
+				"Maand- en lifetime-plannen bevatten dezelfde feature-stack met VAC-rebuilds."
 			],
 			"pl": [
 				"Jedna licencja obejmuje pełny stack match: ESP graczy z dystansem, markery bohaterów, radar 2D na flanki i konfigurowalne profile soft aim na broń.",
-				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami Ricochet."
+				"Plany miesięczne i lifetime obejmują ten sam stack funkcji z rebuildami VAC."
 			],
 			"ru": [
 				"Одна лицензия покрывает полный match-стек: ESP игроков с дистанцией, маркеры героев, 2D radar для флангов и настраиваемые soft aim профили по оружию.",
-				"Месячные и lifetime-планы включают тот же набор функций с Ricochet rebuilds."
+				"Месячные и lifetime-планы включают тот же набор функций с VAC rebuilds."
 			],
 			"tr": [
 				"Tek lisans tam match yığınını kapsar: mesafeli oyuncu ESP, kahraman işaretleri, kanat için 2D radar ve silah başına yapılandırılabilir soft aim profilleri.",
-				"Aylık ve lifetime planlar aynı özellik yığınını Ricochet rebuilds ile içerir."
+				"Aylık ve lifetime planlar aynı özellik yığınını VAC rebuilds ile içerir."
 			],
 			"ar": [
 				"ترخيص واحد يغطي stack المباراة الكامل: ESP للاعبين مع المسافة وعلامات الأبطال وradar 2D للمناورات وملفات soft aim قابلة للضبط لكل سلاح.",
-				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع Ricochet rebuilds."
+				"تتضمن خطط الشهرية ومدى الحياة نفس مجموعة الميزات مع VAC rebuilds."
 			],
 			"ja": [
 				"1ライセンスでフル match stack をカバー: 距離付きプレイヤーESP、ヒーローマーカー、側面用2D radar、武器別soft aimプロファイル。",
-				"月額とライフタイムプランは同じ機能 stack を Ricochet rebuilds 付きで含みます。"
+				"月額とライフタイムプランは同じ機能 stack を VAC rebuilds 付きで含みます。"
 			],
 			"ko": [
 				"하나의 라이선스로 전체 match stack: 거리 표시 플레이어 ESP, 영웅 마커, 측면 2D radar, 무기별 soft aim 프로필.",
-				"월간 및 lifetime 플랜은 Ricochet rebuilds가 포함된 동일한 기능 stack을 제공합니다."
+				"월간 및 lifetime 플랜은 VAC rebuilds가 포함된 동일한 기능 stack을 제공합니다."
 			],
 			"zh": [
 				"一份许可证覆盖完整 match 套件：带距离的玩家 ESP、英雄标记、侧翼 2D radar 和按武器可调的 soft aim 配置。",
-				"月付和终身计划包含相同功能 stack，并提供 Ricochet rebuilds。"
+				"月付和终身计划包含相同功能 stack，并提供 VAC rebuilds。"
 			],
 			"hi": [
 				"एक लाइसेंस पूरा match stack कवर करता है: दूरी के साथ player ESP, operator markers, flanks के लिए 2D radar, और प्रति हथियार soft aim profiles।",
-				"Monthly और lifetime plans में Ricochet rebuilds के साथ same feature stack शामिल है।"
+				"Monthly और lifetime plans में VAC rebuilds के साथ same feature stack शामिल है।"
 			],
 			"id": [
 				"Satu lisensi mencakup stack match lengkap: ESP pemain dengan jarak, marker hero, radar 2D untuk flank, dan profil soft aim per senjata.",
-				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan Ricochet rebuilds."
+				"Paket bulanan dan lifetime mencakup stack fitur yang sama dengan VAC rebuilds."
 			],
 			"th": [
 				"ใบอนุญาตเดียวครอบคลุม match stack เต็ม: ESP ผู้เล่นพร้อมระยะ มาร์กเกอร์ฮีโร่ radar 2D สำหรับ flank และโปรไฟล์ soft aim ต่ออาวุธ",
-				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม Ricochet rebuilds"
+				"แผนรายเดือนและตลอดชีพรวม feature stack เดียวกันพร้อม VAC rebuilds"
 			],
 			"vi": [
 				"Một giấy phép bao trùm stack match đầy đủ: ESP người chơi kèm khoảng cách, marker tướng, radar 2D cho flank, profile soft aim theo vũ khí.",
-				"Gói tháng và lifetime bao gồm cùng feature stack với Ricochet rebuilds."
+				"Gói tháng và lifetime bao gồm cùng feature stack với VAC rebuilds."
 			],
 			"uk": [
 				"Одна ліцензія покриває повний match stack: ESP гравців з дистанцією, маркери героїв, 2D radar для флангів і профілі soft aim на зброю.",
-				"Місячні та lifetime тарифи включають той самий feature stack з Ricochet rebuilds."
+				"Місячні та lifetime тарифи включають той самий feature stack з VAC rebuilds."
 			],
 			"cs": [
 				"Jedna licence pokrývá celý match stack: ESP hráčů s distancí, agent markery, 2D radar pro flanky a konfigurovatelné soft aim profily na zbraň.",
-				"Měsíční i lifetime plány obsahují stejný feature stack s Ricochet rebuilds."
+				"Měsíční i lifetime plány obsahují stejný feature stack s VAC rebuilds."
 			],
 			"ro": [
 				"O licență acoperă stack-ul complet de match: ESP jucători cu distanță, markeri eroi, radar 2D pentru flancuri și profile soft aim per armă.",
-				"Planurile lunare și lifetime includ același feature stack cu Ricochet rebuilds."
+				"Planurile lunare și lifetime includ același feature stack cu VAC rebuilds."
 			],
 			"sv": [
 				"En licens täcker hela match-stacken: spelar-ESP med avstånd, hjältemarkörer, 2D-radar för flanker och konfigurerbara soft aim-profiler per vapen.",
-				"Månads- och lifetime-planer inkluderar samma feature stack med Ricochet rebuilds."
+				"Månads- och lifetime-planer inkluderar samma feature stack med VAC rebuilds."
 			]
 		},
 		"2": {
@@ -1386,71 +1386,71 @@ export const PAGE_CONTENT = {
 		},
 		"3": {
 			"en": [
-				"Call of Duty: Warzone uses Ricochet. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Call of Duty: Warzone or Ricochet update before you load in.",
-				"Read the undetected cheats guide and Ricochet maintenance notes for the full workflow."
+				"Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.",
+				"Read the reliable cheats guide and VAC maintenance notes for the full workflow."
 			],
 			"es": [
-				"Call of Duty: Warzone usa Ricochet. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Call of Duty: Warzone o Ricochet antes de entrar."
+				"Dota 2 usa VAC. Ningún cheat permanece indetectable para siempre — lo importante es el mantenimiento tras parches. Revisa la página de Estado tras cada actualización de Dota 2 o VAC antes de entrar."
 			],
 			"fr": [
-				"Call of Duty: Warzone utilise Ricochet. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Call of Duty: Warzone ou Ricochet avant de jouer."
+				"Dota 2 utilise VAC. Aucune triche ne reste indétectable éternellement — la maintenance après patchs compte. Consultez la page Statut après chaque mise à jour Dota 2 ou VAC avant de jouer."
 			],
 			"de": [
-				"Call of Duty: Warzone nutzt Ricochet. Kein Cheat bleibt für immer undetected — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Call of Duty: Warzone- oder Ricochet-Update vor dem Spielen."
+				"Dota 2 nutzt VAC. Kein Cheat bleibt für immer reliable — Wartung nach Patches zählt. Prüfe die Status-Seite nach jedem Dota 2- oder VAC-Update vor dem Spielen."
 			],
 			"pt": [
-				"Call of Duty: Warzone usa Ricochet. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Call of Duty: Warzone ou Ricochet antes de entrar."
+				"Dota 2 usa VAC. Nenhum cheat fica indetectável para sempre — manutenção após patches importa. Verifique a página Status após cada update Dota 2 ou VAC antes de entrar."
 			],
 			"it": [
-				"Call of Duty: Warzone usa Ricochet. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Call of Duty: Warzone o Ricochet prima di giocare."
+				"Dota 2 usa VAC. Nessun cheat resta indetectable per sempre — conta la manutenzione post-patch. Controlla la pagina Stato dopo ogni update Dota 2 o VAC prima di giocare."
 			],
 			"nl": [
-				"Call of Duty: Warzone gebruikt Ricochet. Geen cheat blijft voor altijd undetected — onderhoud na patches telt. Check de Status-pagina na elke Call of Duty: Warzone- of EAC-update vóór je speelt."
+				"Dota 2 gebruikt VAC. Geen cheat blijft voor altijd reliable — onderhoud na patches telt. Check de Status-pagina na elke Dota 2- of EAC-update vóór je speelt."
 			],
 			"pl": [
-				"Call of Duty: Warzone używa Ricochet. Żaden cheat nie jest undetected na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Call of Duty: Warzone lub EAC przed grą."
+				"Dota 2 używa VAC. Żaden cheat nie jest reliable na zawsze — liczy się konserwacja po patchach. Sprawdź stronę Status po każdej aktualizacji Dota 2 lub EAC przed grą."
 			],
 			"ru": [
-				"Call of Duty: Warzone использует Ricochet. Ни один чит не undetected навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Call of Duty: Warzone или Ricochet перед игрой."
+				"Dota 2 использует VAC. Ни один чит не reliable навсегда — важно обслуживание после патчей. Проверяйте страницу Статус после каждого обновления Dota 2 или VAC перед игрой."
 			],
 			"tr": [
-				"Call of Duty: Warzone Ricochet kullanır. Hiçbir hile sonsuza kadar undetected kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Call of Duty: Warzone veya Ricochet güncellemesinden sonra Durum sayfasını kontrol edin."
+				"Dota 2 VAC kullanır. Hiçbir hile sonsuza kadar reliable kalmaz — yama sonrası bakım önemlidir. Oyuna girmeden önce her Dota 2 veya VAC güncellemesinden sonra Durum sayfasını kontrol edin."
 			],
 			"ar": [
-				"Call of Duty: Warzone يستخدم Ricochet. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Call of Duty: Warzone أو EAC قبل الدخول."
+				"Dota 2 يستخدم VAC. لا يبقى أي cheat غير مكتشف للأبد — الصيانة بعد التصحيحات هي المهم. تحقق من صفحة الحالة بعد كل تحديث Dota 2 أو EAC قبل الدخول."
 			],
 			"ja": [
-				"Call of Duty: WarzoneはRicochetを使用。チートは永久にundetectedではありません — パッチ後のメンテナンスが重要です。プレイ前にCall of Duty: WarzoneまたはRicochet更新後はステータスページを確認してください。"
+				"Dota 2はVACを使用。チートは永久にreliableではありません — パッチ後のメンテナンスが重要です。プレイ前にDota 2またはVAC更新後はステータスページを確認してください。"
 			],
 			"ko": [
-				"Call of Duty: Warzone는 Ricochet를 사용합니다. 치트는 영원히 undetected가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Call of Duty: Warzone 또는 Ricochet 업데이트마다 상태 페이지를 확인하세요."
+				"Dota 2는 VAC를 사용합니다. 치트는 영원히 reliable가 아닙니다 — 패치 후 유지보수가 중요합니다. 접속 전 Dota 2 또는 VAC 업데이트마다 상태 페이지를 확인하세요."
 			],
 			"zh": [
-				"Call of Duty: Warzone 使用 Ricochet。没有作弊能永远 undetected — 补丁后维护才是关键。每次 Call of Duty: Warzone 或 Ricochet 更新后、进游戏前先查状态页。"
+				"Dota 2 使用 VAC。没有作弊能永远 reliable — 补丁后维护才是关键。每次 Dota 2 或 VAC 更新后、进游戏前先查状态页。"
 			],
 			"hi": [
-				"Call of Duty: Warzone Ricochet उपयोग करता है। कोई cheat हमेशा undetected नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Call of Duty: Warzone या Ricochet अपडेट के बाद Status पेज देखें।"
+				"Dota 2 VAC उपयोग करता है। कोई cheat हमेशा reliable नहीं रहता — पैच के बाद maintenance मायने रखती है। खेलने से पहले हर Dota 2 या VAC अपडेट के बाद Status पेज देखें।"
 			],
 			"id": [
-				"Call of Duty: Warzone memakai Ricochet. Tidak ada cheat undetected selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Call of Duty: Warzone atau Ricochet sebelum main."
+				"Dota 2 memakai VAC. Tidak ada cheat reliable selamanya — pemeliharaan setelah patch yang penting. Cek halaman Status setelah setiap update Dota 2 atau VAC sebelum main."
 			],
 			"th": [
-				"Call of Duty: Warzone ใช้ Ricochet ไม่มี cheat undetected ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Call of Duty: Warzone หรือ Ricochet ก่อนเข้าเกม"
+				"Dota 2 ใช้ VAC ไม่มี cheat reliable ตลอดไป — การดูแลหลังแพตช์สำคัญ ตรวจหน้าสถานะหลังอัปเดต Dota 2 หรือ VAC ก่อนเข้าเกม"
 			],
 			"vi": [
-				"Call of Duty: Warzone dùng Ricochet. Không cheat nào undetected mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Call of Duty: Warzone hoặc Ricochet trước khi vào game."
+				"Dota 2 dùng VAC. Không cheat nào reliable mãi — bảo trì sau bản vá mới quan trọng. Kiểm tra trang Trạng thái sau mỗi cập nhật Dota 2 hoặc VAC trước khi vào game."
 			],
 			"uk": [
-				"Call of Duty: Warzone використовує Ricochet. Жоден чит не undetected назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Call of Duty: Warzone або EAC перед грою."
+				"Dota 2 використовує VAC. Жоден чит не reliable назавжди — важливе обслуговування після патчів. Перевіряйте сторінку Статус після кожного оновлення Dota 2 або EAC перед грою."
 			],
 			"cs": [
-				"Call of Duty: Warzone používá Ricochet. Žádný cheat není undetected navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Call of Duty: Warzone nebo EAC."
+				"Dota 2 používá VAC. Žádný cheat není reliable navždy — záleží na údržbě po patchi. Před hrou zkontrolujte stránku Stav po každé aktualizaci Dota 2 nebo EAC."
 			],
 			"ro": [
-				"Call of Duty: Warzone folosește Ricochet. Niciun cheat nu rămâne undetected pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Call of Duty: Warzone sau EAC înainte de joc."
+				"Dota 2 folosește VAC. Niciun cheat nu rămâne reliable pentru totdeauna — mentenanța după patch contează. Verifică pagina Status după fiecare update Dota 2 sau EAC înainte de joc."
 			],
 			"sv": [
-				"Call of Duty: Warzone använder Ricochet. Ingen cheat förblir undetected för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Call of Duty: Warzone- eller EAC-uppdatering före spel."
+				"Dota 2 använder VAC. Ingen cheat förblir reliable för evigt — underhåll efter patchar räknas. Kontrollera Status-sidan efter varje Dota 2- eller EAC-uppdatering före spel."
 			]
 		},
 		"4": {
@@ -1524,70 +1524,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Warzone cheats add ESP, radar, and soft aim on top of the base game. This page explains what warzone cheats are, what Warzone Cheats includes, how Ricochet maintenance works, and where to go next before you buy."
+				"Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy."
 			],
 			"es": [
-				"Los trucos de Call of Duty: Warzone añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los warzone cheats, qué incluye Warzone Cheats, cómo funciona el mantenimiento de Ricochet y dónde ir antes de comprar."
+				"Los trucos de Dota 2 añaden ESP, radar y soft aim sobre el juego base. Esta página explica qué son los dota 2 cheats, qué incluye Dota 2 Cheats, cómo funciona el mantenimiento de VAC y dónde ir antes de comprar."
 			],
 			"fr": [
-				"Les triches Call of Duty: Warzone ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les warzone cheats, ce que Warzone Cheats inclut, la maintenance Ricochet et où aller avant d'acheter."
+				"Les triches Dota 2 ajoutent ESP, radar et soft aim au jeu de base. Cette page explique ce que sont les dota 2 cheats, ce que Dota 2 Cheats inclut, la maintenance VAC et où aller avant d'acheter."
 			],
 			"de": [
-				"Warzone Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt warzone cheats, den Warzone Cheats-Umfang, Ricochet-Wartung und nächste Schritte vor dem Kauf."
+				"Dota 2 Cheats fügen ESP, Radar und Soft Aim zum Basisspiel hinzu. Diese Seite erklärt dota 2 cheats, den Dota 2 Cheats-Umfang, VAC-Wartung und nächste Schritte vor dem Kauf."
 			],
 			"pt": [
-				"Warzone cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são warzone cheats, o que o Warzone Cheats inclui, manutenção Ricochet e próximos passos antes de comprar."
+				"Dota 2 cheats adicionam ESP, radar e soft aim ao jogo base. Esta página explica o que são dota 2 cheats, o que o Dota 2 Cheats inclui, manutenção VAC e próximos passos antes de comprar."
 			],
 			"it": [
-				"I cheat Call of Duty: Warzone aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i warzone cheats, cosa include Warzone Cheats, manutenzione Ricochet e dove andare prima dell'acquisto."
+				"I cheat Dota 2 aggiungono ESP, radar e soft aim al gioco base. Questa pagina spiega cosa sono i dota 2 cheats, cosa include Dota 2 Cheats, manutenzione VAC e dove andare prima dell'acquisto."
 			],
 			"nl": [
-				"Warzone cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat warzone cheats zijn, wat Warzone Cheats bevat, Ricochet-onderhoud en volgende stappen vóór aankoop."
+				"Dota 2 cheats voegen ESP, radar en soft aim toe aan het basisspel. Deze pagina legt uit wat dota 2 cheats zijn, wat Dota 2 Cheats bevat, VAC-onderhoud en volgende stappen vóór aankoop."
 			],
 			"pl": [
-				"Warzone cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są warzone cheats, co zawiera Warzone Cheats, konserwację Ricochet i co dalej przed zakupem."
+				"Dota 2 cheats dodają ESP, radar i soft aim do gry bazowej. Ta strona wyjaśnia czym są dota 2 cheats, co zawiera Dota 2 Cheats, konserwację VAC i co dalej przed zakupem."
 			],
 			"ru": [
-				"Warzone cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое warzone cheats, что входит в Warzone Cheats, обслуживание Ricochet и куда идти перед покупкой."
+				"Dota 2 cheats добавляют ESP, radar и soft aim к базовой игре. Эта страница объясняет что такое dota 2 cheats, что входит в Dota 2 Cheats, обслуживание VAC и куда идти перед покупкой."
 			],
 			"tr": [
-				"Call of Duty: Warzone hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa warzone cheats nedir, Warzone Cheats neleri içerir, Ricochet bakımı ve satın almadan önce nereye gidileceğini açıklar."
+				"Dota 2 hileleri temel oyuna ESP, radar ve soft aim ekler. Bu sayfa dota 2 cheats nedir, Dota 2 Cheats neleri içerir, VAC bakımı ve satın almadan önce nereye gidileceğini açıklar."
 			],
 			"ar": [
-				"تضيف warzone cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي warzone cheats وما يتضمنه Warzone Cheats وصيانة Ricochet وأين تذهب قبل الشراء."
+				"تضيف dota 2 cheats الـ ESP والرادار وsoft aim فوق اللعبة الأساسية. تشرح هذه الصفحة ما هي dota 2 cheats وما يتضمنه Dota 2 Cheats وصيانة VAC وأين تذهب قبل الشراء."
 			],
 			"ja": [
-				"Call of Duty: WarzoneチートはベースゲームにESP、radar、soft aimを追加します。このページではwarzone cheatsの概要、Warzone Cheatsの内容、Ricochetメンテナンス、購入前の確認先を説明します。"
+				"Dota 2チートはベースゲームにESP、radar、soft aimを追加します。このページではdota 2 cheatsの概要、Dota 2 Cheatsの内容、VACメンテナンス、購入前の確認先を説明します。"
 			],
 			"ko": [
-				"Call of Duty: Warzone 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 warzone cheats란, Warzone Cheats 포함 사항, Ricochet 유지보수, 구매 전 확인할 곳을 설명합니다."
+				"Dota 2 치트는 기본 게임 위에 ESP, radar, soft aim을 추가합니다. 이 페이지는 dota 2 cheats란, Dota 2 Cheats 포함 사항, VAC 유지보수, 구매 전 확인할 곳을 설명합니다."
 			],
 			"zh": [
-				"Warzone cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 warzone cheats、Warzone Cheats 包含什么、Ricochet 维护以及购买前该看哪里。"
+				"Dota 2 cheats 在基础游戏上添加 ESP、radar 和 soft aim。本页说明什么是 dota 2 cheats、Dota 2 Cheats 包含什么、VAC 维护以及购买前该看哪里。"
 			],
 			"hi": [
-				"Warzone cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है warzone cheats क्या हैं, Warzone Cheats में क्या है, Ricochet रखरखाव और खरीद से पहले कहाँ जाएँ।"
+				"Dota 2 cheats बेस गेम पर ESP, radar और soft aim जोड़ते हैं। यह पेज बताता है dota 2 cheats क्या हैं, Dota 2 Cheats में क्या है, VAC रखरखाव और खरीद से पहले कहाँ जाएँ।"
 			],
 			"id": [
-				"Warzone cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu warzone cheats, apa yang termasuk Warzone Cheats, pemeliharaan Ricochet, dan langkah sebelum membeli."
+				"Dota 2 cheats menambahkan ESP, radar, dan soft aim di atas game dasar. Halaman ini menjelaskan apa itu dota 2 cheats, apa yang termasuk Dota 2 Cheats, pemeliharaan VAC, dan langkah sebelum membeli."
 			],
 			"th": [
-				"Warzone cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย warzone cheats คืออะไร Warzone Cheats รวมอะไร การดูแล Ricochet และขั้นตอนก่อนซื้อ"
+				"Dota 2 cheats เพิ่ม ESP, radar และ soft aim บนเกมหลัก หน้านี้อธิบาย dota 2 cheats คืออะไร Dota 2 Cheats รวมอะไร การดูแล VAC และขั้นตอนก่อนซื้อ"
 			],
 			"vi": [
-				"Warzone cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích warzone cheats là gì, Warzone Cheats gồm gì, bảo trì Ricochet và bước tiếp theo trước khi mua."
+				"Dota 2 cheats thêm ESP, radar và soft aim lên game gốc. Trang này giải thích dota 2 cheats là gì, Dota 2 Cheats gồm gì, bảo trì VAC và bước tiếp theo trước khi mua."
 			],
 			"uk": [
-				"Warzone cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке warzone cheats, що входить у Warzone Cheats, обслуговування Ricochet і куди йти перед покупкою."
+				"Dota 2 cheats додають ESP, radar і soft aim до базової гри. Ця сторінка пояснює що таке dota 2 cheats, що входить у Dota 2 Cheats, обслуговування VAC і куди йти перед покупкою."
 			],
 			"cs": [
-				"Warzone cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou warzone cheats, co obsahuje Warzone Cheats, údržbu Ricochet a kam jít před nákupem."
+				"Dota 2 cheaty přidávají ESP, radar a soft aim k základní hře. Tato stránka vysvětluje co jsou dota 2 cheats, co obsahuje Dota 2 Cheats, údržbu VAC a kam jít před nákupem."
 			],
 			"ro": [
-				"Warzone cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt warzone cheats, ce include Warzone Cheats, mentenanța Ricochet și pașii înainte de cumpărare."
+				"Dota 2 cheats adaugă ESP, radar și soft aim peste jocul de bază. Această pagină explică ce sunt dota 2 cheats, ce include Dota 2 Cheats, mentenanța VAC și pașii înainte de cumpărare."
 			],
 			"sv": [
-				"Warzone cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad warzone cheats är, vad Warzone Cheats innehåller, Ricochet-underhåll och nästa steg före köp."
+				"Dota 2 cheats lägger till ESP, radar och soft aim ovanpå basspelet. Den här sidan förklarar vad dota 2 cheats är, vad Dota 2 Cheats innehåller, VAC-underhåll och nästa steg före köp."
 			]
 		},
 		"list1": {
@@ -1596,421 +1596,421 @@ export const PAGE_CONTENT = {
 				"Weapon drops and resource markers",
 				"2D radar for off-screen threats",
 				"Soft aim & aimbot profiles",
-				"Ricochet rebuilds after patches"
+				"VAC rebuilds after patches"
 			],
 			"es": [
 				"ESP / wallhack con distancias",
 				"Marcadores de weapon drops y recursos",
 				"Radar 2D para amenazas fuera de pantalla",
 				"Perfiles soft aim y aimbot",
-				"Reconstrucciones Ricochet tras parches"
+				"Reconstrucciones VAC tras parches"
 			],
 			"fr": [
 				"ESP / wallhack avec distances",
 				"Marqueurs de weapon drops et ressources",
 				"Radar 2D pour menaces hors écran",
 				"Profils soft aim et aimbot",
-				"Reconstructions Ricochet après patchs"
+				"Reconstructions VAC après patchs"
 			],
 			"de": [
 				"ESP / Wallhack mit Distanzanzeige",
 				"Weapon drops- und Ressourcen-Marker",
 				"2D-Radar für Off-Screen-Bedrohungen",
 				"Soft-Aim- & Aimbot-Profile",
-				"Ricochet Rebuilds nach Patches"
+				"VAC Rebuilds nach Patches"
 			],
 			"pt": [
 				"ESP / wallhack com distâncias",
 				"Marcadores de weapon drops e recursos",
 				"Radar 2D para ameaças off-screen",
 				"Perfis soft aim e aimbot",
-				"Rebuilds Ricochet após patches"
+				"Rebuilds VAC após patches"
 			],
 			"it": [
 				"ESP / wallhack con distanze",
 				"Marker weapon drops e risorse",
 				"Radar 2D per minacce off-screen",
 				"Profili soft aim e aimbot",
-				"Rebuild Ricochet dopo patch"
+				"Rebuild VAC dopo patch"
 			],
 			"nl": [
 				"ESP / wallhack met afstand",
 				"Weapon drops- en resource-markers",
 				"2D-radar voor off-screen dreiging",
 				"Soft aim- en aimbot-profielen",
-				"Ricochet rebuilds na patches"
+				"VAC rebuilds na patches"
 			],
 			"pl": [
 				"ESP / wallhack z dystansem",
 				"Markery weapon dropsu i zasobów",
 				"Radar 2D na zagrożenia off-screen",
 				"Profile soft aim i aimbot",
-				"Rebuildy Ricochet po patchach"
+				"Rebuildy VAC po patchach"
 			],
 			"ru": [
 				"ESP / wallhack с дистанцией",
 				"Маркеры лута и ресурсов",
 				"2D radar для off-screen угроз",
 				"Профили soft aim и aimbot",
-				"Пересборки Ricochet после патчей"
+				"Пересборки VAC после патчей"
 			],
 			"tr": [
 				"Mesafeli ESP / wallhack",
 				"Weapon drops ve kaynak işaretleri",
 				"Off-screen tehditler için 2D radar",
 				"Soft aim ve aimbot profilleri",
-				"Yama sonrası Ricochet rebuild"
+				"Yama sonrası VAC rebuild"
 			],
 			"ar": [
 				"ESP / wallhack مع المسافات",
 				"علامات weapon drops والموارد",
 				"radar 2D للتهديدات خارج الشاشة",
 				"ملفات soft aim وaimbot",
-				"إعادة بناء Ricochet بعد التصحيحات"
+				"إعادة بناء VAC بعد التصحيحات"
 			],
 			"ja": [
 				"距離表示ESP / wallhack",
 				"weapon drops・資源マーカー",
 				"オフスクリーン脅威用2D radar",
 				"soft aim・aimbotプロファイル",
-				"パッチ後のRicochetリビルド"
+				"パッチ後のVACリビルド"
 			],
 			"ko": [
 				"거리 표시 ESP / wallhack",
 				"weapon drops 및 자원 마커",
 				"off-screen 위협용 2D radar",
 				"soft aim 및 aimbot 프로필",
-				"패치 후 Ricochet 리빌드"
+				"패치 후 VAC 리빌드"
 			],
 			"zh": [
 				"带距离 ESP / wallhack",
 				"物资和资源标记",
 				"屏幕外威胁 2D radar",
 				"soft aim 和 aimbot 配置",
-				"Ricochet 补丁后重建"
+				"VAC 补丁后重建"
 			],
 			"hi": [
 				"दूरी के साथ ESP / wallhack",
 				"Weapon drops और resource markers",
 				"Off-screen threats के लिए 2D radar",
 				"Soft aim और aimbot profiles",
-				"Ricochet पैच के बाद rebuild"
+				"VAC पैच के बाद rebuild"
 			],
 			"id": [
 				"ESP / wallhack dengan jarak",
 				"Marker weapon drops dan resource",
 				"Radar 2D untuk ancaman off-screen",
 				"Profil soft aim & aimbot",
-				"Rebuild Ricochet setelah patch"
+				"Rebuild VAC setelah patch"
 			],
 			"th": [
 				"ESP / wallhack พร้อมระยะ",
 				"มาร์กเกอร์ weapon drops และทรัพยากร",
 				"radar 2D สำหรับภัยคุกคามนอกจอ",
 				"โปรไฟล์ soft aim และ aimbot",
-				"รีบิลด์ Ricochet หลังแพตช์"
+				"รีบิลด์ VAC หลังแพตช์"
 			],
 			"vi": [
 				"ESP / wallhack kèm khoảng cách",
 				"Marker weapon drops và tài nguyên",
 				"Radar 2D cho mối đe dọa off-screen",
 				"Profile soft aim & aimbot",
-				"Rebuild Ricochet sau bản vá"
+				"Rebuild VAC sau bản vá"
 			],
 			"uk": [
 				"ESP / wallhack з дистанцією",
 				"Маркери weapon drops і ресурсів",
 				"2D radar для off-screen загроз",
 				"Профілі soft aim і aimbot",
-				"Перезбірки Ricochet після патчів"
+				"Перезбірки VAC після патчів"
 			],
 			"cs": [
 				"ESP / wallhack s distancí",
 				"Weapon drops a resource markery",
 				"2D radar pro off-screen hrozby",
 				"Soft aim a aimbot profily",
-				"Rebuildy Ricochet po patchi"
+				"Rebuildy VAC po patchi"
 			],
 			"ro": [
 				"ESP / wallhack cu distanță",
 				"Markeri weapon drops și resurse",
 				"Radar 2D pentru amenințări off-screen",
 				"Profile soft aim și aimbot",
-				"Rebuild-uri Ricochet după patch"
+				"Rebuild-uri VAC după patch"
 			],
 			"sv": [
 				"ESP / wallhack med avstånd",
 				"Weapon drops- och resursmarkörer",
 				"2D-radar för off-screen hot",
 				"Soft aim- och aimbot-profiler",
-				"Ricochet rebuilds efter patchar"
+				"VAC rebuilds efter patchar"
 			]
 		},
 		"list2": {
 			"en": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Full feature list</a>"
 			],
 			"es": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP y wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot y soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP y wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot y soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de funciones</a>"
 			],
 			"fr": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP et wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot et soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP et wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot et soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Liste complète des fonctions</a>"
 			],
 			"de": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & Wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & Soft Aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar-Hack-Overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & Wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & Soft Aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar-Hack-Overlay</a>",
 				"<a href=\"/features/\">Vollständige Feature-Liste</a>"
 			],
 			"pt": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP e wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot e soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP e wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completa de recursos</a>"
 			],
 			"it": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP e wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot e soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP e wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot e soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Elenco completo funzioni</a>"
 			],
 			"nl": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Volledige functielijst</a>"
 			],
 			"pl": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP i wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot i soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP i wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot i soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Pełna lista funkcji</a>"
 			],
 			"ru": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP и wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot и soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP и wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot и soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Полный список функций</a>"
 			],
 			"tr": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP ve wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot ve soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP ve wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot ve soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Tam özellik listesi</a>"
 			],
 			"ar": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP وWallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot وSoft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">تراكب radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP وWallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot وSoft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">تراكب radar hack</a>",
 				"<a href=\"/features/\">قائمة الميزات الكاملة</a>"
 			],
 			"ja": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP・Wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot・Soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">レーダーハックオーバーレイ</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP・Wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot・Soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">レーダーハックオーバーレイ</a>",
 				"<a href=\"/features/\">全機能リスト</a>"
 			],
 			"ko": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP 및 wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot 및 soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">레이더 핵 오버레이</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP 및 wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot 및 soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">레이더 핵 오버레이</a>",
 				"<a href=\"/features/\">전체 기능 목록</a>"
 			],
 			"zh": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP和透视</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone自瞄和软瞄准</a>",
-				"<a href=\"/warzone-radar-hack/\">雷达hack覆盖</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP和透视</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2自瞄和软瞄准</a>",
+				"<a href=\"/dota2-radar-hack/\">雷达hack覆盖</a>",
 				"<a href=\"/features/\">完整功能列表</a>"
 			],
 			"hi": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP और wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot और soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP और wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot और soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">पूरी फ़ीचर सूची</a>"
 			],
 			"id": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Daftar fitur lengkap</a>"
 			],
 			"th": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP และ wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot และ soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP และ wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot และ soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">โอเวอร์เลย์ radar hack</a>",
 				"<a href=\"/features/\">รายการฟีเจอร์ทั้งหมด</a>"
 			],
 			"vi": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Danh sách tính năng đầy đủ</a>"
 			],
 			"uk": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP і wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot і soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP і wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot і soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Повний список функцій</a>"
 			],
 			"cs": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP a wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot a soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP a wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot a soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack overlay</a>",
 				"<a href=\"/features/\">Úplný seznam funkcí</a>"
 			],
 			"ro": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP și wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot și soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Overlay radar hack</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP și wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot și soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Overlay radar hack</a>",
 				"<a href=\"/features/\">Lista completă de funcții</a>"
 			],
 			"sv": [
-				"<a href=\"/warzone-esp/\">Call of Duty: Warzone ESP & wallhack</a>",
-				"<a href=\"/warzone-aimbot/\">Call of Duty: Warzone Aimbot & soft aim</a>",
-				"<a href=\"/warzone-radar-hack/\">Radar hack-overlay</a>",
+				"<a href=\"/dota2-esp/\">Dota 2 ESP & wallhack</a>",
+				"<a href=\"/dota2-aimbot/\">Dota 2 Aimbot & soft aim</a>",
+				"<a href=\"/dota2-radar-hack/\">Radar hack-overlay</a>",
 				"<a href=\"/features/\">Fullständig funktionslista</a>"
 			]
 		},
 		"list3": {
 			"en": [
 				"<a href=\"/updates/\">Live status & patch notes</a>",
-				"<a href=\"/updates/\">Undetected cheats guide</a>",
-				"<a href=\"/updates/\">Ricochet maintenance</a>",
+				"<a href=\"/updates/\">Reliable cheats guide</a>",
+				"<a href=\"/updates/\">VAC maintenance</a>",
 				"<a href=\"/faq/\">FAQ before you buy</a>"
 			],
 			"es": [
 				"<a href=\"/updates/\">Estado en vivo y notas de parche</a>",
 				"<a href=\"/updates/\">Guía de trucos indetectables</a>",
-				"<a href=\"/updates/\">Mantenimiento Ricochet</a>",
+				"<a href=\"/updates/\">Mantenimiento VAC</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"fr": [
 				"<a href=\"/updates/\">Statut en direct et notes de patch</a>",
 				"<a href=\"/updates/\">Guide triches indétectables</a>",
-				"<a href=\"/updates/\">Maintenance Ricochet</a>",
+				"<a href=\"/updates/\">Maintenance VAC</a>",
 				"<a href=\"/faq/\">FAQ avant achat</a>"
 			],
 			"de": [
 				"<a href=\"/updates/\">Live-Status & Patchnotes</a>",
-				"<a href=\"/updates/\">Undetected Cheats Guide</a>",
-				"<a href=\"/updates/\">Ricochet Wartung</a>",
+				"<a href=\"/updates/\">Reliable Cheats Guide</a>",
+				"<a href=\"/updates/\">VAC Wartung</a>",
 				"<a href=\"/faq/\">FAQ vor dem Kauf</a>"
 			],
 			"pt": [
 				"<a href=\"/updates/\">Status ao vivo e notas de patch</a>",
 				"<a href=\"/updates/\">Guia de cheats indetectáveis</a>",
-				"<a href=\"/updates/\">Manutenção Ricochet</a>",
+				"<a href=\"/updates/\">Manutenção VAC</a>",
 				"<a href=\"/faq/\">FAQ antes de comprar</a>"
 			],
 			"it": [
 				"<a href=\"/updates/\">Stato live e note patch</a>",
 				"<a href=\"/updates/\">Guida cheat indetectable</a>",
-				"<a href=\"/updates/\">Manutenzione Ricochet</a>",
+				"<a href=\"/updates/\">Manutenzione VAC</a>",
 				"<a href=\"/faq/\">FAQ prima di acquistare</a>"
 			],
 			"nl": [
 				"<a href=\"/updates/\">Live status en patchnotes</a>",
-				"<a href=\"/updates/\">Undetected cheats gids</a>",
-				"<a href=\"/updates/\">Ricochet onderhoud</a>",
+				"<a href=\"/updates/\">Reliable cheats gids</a>",
+				"<a href=\"/updates/\">VAC onderhoud</a>",
 				"<a href=\"/faq/\">FAQ voor aankoop</a>"
 			],
 			"pl": [
 				"<a href=\"/updates/\">Status na żywo i notatki patch</a>",
-				"<a href=\"/updates/\">Przewodnik cheatów undetected</a>",
-				"<a href=\"/updates/\">Konserwacja Ricochet</a>",
+				"<a href=\"/updates/\">Przewodnik cheatów reliable</a>",
+				"<a href=\"/updates/\">Konserwacja VAC</a>",
 				"<a href=\"/faq/\">FAQ przed zakupem</a>"
 			],
 			"ru": [
 				"<a href=\"/updates/\">Статус онлайн и патч-ноуты</a>",
-				"<a href=\"/updates/\">Гайд undetected читов</a>",
-				"<a href=\"/updates/\">Обслуживание Ricochet</a>",
+				"<a href=\"/updates/\">Гайд reliable читов</a>",
+				"<a href=\"/updates/\">Обслуживание VAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкой</a>"
 			],
 			"tr": [
 				"<a href=\"/updates/\">Canlı durum ve yama notları</a>",
-				"<a href=\"/updates/\">Undetected hile rehberi</a>",
-				"<a href=\"/updates/\">Ricochet bakımı</a>",
+				"<a href=\"/updates/\">Reliable hile rehberi</a>",
+				"<a href=\"/updates/\">VAC bakımı</a>",
 				"<a href=\"/faq/\">Satın almadan önce SSS</a>"
 			],
 			"ar": [
 				"<a href=\"/updates/\">الحالة المباشرة وملاحظات التصحيح</a>",
 				"<a href=\"/updates/\">دليل الغش غير المكتشف</a>",
-				"<a href=\"/updates/\">صيانة Ricochet</a>",
+				"<a href=\"/updates/\">صيانة VAC</a>",
 				"<a href=\"/faq/\">الأسئلة الشائعة قبل الشراء</a>"
 			],
 			"ja": [
 				"<a href=\"/updates/\">ライブステータスとパッチノート</a>",
-				"<a href=\"/updates/\">Undetectedチートガイド</a>",
-				"<a href=\"/updates/\">Ricochetメンテナンス</a>",
+				"<a href=\"/updates/\">Reliableチートガイド</a>",
+				"<a href=\"/updates/\">VACメンテナンス</a>",
 				"<a href=\"/faq/\">購入前FAQ</a>"
 			],
 			"ko": [
 				"<a href=\"/updates/\">실시간 상태 및 패치 노트</a>",
-				"<a href=\"/updates/\">Undetected 치트 가이드</a>",
-				"<a href=\"/updates/\">Ricochet 유지보수</a>",
+				"<a href=\"/updates/\">Reliable 치트 가이드</a>",
+				"<a href=\"/updates/\">VAC 유지보수</a>",
 				"<a href=\"/faq/\">구매 전 FAQ</a>"
 			],
 			"zh": [
 				"<a href=\"/updates/\">实时状态和补丁说明</a>",
-				"<a href=\"/updates/\">Undetected作弊指南</a>",
-				"<a href=\"/updates/\">Ricochet维护</a>",
+				"<a href=\"/updates/\">Reliable作弊指南</a>",
+				"<a href=\"/updates/\">VAC维护</a>",
 				"<a href=\"/faq/\">购买前常见问题</a>"
 			],
 			"hi": [
 				"<a href=\"/updates/\">लाइव स्टेटस और पैच नोट्स</a>",
-				"<a href=\"/updates/\">Undetected cheats गाइड</a>",
-				"<a href=\"/updates/\">Ricochet रखरखाव</a>",
+				"<a href=\"/updates/\">Reliable cheats गाइड</a>",
+				"<a href=\"/updates/\">VAC रखरखाव</a>",
 				"<a href=\"/faq/\">खरीदने से पहले FAQ</a>"
 			],
 			"id": [
 				"<a href=\"/updates/\">Status langsung & catatan patch</a>",
-				"<a href=\"/updates/\">Panduan cheat undetected</a>",
-				"<a href=\"/updates/\">Pemeliharaan Ricochet</a>",
+				"<a href=\"/updates/\">Panduan cheat reliable</a>",
+				"<a href=\"/updates/\">Pemeliharaan VAC</a>",
 				"<a href=\"/faq/\">FAQ sebelum membeli</a>"
 			],
 			"th": [
 				"<a href=\"/updates/\">สถานะสดและบันทึกแพตช์</a>",
-				"<a href=\"/updates/\">คู่มือ cheat undetected</a>",
-				"<a href=\"/updates/\">การดูแล Ricochet</a>",
+				"<a href=\"/updates/\">คู่มือ cheat reliable</a>",
+				"<a href=\"/updates/\">การดูแล VAC</a>",
 				"<a href=\"/faq/\">FAQ ก่อนซื้อ</a>"
 			],
 			"vi": [
 				"<a href=\"/updates/\">Trạng thái trực tiếp & ghi chú bản vá</a>",
-				"<a href=\"/updates/\">Hướng dẫn cheat undetected</a>",
-				"<a href=\"/updates/\">Bảo trì Ricochet</a>",
+				"<a href=\"/updates/\">Hướng dẫn cheat reliable</a>",
+				"<a href=\"/updates/\">Bảo trì VAC</a>",
 				"<a href=\"/faq/\">FAQ trước khi mua</a>"
 			],
 			"uk": [
 				"<a href=\"/updates/\">Статус онлайн і патч-ноти</a>",
-				"<a href=\"/updates/\">Гайд undetected чітів</a>",
-				"<a href=\"/updates/\">Обслуговування Ricochet</a>",
+				"<a href=\"/updates/\">Гайд reliable чітів</a>",
+				"<a href=\"/updates/\">Обслуговування VAC</a>",
 				"<a href=\"/faq/\">FAQ перед покупкою</a>"
 			],
 			"cs": [
 				"<a href=\"/updates/\">Živý stav a patch poznámky</a>",
-				"<a href=\"/updates/\">Průvodce undetected cheaty</a>",
-				"<a href=\"/updates/\">Údržba Ricochet</a>",
+				"<a href=\"/updates/\">Průvodce reliable cheaty</a>",
+				"<a href=\"/updates/\">Údržba VAC</a>",
 				"<a href=\"/faq/\">FAQ před nákupem</a>"
 			],
 			"ro": [
 				"<a href=\"/updates/\">Status live și note patch</a>",
-				"<a href=\"/updates/\">Ghid cheats undetected</a>",
-				"<a href=\"/updates/\">Mentenanță Ricochet</a>",
+				"<a href=\"/updates/\">Ghid cheats reliable</a>",
+				"<a href=\"/updates/\">Mentenanță VAC</a>",
 				"<a href=\"/faq/\">FAQ înainte de cumpărare</a>"
 			],
 			"sv": [
 				"<a href=\"/updates/\">Livestatus och patchanteckningar</a>",
-				"<a href=\"/updates/\">Undetected cheats-guide</a>",
-				"<a href=\"/updates/\">Ricochet-underhåll</a>",
+				"<a href=\"/updates/\">Reliable cheats-guide</a>",
+				"<a href=\"/updates/\">VAC-underhåll</a>",
 				"<a href=\"/faq/\">FAQ innan köp</a>"
 			]
 		},
@@ -2127,7 +2127,7 @@ export const PAGE_CONTENT = {
 			]
 		}
 	},
-	"warzone-esp": {
+	"dota2-esp": {
 		"0": {
 			"en": [
 				"Boxes, distance, and filters for players, objects, and weapon drops.",
@@ -2337,70 +2337,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"See players and weapon drops through walls during Call of Duty: Warzone matches. Part of the same Warzone Cheats license."
+				"See players and weapon drops through walls during Dota 2 matches. Part of the same Dota 2 Cheats license."
 			],
 			"es": [
-				"Ve jugadores y weapon drops a través de las paredes durante matches de Call of Duty: Warzone. Parte de la misma licencia Warzone Cheats."
+				"Ve jugadores y weapon drops a través de las paredes durante matches de Dota 2. Parte de la misma licencia Dota 2 Cheats."
 			],
 			"fr": [
-				"Voyez joueurs et weapon drops à travers les murs pendant les matches Call of Duty: Warzone. Inclus dans la même licence Warzone Cheats."
+				"Voyez joueurs et weapon drops à travers les murs pendant les matches Dota 2. Inclus dans la même licence Dota 2 Cheats."
 			],
 			"de": [
-				"Sieh Spieler und Weapon drops durch Wände bei Call of Duty: Warzone matches. Teil derselben Warzone Cheats-Lizenz."
+				"Sieh Spieler und Weapon drops durch Wände bei Dota 2 matches. Teil derselben Dota 2 Cheats-Lizenz."
 			],
 			"pt": [
-				"Veja jogadores e weapon drops através das paredes em matches de Call of Duty: Warzone. Parte da mesma licença Warzone Cheats."
+				"Veja jogadores e weapon drops através das paredes em matches de Dota 2. Parte da mesma licença Dota 2 Cheats."
 			],
 			"it": [
-				"Vedi giocatori e weapon drops attraverso i muri durante i match Call of Duty: Warzone. Parte della stessa licenza Warzone Cheats."
+				"Vedi giocatori e weapon drops attraverso i muri durante i match Dota 2. Parte della stessa licenza Dota 2 Cheats."
 			],
 			"nl": [
-				"Zie spelers en weapon drops door muren tijdens Call of Duty: Warzone matches. Onderdeel van dezelfde Warzone Cheats-licentie."
+				"Zie spelers en weapon drops door muren tijdens Dota 2 matches. Onderdeel van dezelfde Dota 2 Cheats-licentie."
 			],
 			"pl": [
-				"Widz graczy i weapon drops przez ściany podczas matchów Call of Duty: Warzone. Część tej samej licencji Warzone Cheats."
+				"Widz graczy i weapon drops przez ściany podczas matchów Dota 2. Część tej samej licencji Dota 2 Cheats."
 			],
 			"ru": [
-				"Видьте игроков и лут сквозь стены в рейдах Call of Duty: Warzone. Часть той же лицензии Warzone Cheats."
+				"Видьте игроков и лут сквозь стены в рейдах Dota 2. Часть той же лицензии Dota 2 Cheats."
 			],
 			"tr": [
-				"Call of Duty: Warzone matchlerinde duvarların ardından oyuncuları ve weapon drops'u görün. Aynı Warzone Cheats lisansının parçası."
+				"Dota 2 matchlerinde duvarların ardından oyuncuları ve weapon drops'u görün. Aynı Dota 2 Cheats lisansının parçası."
 			],
 			"ar": [
-				"شاهد اللاعبين والweapon drops عبر الجدران أثناء matches في Call of Duty: Warzone. جزء من نفس ترخيص Warzone Cheats."
+				"شاهد اللاعبين والweapon drops عبر الجدران أثناء matches في Dota 2. جزء من نفس ترخيص Dota 2 Cheats."
 			],
 			"ja": [
-				"Call of Duty: Warzoneレイド中に壁越しでプレイヤーとweapon dropsを確認。同じWarzone Cheatsライセンスに含まれます。"
+				"Dota 2レイド中に壁越しでプレイヤーとweapon dropsを確認。同じDota 2 Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Call of Duty: Warzone 레이드 중 벽 너머로 플레이어와 weapon drops를 확인하세요. 동일 Warzone Cheats 라이선스에 포함됩니다."
+				"Dota 2 레이드 중 벽 너머로 플레이어와 weapon drops를 확인하세요. 동일 Dota 2 Cheats 라이선스에 포함됩니다."
 			],
 			"zh": [
-				"在 Call of Duty: Warzone match 中透视玩家和物资。包含在同一 Warzone Cheats 许可证中。"
+				"在 Dota 2 match 中透视玩家和物资。包含在同一 Dota 2 Cheats 许可证中。"
 			],
 			"hi": [
-				"Call of Duty: Warzone matches में दीवारों के पार players और weapon drops देखें। उसी Warzone Cheats लाइसेंस का हिस्सा।"
+				"Dota 2 matches में दीवारों के पार players और weapon drops देखें। उसी Dota 2 Cheats लाइसेंस का हिस्सा।"
 			],
 			"id": [
-				"Lihat pemain dan weapon drops menembus dinding saat match Call of Duty: Warzone. Bagian dari lisensi Warzone Cheats yang sama."
+				"Lihat pemain dan weapon drops menembus dinding saat match Dota 2. Bagian dari lisensi Dota 2 Cheats yang sama."
 			],
 			"th": [
-				"มองเห็นผู้เล่นและ weapon drops ผ่านกำแพงระหว่าง match ใน Call of Duty: Warzone ส่วนหนึ่งของใบอนุญาต Warzone Cheats เดียวกัน"
+				"มองเห็นผู้เล่นและ weapon drops ผ่านกำแพงระหว่าง match ใน Dota 2 ส่วนหนึ่งของใบอนุญาต Dota 2 Cheats เดียวกัน"
 			],
 			"vi": [
-				"Nhìn xuyên tường thấy người chơi và weapon drops khi match Call of Duty: Warzone. Thuộc cùng giấy phép Warzone Cheats."
+				"Nhìn xuyên tường thấy người chơi và weapon drops khi match Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
 			],
 			"uk": [
-				"Бачте гравців і weapon drops крізь стіни під час match у Call of Duty: Warzone. Частина тієї самої ліцензії Warzone Cheats."
+				"Бачте гравців і weapon drops крізь стіни під час match у Dota 2. Частина тієї самої ліцензії Dota 2 Cheats."
 			],
 			"cs": [
-				"Vidíte hráče a weapon drops skrz zdi během matchů Call of Duty: Warzone. Součást stejné licence Warzone Cheats."
+				"Vidíte hráče a weapon drops skrz zdi během matchů Dota 2. Součást stejné licence Dota 2 Cheats."
 			],
 			"ro": [
-				"Vezi jucători și weapon drops prin pereți în match-uri Call of Duty: Warzone. Parte din aceeași licență Warzone Cheats."
+				"Vezi jucători și weapon drops prin pereți în match-uri Dota 2. Parte din aceeași licență Dota 2 Cheats."
 			],
 			"sv": [
-				"Se spelare och weapon drops genom väggar under Call of Duty: Warzone matches. Ingår i samma Warzone Cheats-licens."
+				"Se spelare och weapon drops genom väggar under Dota 2 matches. Ingår i samma Dota 2 Cheats-licens."
 			]
 		},
 		"list0": {
@@ -2740,7 +2740,7 @@ export const PAGE_CONTENT = {
 			]
 		}
 	},
-	"warzone-aimbot": {
+	"dota2-aimbot": {
 		"0": {
 			"en": [
 				"Set FOV, smoothness, and bone priority before you queue.",
@@ -2950,70 +2950,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Soft aim and aim assist you can tune for Call of Duty: Warzone. Included in the same Warzone Cheats license."
+				"Soft aim and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license."
 			],
 			"es": [
-				"Soft aim y asistencia de puntería que puedes ajustar para Call of Duty: Warzone. Incluido en la misma licencia Warzone Cheats."
+				"Soft aim y asistencia de puntería que puedes ajustar para Dota 2. Incluido en la misma licencia Dota 2 Cheats."
 			],
 			"fr": [
-				"Soft aim et aide à la visée réglables pour Call of Duty: Warzone. Inclus dans la même licence Warzone Cheats."
+				"Soft aim et aide à la visée réglables pour Dota 2. Inclus dans la même licence Dota 2 Cheats."
 			],
 			"de": [
-				"Soft Aim und Zielhilfe, die du für Call of Duty: Warzone einstellen kannst. In derselben Warzone Cheats-Lizenz enthalten."
+				"Soft Aim und Zielhilfe, die du für Dota 2 einstellen kannst. In derselben Dota 2 Cheats-Lizenz enthalten."
 			],
 			"pt": [
-				"Soft aim e assistência de mira ajustáveis para Call of Duty: Warzone. Incluído na mesma licença Warzone Cheats."
+				"Soft aim e assistência de mira ajustáveis para Dota 2. Incluído na mesma licença Dota 2 Cheats."
 			],
 			"it": [
-				"Soft aim e assistenza mira regolabili per Call of Duty: Warzone. Incluso nella stessa licenza Warzone Cheats."
+				"Soft aim e assistenza mira regolabili per Dota 2. Incluso nella stessa licenza Dota 2 Cheats."
 			],
 			"nl": [
-				"Soft aim en richt-hulp die je voor Call of Duty: Warzone kunt afstellen. Inbegrepen in dezelfde Warzone Cheats-licentie."
+				"Soft aim en richt-hulp die je voor Dota 2 kunt afstellen. Inbegrepen in dezelfde Dota 2 Cheats-licentie."
 			],
 			"pl": [
-				"Soft aim i asysta celowania do ustawienia w Call of Duty: Warzone. W tej samej licencji Warzone Cheats."
+				"Soft aim i asysta celowania do ustawienia w Dota 2. W tej samej licencji Dota 2 Cheats."
 			],
 			"ru": [
-				"Soft aim и помощь прицеливания, настраиваемые для Call of Duty: Warzone. Включено в ту же лицензию Warzone Cheats."
+				"Soft aim и помощь прицеливания, настраиваемые для Dota 2. Включено в ту же лицензию Dota 2 Cheats."
 			],
 			"tr": [
-				"Call of Duty: Warzone için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Warzone Cheats lisansına dahil."
+				"Dota 2 için ayarlayabileceğiniz soft aim ve nişan desteği. Aynı Dota 2 Cheats lisansına dahil."
 			],
 			"ar": [
-				"Soft aim ومساعدة تصويب قابلة للضبط لـ Call of Duty: Warzone. مضمن في نفس ترخيص Warzone Cheats."
+				"Soft aim ومساعدة تصويب قابلة للضبط لـ Dota 2. مضمن في نفس ترخيص Dota 2 Cheats."
 			],
 			"ja": [
-				"Call of Duty: Warzone向けに調整できるsoft aimとエイム支援。同じWarzone Cheatsライセンスに含まれます。"
+				"Dota 2向けに調整できるsoft aimとエイム支援。同じDota 2 Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"Call of Duty: Warzone용으로 조절 가능한 soft aim 및 에임 보조. 동일 Warzone Cheats 라이선스에 포함."
+				"Dota 2용으로 조절 가능한 soft aim 및 에임 보조. 동일 Dota 2 Cheats 라이선스에 포함."
 			],
 			"zh": [
-				"可为 Call of Duty: Warzone 调节的 soft aim 和瞄准辅助。包含在同一 Warzone Cheats 许可证中。"
+				"可为 Dota 2 调节的 soft aim 和瞄准辅助。包含在同一 Dota 2 Cheats 许可证中。"
 			],
 			"hi": [
-				"Call of Duty: Warzone के लिए ट्यून करने योग्य soft aim और aim assist। उसी Warzone Cheats लाइसेंस में शामिल।"
+				"Dota 2 के लिए ट्यून करने योग्य soft aim और aim assist। उसी Dota 2 Cheats लाइसेंस में शामिल।"
 			],
 			"id": [
-				"Soft aim dan bantuan aim yang bisa disesuaikan untuk Call of Duty: Warzone. Termasuk dalam lisensi Warzone Cheats yang sama."
+				"Soft aim dan bantuan aim yang bisa disesuaikan untuk Dota 2. Termasuk dalam lisensi Dota 2 Cheats yang sama."
 			],
 			"th": [
-				"Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Call of Duty: Warzone รวมในใบอนุญาต Warzone Cheats เดียวกัน"
+				"Soft aim และการช่วยเล็งที่ปรับได้สำหรับ Dota 2 รวมในใบอนุญาต Dota 2 Cheats เดียวกัน"
 			],
 			"vi": [
-				"Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Call of Duty: Warzone. Thuộc cùng giấy phép Warzone Cheats."
+				"Soft aim và hỗ trợ ngắm có thể tinh chỉnh cho Dota 2. Thuộc cùng giấy phép Dota 2 Cheats."
 			],
 			"uk": [
-				"Soft aim і допомога прицілювання, які можна налаштувати для Call of Duty: Warzone. У тій самій ліцензії Warzone Cheats."
+				"Soft aim і допомога прицілювання, які можна налаштувати для Dota 2. У тій самій ліцензії Dota 2 Cheats."
 			],
 			"cs": [
-				"Soft aim a aim assist nastavitelný pro Call of Duty: Warzone. Součást stejné licence Warzone Cheats."
+				"Soft aim a aim assist nastavitelný pro Dota 2. Součást stejné licence Dota 2 Cheats."
 			],
 			"ro": [
-				"Soft aim și asistență țintire reglabile pentru Call of Duty: Warzone. Inclus în aceeași licență Warzone Cheats."
+				"Soft aim și asistență țintire reglabile pentru Dota 2. Inclus în aceeași licență Dota 2 Cheats."
 			],
 			"sv": [
-				"Soft aim och siktehjälp du kan ställa in för Call of Duty: Warzone. Ingår i samma Warzone Cheats-licens."
+				"Soft aim och siktehjälp du kan ställa in för Dota 2. Ingår i samma Dota 2 Cheats-licens."
 			]
 		},
 		"list0": {
@@ -3494,70 +3494,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"A simple 2D radar for threats outside your view. Included in the same Warzone Cheats license."
+				"A simple 2D radar for threats outside your view. Included in the same Dota 2 Cheats license."
 			],
 			"es": [
-				"Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Warzone Cheats."
+				"Un radar 2D simple para amenazas fuera de tu vista. Incluido en la misma licencia Dota 2 Cheats."
 			],
 			"fr": [
-				"Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Warzone Cheats."
+				"Un radar 2D simple pour les menaces hors champ. Inclus dans la même licence Dota 2 Cheats."
 			],
 			"de": [
-				"Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Warzone Cheats-Lizenz enthalten."
+				"Ein einfaches 2D-Radar für Bedrohungen außerhalb deines Sichtfelds. In derselben Dota 2 Cheats-Lizenz enthalten."
 			],
 			"pt": [
-				"Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Warzone Cheats."
+				"Um radar 2D simples para ameaças fora da sua visão. Incluído na mesma licença Dota 2 Cheats."
 			],
 			"it": [
-				"Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Warzone Cheats."
+				"Un radar 2D semplice per minacce fuori vista. Incluso nella stessa licenza Dota 2 Cheats."
 			],
 			"nl": [
-				"Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Warzone Cheats-licentie."
+				"Een eenvoudige 2D-radar voor dreigingen buiten beeld. Inbegrepen in dezelfde Dota 2 Cheats-licentie."
 			],
 			"pl": [
-				"Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Warzone Cheats."
+				"Prosty radar 2D na zagrożenia poza widokiem. W tej samej licencji Dota 2 Cheats."
 			],
 			"ru": [
-				"Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Warzone Cheats."
+				"Простой 2D radar для угроз вне поля зрения. Включён в ту же лицензию Dota 2 Cheats."
 			],
 			"tr": [
-				"Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Warzone Cheats lisansına dahil."
+				"Görüş alanı dışındaki tehditler için basit 2D radar. Aynı Dota 2 Cheats lisansına dahil."
 			],
 			"ar": [
-				"radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Warzone Cheats."
+				"radar 2D بسيط للتهديدات خارج مجال رؤيتك. مضمن في نفس ترخيص Dota 2 Cheats."
 			],
 			"ja": [
-				"視界外の脅威向けシンプル2D radar。同じWarzone Cheatsライセンスに含まれます。"
+				"視界外の脅威向けシンプル2D radar。同じDota 2 Cheatsライセンスに含まれます。"
 			],
 			"ko": [
-				"시야 밖 위협을 위한 간단한 2D radar. 동일 Warzone Cheats 라이선스에 포함."
+				"시야 밖 위협을 위한 간단한 2D radar. 동일 Dota 2 Cheats 라이선스에 포함."
 			],
 			"zh": [
-				"用于屏幕外威胁的简单 2D radar。包含在同一 Warzone Cheats 许可证中。"
+				"用于屏幕外威胁的简单 2D radar。包含在同一 Dota 2 Cheats 许可证中。"
 			],
 			"hi": [
-				"आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Warzone Cheats लाइसेंस में शामिल।"
+				"आपकी दृष्टि से बाहर threats के लिए सरल 2D radar। उसी Dota 2 Cheats लाइसेंस में शामिल।"
 			],
 			"id": [
-				"Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Warzone Cheats yang sama."
+				"Radar 2D sederhana untuk ancaman di luar pandangan. Termasuk dalam lisensi Dota 2 Cheats yang sama."
 			],
 			"th": [
-				"radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Warzone Cheats เดียวกัน"
+				"radar 2D เรียบง่ายสำหรับภัยคุกคามนอกสายตา รวมในใบอนุญาต Dota 2 Cheats เดียวกัน"
 			],
 			"vi": [
-				"Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Warzone Cheats."
+				"Radar 2D đơn giản cho mối đe dọa ngoài tầm nhìn. Thuộc cùng giấy phép Dota 2 Cheats."
 			],
 			"uk": [
-				"Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Warzone Cheats."
+				"Простий 2D radar для загроз поза полем зору. У тій самій ліцензії Dota 2 Cheats."
 			],
 			"cs": [
-				"Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Warzone Cheats."
+				"Jednoduchý 2D radar pro hrozby mimo dohled. Součást stejné licence Dota 2 Cheats."
 			],
 			"ro": [
-				"Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Warzone Cheats."
+				"Radar 2D simplu pentru amenințări în afara vederii. Inclus în aceeași licență Dota 2 Cheats."
 			],
 			"sv": [
-				"En enkel 2D-radar för hot utanför synfältet. Ingår i samma Warzone Cheats-licens."
+				"En enkel 2D-radar för hot utanför synfältet. Ingår i samma Dota 2 Cheats-licens."
 			]
 		},
 		"list0": {
@@ -3674,112 +3674,112 @@ export const PAGE_CONTENT = {
 		},
 		"list1": {
 			"en": [
-				"<a href=\"/warzone-esp/\">ESP guide</a>",
+				"<a href=\"/dota2-esp/\">ESP guide</a>",
 				"<a href=\"/\">Full product</a>",
 				"<a href=\"/pricing/\">Store</a>"
 			],
 			"es": [
-				"<a href=\"/warzone-esp/\">Guía ESP</a>",
+				"<a href=\"/dota2-esp/\">Guía ESP</a>",
 				"<a href=\"/\">Producto completo</a>",
 				"<a href=\"/pricing/\">Tienda</a>"
 			],
 			"fr": [
-				"<a href=\"/warzone-esp/\">Guide ESP</a>",
+				"<a href=\"/dota2-esp/\">Guide ESP</a>",
 				"<a href=\"/\">Produit complet</a>",
 				"<a href=\"/pricing/\">Boutique</a>"
 			],
 			"de": [
-				"<a href=\"/warzone-esp/\">ESP-Guide</a>",
+				"<a href=\"/dota2-esp/\">ESP-Guide</a>",
 				"<a href=\"/\">Vollständiges Produkt</a>",
 				"<a href=\"/pricing/\">Shop</a>"
 			],
 			"pt": [
-				"<a href=\"/warzone-esp/\">Guia ESP</a>",
+				"<a href=\"/dota2-esp/\">Guia ESP</a>",
 				"<a href=\"/\">Produto completo</a>",
 				"<a href=\"/pricing/\">Loja</a>"
 			],
 			"it": [
-				"<a href=\"/warzone-esp/\">Guida ESP</a>",
+				"<a href=\"/dota2-esp/\">Guida ESP</a>",
 				"<a href=\"/\">Prodotto completo</a>",
 				"<a href=\"/pricing/\">Negozio</a>"
 			],
 			"nl": [
-				"<a href=\"/warzone-esp/\">ESP-gids</a>",
+				"<a href=\"/dota2-esp/\">ESP-gids</a>",
 				"<a href=\"/\">Volledig product</a>",
 				"<a href=\"/pricing/\">Winkel</a>"
 			],
 			"pl": [
-				"<a href=\"/warzone-esp/\">Przewodnik ESP</a>",
+				"<a href=\"/dota2-esp/\">Przewodnik ESP</a>",
 				"<a href=\"/\">Pełny produkt</a>",
 				"<a href=\"/pricing/\">Sklep</a>"
 			],
 			"ru": [
-				"<a href=\"/warzone-esp/\">Гайд ESP</a>",
+				"<a href=\"/dota2-esp/\">Гайд ESP</a>",
 				"<a href=\"/\">Полный продукт</a>",
 				"<a href=\"/pricing/\">Магазин</a>"
 			],
 			"tr": [
-				"<a href=\"/warzone-esp/\">ESP rehberi</a>",
+				"<a href=\"/dota2-esp/\">ESP rehberi</a>",
 				"<a href=\"/\">Tam ürün</a>",
 				"<a href=\"/pricing/\">Mağaza</a>"
 			],
 			"ar": [
-				"<a href=\"/warzone-esp/\">دليل ESP</a>",
+				"<a href=\"/dota2-esp/\">دليل ESP</a>",
 				"<a href=\"/\">المنتج الكامل</a>",
 				"<a href=\"/pricing/\">المتجر</a>"
 			],
 			"ja": [
-				"<a href=\"/warzone-esp/\">ESPガイド</a>",
+				"<a href=\"/dota2-esp/\">ESPガイド</a>",
 				"<a href=\"/\">製品全体</a>",
 				"<a href=\"/pricing/\">ストア</a>"
 			],
 			"ko": [
-				"<a href=\"/warzone-esp/\">ESP 가이드</a>",
+				"<a href=\"/dota2-esp/\">ESP 가이드</a>",
 				"<a href=\"/\">전체 제품</a>",
 				"<a href=\"/pricing/\">스토어</a>"
 			],
 			"zh": [
-				"<a href=\"/warzone-esp/\">ESP指南</a>",
+				"<a href=\"/dota2-esp/\">ESP指南</a>",
 				"<a href=\"/\">完整产品</a>",
 				"<a href=\"/pricing/\">商店</a>"
 			],
 			"hi": [
-				"<a href=\"/warzone-esp/\">ESP गाइड</a>",
+				"<a href=\"/dota2-esp/\">ESP गाइड</a>",
 				"<a href=\"/\">पूरा उत्पाद</a>",
 				"<a href=\"/pricing/\">स्टोर</a>"
 			],
 			"id": [
-				"<a href=\"/warzone-esp/\">Panduan ESP</a>",
+				"<a href=\"/dota2-esp/\">Panduan ESP</a>",
 				"<a href=\"/\">Produk lengkap</a>",
 				"<a href=\"/pricing/\">Toko</a>"
 			],
 			"th": [
-				"<a href=\"/warzone-esp/\">คู่มือ ESP</a>",
+				"<a href=\"/dota2-esp/\">คู่มือ ESP</a>",
 				"<a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a>",
 				"<a href=\"/pricing/\">ร้านค้า</a>"
 			],
 			"vi": [
-				"<a href=\"/warzone-esp/\">Hướng dẫn ESP</a>",
+				"<a href=\"/dota2-esp/\">Hướng dẫn ESP</a>",
 				"<a href=\"/\">Sản phẩm đầy đủ</a>",
 				"<a href=\"/pricing/\">Cửa hàng</a>"
 			],
 			"uk": [
-				"<a href=\"/warzone-esp/\">Гайд ESP</a>",
+				"<a href=\"/dota2-esp/\">Гайд ESP</a>",
 				"<a href=\"/\">Повний продукт</a>",
 				"<a href=\"/pricing/\">Магазин</a>"
 			],
 			"cs": [
-				"<a href=\"/warzone-esp/\">Průvodce ESP</a>",
+				"<a href=\"/dota2-esp/\">Průvodce ESP</a>",
 				"<a href=\"/\">Kompletní produkt</a>",
 				"<a href=\"/pricing/\">Obchod</a>"
 			],
 			"ro": [
-				"<a href=\"/warzone-esp/\">Ghid ESP</a>",
+				"<a href=\"/dota2-esp/\">Ghid ESP</a>",
 				"<a href=\"/\">Produs complet</a>",
 				"<a href=\"/pricing/\">Magazin</a>"
 			],
 			"sv": [
-				"<a href=\"/warzone-esp/\">ESP-guide</a>",
+				"<a href=\"/dota2-esp/\">ESP-guide</a>",
 				"<a href=\"/\">Fullständig produkt</a>",
 				"<a href=\"/pricing/\">Butik</a>"
 			]
@@ -3790,7 +3790,7 @@ export const PAGE_CONTENT = {
 			"en": [
 				"Buy a plan first. You get a license by email.",
 				"Have your order email ready before you start installation.",
-				"Warzone Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy competitive fights."
+				"Dota 2 Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy competitive fights."
 			],
 			"es": [
 				"Compra un plan primero. Recibes la licencia por email."
@@ -3858,140 +3858,140 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Run the loader as admin, paste your license, then launch Call of Duty: Warzone.",
+				"Run the loader as admin, paste your license, then launch Dota 2.",
 				"Download the loader from your delivery email and follow the steps in order."
 			],
 			"es": [
-				"Ejecuta el loader como admin, pega tu licencia y lanza Call of Duty: Warzone."
+				"Ejecuta el loader como admin, pega tu licencia y lanza Dota 2."
 			],
 			"fr": [
-				"Lancez le loader en admin, collez votre licence puis lancez Call of Duty: Warzone."
+				"Lancez le loader en admin, collez votre licence puis lancez Dota 2."
 			],
 			"de": [
-				"Loader als Admin starten, Lizenz einfügen, dann Call of Duty: Warzone starten."
+				"Loader als Admin starten, Lizenz einfügen, dann Dota 2 starten."
 			],
 			"pt": [
-				"Execute o loader como admin, cole a licença e inicie Call of Duty: Warzone."
+				"Execute o loader como admin, cole a licença e inicie Dota 2."
 			],
 			"it": [
-				"Avvia il loader come admin, incolla la licenza e lancia Call of Duty: Warzone."
+				"Avvia il loader come admin, incolla la licenza e lancia Dota 2."
 			],
 			"nl": [
-				"Start loader als admin, plak licentie, start Call of Duty: Warzone."
+				"Start loader als admin, plak licentie, start Dota 2."
 			],
 			"pl": [
-				"Uruchom loader jako admin, wklej licencję, uruchom Call of Duty: Warzone."
+				"Uruchom loader jako admin, wklej licencję, uruchom Dota 2."
 			],
 			"ru": [
-				"Запустите loader от админа, вставьте лицензию, запустите Call of Duty: Warzone."
+				"Запустите loader от админа, вставьте лицензию, запустите Dota 2."
 			],
 			"tr": [
-				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Call of Duty: Warzone'ı başlatın."
+				"Loader'ı yönetici olarak çalıştırın, lisansı yapıştırın, Dota 2'ı başlatın."
 			],
 			"ar": [
-				"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Call of Duty: Warzone."
+				"شغّل loader كمسؤول، الصق الترخيص، ثم شغّل Dota 2."
 			],
 			"ja": [
-				"loaderを管理者実行、ライセンス貼り付け、Call of Duty: Warzone起動。"
+				"loaderを管理者実行、ライセンス貼り付け、Dota 2起動。"
 			],
 			"ko": [
-				"loader를 관리자로 실행, 라이선스 붙여넣기, Call of Duty: Warzone 실행."
+				"loader를 관리자로 실행, 라이선스 붙여넣기, Dota 2 실행."
 			],
 			"zh": [
-				"以管理员身份运行 loader，粘贴许可证，启动 Call of Duty: Warzone。"
+				"以管理员身份运行 loader，粘贴许可证，启动 Dota 2。"
 			],
 			"hi": [
-				"Loader admin के रूप में चलाएँ, license paste करें, Call of Duty: Warzone launch करें।"
+				"Loader admin के रूप में चलाएँ, license paste करें, Dota 2 launch करें।"
 			],
 			"id": [
-				"Jalankan loader sebagai admin, tempel lisensi, lalu buka Call of Duty: Warzone."
+				"Jalankan loader sebagai admin, tempel lisensi, lalu buka Dota 2."
 			],
 			"th": [
-				"รัน loader แบบ admin วางใบอนุญาต แล้วเปิด Call of Duty: Warzone"
+				"รัน loader แบบ admin วางใบอนุญาต แล้วเปิด Dota 2"
 			],
 			"vi": [
-				"Chạy loader quyền admin, dán giấy phép, khởi động Call of Duty: Warzone."
+				"Chạy loader quyền admin, dán giấy phép, khởi động Dota 2."
 			],
 			"uk": [
-				"Запустіть loader від адміна, вставте ліцензію, запустіть Call of Duty: Warzone."
+				"Запустіть loader від адміна, вставте ліцензію, запустіть Dota 2."
 			],
 			"cs": [
-				"Spusťte loader jako admin, vložte licenci, spusťte Call of Duty: Warzone."
+				"Spusťte loader jako admin, vložte licenci, spusťte Dota 2."
 			],
 			"ro": [
-				"Rulează loader ca admin, lipește licența, lansează Call of Duty: Warzone."
+				"Rulează loader ca admin, lipește licența, lansează Dota 2."
 			],
 			"sv": [
-				"Kör loader som admin, klistra in licens, starta Call of Duty: Warzone."
+				"Kör loader som admin, klistra in licens, starta Dota 2."
 			]
 		},
 		"2": {
 			"en": [
-				"Check Status after a patch. Email support@cheatsforwarzone.com with your order ID.",
+				"Check Status after a patch. Email support@dota2cheat.com with your order ID.",
 				"Include your Windows version and what you already tried for faster replies."
 			],
 			"es": [
-				"Revisa Estado tras un parche. Email a support@cheatsforwarzone.com con tu ID de pedido."
+				"Revisa Estado tras un parche. Email a support@dota2cheat.com con tu ID de pedido."
 			],
 			"fr": [
-				"Consultez Statut après un patch. Email support@cheatsforwarzone.com avec votre ID commande."
+				"Consultez Statut après un patch. Email support@dota2cheat.com avec votre ID commande."
 			],
 			"de": [
-				"Status nach Patch prüfen. E-Mail an support@cheatsforwarzone.com mit Bestell-ID."
+				"Status nach Patch prüfen. E-Mail an support@dota2cheat.com mit Bestell-ID."
 			],
 			"pt": [
-				"Verifique Status após patch. Email support@cheatsforwarzone.com com ID do pedido."
+				"Verifique Status após patch. Email support@dota2cheat.com com ID do pedido."
 			],
 			"it": [
-				"Controlla Stato dopo patch. Email support@cheatsforwarzone.com con ID ordine."
+				"Controlla Stato dopo patch. Email support@dota2cheat.com con ID ordine."
 			],
 			"nl": [
-				"Check Status na patch. E-mail support@cheatsforwarzone.com met order-ID."
+				"Check Status na patch. E-mail support@dota2cheat.com met order-ID."
 			],
 			"pl": [
-				"Sprawdź Status po patchu. Email support@cheatsforwarzone.com z ID zamówienia."
+				"Sprawdź Status po patchu. Email support@dota2cheat.com z ID zamówienia."
 			],
 			"ru": [
-				"Проверьте Статус после патча. Email support@cheatsforwarzone.com с ID заказа."
+				"Проверьте Статус после патча. Email support@dota2cheat.com с ID заказа."
 			],
 			"tr": [
-				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@cheatsforwarzone.com."
+				"Yama sonrası Durum kontrol edin. Sipariş ID ile support@dota2cheat.com."
 			],
 			"ar": [
-				"تحقق من الحالة بعد التصحيح. راسل support@cheatsforwarzone.com مع معرف الطلب."
+				"تحقق من الحالة بعد التصحيح. راسل support@dota2cheat.com مع معرف الطلب."
 			],
 			"ja": [
-				"パッチ後はステータス確認。注文IDを添えてsupport@cheatsforwarzone.comへ。"
+				"パッチ後はステータス確認。注文IDを添えてsupport@dota2cheat.comへ。"
 			],
 			"ko": [
-				"패치 후 상태 확인. 주문 ID와 함께 support@cheatsforwarzone.com."
+				"패치 후 상태 확인. 주문 ID와 함께 support@dota2cheat.com."
 			],
 			"zh": [
-				"补丁后查看状态。携带订单 ID 邮件 support@cheatsforwarzone.com。"
+				"补丁后查看状态。携带订单 ID 邮件 support@dota2cheat.com。"
 			],
 			"hi": [
-				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@cheatsforwarzone.com।"
+				"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@dota2cheat.com।"
 			],
 			"id": [
-				"Cek Status setelah patch. Email support@cheatsforwarzone.com dengan ID pesanan."
+				"Cek Status setelah patch. Email support@dota2cheat.com dengan ID pesanan."
 			],
 			"th": [
-				"ตรวจสถานะหลังแพตช์ อีเมล support@cheatsforwarzone.com พร้อมรหัสคำสั่งซื้อ"
+				"ตรวจสถานะหลังแพตช์ อีเมล support@dota2cheat.com พร้อมรหัสคำสั่งซื้อ"
 			],
 			"vi": [
-				"Kiểm tra Trạng thái sau bản vá. Email support@cheatsforwarzone.com kèm ID đơn."
+				"Kiểm tra Trạng thái sau bản vá. Email support@dota2cheat.com kèm ID đơn."
 			],
 			"uk": [
-				"Перевірте Статус після патчу. Email support@cheatsforwarzone.com з ID замовлення."
+				"Перевірте Статус після патчу. Email support@dota2cheat.com з ID замовлення."
 			],
 			"cs": [
-				"Po patchi zkontrolujte Stav. Email support@cheatsforwarzone.com s ID objednávky."
+				"Po patchi zkontrolujte Stav. Email support@dota2cheat.com s ID objednávky."
 			],
 			"ro": [
-				"Verifică Status după patch. Email support@cheatsforwarzone.com cu ID comandă."
+				"Verifică Status după patch. Email support@dota2cheat.com cu ID comandă."
 			],
 			"sv": [
-				"Kontrollera Status efter patch. Mejla support@cheatsforwarzone.com med order-ID."
+				"Kontrollera Status efter patch. Mejla support@dota2cheat.com med order-ID."
 			]
 		},
 		"intro": {
@@ -4402,77 +4402,77 @@ export const PAGE_CONTENT = {
 	"support": {
 		"0": {
 			"en": [
-				"Email support@cheatsforwarzone.com. Include your order ID and a short note about the issue.",
+				"Email support@dota2cheat.com. Include your order ID and a short note about the issue.",
 				"We review support requests daily for delivery, billing, and setup issues."
 			],
 			"es": [
-				"Email a support@cheatsforwarzone.com. Incluye tu ID de pedido y una nota breve sobre el problema."
+				"Email a support@dota2cheat.com. Incluye tu ID de pedido y una nota breve sobre el problema."
 			],
 			"fr": [
-				"Email support@cheatsforwarzone.com. Incluez votre ID commande et une brève note."
+				"Email support@dota2cheat.com. Incluez votre ID commande et une brève note."
 			],
 			"de": [
-				"E-Mail an support@cheatsforwarzone.com. Bestell-ID und kurze Problembeschreibung angeben."
+				"E-Mail an support@dota2cheat.com. Bestell-ID und kurze Problembeschreibung angeben."
 			],
 			"pt": [
-				"Email support@cheatsforwarzone.com. Inclua ID do pedido e nota breve sobre o problema."
+				"Email support@dota2cheat.com. Inclua ID do pedido e nota breve sobre o problema."
 			],
 			"it": [
-				"Email support@cheatsforwarzone.com. Includi ID ordine e breve nota sul problema."
+				"Email support@dota2cheat.com. Includi ID ordine e breve nota sul problema."
 			],
 			"nl": [
-				"E-mail support@cheatsforwarzone.com. Voeg order-ID en korte probleemnotitie toe."
+				"E-mail support@dota2cheat.com. Voeg order-ID en korte probleemnotitie toe."
 			],
 			"pl": [
-				"Email support@cheatsforwarzone.com. Dołącz ID zamówienia i krótki opis problemu."
+				"Email support@dota2cheat.com. Dołącz ID zamówienia i krótki opis problemu."
 			],
 			"ru": [
-				"Email support@cheatsforwarzone.com. Укажите ID заказа и краткое описание проблемы."
+				"Email support@dota2cheat.com. Укажите ID заказа и краткое описание проблемы."
 			],
 			"tr": [
-				"support@cheatsforwarzone.com adresine email. Sipariş ID ve kısa sorun notu ekleyin."
+				"support@dota2cheat.com adresine email. Sipariş ID ve kısa sorun notu ekleyin."
 			],
 			"ar": [
-				"راسل support@cheatsforwarzone.com. أرفق معرف الطلب وملاحظة قصيرة."
+				"راسل support@dota2cheat.com. أرفق معرف الطلب وملاحظة قصيرة."
 			],
 			"ja": [
-				"support@cheatsforwarzone.comへメール。注文IDと問題の概要を記載。"
+				"support@dota2cheat.comへメール。注文IDと問題の概要を記載。"
 			],
 			"ko": [
-				"support@cheatsforwarzone.com로 이메일. 주문 ID와 문제 요약 포함."
+				"support@dota2cheat.com로 이메일. 주문 ID와 문제 요약 포함."
 			],
 			"zh": [
-				"邮件 support@cheatsforwarzone.com，附上订单 ID 和简要问题说明。"
+				"邮件 support@dota2cheat.com，附上订单 ID 和简要问题说明。"
 			],
 			"hi": [
-				"support@cheatsforwarzone.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
+				"support@dota2cheat.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।"
 			],
 			"id": [
-				"Email support@cheatsforwarzone.com. Sertakan ID pesanan dan catatan singkat masalah."
+				"Email support@dota2cheat.com. Sertakan ID pesanan dan catatan singkat masalah."
 			],
 			"th": [
-				"อีเมล support@cheatsforwarzone.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
+				"อีเมล support@dota2cheat.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา"
 			],
 			"vi": [
-				"Email support@cheatsforwarzone.com kèm ID đơn và mô tả ngắn."
+				"Email support@dota2cheat.com kèm ID đơn và mô tả ngắn."
 			],
 			"uk": [
-				"Email support@cheatsforwarzone.com. Додайте ID замовлення і короткий опис проблеми."
+				"Email support@dota2cheat.com. Додайте ID замовлення і короткий опис проблеми."
 			],
 			"cs": [
-				"Email support@cheatsforwarzone.com. Uveďte ID objednávky a stručný popis problému."
+				"Email support@dota2cheat.com. Uveďte ID objednávky a stručný popis problému."
 			],
 			"ro": [
-				"Email support@cheatsforwarzone.com. Include ID comandă și notă scurtă despre problemă."
+				"Email support@dota2cheat.com. Include ID comandă și notă scurtă despre problemă."
 			],
 			"sv": [
-				"Mejla support@cheatsforwarzone.com. Inkludera order-ID och kort problembeskrivning."
+				"Mejla support@dota2cheat.com. Inkludera order-ID och kort problembeskrivning."
 			]
 		},
 		"1": {
 			"en": [
 				"Check FAQ and Status before you write. Many setup questions are already covered.",
-				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Call of Duty: Warzone channels on Activision and the <a href=\"https://www.callofduty.com/warzone\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
+				"Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Activision and the <a href=\"https://www.callofduty.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">official site</a>."
 			],
 			"es": [
 				"Revisa FAQ y Estado antes de escribir. Muchas dudas de instalación ya están cubiertas."
@@ -4540,70 +4540,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Get help with licenses, setup, and billing for Warzone Cheats on Windows PC."
+				"Get help with licenses, setup, and billing for Dota 2 Cheats on Windows PC."
 			],
 			"es": [
-				"Obtén ayuda con licencias, instalación y facturación de Warzone Cheats en Windows PC."
+				"Obtén ayuda con licencias, instalación y facturación de Dota 2 Cheats en Windows PC."
 			],
 			"fr": [
-				"Obtenez de l'aide pour licences, installation et facturation Warzone Cheats sur PC Windows."
+				"Obtenez de l'aide pour licences, installation et facturation Dota 2 Cheats sur PC Windows."
 			],
 			"de": [
-				"Hilfe zu Lizenzen, Setup und Abrechnung für Warzone Cheats auf Windows PC."
+				"Hilfe zu Lizenzen, Setup und Abrechnung für Dota 2 Cheats auf Windows PC."
 			],
 			"pt": [
-				"Obtenha ajuda com licenças, instalação e faturamento do Warzone Cheats no Windows PC."
+				"Obtenha ajuda com licenças, instalação e faturamento do Dota 2 Cheats no Windows PC."
 			],
 			"it": [
-				"Assistenza per licenze, setup e fatturazione Warzone Cheats su Windows PC."
+				"Assistenza per licenze, setup e fatturazione Dota 2 Cheats su Windows PC."
 			],
 			"nl": [
-				"Hulp bij licenties, setup en facturering voor Warzone Cheats op Windows PC."
+				"Hulp bij licenties, setup en facturering voor Dota 2 Cheats op Windows PC."
 			],
 			"pl": [
-				"Pomoc z licencjami, instalacją i rozliczeniami Warzone Cheats na Windows PC."
+				"Pomoc z licencjami, instalacją i rozliczeniami Dota 2 Cheats na Windows PC."
 			],
 			"ru": [
-				"Помощь с лицензиями, установкой и оплатой Warzone Cheats на Windows PC."
+				"Помощь с лицензиями, установкой и оплатой Dota 2 Cheats на Windows PC."
 			],
 			"tr": [
-				"Windows PC'de Warzone Cheats lisans, kurulum ve faturalama desteği."
+				"Windows PC'de Dota 2 Cheats lisans, kurulum ve faturalama desteği."
 			],
 			"ar": [
-				"احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Warzone Cheats على Windows PC."
+				"احصل على مساعدة للتراخيص والتثبيت والفوترة لـ Dota 2 Cheats على Windows PC."
 			],
 			"ja": [
-				"Windows PC向けWarzone Cheatsのライセンス、セットアップ、請求のサポート。"
+				"Windows PC向けDota 2 Cheatsのライセンス、セットアップ、請求のサポート。"
 			],
 			"ko": [
-				"Windows PC Warzone Cheats 라이선스, 설치, 결제 지원."
+				"Windows PC Dota 2 Cheats 라이선스, 설치, 결제 지원."
 			],
 			"zh": [
-				"获取 Windows PC 上 Warzone Cheats 的许可证、安装和账单帮助。"
+				"获取 Windows PC 上 Dota 2 Cheats 的许可证、安装和账单帮助。"
 			],
 			"hi": [
-				"Windows PC पर Warzone Cheats लाइसेंस, setup और billing सहायता।"
+				"Windows PC पर Dota 2 Cheats लाइसेंस, setup और billing सहायता।"
 			],
 			"id": [
-				"Bantuan lisensi, setup, dan billing Warzone Cheats di Windows PC."
+				"Bantuan lisensi, setup, dan billing Dota 2 Cheats di Windows PC."
 			],
 			"th": [
-				"ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Warzone Cheats บน Windows PC"
+				"ความช่วยเหลือด้านใบอนุญาต การติดตั้ง และการเรียกเก็บเงิน Dota 2 Cheats บน Windows PC"
 			],
 			"vi": [
-				"Hỗ trợ giấy phép, cài đặt và thanh toán Warzone Cheats trên Windows PC."
+				"Hỗ trợ giấy phép, cài đặt và thanh toán Dota 2 Cheats trên Windows PC."
 			],
 			"uk": [
-				"Допомога з ліцензіями, встановленням і оплатою Warzone Cheats на Windows PC."
+				"Допомога з ліцензіями, встановленням і оплатою Dota 2 Cheats на Windows PC."
 			],
 			"cs": [
-				"Pomoc s licencemi, instalací a fakturací Warzone Cheats na Windows PC."
+				"Pomoc s licencemi, instalací a fakturací Dota 2 Cheats na Windows PC."
 			],
 			"ro": [
-				"Ajutor pentru licențe, instalare și facturare Warzone Cheats pe Windows PC."
+				"Ajutor pentru licențe, instalare și facturare Dota 2 Cheats pe Windows PC."
 			],
 			"sv": [
-				"Hjälp med licenser, setup och fakturering för Warzone Cheats på Windows PC."
+				"Hjälp med licenser, setup och fakturering för Dota 2 Cheats på Windows PC."
 			]
 		},
 		"list0": {
@@ -4903,71 +4903,71 @@ export const PAGE_CONTENT = {
 		},
 		"1": {
 			"en": [
-				"Follow Setup after you buy. Check Status after big Call of Duty: Warzone or Ricochet patches.",
+				"Follow Setup after you buy. Check Status after big Dota 2 or VAC patches.",
 				"Maintenance rebuilds publish on the Status page when patches require updates."
 			],
 			"es": [
-				"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Call of Duty: Warzone o Ricochet."
+				"Sigue Instalación tras comprar. Revisa Estado tras parches grandes de Dota 2 o VAC."
 			],
 			"fr": [
-				"Suivez Installation après achat. Consultez Statut après gros patchs Call of Duty: Warzone ou Ricochet."
+				"Suivez Installation après achat. Consultez Statut après gros patchs Dota 2 ou VAC."
 			],
 			"de": [
-				"Folge Setup nach Kauf. Prüfe Status nach großen Call of Duty: Warzone- oder Ricochet-Patches."
+				"Folge Setup nach Kauf. Prüfe Status nach großen Dota 2- oder VAC-Patches."
 			],
 			"pt": [
-				"Siga Instalação após comprar. Verifique Status após patches grandes de Call of Duty: Warzone ou Ricochet."
+				"Siga Instalação após comprar. Verifique Status após patches grandes de Dota 2 ou VAC."
 			],
 			"it": [
-				"Segui Setup dopo l'acquisto. Controlla Stato dopo patch importanti Call of Duty: Warzone o Ricochet."
+				"Segui Setup dopo l'acquisto. Controlla Stato dopo patch importanti Dota 2 o VAC."
 			],
 			"nl": [
-				"Volg Setup na aankoop. Check Status na grote Call of Duty: Warzone- of Ricochet-patches."
+				"Volg Setup na aankoop. Check Status na grote Dota 2- of VAC-patches."
 			],
 			"pl": [
-				"Postępuj według Instalacji po zakupie. Sprawdź Status po dużych patchach Call of Duty: Warzone lub Ricochet."
+				"Postępuj według Instalacji po zakupie. Sprawdź Status po dużych patchach Dota 2 lub VAC."
 			],
 			"ru": [
-				"Следуйте Установке после покупки. Проверяйте Статус после крупных патчей Call of Duty: Warzone или Ricochet."
+				"Следуйте Установке после покупки. Проверяйте Статус после крупных патчей Dota 2 или VAC."
 			],
 			"tr": [
-				"Satın aldıktan sonra Kurulumu izleyin. Büyük Call of Duty: Warzone veya Ricochet yamalarından sonra Durumu kontrol edin."
+				"Satın aldıktan sonra Kurulumu izleyin. Büyük Dota 2 veya VAC yamalarından sonra Durumu kontrol edin."
 			],
 			"ar": [
-				"اتبع التثبيت بعد الشراء. تحقق من الحالة بعد تصحيحات Call of Duty: Warzone أو Ricochet الكبيرة."
+				"اتبع التثبيت بعد الشراء. تحقق من الحالة بعد تصحيحات Dota 2 أو VAC الكبيرة."
 			],
 			"ja": [
-				"購入後はセットアップに従い、Call of Duty: WarzoneまたはRicochet大型パッチ後はステータスを確認。"
+				"購入後はセットアップに従い、Dota 2またはVAC大型パッチ後はステータスを確認。"
 			],
 			"ko": [
-				"구매 후 설치를 따르고 Call of Duty: Warzone 또는 Ricochet 대규모 패치 후 상태를 확인하세요."
+				"구매 후 설치를 따르고 Dota 2 또는 VAC 대규모 패치 후 상태를 확인하세요."
 			],
 			"zh": [
-				"购买后按安装指南操作。Call of Duty: Warzone 或 Ricochet 重大补丁后查看状态。"
+				"购买后按安装指南操作。Dota 2 或 VAC 重大补丁后查看状态。"
 			],
 			"hi": [
-				"खरीद के बाद Setup फॉलो करें। बड़े Call of Duty: Warzone या Ricochet पैच के बाद Status जांचें।"
+				"खरीद के बाद Setup फॉलो करें। बड़े Dota 2 या VAC पैच के बाद Status जांचें।"
 			],
 			"id": [
-				"Ikuti Setup setelah beli. Cek Status setelah patch besar Call of Duty: Warzone atau Ricochet."
+				"Ikuti Setup setelah beli. Cek Status setelah patch besar Dota 2 atau VAC."
 			],
 			"th": [
-				"ทำตามการติดตั้งหลังซื้อ ตรวจสถานะหลังแพตช์ใหญ่ของ Call of Duty: Warzone หรือ Ricochet"
+				"ทำตามการติดตั้งหลังซื้อ ตรวจสถานะหลังแพตช์ใหญ่ของ Dota 2 หรือ VAC"
 			],
 			"vi": [
-				"Làm theo Cài đặt sau khi mua. Kiểm tra Trạng thái sau bản vá lớn Call of Duty: Warzone hoặc Ricochet."
+				"Làm theo Cài đặt sau khi mua. Kiểm tra Trạng thái sau bản vá lớn Dota 2 hoặc VAC."
 			],
 			"uk": [
-				"Дотримуйтесь Встановлення після покупки. Перевіряйте Статус після великих патчів Call of Duty: Warzone або Ricochet."
+				"Дотримуйтесь Встановлення після покупки. Перевіряйте Статус після великих патчів Dota 2 або VAC."
 			],
 			"cs": [
-				"Po nákupu postupujte podle Instalace. Po velkých patchích Call of Duty: Warzone nebo Ricochet kontrolujte Stav."
+				"Po nákupu postupujte podle Instalace. Po velkých patchích Dota 2 nebo VAC kontrolujte Stav."
 			],
 			"ro": [
-				"Urmează Instalarea după cumpărare. Verifică Status după patch-uri mari Call of Duty: Warzone sau Ricochet."
+				"Urmează Instalarea după cumpărare. Verifică Status după patch-uri mari Dota 2 sau VAC."
 			],
 			"sv": [
-				"Följ Setup efter köp. Kontrollera Status efter stora Call of Duty: Warzone- eller Ricochet-patchar."
+				"Följ Setup efter köp. Kontrollera Status efter stora Dota 2- eller VAC-patchar."
 			]
 		},
 		"2": {
@@ -5041,70 +5041,70 @@ export const PAGE_CONTENT = {
 		},
 		"intro": {
 			"en": [
-				"Common questions about Warzone Cheats — delivery, setup, updates, and refunds."
+				"Common questions about Dota 2 Cheats — delivery, setup, updates, and refunds."
 			],
 			"es": [
-				"Preguntas frecuentes sobre Warzone Cheats — entrega, instalación, actualizaciones y reembolsos."
+				"Preguntas frecuentes sobre Dota 2 Cheats — entrega, instalación, actualizaciones y reembolsos."
 			],
 			"fr": [
-				"Questions fréquentes sur Warzone Cheats — livraison, installation, mises à jour et remboursements."
+				"Questions fréquentes sur Dota 2 Cheats — livraison, installation, mises à jour et remboursements."
 			],
 			"de": [
-				"Häufige Fragen zu Warzone Cheats — Lieferung, Setup, Updates und Rückerstattungen."
+				"Häufige Fragen zu Dota 2 Cheats — Lieferung, Setup, Updates und Rückerstattungen."
 			],
 			"pt": [
-				"Perguntas frequentes sobre Warzone Cheats — entrega, instalação, atualizações e reembolsos."
+				"Perguntas frequentes sobre Dota 2 Cheats — entrega, instalação, atualizações e reembolsos."
 			],
 			"it": [
-				"Domande frequenti su Warzone Cheats — consegna, setup, aggiornamenti e rimborsi."
+				"Domande frequenti su Dota 2 Cheats — consegna, setup, aggiornamenti e rimborsi."
 			],
 			"nl": [
-				"Veelgestelde vragen over Warzone Cheats — levering, setup, updates en restituties."
+				"Veelgestelde vragen over Dota 2 Cheats — levering, setup, updates en restituties."
 			],
 			"pl": [
-				"FAQ o Warzone Cheats — dostawa, instalacja, aktualizacje i zwroty."
+				"FAQ o Dota 2 Cheats — dostawa, instalacja, aktualizacje i zwroty."
 			],
 			"ru": [
-				"Частые вопросы о Warzone Cheats — доставка, установка, обновления и возвраты."
+				"Частые вопросы о Dota 2 Cheats — доставка, установка, обновления и возвраты."
 			],
 			"tr": [
-				"Warzone Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler."
+				"Dota 2 Cheats SSS — teslimat, kurulum, güncellemeler ve iadeler."
 			],
 			"ar": [
-				"أسئلة شائعة عن Warzone Cheats — التسليم والتثبيت والتحديثات والاسترداد."
+				"أسئلة شائعة عن Dota 2 Cheats — التسليم والتثبيت والتحديثات والاسترداد."
 			],
 			"ja": [
-				"Warzone Cheats FAQ — 配信、セットアップ、更新、返金。"
+				"Dota 2 Cheats FAQ — 配信、セットアップ、更新、返金。"
 			],
 			"ko": [
-				"Warzone Cheats FAQ — 배송, 설치, 업데이트, 환불."
+				"Dota 2 Cheats FAQ — 배송, 설치, 업데이트, 환불."
 			],
 			"zh": [
-				"Warzone Cheats 常见问题 — 交付、安装、更新和退款。"
+				"Dota 2 Cheats 常见问题 — 交付、安装、更新和退款。"
 			],
 			"hi": [
-				"Warzone Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।"
+				"Dota 2 Cheats FAQ — डिलीवरी, setup, अपडेट और रिफंड।"
 			],
 			"id": [
-				"FAQ Warzone Cheats — pengiriman, setup, pembaruan, dan refund."
+				"FAQ Dota 2 Cheats — pengiriman, setup, pembaruan, dan refund."
 			],
 			"th": [
-				"FAQ Warzone Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน"
+				"FAQ Dota 2 Cheats — การจัดส่ง การติดตั้ง อัปเดต และการคืนเงิน"
 			],
 			"vi": [
-				"FAQ Warzone Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền."
+				"FAQ Dota 2 Cheats — giao hàng, cài đặt, cập nhật và hoàn tiền."
 			],
 			"uk": [
-				"FAQ Warzone Cheats — доставка, встановлення, оновлення та повернення."
+				"FAQ Dota 2 Cheats — доставка, встановлення, оновлення та повернення."
 			],
 			"cs": [
-				"FAQ Warzone Cheats — doručení, instalace, aktualizace a vrácení peněz."
+				"FAQ Dota 2 Cheats — doručení, instalace, aktualizace a vrácení peněz."
 			],
 			"ro": [
-				"FAQ Warzone Cheats — livrare, instalare, actualizări și rambursări."
+				"FAQ Dota 2 Cheats — livrare, instalare, actualizări și rambursări."
 			],
 			"sv": [
-				"Warzone Cheats FAQ — leverans, setup, uppdateringar och återbetalningar."
+				"Dota 2 Cheats FAQ — leverans, setup, uppdateringar och återbetalningar."
 			]
 		},
 		"list0": {

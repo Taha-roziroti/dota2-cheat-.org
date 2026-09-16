@@ -17,9 +17,9 @@ function HomeSeoInner({ faqs }: Props) {
 			hintKey: 'homeSeo.catFeaturesHint',
 			links: [
 				{ href: '/features/', labelKey: 'homeSeo.linkAllFeatures' },
-				{ href: '/warzone-esp/', labelKey: 'homeSeo.linkEsp' },
-				{ href: '/warzone-aimbot/', labelKey: 'homeSeo.linkAimbot' },
-				{ href: '/warzone-radar-hack/', labelKey: 'homeSeo.linkRadar' },
+				{ href: '/dota2-esp/', labelKey: 'homeSeo.linkEsp' },
+				{ href: '/dota2-aimbot/', labelKey: 'homeSeo.linkAimbot' },
+				{ href: '/dota2-radar-hack/', labelKey: 'homeSeo.linkRadar' },
 			],
 		},
 		{
@@ -27,7 +27,7 @@ function HomeSeoInner({ faqs }: Props) {
 			hintKey: 'homeSeo.catStatusHint',
 			links: [
 				{ href: '/updates/', labelKey: 'homeSeo.linkLiveStatus' },
-				{ href: '/', labelKey: 'homeSeo.linkUndetected' },
+				{ href: '/', labelKey: 'homeSeo.linkReliable' },
 				{ href: '/setup/', labelKey: 'homeSeo.linkSetup' },
 				{ href: '/faq/', labelKey: 'homeSeo.linkFaq' },
 			],
@@ -48,7 +48,7 @@ function HomeSeoInner({ faqs }: Props) {
 			links: [
 				{ href: '/support/', labelKey: 'homeSeo.linkSupport' },
 				{ href: '/setup/', labelKey: 'homeSeo.linkSetupGuide' },
-				{ href: '/blog/', labelKey: 'homeSeo.linkBlog' },
+				{ href: '/forums/', labelKey: 'homeSeo.linkBlog' },
 				{ href: '/refund-policy/', labelKey: 'homeSeo.linkRefunds' },
 			],
 		},

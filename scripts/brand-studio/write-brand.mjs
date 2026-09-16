@@ -71,32 +71,32 @@ const SITEMAP_TEXT_KEYS = [
 
 const DEFAULT_SITEMAP_IMAGES = [
 	{
-		src: '/images/warzone-esp-player-tags.webp',
+		src: '/images/dota2-esp-player-tags.webp',
 		title: '{primaryKeyword} ESP',
 		caption: 'See players with {primaryKeyword}',
 	},
 	{
-		src: '/images/warzone-wallhack-skeleton.webp',
+		src: '/images/dota2-wallhack-skeleton.webp',
 		title: '{primaryKeyword} wallhack',
 		caption: 'See through walls with {primaryKeyword}',
 	},
 	{
-		src: '/images/warzone-aimbot-sniper.webp',
+		src: '/images/dota2-aimbot-sniper.webp',
 		title: '{primaryKeyword} aimbot',
 		caption: 'Aimbot in {primaryKeyword}',
 	},
 	{
-		src: '/images/warzone-aimbot-skeleton.webp',
+		src: '/images/dota2-aimbot-skeleton.webp',
 		title: '{primaryKeyword} aimbot view',
 		caption: 'Aimbot bone view in {primaryKeyword}',
 	},
 	{
-		src: '/images/warzone-esp-radar.webp',
+		src: '/images/dota2-esp-radar.webp',
 		title: '{primaryKeyword} radar',
 		caption: 'Radar map in {primaryKeyword}',
 	},
 	{
-		src: '/images/warzone-cheats-combat.webp',
+		src: '/images/dota2-cheats-combat.webp',
 		title: '{primaryKeyword} in a fight',
 		caption: 'Fight view with {primaryKeyword}',
 	},
@@ -364,10 +364,10 @@ export function validateBrandPayload(body) {
 	const lifetime = price(b.lifetimePrice ?? b.lifetime);
 	const monthlyLabel = soft(b.monthlyLabel, 'Monthly', 40);
 	const lifetimeLabel = soft(b.lifetimeLabel, 'Lifetime', 40);
-	const logo = assetPath(b.logo ?? '/images/warzone-cheats-logo.webp');
-	const logoRaster = assetPath(b.logoRaster ?? '/images/warzone-cheats-logo.png');
-	const defaultOgImage = assetPath(b.defaultOgImage ?? '/images/warzone-cheats-combat.webp');
-	const heroImage = assetPath(b.heroImage ?? '/images/warzone-hero-banner.webp');
+	const logo = assetPath(b.logo ?? '/images/dota2-cheats-logo.webp');
+	const logoRaster = assetPath(b.logoRaster ?? '/images/dota2-cheats-logo.png');
+	const defaultOgImage = assetPath(b.defaultOgImage ?? '/images/dota2-cheats-combat.webp');
+	const heroImage = assetPath(b.heroImage ?? '/images/dota2-hero-banner.webp');
 	const logoAlt = soft(b.logoAlt, `${name || 'Brand'} logo`, 120);
 	const logoW = price(b.logoRasterWidth ?? 512) ?? 512;
 	const logoH = price(b.logoRasterHeight ?? 512) ?? 512;
@@ -414,7 +414,7 @@ export function validateBrandPayload(body) {
 
 	const g = game.toLowerCase();
 	const seoDefaults = {
-		homeTitle: '{brand} | Undetected {primaryKeyword}',
+		homeTitle: '{brand} | Reliable {primaryKeyword}',
 		homeDescription:
 			'{primaryKeyword} for Windows PC — ESP, aimbot, and radar with {antiCheat} maintenance. Compare plans and buy.',
 		featuresTitle: '{game} Features | {brand}',
@@ -449,9 +449,9 @@ export function validateBrandPayload(body) {
 	}
 
 	const copyDefaults = {
-		tagline: 'Undetected {primaryKeyword} -- ESP, aimbot, and radar for PC',
+		tagline: 'Reliable {primaryKeyword} -- ESP, aimbot, and radar for PC',
 		summary:
-			'{brand} is an undetected {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
+			'{brand} is an reliable {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
 		heroLede: 'Hacks and cheats available -- 0% detection.',
 		blogLabel: '{game} Intel',
 		ctaBuy: 'Buy now',
@@ -587,7 +587,7 @@ export function renderBrandTs(data) {
 	const platforms = data.platforms.map((p) => `'${e(p)}'`).join(', ');
 
 	const seoDefaults = {
-		homeTitle: '{brand} | Undetected {primaryKeyword}',
+		homeTitle: '{brand} | Reliable {primaryKeyword}',
 		homeDescription:
 			'{primaryKeyword} for Windows PC — ESP, aimbot, and radar with {antiCheat} maintenance. Compare plans and buy.',
 		featuresTitle: '{game} Features | {brand}',
@@ -614,9 +614,9 @@ export function renderBrandTs(data) {
 		blogDescription: 'Guides and notes for {game} — meta tips, ESP, aimbot, and {antiCheat} updates.',
 	};
 	const copyDefaults = {
-		tagline: 'Undetected {primaryKeyword} — ESP, aimbot, and radar for PC',
+		tagline: 'Reliable {primaryKeyword} — ESP, aimbot, and radar for PC',
 		summary:
-			'{brand} is an undetected {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
+			'{brand} is an reliable {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
 		heroLede: 'Hacks and cheats available — 0% detection.',
 		blogLabel: '{game} Intel',
 		ctaBuy: 'Buy now',

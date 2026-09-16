@@ -8,7 +8,7 @@ const HERO_URL =
 	process.env.FINALS_HERO_URL ??
 	process.env.WARZONE_HERO_URL ??
 	process.env.RUST_HERO_URL ??
-	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/warzone/ChatGPT%20Image%20Aug%2024,%202026,%2007_13_59%20PM.png';
+	'https://boqgsoiwnpbisvrxulbe.supabase.co/storage/v1/object/public/dota2/ChatGPT%20Image%20Aug%2024,%202026,%2007_13_59%20PM.png';
 const imagesDir = path.resolve('public/images');
 /** High-quality WebP — agent is LCP; prioritize clarity over file size. */
 const HERO_WEBP = { quality: 100, effort: 6, smartSubsample: false, alphaQuality: 100 };
@@ -23,7 +23,7 @@ const heroBuffer = Buffer.from(
 	await (HERO_URL.startsWith('file://')
 		? readFile(HERO_URL.replace('file://', ''))
 		: fetch(HERO_URL, {
-				headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Call of Duty: WarzoneCheatsSite/1.0)' },
+				headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Dota 2CheatsSite/1.0)' },
 			}).then((r) => {
 				if (!r.ok) throw new Error(`HTTP ${r.status}`);
 				return r.arrayBuffer();
@@ -56,8 +56,8 @@ function resizeHero(width) {
 for (const width of outputWidths) {
 	const height = bannerHeight(width);
 	const webp = await resizeHero(width).webp(HERO_WEBP).toBuffer();
-	await writeFile(path.join(imagesDir, `warzone-cheats-hero-${width}w.webp`), webp);
-	console.log(`✓ warzone-cheats-hero-${width}w.webp (${width}x${height}, ${Math.round(webp.length / 1024)}KB)`);
+	await writeFile(path.join(imagesDir, `dota2-cheats-hero-${width}w.webp`), webp);
+	console.log(`✓ dota2-cheats-hero-${width}w.webp (${width}x${height}, ${Math.round(webp.length / 1024)}KB)`);
 }
 
 const lcpWidth = outputWidths.includes(1870)
@@ -69,12 +69,12 @@ const lcpWidth = outputWidths.includes(1870)
 			: outputWidths.at(-1) ?? 1024;
 const canonicalHeight = bannerHeight(lcpWidth);
 const canonical = await resizeHero(lcpWidth).webp(HERO_WEBP).toBuffer();
-for (const name of ['warzone-cheats-hero.webp', 'warzone-hero-banner.webp', 'hero-banner.webp']) {
+for (const name of ['dota2-cheats-hero.webp', 'dota2-hero-banner.webp', 'hero-banner.webp']) {
 	await writeFile(path.join(imagesDir, name), canonical);
 }
 
 const png = await resizeHero(lcpWidth).png({ compressionLevel: 6 }).toBuffer();
-await writeFile(path.join(imagesDir, 'warzone-cheats-hero.png'), png);
+await writeFile(path.join(imagesDir, 'dota2-cheats-hero.png'), png);
 
 console.log(
 	`Done — agent banner ${BANNER_RATIO}:1 (LCP ${lcpWidth}x${canonicalHeight}), fit: cover, quality ${HERO_WEBP.quality}`,

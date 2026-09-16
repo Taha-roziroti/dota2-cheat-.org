@@ -1,6 +1,6 @@
-# SEO Audit Report — cheatsforwarzone.com
+# SEO Audit Report — dota2cheat.com
 
-**Project:** Warzone Cheats (Astro static site)  
+**Project:** Dota 2 Cheats (Astro static site)  
 **Audit date:** 2026-08-22  
 **Auditor scope:** Read-only code review + live dev-server HTML inspection  
 **Dev server:** `npm run dev` — **running OK** at `http://localhost:4321` (existing PID 5852; HTTP 200 on `/`, `/features/`, `/sitemap.xml`, `/robots.txt`)
@@ -28,7 +28,7 @@
 
 ### What’s working
 - **Title & description** rendered on all inspected pages via `Layout.astro` (lines 193–194, 256).
-- **Canonical** built from `buildCanonicalUrl()` — homepage outputs `https://cheatsforwarzone.com/` (line 198).
+- **Canonical** built from `buildCanonicalUrl()` — homepage outputs `https://dota2cheat.com/` (line 198).
 - **Open Graph & Twitter** complete: `og:title`, `og:description`, `og:url`, `og:image`, locale alternates (lines 230–250).
 - **hreflang:** 22 locales + `x-default` via `I18nHead.astro` (lines 14–17) on localized pages.
 - **Brand SSOT** in `src/data/brand.ts` (lines 98–120) — titles ~50–60 chars, descriptions ~140–160 chars (validated by `scripts/check-seo-meta-lengths.mjs`).
@@ -43,7 +43,7 @@ _None in meta tags specifically._
 |-------|----------|-------------------|
 | **OG/Twitter image dimensions are hard-coded 1920×1080** but agent asset is **1536×488** (3.15:1 banner) | `src/layouts/Layout.astro:62-63`, `87-88` | Set `ogImageWidth` / `ogImageHeight` from actual agent dimensions in `src/lib/responsive-images.ts` (1536×488) or pass per-page OG dimensions. |
 | **Schema `primaryImageOfPage` uses same wrong 1920×1080** | `src/layouts/Layout.astro:82-88` | Align `width`/`height` with real image intrinsic size to avoid rich-result validation warnings. |
-| **Homepage H1 is “Warzone Cheats”** while `<title>` is keyword-rich (“Warzone Cheats 2026 \| Undetected ESP…”) | `src/components/react/Hero.tsx:118-119` | Consider matching H1 closer to primary intent (e.g. “Undetected Warzone Cheats — ESP, Aimbot & Wallhack”) without keyword stuffing. |
+| **Homepage H1 is “Dota 2 Cheats”** while `<title>` is keyword-rich (“Dota 2 Cheats 2026 \| Reliable ESP…”) | `src/components/react/Hero.tsx:118-119` | Consider matching H1 closer to primary intent (e.g. “Reliable Dota 2 Cheats — ESP, Aimbot & Wallhack”) without keyword stuffing. |
 
 #### Info
 | Issue | Location | Fix recommendation |
@@ -56,7 +56,7 @@ _None in meta tags specifically._
 ## 2. Heading structure (H1 / H2 / H3)
 
 ### What’s working
-- **Features page:** single H1 → multiple H2 section headings (verified live: `Warzone Cheats Features — Full Control List` + section H2s).
+- **Features page:** single H1 → multiple H2 section headings (verified live: `Dota 2 Cheats Features — Full Control List` + section H2s).
 - **Page layout** uses one `banner__title` H1 per page (`src/layouts/PageLayout.astro:174`).
 - **Homepage document order:** H1 (hero) → H2 (reviews) → H2 (about) → H2 (browse) → H3 (category cards) → H2 (FAQ/resources) — logical hierarchy.
 
@@ -81,17 +81,17 @@ _None in meta tags specifically._
 - **Agent LCP:** WebP responsive srcset `640w–1778w`, preload with `fetchpriority="high"` (`Layout.astro:200-209`, `Hero.tsx:102-111`).
 - **Below-fold gallery:** `loading="lazy"` + `decoding="async"` (`PageLayout.astro:219-220`, `Gallery.astro:45-46`).
 - **Alt text:** Agent uses translated alt; page banners use `page.imageAlt` or crawl captions (`PageLayout.astro:71-74`, `LocalizedPage.astro:99`).
-- **Format:** Production images predominantly `.webp`; agent uses quality 94 WebP (`scripts/fetch-warzone-hero.mjs:11-12`).
+- **Format:** Production images predominantly `.webp`; agent uses quality 94 WebP (`scripts/fetch-dota2-hero.mjs:11-12`).
 
 ### Issues
 
 #### Warning
 | Issue | Location | Fix recommendation |
 |-------|----------|-------------------|
-| **1.1 MB PNG source in `/public`** (`warzone-hero-source.png`) — crawlable if linked/discovered | `public/images/warzone-hero-source.png` | Move to `scripts/` or `private/`; only ship generated WebP variants. |
-| **6.4 MB demo MP4** on homepage | `public/videos/warzone-cheats-demo.mp4` | Re-encode (H.264/AV1, 720p, ~1–2 MB); consider `preload="none"` until play (already `metadata` in `HomeAbout.tsx:31`). |
+| **1.1 MB PNG source in `/public`** (`dota2-hero-source.png`) — crawlable if linked/discovered | `public/images/dota2-hero-source.png` | Move to `scripts/` or `private/`; only ship generated WebP variants. |
+| **6.4 MB demo MP4** on homepage | `public/videos/dota2-cheats-demo.mp4` | Re-encode (H.264/AV1, 720p, ~1–2 MB); consider `preload="none"` until play (already `metadata` in `HomeAbout.tsx:31`). |
 | **Non-agent banner images use generic `width="1280" height="720"`** regardless of asset | `src/layouts/PageLayout.astro:146-147` | Use real dimensions per `page-images.ts` entry to reduce CLS. |
-| **Legacy PNGs still in repo** (`warzone-cheats-hero.png` 800K, `reviews-banner.png`, `checkout-logo.png`) | `public/images/` | Convert/remove unused PNGs; audit references in components. |
+| **Legacy PNGs still in repo** (`dota2-cheats-hero.png` 800K, `reviews-banner.png`, `checkout-logo.png`) | `public/images/` | Convert/remove unused PNGs; audit references in components. |
 
 #### Info
 | Issue | Location | Fix recommendation |
@@ -161,7 +161,7 @@ _None in meta tags specifically._
 
 ### What’s working
 - **Central link map:** `src/data/internal-links.ts`, `relatedLinksByPageId`.
-- **Keyword-friendly EN paths:** `/warzone-esp/`, `/warzone-cheats/`, `/pricing/`, etc. (`src/data/i18n/routing.ts:41-67`).
+- **Keyword-friendly EN paths:** `/dota2-esp/`, `/dota2-cheats/`, `/pricing/`, etc. (`src/data/i18n/routing.ts:41-67`).
 - **Cannibalization strategy:** 11 near-duplicate pageIds 301 → pillars via Worker (`src/data/seo-cannibal-map.ts:5-17`, `src/worker-redirects.ts:30-36`).
 - **External resources** with official Steam/EAC links (`ExternalResources.astro`).
 
@@ -170,7 +170,7 @@ _None in meta tags specifically._
 #### Warning
 | Issue | Location | Fix recommendation |
 |-------|----------|-------------------|
-| **Cannibal URLs return HTTP 200 in Astro dev** (no Worker) — e.g. `/best-warzone-cheats/`, `/undetected-warzone-cheats/` | Verified live dev server | Expected locally; **verify 301 in production** via Cloudflare Worker. Add integration test against deployed URL. |
+| **Cannibal URLs return HTTP 200 in Astro dev** (no Worker) — e.g. `/best-dota2-cheats/`, `/reliable-dota2-cheats/` | Verified live dev server | Expected locally; **verify 301 in production** via Cloudflare Worker. Add integration test against deployed URL. |
 | **Cannibal pages still built to HTML** (~22 redirect-stub URLs per locale) | `scripts/validate-sitemaps.mjs:68-70` | Acceptable if Worker 301s before index; add `<link rel="canonical">` on stubs pointing to pillar (if stubs must exist). |
 
 #### Info
@@ -233,14 +233,14 @@ _None in meta tags specifically._
 #### Warning
 | Issue | Location | Fix recommendation |
 |-------|----------|-------------------|
-| **6.4 MB video** may be requested on slow networks when user taps play | `public/videos/warzone-cheats-demo.mp4` | Compress; offer WebM; host on CDN with range requests |
+| **6.4 MB video** may be requested on slow networks when user taps play | `public/videos/dota2-cheats-demo.mp4` | Compress; offer WebM; host on CDN with range requests |
 
 ---
 
 ## 10. URL structure
 
 ### What’s working
-- **Clean, hyphenated, keyword-rich slugs:** `/warzone-esp/`, `/undetected-warzone-cheats/`, `/warzone-cheats/` (`routing.ts:41-67`).
+- **Clean, hyphenated, keyword-rich slugs:** `/dota2-esp/`, `/reliable-dota2-cheats/`, `/dota2-cheats/` (`routing.ts:41-67`).
 - **Trailing slash enforced** site-wide (`astro.config.mjs:12`, Worker `trailingSlashRedirect`).
 - **EN at root; locales prefixed** `/es/`, `/fr/`, etc.
 - **Legal pages:** `/privacy-policy/`, `/refund-policy/`, `/terms/`.
@@ -276,8 +276,8 @@ _None in meta tags specifically._
 2. **Critical — Align “1000+ reviews” UI with indexable review evidence** (`HomeReviews.tsx:64`, `reviews/index.astro:98`)
 3. **Warning — Correct OG/schema image dimensions to 1536×488** (`Layout.astro:62-63, 87-88`)
 4. **Warning — 301-verify cannibal URLs in production** (`seo-cannibal-map.ts`, `worker-redirects.ts`)
-5. **Warning — Compress demo video (6.4 MB → target <2 MB)** (`public/videos/warzone-cheats-demo.mp4`)
-6. **Warning — Remove or relocate 1.1 MB `warzone-hero-source.png` from public** (`public/images/`)
+5. **Warning — Compress demo video (6.4 MB → target <2 MB)** (`public/videos/dota2-cheats-demo.mp4`)
+6. **Warning — Remove or relocate 1.1 MB `dota2-hero-source.png` from public** (`public/images/`)
 7. **Warning — Reduce React hydration on homepage** (`Hero.astro:18`, `Navbar.astro:60`)
 8. **Warning — Fix “RadarRadar” H1 typo** (`pages-en.mjs:458`, `content.generated.ts:625`)
 9. **Info — Remove deprecated `meta keywords`** (`Layout.astro:194-196`)

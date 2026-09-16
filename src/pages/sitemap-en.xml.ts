@@ -5,7 +5,6 @@ import { siteConfig } from '../data/site';
 import { getBlogSitemapEntries } from '../data/blog/helpers';
 import { getReviewSitemapEntries } from '../data/reviews';
 import { getFaqSitemapEntries } from '../data/faq';
-import { getGuidesSitemapEntries } from '../data/guides/helpers';
 import { standaloneEnSitemapEntries } from '../data/standalone-sitemap';
 import { hreflangLinksXml, resolvePageIdFromPath } from '../data/i18n/routing';
 import { escapeXml, renderImageExtension, renderUrlsetXml, sitemapResponseHeaders } from '../data/sitemap-xml';
@@ -14,8 +13,8 @@ export const prerender = true;
 
 const defaultSitemapImage = {
 	url: new URL(defaultCrawlImageSrc, siteConfig.url).href,
-	title: `${siteConfig.name} — Warzone cheats`,
-	caption: 'Warzone Cheats ESP, aimbot, and radar for Windows PC',
+	title: `${siteConfig.name} — Dota 2 cheats`,
+	caption: 'Dota 2 Cheats ESP, aimbot, and maphack for Windows PC',
 };
 
 /** English page urlset (listed under sitemap.xml index). */
@@ -32,7 +31,6 @@ export const GET: APIRoute = () => {
 
 	const reviewEntries = getReviewSitemapEntries();
 	const faqEntries = getFaqSitemapEntries();
-	const guideEntries = getGuidesSitemapEntries();
 	const standaloneEntries = standaloneEnSitemapEntries;
 
 	const urls = [
@@ -40,7 +38,6 @@ export const GET: APIRoute = () => {
 		...blogEntries,
 		...reviewEntries,
 		...faqEntries,
-		...guideEntries,
 		...standaloneEntries,
 	].map((entry) => {
 		const images =

@@ -51,7 +51,7 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 function localizeMeta(enPage, locale, pageKey) {
 	const p = phrases[locale];
 	const home = PAGE_META_HOME[locale];
-	const meta = PAGE_META_TAILS[pageKey] ?? { suffix: 'Warzone Cheats', focus: pageKey };
+	const meta = PAGE_META_TAILS[pageKey] ?? { suffix: 'Dota 2 Cheats', focus: pageKey };
 	const suffix = SUFFIX_I18N[locale]?.[pageKey] ?? meta.suffix;
 	const focus = FOCUS_I18N[locale]?.[pageKey] ?? meta.focus;
 	const topicName = TOPIC_NAMES[pageKey]?.[locale] ?? TOPIC_NAMES[pageKey]?.en ?? pageKey;
@@ -60,12 +60,12 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripcheckoutFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripcheckoutFromMeta(
-				`${topicName} for Call of Duty: Warzone Battle Royale and Resurgence on Windows PC — ${focus}. ${p.delivery}. ${p.undetected}. Official warzone cheats at cheatsforwarzone.com.`,
+				`${topicName} for Dota 2 ranked matches and Resurgence on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official dota 2 cheats at dota2cheat.com.`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,
 		intro: p.s1(`${topicName}. ${focus}.`),
-		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Warzone Cheats`,
+		imageAlt: PAGE_IMAGE_ALTS[pageKey] || `${topicName} — Dota 2 Cheats`,
 		galleryTitle: topicName,
 		ctaPrimary: p.buy,
 		ctaSecondary: home?.cta2 ?? p.buy,
@@ -98,16 +98,16 @@ function localizeRichPage(enPage, locale, pageKey) {
 /** Optional native h2 overrides for rich pages. */
 const RICH_SECTION_H2 = {
 	es: {
-		'warzone-esp': ['Qué resuelve el ESP en matches', 'Categorías ESP jugador, apex y weapon drops', 'ESP indetectable con mantenimiento EAC', 'ESP — siguientes pasos'],
-		hacks: ['¿Qué son los trucos de Call of Duty: Warzone?', 'Qué incluye Warzone Cheats', 'Estado indetectable y Ricochet', 'Primeros pasos'],
+		'dota2-esp': ['Qué resuelve el ESP en matches', 'Categorías ESP jugador, apex y weapon drops', 'ESP indetectable con mantenimiento EAC', 'ESP — siguientes pasos'],
+		hacks: ['¿Qué son los trucos de Dota 2?', 'Qué incluye Dota 2 Cheats', 'Estado indetectable y VAC', 'Primeros pasos'],
 	},
 	fr: {
-		'warzone-esp': ['Ce que l\'ESP résout en match', 'Catégories ESP joueur, apex et weapon drops', 'ESP indétectable avec maintenance EAC', 'ESP — prochaines étapes'],
-		hacks: ['Que sont les triches Call of Duty: Warzone ?', 'Ce que Warzone Cheats inclut', 'Statut indétectable et Ricochet', 'Premiers pas'],
+		'dota2-esp': ['Ce que l\'ESP résout en match', 'Catégories ESP joueur, apex et weapon drops', 'ESP indétectable avec maintenance EAC', 'ESP — prochaines étapes'],
+		hacks: ['Que sont les triches Dota 2 ?', 'Ce que Dota 2 Cheats inclut', 'Statut indétectable et VAC', 'Premiers pas'],
 	},
 	de: {
-		'warzone-esp': ['Was ESP in matches löst', 'Spieler-, Apex- und Weapon drops-ESP-Kategorien', 'Undetected ESP mit EAC-Wartung', 'ESP — nächste Schritte'],
-		hacks: ['Was sind Warzone Cheats?', 'Was Warzone Cheats enthält', 'Undetected-Status und Ricochet', 'Erste Schritte'],
+		'dota2-esp': ['Was ESP in matches löst', 'Spieler-, Apex- und Weapon drops-ESP-Kategorien', 'Reliable ESP mit EAC-Wartung', 'ESP — nächste Schritte'],
+		hacks: ['Was sind Dota 2 Cheats?', 'Was Dota 2 Cheats enthält', 'Reliable-Status und VAC', 'Erste Schritte'],
 	},
 };
 

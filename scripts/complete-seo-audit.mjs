@@ -13,7 +13,7 @@ const distDir = path.join(root, 'dist');
 
 const LEGACY_TERMS = [
 	'valocheats',
-	'warzonehack',
+	'dota2hack',
 	'the finals',
 	'naraka bladepoint',
 	'rust game',
@@ -23,9 +23,9 @@ const LEGACY_TERMS = [
 ];
 
 const BRAND_DRIFT = [
-  'warzone cheats org',
-  'warzone-cheats.org',
-  'warzone cheats .org',
+  'dota 2 cheats org',
+  'dota2-cheats.org',
+  'dota 2 cheats .org',
 ];
 
 function walkHtml(dir, files = []) {

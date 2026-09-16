@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Rewrite legacy domains in built sitemap XML (safety net after astro build).
- * Fixes GSC "URL not allowed" when stale dist still references cheatsforwarzone.com.
+ * Fixes GSC "URL not allowed" when stale dist still references dota2cheat.com.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
@@ -15,9 +15,9 @@ function readBrandUrl() {
 	const m = src.match(/(?:^|\n)\turl:\s*'((?:\\'|[^'])*)'/);
 	if (!m) throw new Error('brand.ts missing url');
 	const url = m[1].replace(/\\'/g, "'").replace(/\/$/, '');
-	if (/warzonecheats\.org/i.test(url)) {
+	if (/dota2cheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url must be cheatsforwarzone.com, not ${url}. Run: node scripts/rebrand-warzone-cheats.mjs`,
+			`brand.ts url must be dota2cheat.com, not ${url}. Run: node scripts/rebrand-dota2-cheats.mjs`,
 		);
 	}
 	return url;
@@ -27,10 +27,10 @@ const CANONICAL = readBrandUrl();
 
 /** Ordered most-specific first. */
 const LEGACY_ORIGIN_REPLACEMENTS = [
-	['https://cheatsforwarzone.com', CANONICAL],
-	['http://cheatsforwarzone.com', CANONICAL],
-	['https://cheatsforwarzone.com', CANONICAL],
-	['http://cheatsforwarzone.com', CANONICAL],
+	['https://dota2cheat.com', CANONICAL],
+	['http://dota2cheat.com', CANONICAL],
+	['https://dota2cheat.com', CANONICAL],
+	['http://dota2cheat.com', CANONICAL],
 	['https://www.thefinalscheats.org', CANONICAL],
 	['http://www.thefinalscheats.org', CANONICAL],
 	['https://thefinalscheats.org', CANONICAL],

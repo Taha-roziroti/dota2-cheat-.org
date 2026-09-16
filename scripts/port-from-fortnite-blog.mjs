@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Ports the 8 posts from ../rust-blog into src/data/blog/posts.generated.ts
+ * Ports the 8 posts from ../rust-blog into src/data/forums/posts.generated.ts
  * and rewrites scripts/generate-blog-posts.mjs sources for future regenerations.
  */
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
@@ -212,5 +212,5 @@ ${sources.map(buildPost).join(',\n')}
 writeFileSync(OUT, file);
 console.log(`Wrote ${sources.length} posts → ${OUT}`);
 for (const s of sources) {
-	console.log(` - /blog/${s.slug}/`);
+	console.log(` - /forums/${s.slug}/`);
 }

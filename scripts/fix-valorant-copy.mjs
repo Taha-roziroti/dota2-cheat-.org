@@ -19,9 +19,9 @@ const reps = [
 	['Epic outages', 'Activision outages'],
 	['Epic outage', 'Activision outage'],
 	["Epic's", "Activision's"],
-	['Call of Duty: Warzone's, 'Call of Duty: Warzone's],
+	['Dota 2's, 'Dota 2's],
 	['KW.eac', 'KW.eac'],
-	['Ricochet', 'Ricochet'],
+	['VAC', 'VAC'],
 ];
 
 for (const file of files) {

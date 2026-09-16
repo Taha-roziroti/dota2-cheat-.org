@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Fix path-redirects.json: rewrite warzone destinations → naraka and add legacy warzone → naraka 301s.
+ * Fix path-redirects.json: rewrite dota2 destinations → naraka and add legacy dota2 → naraka 301s.
  * Run: node scripts/fix-naraka-path-redirects.mjs
  */
 import { readFile, writeFile } from 'node:fs/promises';
@@ -11,25 +11,25 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PATH_REDIRECTS = path.join(ROOT, 'functions/path-redirects.json');
 
 const SLUG_MAP = [
-	['warzone-hacks', 'warzone-cheats'],
-	['warzone-esp', 'warzone-esp'],
-	['warzone-aimbot', 'warzone-aimbot'],
-	['warzone-wallhack', 'warzone-wallhack'],
-	['warzone-radar-hack', 'warzone-radar-hack'],
-	['warzone-soft-aim', 'warzone-soft-aim'],
-	['warzone-mod-menu', 'warzone-mod-menu'],
-	['warzone-cheat-download', 'warzone-cheat-download'],
-	['warzone-aimbot-hack', 'warzone-aimbot-hack'],
-	['warzone-esp-hack', 'warzone-esp-hack'],
-	['warzone-unlock-all', 'warzone-unlock-all'],
-	['undetected-warzone-hacks', 'undetected-warzone-cheats'],
-	['best-warzone-hacks', 'best-warzone-cheats'],
-	['warzone-hacks-2026', 'warzone-cheats-2026'],
-	['ricochet-bypass', 'ricochet-bypass'],
-	['warzone-cheats', 'warzone-cheats'],
-	['warzone-cheat', 'warzone-cheat'],
-	['hacks-warzone', 'cheats-warzone'],
-	['warzone', 'naraka'],
+	['dota2-hacks', 'dota2-cheats'],
+	['dota2-esp', 'dota2-esp'],
+	['dota2-aimbot', 'dota2-aimbot'],
+	['dota2-wallhack', 'dota2-wallhack'],
+	['dota2-radar-hack', 'dota2-radar-hack'],
+	['dota2-soft-aim', 'dota2-soft-aim'],
+	['dota2-mod-menu', 'dota2-mod-menu'],
+	['dota2-cheat-download', 'dota2-cheat-download'],
+	['dota2-aimbot-hack', 'dota2-aimbot-hack'],
+	['dota2-esp-hack', 'dota2-esp-hack'],
+	['dota2-unlock-all', 'dota2-unlock-all'],
+	['reliable-dota2-hacks', 'reliable-dota2-cheats'],
+	['best-dota2-hacks', 'best-dota2-cheats'],
+	['dota2-hacks-2026', 'dota2-cheats-2026'],
+	['vac-bypass', 'vac-bypass'],
+	['dota2-cheats', 'dota2-cheats'],
+	['dota2-cheat', 'dota2-cheat'],
+	['hacks-dota2', 'cheats-dota2'],
+	['dota2', 'naraka'],
 ];
 
 function rewritePath(p) {
@@ -56,24 +56,24 @@ for (const [key, value] of Object.entries(raw)) {
 	addPair(fixed, newKey, newValue);
 }
 
-// Legacy warzone EN paths → naraka
+// Legacy dota2 EN paths → naraka
 const EN_REDIRECTS = [
-	['/warzone-hacks', '/warzone-cheats/'],
-	['/warzone-esp', '/warzone-esp/'],
-	['/warzone-aimbot', '/warzone-aimbot/'],
-	['/warzone-wallhack', '/warzone-wallhack/'],
-	['/warzone-radar-hack', '/warzone-radar-hack/'],
-	['/warzone-soft-aim', '/warzone-soft-aim/'],
-	['/warzone-mod-menu', '/warzone-mod-menu/'],
-	['/warzone-cheat-download', '/warzone-cheat-download/'],
-	['/warzone-aimbot-hack', '/warzone-aimbot-hack/'],
-	['/warzone-esp-hack', '/warzone-esp-hack/'],
-	['/warzone-unlock-all', '/warzone-unlock-all/'],
-	['/undetected-warzone-hacks', '/undetected-warzone-cheats/'],
-	['/best-warzone-hacks', '/best-warzone-cheats/'],
-	['/warzone-hacks-2026', '/warzone-cheats-2026/'],
-	['/ricochet-bypass', '/ricochet-bypass/'],
-	['/warzone-cheats', '/warzone-cheats/'],
+	['/dota2-hacks', '/dota2-cheats/'],
+	['/dota2-esp', '/dota2-esp/'],
+	['/dota2-aimbot', '/dota2-aimbot/'],
+	['/dota2-wallhack', '/dota2-wallhack/'],
+	['/dota2-radar-hack', '/dota2-radar-hack/'],
+	['/dota2-soft-aim', '/dota2-soft-aim/'],
+	['/dota2-mod-menu', '/dota2-mod-menu/'],
+	['/dota2-cheat-download', '/dota2-cheat-download/'],
+	['/dota2-aimbot-hack', '/dota2-aimbot-hack/'],
+	['/dota2-esp-hack', '/dota2-esp-hack/'],
+	['/dota2-unlock-all', '/dota2-unlock-all/'],
+	['/reliable-dota2-hacks', '/reliable-dota2-cheats/'],
+	['/best-dota2-hacks', '/best-dota2-cheats/'],
+	['/dota2-hacks-2026', '/dota2-cheats-2026/'],
+	['/vac-bypass', '/vac-bypass/'],
+	['/dota2-cheats', '/dota2-cheats/'],
 ];
 
 for (const [from, to] of EN_REDIRECTS) {

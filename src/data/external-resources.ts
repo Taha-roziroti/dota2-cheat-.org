@@ -16,41 +16,41 @@ export type GuideCta = {
 /** Canonical outbound URLs — single source for CTAs, pills, and resource blocks. */
 export const externalUrls = {
 	steam: brand.gameUrl,
-	steamNews: 'https://www.callofduty.com/warzone/news',
-	officialSite: 'https://www.callofduty.com/warzone',
-	wiki: 'https://callofduty.fandom.com/wiki/Call_of_Duty:_Warzone',
-	steamCommunity: 'https://www.reddit.com/r/Warzone/',
+	steamNews: 'https://www.dota2.com/news',
+	officialSite: 'https://www.dota2.com/',
+	wiki: 'https://dota2.fandom.com/wiki/Dota_2',
+	steamCommunity: 'https://www.reddit.com/r/DotA2/',
 } as const;
 
 /** Authoritative third-party guides — cite official game sources for readers and search engines. */
 export const externalResources: ExternalResource[] = [
 	{
 		id: 'steam',
-		label: 'Call of Duty: Warzone on PC',
+		label: 'Dota 2 on PC',
 		href: externalUrls.steam,
 		note: 'Official store page, system requirements, and player reviews.',
 	},
 	{
 		id: 'patch',
-		label: 'Call of Duty: Warzone patch notes & news',
+		label: 'Dota 2 patch notes & news',
 		href: externalUrls.steamNews,
 		note: 'Read official update posts before you change your loadout.',
 	},
 	{
 		id: 'official',
-		label: 'Official Call of Duty: Warzone website',
+		label: 'Official Dota 2 website',
 		href: externalUrls.officialSite,
-		note: 'Game overview from Activision.',
+		note: 'Game overview from Valve.',
 	},
 	{
 		id: 'wiki',
-		label: 'Call of Duty: Warzone Wiki (Fandom)',
+		label: 'Dota 2 Wiki (Fandom)',
 		href: externalUrls.wiki,
-		note: 'Player stats, maps, and survival mechanics.',
+		note: 'Hero stats, items, and patch history.',
 	},
 	{
 		id: 'community',
-		label: 'Call of Duty: Warzone Community hub',
+		label: 'Dota 2 Community hub',
 		href: externalUrls.steamCommunity,
 		note: 'Announcements and community discussions.',
 	},
@@ -58,9 +58,9 @@ export const externalResources: ExternalResource[] = [
 
 /** Compact above-the-fold guide links for blogs and page banners. */
 export const featuredGuidePills: GuideCta[] = [
-	{ label: 'Call of Duty: Warzone on PC', href: externalUrls.steam },
+	{ label: 'Dota 2 on PC', href: externalUrls.steam },
 	{ label: 'Official patch notes', href: externalUrls.steamNews },
-	{ label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
+	{ label: 'Dota 2 Wiki', href: externalUrls.wiki },
 ];
 
 /**
@@ -69,26 +69,26 @@ export const featuredGuidePills: GuideCta[] = [
  */
 export const externalSecondaryByPageId: Partial<Record<PageId, GuideCta>> = {
 	features: { label: 'Official patch notes', href: externalUrls.steamNews },
-	updates: { label: 'Call of Duty: Warzone patch notes', href: externalUrls.steamNews },
-	hacks: { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	'warzone-esp': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	'warzone-aimbot': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	radar: { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
+	updates: { label: 'Dota 2 patch notes', href: externalUrls.steamNews },
+	hacks: { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	'dota2-esp': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	'dota2-aimbot': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	radar: { label: 'Dota 2 Wiki', href: externalUrls.wiki },
 	setup: { label: 'Official game site', href: externalUrls.officialSite },
-	support: { label: 'Call of Duty: Warzone community', href: externalUrls.steamCommunity },
-	faq: { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	undetected: { label: 'Call of Duty: Warzone patch notes', href: externalUrls.steamNews },
-	wallhack: { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	ricochet: { label: 'Official patch notes', href: externalUrls.steamNews },
-	'cheats-2026': { label: 'Call of Duty: Warzone on PC', href: externalUrls.steam },
+	support: { label: 'Dota 2 community', href: externalUrls.steamCommunity },
+	faq: { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	reliable: { label: 'Dota 2 patch notes', href: externalUrls.steamNews },
+	wallhack: { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	vac: { label: 'Official patch notes', href: externalUrls.steamNews },
+	'cheats-2026': { label: 'Dota 2 on PC', href: externalUrls.steam },
 	'cheat-download': { label: 'Official game site', href: externalUrls.officialSite },
-	'mod-menu': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	'soft-aim': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	'best-cheats': { label: 'Call of Duty: Warzone community', href: externalUrls.steamCommunity },
-	'aimbot-hack': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
-	'esp-hack': { label: 'Call of Duty: Warzone Wiki', href: externalUrls.wiki },
+	'mod-menu': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	'soft-aim': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	'best-cheats': { label: 'Dota 2 community', href: externalUrls.steamCommunity },
+	'aimbot-hack': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
+	'esp-hack': { label: 'Dota 2 Wiki', href: externalUrls.wiki },
 	'unlock-all': { label: 'Official game site', href: externalUrls.officialSite },
-	pricing: { label: 'Call of Duty: Warzone on PC', href: externalUrls.steam },
+	pricing: { label: 'Dota 2 on PC', href: externalUrls.steam },
 };
 
 export function getExternalSecondaryCta(pageId: PageId): GuideCta | undefined {

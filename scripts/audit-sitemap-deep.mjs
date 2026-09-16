@@ -23,9 +23,9 @@ function isBannedLegacyHref(href) {
 	try {
 		const pathname = new URL(href).pathname;
 		return (
-			/\/(?:undetected-)?warzone-hacks(?:\/|$|-)/i.test(pathname) ||
-			/\/best-warzone-hacks(?:\/|$)/i.test(pathname) ||
-			/\/warzone-hacks-2026(?:\/|$)/i.test(pathname)
+			/\/(?:reliable-)?dota2-hacks(?:\/|$|-)/i.test(pathname) ||
+			/\/best-dota2-hacks(?:\/|$)/i.test(pathname) ||
+			/\/dota2-hacks-2026(?:\/|$)/i.test(pathname)
 		);
 	} catch {
 		return false;
@@ -202,7 +202,7 @@ async function main() {
 					hreflangIssues.push(`${pageLoc} hreflang=${lang} non-apex ${href}`);
 				}
 				if (isBannedLegacyHref(href)) {
-					hreflangIssues.push(`${pageLoc} hreflang=${lang} banned legacy warzone slug ${href}`);
+					hreflangIssues.push(`${pageLoc} hreflang=${lang} banned legacy dota2 slug ${href}`);
 				}
 			}
 

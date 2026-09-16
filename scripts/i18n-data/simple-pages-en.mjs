@@ -1,14 +1,14 @@
 /**
  * English simple-page overrides — mirrors src/data/i18n/simple-pages.ts (resolved tokens).
- * Used as canonical EN content for features, pricing, updates, hacks, warzone-esp, warzone-aimbot, radar, setup, support, faq.
+ * Used as canonical EN content for features, pricing, updates, hacks, dota2-esp, dota2-aimbot, radar, setup, support, faq.
  */
 export const SIMPLE_PAGE_IDS = [
 	'features',
 	'pricing',
 	'updates',
 	'hacks',
-	'warzone-esp',
-	'warzone-aimbot',
+	'dota2-esp',
+	'dota2-aimbot',
 	'radar',
 	'setup',
 	'support',
@@ -17,11 +17,11 @@ export const SIMPLE_PAGE_IDS = [
 
 export const simplePagesEn = {
 	features: {
-		title: 'Warzone Cheats Features | ESP, Aimbot & Wallhack',
+		title: 'Dota 2 Cheats Features | ESP, Aimbot & Wallhack',
 		description:
-			'Full warzone cheats feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for Battle Royale on PC. See every control at cheatsforwarzone.com.',
-		h1: 'Warzone Cheats Features — Full Control List',
-		intro: 'Everything included in one license for Call of Duty: Warzone on Windows PC — aimbot, ESP, wallhack, radar, and streamproof options.',
+			'Full dota 2 cheats feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for ranked matches on PC. See every control at dota2cheat.com.',
+		h1: 'Dota 2 Cheats Features — Full Control List',
+		intro: 'Everything included in one license for Dota 2 on Windows PC — aimbot, ESP, wallhack, radar, and streamproof options.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View store',
 		ctaSecondaryHref: '/pricing/',
@@ -46,7 +46,7 @@ export const simplePagesEn = {
 			{
 				h2: 'ESP options',
 				paragraphs: [
-					'See enemies through walls with skeleton, box, and snapline overlays tuned for competitive Call of Duty: Warzone.',
+					'See enemies through walls with skeleton, box, and snapline overlays tuned for competitive Dota 2.',
 					'Adjust line thickness, colours, and ESP type so the overlay stays readable on every map.',
 				],
 				list: [
@@ -84,7 +84,7 @@ export const simplePagesEn = {
 				h2: 'Utility & config',
 				paragraphs: [
 					'Streamproof mode, config save/load, and radar overlays ship in the same license.',
-					'Check Status after Ricochet patches before loading into ranked.',
+					'Check Status after VAC patches before loading into ranked.',
 				],
 				list: [
 					'Aimbot profiles per weapon',
@@ -98,26 +98,26 @@ export const simplePagesEn = {
 			{
 				h2: 'Explore related topics',
 				paragraphs: [
-					'Most warzone cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
+					'Most dota 2 cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
 					'Each guide covers one part of the match stack so you can compare controls before checkout.',
 				],
 				list: [
-					'<a href="/warzone-esp/">Call of Duty: Warzone ESP & wallhack guide</a>',
-					'<a href="/warzone-aimbot/">Call of Duty: Warzone aimbot settings</a>',
-					'<a href="/warzone-radar-hack/">Call of Duty: Warzone radar hack overlay</a>',
-					'<a href="/warzone-wallhack/">Call of Duty: Warzone wallhack features</a>',
+					'<a href="/dota2-esp/">Dota 2 ESP & wallhack guide</a>',
+					'<a href="/dota2-aimbot/">Dota 2 aimbot settings</a>',
+					'<a href="/dota2-radar-hack/">Dota 2 radar hack overlay</a>',
+					'<a href="/dota2-wallhack/">Dota 2 wallhack features</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/blog/">Warzone Intel blog</a>',
+					'<a href="/forums/">Dota 2 Intel blog</a>',
 				],
 			},
 		],
 	},
 	pricing: {
-		title: 'Warzone Cheats Pricing | $35/mo or $150',
+		title: 'Dota 2 Cheats Pricing | $35/mo or $150',
 		description:
-			'Buy Warzone cheats — $35/month or $150 lifetime. ESP, aimbot & radar for Battle Royale and Resurgence on PC. Same features, instant delivery.',
-		h1: 'Warzone Cheats Pricing — Monthly & Lifetime',
+			'Buy Dota 2 cheats — $35/month or $150 lifetime. ESP, aimbot & radar for ranked matches and Resurgence on PC. Same features, instant delivery.',
+		h1: 'Dota 2 Cheats Pricing — Monthly & Lifetime',
 		intro: 'Monthly and lifetime plans with the same ESP, soft aim, and radar stack.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Setup guide',
@@ -155,26 +155,26 @@ export const simplePagesEn = {
 		],
 	},
 	updates: {
-		title: 'Call of Duty: Warzone Status | Ricochet Updates | Warzone Cheats',
+		title: 'Dota 2 Status | VAC Updates | Dota 2 Cheats',
 		description:
-			'Live status after Call of Duty: Warzone & Ricochet patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. cheatsforwarzone.com.',
+			'Live status after Dota 2 & VAC patches. Check reliable ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.',
 		h1: 'Status',
-		intro: 'Check maintenance notes before you load in after a Call of Duty: Warzone or Ricochet patch.',
+		intro: 'Check maintenance notes before you load in after a Dota 2 or VAC patch.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'In-game look',
 		sections: [
 			{
 				h2: 'Current status',
 				paragraphs: [
-					'As of 13 Aug 2026 the package is online for Call of Duty: Warzone on Windows PC. We post a new note here when a game or Ricochet patch needs a rebuild.',
+					'As of 13 Aug 2026 the package is online for Dota 2 on Windows PC. We post a new note here when a game or VAC patch needs a rebuild.',
 					'If Status is green, you can match. If we are rebuilding, wait for the next note.',
 				],
 				list: [
 					'Check this page before every match after a patch',
 					'Monthly and lifetime licenses get rebuilds while active',
-					'No cheat stays undetected forever — status first, then play',
+					'No cheat stays reliable forever — status first, then play',
 				],
 			},
 			{
@@ -196,36 +196,36 @@ export const simplePagesEn = {
 		],
 	},
 	hacks: {
-		title: 'Warzone Cheats Guide | ESP, Aimbot & Radar',
+		title: 'Dota 2 Cheats Guide | ESP, Aimbot & Radar',
 		description:
-			'Warzone cheats guide — undetected ESP wallhack, soft aim, radar & Ricochet rebuilds for Battle Royale and Resurgence on PC. Buy from $35 at cheatsforwarzone.com.',
-		h1: 'Warzone Cheats — Full Guide',
+			'Dota 2 cheats guide — reliable ESP wallhack, soft aim, radar & VAC rebuilds for ranked matches and Resurgence on PC. Buy from $35 at dota2cheat.com.',
+		h1: 'Dota 2 Cheats — Full Guide',
 		intro:
-			'Warzone cheats add ESP, radar, and soft aim on top of the base game. This page explains what warzone cheats are, what Warzone Cheats includes, how Ricochet maintenance works, and where to go next before you buy.',
+			'Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
-		galleryTitle: 'Warzone cheats in action',
+		galleryTitle: 'Dota 2 cheats in action',
 		sections: [
 			{
-				h2: 'What are warzone cheats?',
+				h2: 'What are dota 2 cheats?',
 				paragraphs: [
-					'Warzone cheats are third-party tools that give you extra information and combat assist during matches. Most players search for warzone cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.',
-					'Warzone Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
+					'Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.',
+					'Dota 2 Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
-				h2: 'What Warzone Cheats includes',
+				h2: 'What Dota 2 Cheats includes',
 				paragraphs: [
 					'One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
-					'Monthly and lifetime plans include the same feature stack with Ricochet rebuilds.',
+					'Monthly and lifetime plans include the same feature stack with VAC rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
 					'Weapon drops and resource markers',
 					'2D radar for off-screen threats',
 					'Soft aim & aimbot profiles',
-					'Ricochet rebuilds after patches',
+					'VAC rebuilds after patches',
 				],
 			},
 			{
@@ -235,22 +235,22 @@ export const simplePagesEn = {
 					'Read ESP, aimbot, radar, and feature guides before you buy.',
 				],
 				list: [
-					'<a href="/warzone-esp/">Call of Duty: Warzone ESP & wallhack</a>',
-					'<a href="/warzone-aimbot/">Call of Duty: Warzone Aimbot & soft aim</a>',
-					'<a href="/warzone-radar-hack/">Radar hack overlay</a>',
+					'<a href="/dota2-esp/">Dota 2 ESP & wallhack</a>',
+					'<a href="/dota2-aimbot/">Dota 2 Aimbot & soft aim</a>',
+					'<a href="/dota2-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
-				h2: 'Undetected status & patches',
+				h2: 'Reliable status & patches',
 				paragraphs: [
-					'Call of Duty: Warzone uses Ricochet. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Call of Duty: Warzone or Ricochet update before you load in.',
-					'Read the undetected cheats guide and Ricochet maintenance notes for the full workflow.',
+					'Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.',
+					'Read the reliable cheats guide and VAC maintenance notes for the full workflow.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
-					'<a href="/updates/">Undetected cheats guide</a>',
-					'<a href="/ricochet-bypass/">Ricochet maintenance</a>',
+					'<a href="/updates/">Reliable cheats guide</a>',
+					'<a href="/vac-bypass/">VAC maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
 			},
@@ -268,14 +268,14 @@ export const simplePagesEn = {
 			},
 		],
 	},
-	'warzone-esp': {
-		title: 'Call of Duty: Warzone ESP | Wallhack & Player Boxes',
+	'dota2-esp': {
+		title: 'Dota 2 ESP | Wallhack & Player Boxes',
 		description:
-			'Call of Duty: Warzone ESP wallhack — player boxes, operator markers & distance for Battle Royale and Resurgence on PC. Bundled with aimbot & radar at cheatsforwarzone.com.',
-		h1: 'Call of Duty: Warzone ESP — Player Boxes & Wallhack',
-		intro: 'See players and weapon drops through walls during Call of Duty: Warzone matches. Part of the same Warzone Cheats license.',
+			'Dota 2 ESP wallhack — player boxes, operator markers & distance for ranked matches and Resurgence on PC. Bundled with aimbot & radar at dota2cheat.com.',
+		h1: 'Dota 2 ESP — Player Boxes & Wallhack',
+		intro: 'See players and weapon drops through walls during Dota 2 matches. Part of the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'ESP in match',
 		sections: [
@@ -309,14 +309,14 @@ export const simplePagesEn = {
 			},
 		],
 	},
-	'warzone-aimbot': {
-		title: 'Call of Duty: Warzone Aimbot | Soft Aim & FOV Settings',
+	'dota2-aimbot': {
+		title: 'Dota 2 Aimbot | Soft Aim & FOV Settings',
 		description:
-			'Call of Duty: Warzone aimbot with soft aim, FOV & bone priority for ranked operator fights on PC. Undetected package with ESP & radar at cheatsforwarzone.com.',
-		h1: 'Call of Duty: Warzone Aimbot — Soft Aim for Windows PC',
-		intro: 'Soft aim and aim assist you can tune for Call of Duty: Warzone. Included in the same Warzone Cheats license.',
+			'Dota 2 aimbot with soft aim, FOV & bone priority for ranked operator fights on PC. Reliable package with ESP & radar at dota2cheat.com.',
+		h1: 'Dota 2 Aimbot — Soft Aim for Windows PC',
+		intro: 'Soft aim and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Aimbot view',
 		sections: [
@@ -351,13 +351,13 @@ export const simplePagesEn = {
 		],
 	},
 	radar: {
-		title: 'Call of Duty: Warzone Radar Hack | 2D Threat Map',
+		title: 'Dota 2 Radar Hack | 2D Threat Map',
 		description:
-			'2D radar hack for flank reads in Call of Duty: Warzone Battle Royale and Resurgence on PC. Bundled with ESP wallhack & soft aim in one license at cheatsforwarzone.com.',
-		h1: 'Call of Duty: Warzone Radar Hack — 2D Threat Awareness',
-		intro: 'A simple 2D radar for threats outside your view. Included in the same Warzone Cheats license.',
+			'2D radar hack for flank reads in Dota 2 ranked matches and Resurgence on PC. Bundled with ESP wallhack & soft aim in one license at dota2cheat.com.',
+		h1: 'Dota 2 Radar Hack — 2D Threat Awareness',
+		intro: 'A simple 2D radar for threats outside your view. Included in the same Dota 2 Cheats license.',
 		ctaPrimary: 'Get Access',
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Radar overlay',
 		sections: [
@@ -376,7 +376,7 @@ export const simplePagesEn = {
 					'Radar complements ESP markers during squad pushes and zone fights.',
 				],
 				list: [
-					'<a href="/warzone-esp/">ESP guide</a>',
+					'<a href="/dota2-esp/">ESP guide</a>',
 					'<a href="/">Full product</a>',
 					'<a href="/pricing/">Store</a>',
 				],
@@ -384,9 +384,9 @@ export const simplePagesEn = {
 		],
 	},
 	setup: {
-		title: 'Warzone Cheats Setup | Windows PC Install Guide',
+		title: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		description:
-			'Install Warzone Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at cheatsforwarzone.com. Check Ricochet status first.',
+			'Install Dota 2 Cheats on PC — activate ESP, soft aim & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.',
 		h1: 'Setup',
 		intro: 'Install and activate your license on Windows 10 or 11 before your first match.',
 		ctaPrimary: 'Get Access',
@@ -399,14 +399,14 @@ export const simplePagesEn = {
 				paragraphs: [
 					'Buy a plan first. You get a license by email.',
 					'Have your order email ready before you start installation.',
-					'Warzone Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy competitive fights.',
+					'Dota 2 Cheats runs on Windows 10 or 11 (64-bit) with administrator rights for the loader. Close conflicting overlays and aim for 8 GB RAM minimum (16 GB recommended) for smooth ESP in busy competitive fights.',
 				],
 				list: ['Windows 10 / 11 PC', 'Disable conflicting overlays', 'Have your order email ready'],
 			},
 			{
 				h2: 'Install steps',
 				paragraphs: [
-					'Run the loader as admin, paste your license, then launch Call of Duty: Warzone.',
+					'Run the loader as admin, paste your license, then launch Dota 2.',
 					'Download the loader from your delivery email and follow the steps in order.',
 				],
 				list: ['Download the loader from your delivery email', 'Paste license key', 'Launch the game'],
@@ -414,7 +414,7 @@ export const simplePagesEn = {
 			{
 				h2: 'If something fails',
 				paragraphs: [
-					'Check Status after a patch. Email support@cheatsforwarzone.com with your order ID.',
+					'Check Status after a patch. Email support@dota2cheat.com with your order ID.',
 					'Include your Windows version and what you already tried for faster replies.',
 				],
 				list: ['<a href="/updates/">Status page</a>', '<a href="/support/">Support</a>', '<a href="/faq/">FAQ</a>'],
@@ -422,11 +422,11 @@ export const simplePagesEn = {
 		],
 	},
 	support: {
-		title: 'Warzone Cheats Support | License & Setup Help',
+		title: 'Dota 2 Cheats Support | License & Setup Help',
 		description:
-			'Support for license delivery, ESP setup & billing on PC. Email support@cheatsforwarzone.com with your order ID. cheatsforwarzone.com/support.',
+			'Support for license delivery, ESP setup & billing on PC. Email support@dota2cheat.com with your order ID. dota2cheat.com/support.',
 		h1: 'Support',
-		intro: 'Get help with licenses, setup, and billing for Warzone Cheats on Windows PC.',
+		intro: 'Get help with licenses, setup, and billing for Dota 2 Cheats on Windows PC.',
 		ctaPrimary: 'Email support',
 		ctaSecondary: 'FAQ',
 		ctaSecondaryHref: '/faq/',
@@ -435,7 +435,7 @@ export const simplePagesEn = {
 			{
 				h2: 'How to contact us',
 				paragraphs: [
-					'Email support@cheatsforwarzone.com. Include your order ID and a short note about the issue.',
+					'Email support@dota2cheat.com. Include your order ID and a short note about the issue.',
 					'We review support requests daily for delivery, billing, and setup issues.',
 				],
 				list: ['Order ID from your receipt', 'Windows version', 'What you already tried'],
@@ -444,18 +444,18 @@ export const simplePagesEn = {
 				h2: 'Faster answers',
 				paragraphs: [
 					'Check FAQ and Status before you write. Many setup questions are already covered.',
-					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Call of Duty: Warzone channels on Activision and the <a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">official site</a>.',
+					'Self-service guides often resolve activation issues faster than a new ticket. For patch timing, follow official Dota 2 channels on Activision and the <a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">official site</a>.',
 				],
 				list: ['<a href="/faq/">FAQ</a>', '<a href="/updates/">Status</a>', '<a href="/setup/">Setup</a>'],
 			},
 		],
 	},
 	faq: {
-		title: 'Warzone Cheats FAQ | ESP, Aimbot & Ricochet',
+		title: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		description:
-			'FAQ for Warzone cheats — delivery, setup, Battle Royale and Resurgence use, Ricochet updates & pricing on PC. Answers at cheatsforwarzone.com before you buy.',
-		h1: 'Warzone Cheats FAQ — Common Questions',
-		intro: 'Common questions about Warzone Cheats — delivery, setup, updates, and refunds.',
+			'FAQ for Dota 2 cheats — delivery, setup, ranked matches and Resurgence use, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.',
+		h1: 'Dota 2 Cheats FAQ — Common Questions',
+		intro: 'Common questions about Dota 2 Cheats — delivery, setup, updates, and refunds.',
 		ctaPrimary: 'Get Access',
 		ctaSecondary: 'Support',
 		ctaSecondaryHref: '/support/',
@@ -472,7 +472,7 @@ export const simplePagesEn = {
 			{
 				h2: 'Setup & updates',
 				paragraphs: [
-					'Follow Setup after you buy. Check Status after big Call of Duty: Warzone or Ricochet patches.',
+					'Follow Setup after you buy. Check Status after big Dota 2 or VAC patches.',
 					'Maintenance rebuilds publish on the Status page when patches require updates.',
 				],
 				list: ['<a href="/setup/">Setup guide</a>', '<a href="/updates/">Status</a>'],

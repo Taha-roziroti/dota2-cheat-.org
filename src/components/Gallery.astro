@@ -1,5 +1,5 @@
 ---
-import { warzoneImages } from '../data/warzone';
+import { dota2Images } from '../data/dota2';
 import { getGalleryUi } from '../data/i18n/gallery-ui';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { contentSrcSet, galleryTileSizes } from '../lib/responsive-images';
@@ -12,7 +12,7 @@ interface Props {
 const locale = Astro.props.locale ?? defaultLocale;
 const gallery = getGalleryUi(locale);
 
-const galleryImages = warzoneImages.gallery.map((image) => ({
+const galleryImages = dota2Images.gallery.map((image) => ({
 	src: image.src,
 	url: 'url' in image && image.url ? image.url : absoluteImageUrl(image.src),
 	alt: image.alt,

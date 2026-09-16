@@ -6,9 +6,9 @@ import TrustBar from '../../components/TrustBar.astro';
 import { fillBrandTokens, productInfo, siteConfig } from '../../data/site';
 import { getSelfHreflangAlternates } from '../../data/i18n/routing';
 
-const title = 'About Warzone Cheats | Team & Editorial Standards';
+const title = 'About Dota 2 Cheats | Team & Editorial Standards';
 const description =
-	'About Warzone Cheats at cheatsforwarzone.com — who we are, how we test ESP, aimbot & radar tools, and our editorial standards for undetected Warzone cheats on PC.';
+	'About Dota 2 Cheats at dota2cheat.com — who we are, how we test ESP, aimbot & radar tools, and our editorial standards for Dota 2 cheats on PC.';
 const canonicalPath = '/about/';
 const hreflangAlternates = getSelfHreflangAlternates(canonicalPath);
 
@@ -24,7 +24,7 @@ const extraGraph = [
 			'@id': `${siteConfig.url}/#organization`,
 			name: siteConfig.name,
 			url: siteConfig.url,
-			description: fillBrandTokens('{brand} maintains undetected {primaryKeyword} for {game} on Windows PC.'),
+			description: fillBrandTokens('{brand} maintains reliable {primaryKeyword} for {game} on Windows PC.'),
 		},
 	},
 ];
@@ -37,7 +37,7 @@ const extraGraph = [
 	hreflangAlternates={hreflangAlternates}
 	ogLocaleAlternates={false}
 	ogImage={siteConfig.defaultOgImage}
-	ogImageAlt="About Warzone Cheats"
+	ogImageAlt="About Dota 2 Cheats"
 	locale="en"
 	breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'About' }]}
 	extraGraph={extraGraph}
@@ -50,8 +50,8 @@ const extraGraph = [
 				<p class="standalone-page__eyebrow">About us</p>
 				<h1>About {siteConfig.name}</h1>
 				<p class="standalone-page__lede">
-					{siteConfig.name} is the official home for undetected Warzone cheats on Windows PC — ESP wallhack,
-					soft aim, 2D radar, and Ricochet maintenance after every patch.
+					{siteConfig.name} is the official home for Dota 2 cheats on Windows PC — ESP wallhack,
+					soft aim, 2D radar, and VAC maintenance after every patch.
 				</p>
 			</header>
 
@@ -59,7 +59,7 @@ const extraGraph = [
 				<h2>What we publish</h2>
 				<p>
 					We maintain product pages, setup guides, buyer reviews, FAQs, and blog posts that explain how ESP,
-					aimbot, and radar behave in real Call of Duty: Warzone matches. Our goal is accurate, dated information — not
+					aimbot, and radar behave in real Dota 2 matches. Our goal is accurate, dated information — not
 					hype.
 				</p>
 			</section>
@@ -67,7 +67,7 @@ const extraGraph = [
 			<section>
 				<h2>How we review tools</h2>
 				<ul>
-					<li>Check <a href="/updates/">live status</a> after Ricochet and Call of Duty: Warzone patches.</li>
+					<li>Check <a href="/updates/">live status</a> after VAC and Dota 2 patches.</li>
 					<li>Verify ESP categories, aimbot smoothing, and radar cues on Windows 10 &amp; 11.</li>
 					<li>Document delivery, support response times, and refund eligibility clearly.</li>
 					<li>Compare alternatives honestly on our <a href="/compare/">comparison hub</a>.</li>
@@ -78,7 +78,7 @@ const extraGraph = [
 				<h2>Editorial policy</h2>
 				<p>
 					We label comparison posts and buyer reviews as editorial content. Affiliate checkout links are
-					disclosed. We do not guarantee undetected status or account safety — using cheats may violate Riot
+					disclosed. We do not guarantee patch status or account safety — using cheats may violate Riot
 					Games terms. Read our <a href="/terms/">Terms of Use</a> and <a href="/privacy-policy/">Privacy Policy</a>.
 				</p>
 			</section>

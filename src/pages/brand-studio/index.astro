@@ -33,7 +33,7 @@ type Field = {
 };
 
 const seoDefaults = {
-	homeTitle: '{brand} | Undetected {primaryKeyword}',
+	homeTitle: '{brand} | Reliable {primaryKeyword}',
 	homeDescription:
 		'{primaryKeyword} for Windows PC -- ESP, aimbot, and radar with {antiCheat} maintenance. Compare plans and buy.',
 	featuresTitle: '{game} Features | {brand}',
@@ -61,10 +61,10 @@ const seoDefaults = {
 };
 
 const copyDefaults = {
-	tagline: 'Undetected {primaryKeyword} -- ESP, aimbot, and radar for PC',
+	tagline: 'Reliable {primaryKeyword} -- ESP, aimbot, and radar for PC',
 	summary:
-		'{brand} is an undetected {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
-	heroLede: 'Hacks and cheats available -- 0% detection.',
+		'{brand} is a {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
+	heroLede: 'Hacks and cheats available -- patch-ready builds.',
 	blogLabel: '{game} Intel',
 	ctaBuy: 'Buy now',
 	ctaBuyShort: 'Buy',
@@ -176,7 +176,7 @@ const product: Field[] = [
 	{
 		name: 'game',
 		label: 'Game',
-		tip: 'What: The game this template instance is for. | Why: Fills {game} in titles, FAQs, Status copy, and SEO titles like "Call of Duty: Warzone Features | Brand". | Example: Fortnite, Apex Legends, Marathon',
+		tip: 'What: The game this template instance is for. | Why: Fills {game} in titles, FAQs, Status copy, and SEO titles like "Dota 2 Features | Brand". | Example: Fortnite, Apex Legends, Marathon',
 		value: brand.game,
 		required: true,
 		maxlength: 80,
@@ -184,7 +184,7 @@ const product: Field[] = [
 	{
 		name: 'antiCheat',
 		label: 'Anti-cheat',
-		tip: 'What: The game anti-cheat system name. | Why: Status / FAQ text mentions rebuilds after this anti-cheat patches. Use {antiCheat} token. | Example: Ricochet, Ricochet, Ricochet',
+		tip: 'What: The game anti-cheat system name. | Why: Status / FAQ text mentions rebuilds after this anti-cheat patches. Use {antiCheat} token. | Example: VAC, VAC, VAC',
 		value: brand.antiCheat,
 		required: true,
 		maxlength: 80,
@@ -250,7 +250,7 @@ const seoFields: Field[] = [
 	{
 		name: 'homeTitle',
 		label: 'Home title',
-		tip: 'What: Google title for the homepage. | Why: First line in search results. Aim for 50-60 characters after tokens resolve. | Example: Marathon Hacks | Undetected marathon hacks',
+		tip: 'What: Google title for the homepage. | Why: First line in search results. Aim for 50-60 characters after tokens resolve. | Example: Marathon Hacks | Reliable marathon hacks',
 		value: seo.homeTitle,
 		required: true,
 		maxlength: 70,
@@ -310,7 +310,7 @@ const seoFields: Field[] = [
 	{
 		name: 'statusTitle',
 		label: 'Status title',
-		tip: 'What: Title for the Status page. | Why: Users search patch / undetected status. | Example: Marathon Status | Marathon Hacks',
+		tip: 'What: Title for the Status page. | Why: Users search patch / patch status. | Example: Marathon Status | Marathon Hacks',
 		value: seo.statusTitle,
 		required: true,
 		maxlength: 70,
@@ -319,7 +319,7 @@ const seoFields: Field[] = [
 	{
 		name: 'statusDescription',
 		label: 'Status description',
-		tip: 'What: Meta description for Status. | Why: Mention {antiCheat} and patch checks. | Example: Live status for Marathon Hacks after Marathon or Ricochet patches...',
+		tip: 'What: Meta description for Status. | Why: Mention {antiCheat} and patch checks. | Example: Live status for Marathon Hacks after Marathon or VAC patches...',
 		value: seo.statusDescription,
 		textarea: true,
 		rows: 2,
@@ -466,7 +466,7 @@ const copyFields: Field[] = [
 	{
 		name: 'tagline',
 		label: 'Tagline',
-		tip: 'What: Short marketing line under the brand. | Why: Used in schema and compact promos. Tokens allowed. | Example: Undetected marathon hacks -- ESP, aimbot, and radar for PC',
+		tip: 'What: Short marketing line under the brand. | Why: Used in schema and compact promos. Tokens allowed. | Example: Reliable marathon hacks -- ESP, aimbot, and radar for PC',
 		value: copy.tagline,
 		required: true,
 		maxlength: 160,
@@ -475,7 +475,7 @@ const copyFields: Field[] = [
 	{
 		name: 'summary',
 		label: 'Summary',
-		tip: 'What: One paragraph about the product. | Why: About-style copy and structured data context. | Example: Marathon Hacks is an undetected Marathon cheat package...',
+		tip: 'What: One paragraph about the product. | Why: About-style copy and structured data context. | Example: Marathon Hacks is a Marathon cheat package...',
 		value: copy.summary,
 		textarea: true,
 		rows: 3,
@@ -486,7 +486,7 @@ const copyFields: Field[] = [
 	{
 		name: 'heroLede',
 		label: 'Agent lede',
-		tip: 'What: Second line under the agent brand name. | Why: First thing visitors read on the homepage. Keep it short. | Example: Hacks and cheats available -- 0% detection.',
+		tip: 'What: Second line under the agent brand name. | Why: First thing visitors read on the homepage. Keep it short. | Example: Hacks and cheats available -- patch-ready builds.',
 		value: copy.heroLede,
 		required: true,
 		maxlength: 160,
@@ -495,7 +495,7 @@ const copyFields: Field[] = [
 	{
 		name: 'blogLabel',
 		label: 'Blog / intel label',
-		tip: 'What: Nav label for blog or intel section. | Why: Shown in navigation when blog is enabled. | Example: Marathon Intel, Warzone Intel',
+		tip: 'What: Nav label for blog or intel section. | Why: Shown in navigation when blog is enabled. | Example: Marathon Intel, Dota 2 Intel',
 		value: copy.blogLabel,
 		required: true,
 		maxlength: 80,
@@ -769,13 +769,13 @@ const seoAuditRows = [
 	{ page: 'Features', path: '/features/', fields: 'featuresTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'Store', path: '/pricing/', fields: 'storeTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'Status', path: '/updates/', fields: 'statusTitle / Description + intro', status: 'Live · permanent' },
-	{ page: 'Preview', path: '/warzone-cheats/', fields: 'previewTitle / Description + intro', status: 'Live · permanent' },
+	{ page: 'Preview', path: '/dota2-cheats/', fields: 'previewTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'Setup', path: '/setup/', fields: 'setupTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'Support', path: '/support/', fields: 'supportTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'FAQ index', path: '/faq/', fields: 'faqTitle / Description + intro', status: 'Live · permanent' },
 	{ page: 'Reviews index', path: '/reviews/', fields: 'reviewsTitle / Description + intro', status: 'Live · permanent' },
-	{ page: 'Blog index', path: '/blog/', fields: 'blogTitle / blogDescription', status: 'Live · EN permanent' },
-	{ page: 'Keyword landings', path: '/warzone-esp/ …', fields: 'content.generated.ts', status: 'Manual file' },
+	{ page: 'Blog index', path: '/forums/', fields: 'blogTitle / blogDescription', status: 'Live · EN permanent' },
+	{ page: 'Keyword landings', path: '/dota2-esp/ …', fields: 'content.generated.ts', status: 'Manual file' },
 	{ page: 'FAQ answers', path: '/faq/[slug]/', fields: 'site.ts faqs', status: 'Manual file' },
 	{ page: 'Review posts', path: '/reviews/[slug]/', fields: 'site.ts reviews', status: 'Manual file' },
 ] as const;
@@ -1505,7 +1505,7 @@ const sections = [
 				const sectionIds = ['identity', 'product', 'colors', 'seo', 'keywords', 'copy', 'images', 'sitemap'];
 
 				const seoTemplates = {
-					homeTitle: '{brand} | Undetected {primaryKeyword}',
+					homeTitle: '{brand} | Reliable {primaryKeyword}',
 					homeDescription:
 						'{primaryKeyword} for Windows PC -- ESP, aimbot, and radar with {antiCheat} maintenance. Compare plans and buy.',
 					featuresTitle: '{game} Features | {brand}',
@@ -1533,10 +1533,10 @@ const sections = [
 				};
 
 				const copyTemplates = {
-					tagline: 'Undetected {primaryKeyword} -- ESP, aimbot, and radar for PC',
+					tagline: 'Reliable {primaryKeyword} -- ESP, aimbot, and radar for PC',
 					summary:
-						'{brand} is an undetected {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
-					heroLede: 'Hacks and cheats available -- 0% detection.',
+						'{brand} is a {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
+					heroLede: 'Hacks and cheats available -- patch-ready builds.',
 					blogLabel: '{game} Intel',
 					ctaBuy: 'Buy now',
 					ctaBuyShort: 'Buy',
@@ -1753,12 +1753,12 @@ const sections = [
 							features: '/features/',
 							store: '/pricing/',
 							status: '/updates/',
-							preview: '/warzone-cheats/',
+							preview: '/dota2-cheats/',
 							setup: '/setup/',
 							support: '/support/',
 							faq: '/faq/',
 							reviews: '/reviews/',
-							blog: '/blog/',
+							blog: '/forums/',
 						};
 						const path = paths[activeSerp] || '/';
 						serpUrl.textContent = (u || 'example.com') + path;

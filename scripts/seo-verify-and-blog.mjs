@@ -12,13 +12,13 @@ const bad = [
 	'Battle Pass',
 	'reboot rounds',
 	'endgame circles',
-	'Verdansk',
+	'the map',
 	'Activision',
 	'soft aim, and .',
 	'ESP, Soft Aim,',
-	'best-warzone-cheats',
-	'warzone-esp-hack',
-	'warzone-aimbot-hack',
+	'best-dota2-cheats',
+	'dota2-esp-hack',
+	'dota2-aimbot-hack',
 ];
 console.log('--- pages-en leftovers ---');
 for (const b of bad) {
@@ -37,21 +37,21 @@ for (const b of [
 	'vehicles before',
 	'Controllers',
 	'Battle Pass',
-	'RRicochet',
+	'RVAC',
 	'soft aim, and .',
-	'best-warzone-cheats',
-	'warzone-esp-hack',
+	'best-dota2-cheats',
+	'dota2-esp-hack',
 ]) {
 	const n = en.split(b).length - 1;
 	if (n) console.log(`${b}: ${n}`);
 }
 
-const blog = readFileSync('src/data/blog/posts.generated.ts', 'utf8');
+const blog = readFileSync('src/data/forums/posts.generated.ts', 'utf8');
 const reps = [
 	['V-Bucks', 'scrap'],
 	['Item Shop', 'in-game store'],
 	['Battle Pass', 'patch cycle progression'],
-	['FNCS', 'Call of Duty: Warzone community event'],
+	['FNCS', 'Dota 2 community event'],
 	['Hammer AR', 'M4A1'],
 	['mythics', 'meta guns'],
 	['island codes', 'aim train sessions maps'],
@@ -59,18 +59,18 @@ const reps = [
 	['creative 1v1s', 'aim training'],
 	['Epic health', 'Battlestate status'],
 	['Epic terms', 'Activision terms'],
-	["Epic's Ricochet", 'Ricochet'],
-	['Epic patch', 'Call of Duty: Warzone patch'],
+	["Epic's VAC", 'VAC'],
+	['Epic patch', 'Dota 2 patch'],
 	['EliteFN', 'a Fortnite cheat shop'],
 	['GhostWare', 'a slim cheat vendor'],
 	['CheatSpike', 'another cheat shop'],
-	['/warzone-aimbot-hack/', '/warzone-aimbot/'],
-	['/warzone-esp-hack/', '/warzone-esp/'],
-	['/best-warzone-cheats/', '/'],
-	['best warzone cheats', 'warzone cheats'],
+	['/dota2-aimbot-hack/', '/dota2-aimbot/'],
+	['/dota2-esp-hack/', '/dota2-esp/'],
+	['/best-dota2-cheats/', '/'],
+	['best dota 2 cheats', 'dota 2 cheats'],
 	['hot drops', 'hot spawns'],
 	['ranked grinders', 'session grinders'],
-	['before Battle Royale', 'before a match'],
+	['before ranked matches', 'before a match'],
 ];
 let s = blog;
 let n = 0;
@@ -80,5 +80,5 @@ for (const [a, b] of reps) {
 		n += 1;
 	}
 }
-writeFileSync('src/data/blog/posts.generated.ts', s);
+writeFileSync('src/data/forums/posts.generated.ts', s);
 console.log('blog patterns fixed:', n);

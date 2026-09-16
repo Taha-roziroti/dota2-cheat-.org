@@ -77,14 +77,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 					'Most {game} cheat sites cover ESP, aimbot, radar, setup, and status on separate pages. Use these guides next:',
 				],
 				list: [
-					'<a href="/warzone-esp/">ESP & wallhack guide</a>',
-					'<a href="/warzone-aimbot/">Aimbot & soft aim</a>',
-					'<a href="/warzone-radar-hack/">2D radar overlay</a>',
+					'<a href="/dota2-esp/">ESP & wallhack guide</a>',
+					'<a href="/dota2-aimbot/">Aimbot & soft aim</a>',
+					'<a href="/dota2-radar-hack/">2D radar overlay</a>',
 					'<a href="/setup/">Setup guide</a>',
 					'<a href="/updates/">Live status</a>',
-					'<a href="/blog/">Warzone Intel blog</a>',
-					'<a href="https://www.callofduty.com/warzone/news" target="_blank" rel="noopener noreferrer">Official Call of Duty: Warzone patch notes</a>',
-					'<a href="https://callofduty.fandom.com/wiki/Call_of_Duty:_Warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone Wiki (Fandom)</a>',
+					'<a href="/forums/">Dota 2 Intel blog</a>',
+					'<a href="https://www.dota2.com//news" target="_blank" rel="noopener noreferrer">Official Dota 2 patch notes</a>',
+					'<a href="https://dota2.fandom.com/wiki/Call_of_Duty:_Dota 2" target="_blank" rel="noopener noreferrer">Dota 2 Wiki (Fandom)</a>',
 				],
 			},
 			{
@@ -92,7 +92,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				paragraphs: [
 					'We rebuild after big {game} or {antiCheat} patches.',
 					'Check Status before you play after a patch day.',
-					'Verify official changes on <a href="https://www.callofduty.com/warzone/news" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone patch notes</a> and the <a href="https://callofduty.fandom.com/wiki/Call_of_Duty:_Warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone Wiki</a> before you tune overlays.',
+					'Verify official changes on <a href="https://www.dota2.com//news" target="_blank" rel="noopener noreferrer">Dota 2 patch notes</a> and the <a href="https://dota2.fandom.com/wiki/Call_of_Duty:_Dota 2" target="_blank" rel="noopener noreferrer">Dota 2 Wiki</a> before you tune overlays.',
 				],
 				list: ['Status on the Status page', 'Setup guide included', 'Email support with your order ID'],
 			},
@@ -141,20 +141,20 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		h1: 'Status',
 		intro: brandCopy.statusIntro,
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'In-game look',
 		sections: [
 			{
 				h2: 'Current status',
 				paragraphs: [
-					'As of 13 Aug 2026 the package is online for Call of Duty: Warzone on Windows PC. We post a new note here when a game or Ricochet patch needs a rebuild.',
+					'As of 13 Aug 2026 the package is online for Dota 2 on Windows PC. We post a new note here when a game or VAC patch needs a rebuild.',
 					'If Status is green, you can match. If we are rebuilding, wait for the next note.',
 				],
 				list: [
 					'Check this page before every match after a patch',
 					'Monthly and lifetime licenses get rebuilds while active',
-					'No cheat stays undetected forever — status first, then play',
+					'No cheat stays reliable forever — status first, then play',
 				],
 			},
 			{
@@ -174,33 +174,33 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	hacks: page({
 		title: brandSeo.previewTitle,
 		description: brandSeo.previewDescription,
-		h1: 'Warzone Cheats — Full Guide',
+		h1: 'Dota 2 Cheats — Full Guide',
 		intro:
-			'Warzone cheats add ESP, radar, and soft aim on top of the base game. This page explains what warzone cheats are, what Warzone Cheats includes, how Ricochet maintenance works, and where to go next before you buy.',
+			'Dota 2 cheats add ESP, radar, and soft aim on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.',
 		ctaPrimary: brandCopy.ctaBuy,
 		ctaSecondary: 'View features',
 		ctaSecondaryHref: '/features/',
-		galleryTitle: 'Warzone cheats in action',
+		galleryTitle: 'Dota 2 cheats in action',
 		sections: [
 			{
-				h2: 'What are warzone cheats?',
+				h2: 'What are dota 2 cheats?',
 				paragraphs: [
-					'Warzone cheats are third-party tools that give you extra information and combat assist during matches. Most players search for warzone cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.',
-					'Warzone Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
+					'Dota 2 cheats are third-party tools that give you extra information and combat assist during matches. Most players search for dota 2 cheats when they want player ESP, weapon drops visibility, off-screen radar, or smoother aim under pressure.',
+					'Dota 2 Cheats bundles those tools in one license for Windows PC — no stacking separate downloads for wallhack, radar, and aimbot.',
 				],
 			},
 			{
-				h2: 'What Warzone Cheats includes',
+				h2: 'What Dota 2 Cheats includes',
 				paragraphs: [
 					'One license covers the full match stack: player ESP with distance, operator markers, 2D radar for flanks, and configurable soft aim profiles per weapon.',
-					'Monthly and lifetime plans include the same feature stack with Ricochet rebuilds.',
+					'Monthly and lifetime plans include the same feature stack with VAC rebuilds.',
 				],
 				list: [
 					'ESP / wallhack with distance readouts',
 					'Weapon drops and resource markers',
 					'2D radar for off-screen threats',
 					'Soft aim & aimbot profiles',
-					'Ricochet rebuilds after patches',
+					'VAC rebuilds after patches',
 				],
 			},
 			{
@@ -209,21 +209,21 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 					'Each tool has its own deep-dive page if you want details before checkout.',
 				],
 				list: [
-					'<a href="/warzone-esp/">Call of Duty: Warzone ESP & wallhack</a>',
-					'<a href="/warzone-aimbot/">Call of Duty: Warzone Aimbot & soft aim</a>',
-					'<a href="/warzone-radar-hack/">Radar hack overlay</a>',
+					'<a href="/dota2-esp/">Dota 2 ESP & wallhack</a>',
+					'<a href="/dota2-aimbot/">Dota 2 Aimbot & soft aim</a>',
+					'<a href="/dota2-radar-hack/">Radar hack overlay</a>',
 					'<a href="/features/">Full feature list</a>',
 				],
 			},
 			{
-				h2: 'Undetected status & patches',
+				h2: 'Reliable status & patches',
 				paragraphs: [
-					'Call of Duty: Warzone uses Ricochet. No cheat stays undetected forever — maintenance after patches is what matters. Check the Status page after every Call of Duty: Warzone or Ricochet update before you load in.',
+					'Dota 2 uses VAC. No cheat stays reliable forever — maintenance after patches is what matters. Check the Status page after every Dota 2 or VAC update before you load in.',
 				],
 				list: [
 					'<a href="/updates/">Live status & patch notes</a>',
-					'<a href="/updates/">Undetected status guide</a>',
-					'<a href="/ricochet-bypass/">Ricochet maintenance</a>',
+					'<a href="/updates/">Reliable status guide</a>',
+					'<a href="/vac-bypass/">VAC maintenance</a>',
 					'<a href="/faq/">FAQ before you buy</a>',
 				],
 			},
@@ -240,14 +240,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			},
 		],
 	}),
-	'warzone-esp': page({
-		title: 'Call of Duty: Warzone ESP | Wallhack & Player Boxes | {brand}',
+	'dota2-esp': page({
+		title: 'Dota 2 ESP | Wallhack & Player Boxes | {brand}',
 		description:
-			'Call of Duty: Warzone ESP wallhack — player boxes, operator markers & distance tags on PC. Undetected cheats with aimbot & radar. Shop at cheatsforwarzone.com.',
+			'Dota 2 ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable cheats with aimbot & radar. Shop at dota2cheat.com.',
 		h1: 'ESP',
-		intro: 'See players and weapon drops through walls during Call of Duty: Warzone matches. Part of the same {brand} license.',
+		intro: 'See players and weapon drops through walls during Dota 2 matches. Part of the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'ESP in match',
 		sections: [
@@ -272,14 +272,14 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 			},
 		],
 	}),
-	'warzone-aimbot': page({
-		title: 'Call of Duty: Warzone Aimbot | Soft Aim & FOV Settings | {brand}',
+	'dota2-aimbot': page({
+		title: 'Dota 2 Aimbot | Soft Aim & FOV Settings | {brand}',
 		description:
-			'Call of Duty: Warzone aimbot with soft aim, FOV, bone priority & hotkeys on PC. Undetected {brand} with ESP & radar included. cheatsforwarzone.com.',
+			'Dota 2 aimbot with soft aim, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. dota2cheat.com.',
 		h1: 'Aimbot',
-		intro: 'Soft aim and aim assist you can tune for Call of Duty: Warzone. Included in the same {brand} license.',
+		intro: 'Soft aim and aim assist you can tune for Dota 2. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Aimbot view',
 		sections: [
@@ -305,13 +305,13 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 		],
 	}),
 	radar: page({
-		title: 'Call of Duty: Warzone Radar Hack | 2D Threat Map | {brand}',
+		title: 'Dota 2 Radar Hack | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. Ricochet maintenance at cheatsforwarzone.com.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & soft aim in one license. VAC maintenance at dota2cheat.com.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
-		ctaSecondary: 'Warzone Cheats overview',
+		ctaSecondary: 'Dota 2 Cheats overview',
 		ctaSecondaryHref: '/',
 		galleryTitle: 'Radar overlay',
 		sections: [
@@ -324,7 +324,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 				h2: 'With ESP',
 				paragraphs: ['Use radar for threats you cannot see yet. Use ESP when you push.'],
 				list: [
-					'<a href="/warzone-esp/">ESP guide</a>',
+					'<a href="/dota2-esp/">ESP guide</a>',
 					'<a href="/">Full product</a>',
 					'<a href="/pricing/">Store</a>',
 				],

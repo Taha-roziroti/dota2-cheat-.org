@@ -8,19 +8,19 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = path.resolve(ROOT, '..', 'amansand');
 
 const UI_REPLACEMENTS = [
-	['Warzone Cheats', 'Warzone Cheats'],
-	['warzone cheats', 'warzone cheats'],
-	['Warzone Cheats', 'Warzone Cheats'],
-	['Call of Duty: Warzone's, 'Call of Duty: Warzone's],
-	['Call of Duty: Warzone's, 'Call of Duty: Warzone's],
-	['Call of Duty', 'Call of Duty: Warzone's],
-	['Call of Duty: Warzone PC', 'Call of Duty: Warzone PC'],
-	['for Call of Duty: Warzone', 'for Call of Duty: Warzone'],
-	['Call of Duty: Warzone ', 'Call of Duty: Warzone '],
+	['Dota 2 Cheats', 'Dota 2 Cheats'],
+	['dota 2 cheats', 'dota 2 cheats'],
+	['Dota 2 Cheats', 'Dota 2 Cheats'],
+	['Dota 2's, 'Dota 2's],
+	['Dota 2's, 'Dota 2's],
+	['Dota 2', 'Dota 2's],
+	['Dota 2 PC', 'Dota 2 PC'],
+	['for Dota 2', 'for Dota 2'],
+	['Dota 2 ', 'Dota 2 '],
 	['rust ', 'rust '],
-	['Ricochet maintenance', 'Ricochet maintenance'],
-	['Ricochet', 'Ricochet'],
-	['Ricochet', 'Ricochet'],
+	['VAC maintenance', 'VAC maintenance'],
+	['VAC', 'VAC'],
+	['VAC', 'VAC'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],
@@ -28,14 +28,14 @@ const UI_REPLACEMENTS = [
 	['operator', 'player'],
 	['players', 'Players'],
 	['Operator', 'Player'],
-	['Al Mazrah', 'Verdansk'],
-	['Verdansk', 'Verdansk'],
+	['Al Mazrah', 'the map'],
+	['the map', 'the map'],
 	['farming run', 'farming run'],
 	['extract', 'extract'],
-	['cheatsforwarzone.com', 'cheatsforwarzone.com'],
-	['Trucos Call of Duty: Warzone's, 'Trucos Call of Duty: Warzone's],
-	['Triches Call of Duty: Warzone's, 'Triches Call of Duty: Warzone's],
-	['Cheats Call of Duty: Warzone's, 'Cheats Call of Duty: Warzone's],
+	['dota2cheat.com', 'dota2cheat.com'],
+	['Trucos Dota 2's, 'Trucos Dota 2's],
+	['Triches Dota 2's, 'Triches Dota 2's],
+	['Cheats Dota 2's, 'Cheats Dota 2's],
 ];
 
 function apply(content) {
@@ -54,16 +54,16 @@ for (const file of ['ui-strings-part1.mjs', 'ui-strings-part2.mjs']) {
 
 // Fix pages-en eac key
 let pagesEn = await readFile(path.join(ROOT, 'scripts/i18n-data/pages-en.mjs'), 'utf8');
-pagesEn = pagesEn.replace(/\teac: \{/, "\t'ricochet': {");
-pagesEn = pagesEn.replace(/Call of Duty: Warzone Call of Duty: Warzone/g, 'Call of Duty: Warzone's);
-pagesEn = pagesEn.replace(/for Call of Duty: Warzone Call of Duty: Warzone/g, 'for Call of Duty: Warzone');
+pagesEn = pagesEn.replace(/\teac: \{/, "\t'vac': {");
+pagesEn = pagesEn.replace(/Dota 2 Dota 2/g, 'Dota 2's);
+pagesEn = pagesEn.replace(/for Dota 2 Dota 2/g, 'for Dota 2');
 await writeFile(path.join(ROOT, 'scripts/i18n-data/pages-en.mjs'), pagesEn);
 
 // Fix pages-i18n
 let pagesI18n = await readFile(path.join(ROOT, 'scripts/i18n-data/pages-i18n.mjs'), 'utf8');
 pagesI18n = apply(pagesI18n);
-pagesI18n = pagesI18n.replace(/'ricochet'/g, "'ricochet'");
-pagesI18n = pagesI18n.replace(/eac:/g, "'ricochet':");
+pagesI18n = pagesI18n.replace(/'vac'/g, "'vac'");
+pagesI18n = pagesI18n.replace(/eac:/g, "'vac':");
 await writeFile(path.join(ROOT, 'scripts/i18n-data/pages-i18n.mjs'), pagesI18n);
 
 // Fix generate-i18n pages count

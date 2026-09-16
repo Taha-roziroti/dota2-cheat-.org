@@ -1,9 +1,9 @@
-# CI Workers Builds project (repo: warzone-cheats-org)
-name = "cheats-for-warzone"
+# CI Workers Builds project (repo: dota2-cheats-org)
+name = "cheats-for-dota2"
 compatibility_date = "2026-01-01"
 main = "src/worker.ts"
 
-# Custom domains (cheatsforwarzone.com) are attached in the Cloudflare dashboard — not here.
+# Custom domains (dota2cheat.com) are attached in the Cloudflare dashboard — not here.
 
 [build]
 command = "npm run build"

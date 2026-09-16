@@ -20,15 +20,15 @@
     "closeMenu": "Close menu"
   },
   "hero": {
-    "accent": "Triches Call of Duty: Warzone indétectables",
-    "accentShort": "Warzone Cheats",
-    "title": "Warzone Cheats",
-    "subtitle": "ESP wallhack, radar hack et Aimbot pour Call of Duty: Warzone sur PC Windows — maintenance Ricochet incluse.",
-    "subtitleShort": "ESP, radar et Aimbot pour Call of Duty: Warzone PC",
+    "accent": "Triches Dota 2 ",
+    "accentShort": "Dota 2 Cheats",
+    "title": "Dota 2 Cheats",
+    "subtitle": "ESP wallhack, radar hack et Aimbot pour Dota 2 sur PC Windows — maintenance VAC incluse.",
+    "subtitleShort": "ESP, radar et Aimbot pour Dota 2 PC",
     "buyNow": "Acheter",
     "seeFeatures": "Voir les fonctions",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Call of Duty: Warzone ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
     "chipRadar": "2D radar",
@@ -40,20 +40,20 @@
   },
   "trust": {
     "status": "En ligne",
-    "statusNote": "Le squad Warzone Cheats est actif pour Call of Duty: Warzone sur PC Windows.",
+    "statusNote": "Le squad Dota 2 Cheats est actif pour Dota 2 sur PC Windows.",
     "statusShort": "Actif",
     "delivery": "Livraison numérique instantanée",
     "platform": "Windows 10 et 11",
-    "antiCheat": "Maintenance Ricochet incluse",
-    "antiCheatShort": "Ricochet inclus"
+    "antiCheat": "Maintenance VAC incluse",
+    "antiCheatShort": "VAC inclus"
   },
   "product": {
-    "title": "Warzone Cheats",
+    "title": "Dota 2 Cheats",
     "addToCart": "Ajouter au panier",
     "monthly": "Mensuel",
     "lifetime": "À vie",
     "available": "Disponible",
-    "gameBadge": "Call of Duty: Warzone",
+    "gameBadge": "Dota 2",
     "platformBadge": "PC Windows",
     "statusBadge": "Pack indétectable",
     "days30": "30",
@@ -66,18 +66,18 @@
   },
   "reviews": {
     "title": "Ce que disent les joueurs",
-    "subtitle": "Avis récents des acheteurs Warzone Cheats",
+    "subtitle": "Avis récents des acheteurs Dota 2 Cheats",
     "outOf": "sur 5",
     "countLabel": "avis",
     "eyebrow": "Ce que disent les joueurs",
-    "homeTitle": "Warzone Cheats Ce que disent les joueurs",
+    "homeTitle": "Dota 2 Cheats Ce que disent les joueurs",
     "buyerReviews": "avis",
     "averageAria": "Ce que disent les joueurs",
     "outOfFiveAria": "sur 5",
     "readAll": "→"
   },
   "common": {
-    "buyNow": "Buy Warzone Cheats",
+    "buyNow": "Buy Dota 2 Cheats",
     "readGuide": "Read guide",
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
@@ -117,23 +117,23 @@
   "footer": {
     "explore": "Explorer",
     "help": "Aide et légal",
-    "tagline": "ESP, wallhack, radar et Aimbot indétectables pour Call of Duty: Warzone — checkout via checkout."
+    "tagline": "ESP, wallhack, radar et Aimbot  pour Dota 2 — checkout via checkout."
   },
   "home": {
-    "aboutTitle": "triches indétectables pour Call of Duty: Warzone",
-    "aboutP1": "Pack undetected pour Call of Duty: Warzone sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance Ricochet après chaque patch. Tarifs · Mises à jour.",
+    "aboutTitle": "triches  pour Dota 2",
+    "aboutP1": "Pack reliable pour Dota 2 sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance VAC après chaque patch. Tarifs · Mises à jour.",
     "aboutPricingCta": "Comparer les tarifs",
     "aboutP2Before": "Commencez par le",
-    "aboutPillar": "pilier Warzone Cheats",
+    "aboutPillar": "pilier Dota 2 Cheats",
     "aboutEsp": "guide ESP",
     "aboutAimbot": "contrôles aimbot",
-    "aboutUndetected": "statut indétectable",
+    "aboutReliable": "statut indétectable",
     "aboutP2Mid": ", ",
     "aboutP2Or": ", ou ",
     "aboutP2After": " si vous comparez encore les outils.",
-    "playDemoVideo": "Play Warzone cheats demo video",
-    "pauseDemoVideo": "Pause Warzone cheats demo video",
-    "demoVideoCaption": "Warzone Cheats — ESP, aimbot & radar in match",
+    "playDemoVideo": "Play Dota 2 cheats demo video",
+    "pauseDemoVideo": "Pause Dota 2 cheats demo video",
+    "demoVideoCaption": "Dota 2 Cheats — ESP, aimbot & radar in match",
     "volumeLabel": "Volume",
     "muteVideo": "Mute video",
     "unmuteVideo": "Unmute video",
@@ -156,12 +156,12 @@
     "linkAimbot": "Aimbot",
     "linkRadar": "Radar",
     "linkLiveStatus": "Statut en direct",
-    "linkUndetected": "Indétectable",
-    "linkRicochet": "Ricochet",
+    "linkReliable": "Indétectable",
+    "linkVAC": "VAC",
     "linkSetup": "Installation",
     "linkPlans": "Formules",
     "linkReviews": "Avis",
-    "linkFinalsCheats": "Triches Call of Duty: Warzone",
+    "linkFinalsCheats": "Triches Dota 2",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Guide d'installation",
@@ -193,18 +193,18 @@
     "aimbot": "Aimbot",
     "radar": "Radar",
     "wallhack": "Wallhack",
-    "undetected": "Pack indétectable",
+    "reliable": "Pack indétectable",
     "features": "Fonctions",
     "pricing": "Tarifs",
     "setup": "Installation",
     "blog": "Blog"
   },
   "internalLinks": {
-    "relatedLede": "Warzone Cheats — Pages associées.",
+    "relatedLede": "Dota 2 Cheats — Pages associées.",
     "topicsTitle": "Fonctions",
     "topicsLabel": "Fonctions",
     "topicsLede": "ESP, Aimbot, Tarifs, Installation, Mises à jour.",
-    "overview": "Warzone Cheats",
+    "overview": "Dota 2 Cheats",
     "esp": "ESP & wallhack",
     "aimbot": "Aimbot",
     "radar": "Radar",
@@ -217,7 +217,7 @@
     "blog": "Blog",
     "reviews": "Ce que disent les joueurs",
     "hacks": "Cheats",
-    "undetected": "Pack indétectable"
+    "reliable": "Pack indétectable"
   },
   "externalResources": {
     "title": "Guides officiels et ressources",
@@ -225,199 +225,199 @@
     "pillsTitle": "Guides officiels et ressources",
     "pillsLabel": "Guides officiels et ressources",
     "steam": {
-      "label": "Call of Duty: Warzone sur PC",
+      "label": "Dota 2 sur PC",
       "note": "Page officielle, configuration requise et avis."
     },
     "patch": {
-      "label": "Notes de patch Call of Duty: Warzone",
+      "label": "Notes de patch Dota 2",
       "note": "Lisez les mises à jour officielles avant de changer votre loadout."
     },
     "official": {
-      "label": "Site officiel Call of Duty: Warzone",
-      "note": "Présentation du jeu par Activision."
+      "label": "Site officiel Dota 2",
+      "note": "Présentation du jeu par Valve."
     },
     "wiki": {
-      "label": "Wiki Call of Duty: Warzone (Fandom)",
+      "label": "Wiki Dota 2 (Fandom)",
       "note": "Stats joueurs, cartes et mécaniques de survie."
     },
     "community": {
-      "label": "Hub Call of Duty: Warzone community",
+      "label": "Hub Dota 2 community",
       "note": "Annonces et discussions communautaires."
     }
   },
   "images": {
-    "hero": "Warzone Cheats overlay — ESP and aimbot in Call of Duty: Warzone",
+    "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Soft aim assist overlay during a Call of Duty: Warzone match",
-    "squadFight": "Warzone Cheats combat overlay during a team fight",
-    "playerEsp": "Player ESP boxes and distance readouts in a Call of Duty: Warzone match",
-    "headerArt": "Aimbot view and bone priority controls for Call of Duty: Warzone",
-    "hacksPackage": "2D radar threat overlay for Call of Duty: Warzone",
-    "raidFight": "Aimbot assist during a Call of Duty: Warzone competitive fight",
-    "battleRoyale": "Warzone Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator loadouts and POIs in Call of Duty: Warzone"
+    "aimbotCombat": "Soft aim assist overlay during a Dota 2 match",
+    "squadFight": "Dota 2 Cheats combat overlay during a team fight",
+    "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
+    "headerArt": "Aimbot view and bone priority controls for Dota 2",
+    "hacksPackage": "2D radar threat overlay for Dota 2",
+    "raidFight": "Aimbot assist during a Dota 2 competitive fight",
+    "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
+    "raidMap": "ESP markers for operator loadouts and POIs in Dota 2"
   },
   "guides": {
     "hubTitle": "Game Guides Hub",
-    "hubIntro": "Warzone Cheats product guides sit at the top. Scroll down for dedicated PC game cheat guides — ESP, aimbot, radar, and undetected setup for other titles.",
-    "nativeTitle": "Warzone Cheats guides",
-    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on cheatsforwarzone.com.",
+    "hubIntro": "Dota 2 Cheats product guides sit at the top. Scroll down for dedicated PC game cheat guides — ESP, aimbot, radar, and reliable setup for other titles.",
+    "nativeTitle": "Dota 2 Cheats guides",
+    "nativeLede": "Our primary guides for ESP, aimbot, radar, setup, and pricing on dota2cheat.com.",
     "gameTitle": "Other Game Cheat Guides",
-    "gameLede": "Cheat guides for Fortnite, Tarkov, Valorant, Marvel Rivals, and more — ESP, aimbot, wallhack, and undetected tips per title below.",
+    "gameLede": "Cheat guides for Fortnite, Tarkov, Valorant, Marvel Rivals, and more — ESP, aimbot, wallhack, and reliable tips per title below.",
     "readGuide": "Read guide",
     "published": "Published",
     "updated": "Updated"
   },
   "blog": {
-    "blogTitle": "Warzone Cheats Blog | Guides & Patch Tips",
-    "blogDescription": "Call of Duty: Warzone guides — competitive tips, ESP, aimbot notes, loadout drop routes, and Ricochet update coverage. English blog at cheatsforwarzone.com/blog/.",
-    "blogH1": "Warzone Cheats Intel",
-    "blogIntro": "Actionable Call of Duty: Warzone guides for Battle Royale and Resurgence — meta breakdowns, loadout routes, weapon tiers, and warmup routines. Pair these tips with our Warzone Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
+    "blogTitle": "Dota 2 Cheats Blog | Guides & Patch Tips",
+    "blogDescription": "Dota 2 guides — competitive tips, ESP, aimbot notes, loadout drop routes, and VAC update coverage. English blog at dota2cheat.com/forums/.",
+    "blogH1": "Dota 2 Cheats Intel",
+    "blogIntro": "Actionable Dota 2 guides for ranked matches and ranked — meta breakdowns, loadout routes, weapon tiers, and warmup routines. Pair these tips with our Dota 2 Cheats pages for ESP, soft aim, and radar when you need in-match tools.",
     "readMore": "Read guide",
     "published": "Published",
     "updated": "Updated",
-    "relatedPosts": "Related Call of Duty: Warzone guides",
+    "relatedPosts": "Related Dota 2 guides",
     "allPosts": "All blog posts",
-    "home": "Warzone Cheats home",
+    "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Warzone Intel"
+    "label": "Dota 2 Intel"
   },
   "gallery": {
-    "eyebrow": "Warzone Cheats",
-    "title": "Warzone Cheats gallery",
-    "subtitle": "Warzone Cheats visuals — ESP, wallhack, aimbot, and radar for Call of Duty: Warzone on PC.",
-    "lead": "Warzone Cheats helps you spot enemy operators, weapon drops, and high-traffic POIs with ESP, aimbot, and radar in one license.",
-    "highlightEspTitle": "Warzone Cheats ESP",
-    "highlightEspCopy": "See enemy operators through walls with Warzone Cheats ESP and wallhack overlays.",
-    "highlightRadarTitle": "Warzone Cheats radar",
-    "highlightRadarCopy": "Track nearby threats with Warzone Cheats radar before you push or rotate.",
-    "highlightAimbotTitle": "Warzone Cheats aimbot",
-    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Call of Duty: Warzone matches on Windows PC.",
-    "updatesLabel": "Warzone Cheats updates",
+    "eyebrow": "Dota 2 Cheats",
+    "title": "Dota 2 Cheats gallery",
+    "subtitle": "Dota 2 Cheats visuals — ESP, wallhack, aimbot, and radar for Dota 2 on PC.",
+    "lead": "Dota 2 Cheats helps you spot enemy operators, weapon drops, and high-traffic POIs with ESP, aimbot, and radar in one license.",
+    "highlightEspTitle": "Dota 2 Cheats ESP",
+    "highlightEspCopy": "See enemy operators through walls with Dota 2 Cheats ESP and wallhack overlays.",
+    "highlightRadarTitle": "Dota 2 Cheats radar",
+    "highlightRadarCopy": "Track nearby threats with Dota 2 Cheats radar before you push or rotate.",
+    "highlightAimbotTitle": "Dota 2 Cheats aimbot",
+    "highlightAimbotCopy": "Use soft aim and aimbot controls tuned for Dota 2 matches on Windows PC.",
+    "updatesLabel": "Dota 2 Cheats updates",
     "updatesShort": "Updates"
   },
   "faq": {
     "items": {
-      "what-are-warzone-cheats": {
-        "q": "Qu'est-ce que Warzone Cheats ?",
-        "a": "Warzone Cheats est un squad de triches indétectables pour Call of Duty: Warzone sur PC Windows. Il inclut ESP wallhack, radar 2D et contrôles aimbot, avec maintenance Ricochet et aide à l'installation."
+      "what-are-dota2-cheats": {
+        "q": "Qu'est-ce que Dota 2 Cheats ?",
+        "a": "Dota 2 Cheats est un squad de triches  pour Dota 2 sur PC Windows. Il inclut ESP wallhack, radar 2D et contrôles aimbot, avec maintenance VAC et aide à l'installation."
       },
-      "are-warzone-cheats-undetected-in-2026": {
-        "q": "Les triches Call of Duty: Warzone sont-elles indétectables en 2026 ?",
-        "a": "Warzone Cheats est maintenu pour Call of Duty: Warzone avec des rebuilds après les patchs Ricochet et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente."
+      "are-dota2-cheats-reliable-in-2026": {
+        "q": "Les triches Dota 2 sont-elles  en 2026 ?",
+        "a": "Dota 2 Cheats est maintenu pour Dota 2 avec des rebuilds après les patchs VAC et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente."
       },
       "solo-farmer-and-raider-sessions": {
         "q": "Est-ce que ça fonctionne en battle royale et en matchs classés ?",
-        "a": "Oui. ESP, radar et aimbot sont conçus pour le flux de match Call of Duty: Warzone — lire les héros ennemis, suivre le weapon drops et les utility placements, et rester vigilant près des POI et zones de combat en Resurgence et Ranked."
+        "a": "Oui. ESP, radar et aimbot sont conçus pour le flux de match Dota 2 — lire les héros ennemis, suivre le weapon drops et les utility placements, et rester vigilant près des POI et zones de combat en ranked et Ranked."
       },
       "esp-wallhack-radar-or-aimbot": {
         "q": "Qu'est-ce qui est inclus — ESP, wallhack, radar ou Aimbot ?",
-        "a": "Warzone Cheats regroupe ESP wallhack, marqueurs de weapon drops, radar 2D et Aimbot configurable dans une licence. Voir Fonctions pour la liste complète."
+        "a": "Dota 2 Cheats regroupe ESP wallhack, marqueurs de weapon drops, radar 2D et Aimbot configurable dans une licence. Voir Fonctions pour la liste complète."
       },
       "how-are-licenses-delivered": {
         "q": "Comment les licences sont-elles livrées ?",
         "a": "Après confirmation du paiement, les détails de licence sont livrés numériquement via le checkout. Gardez la confirmation de commande si vous contactez le support."
       },
       "where-to-check-updates": {
-        "q": "Où vérifier les mises à jour après un patch Call of Duty: Warzone ou Ricochet ?",
+        "q": "Où vérifier les mises à jour après un patch Dota 2 ou VAC ?",
         "a": "Les notes de maintenance sont publiées sur la page Statut quand un patch affecte le squad. C'est l'endroit le plus rapide pour confirmer une nouvelle build."
       },
       "how-to-contact-support": {
         "q": "Comment contacter le support ?",
-        "a": "Utilisez la page Support ou écrivez à support@cheatsforwarzone.com avec les détails de votre commande et une description claire du problème."
+        "a": "Utilisez la page Support ou écrivez à support@dota2cheat.com avec les détails de votre commande et une description claire du problème."
       },
-      "what-is-a-warzone-wallhack": {
-        "q": "Qu'est-ce qu'un wallhack Call of Duty: Warzone ?",
-        "a": "Un wallhack Call of Duty: Warzone est un overlay ESP qui affiche les héros ennemis à travers le terrain. Warzone Cheats inclut distances, signaux de grappin et ultime, et catégories configurables."
+      "what-is-a-dota2-wallhack": {
+        "q": "Qu'est-ce qu'un wallhack Dota 2 ?",
+        "a": "Un wallhack Dota 2 est un overlay ESP qui affiche les héros ennemis à travers le terrain. Dota 2 Cheats inclut distances, signaux de grappin et ultime, et catégories configurables."
       },
-      "does-warzone-cheats-include-radar-hack": {
-        "q": "Warzone Cheats inclut-il un radar hack ?",
-        "a": "Oui. Warzone Cheats inclut des overlays radar 2D qui mettent en évidence les menaces proches hors de votre champ de vision."
+      "does-dota2-cheats-include-radar-hack": {
+        "q": "Dota 2 Cheats inclut-il un radar hack ?",
+        "a": "Oui. Dota 2 Cheats inclut des overlays radar 2D qui mettent en évidence les menaces proches hors de votre champ de vision."
       },
-      "ricochet-anti-cheat-and-warzone-cheats": {
-        "q": "Comment Ricochet affecte-t-il les triches Call of Duty: Warzone ?",
-        "a": "Ricochet surveille Call of Duty: Warzone sur PC Windows. Warzone Cheats publie des notes de maintenance après les patchs. Consultez Statut avant de jouer."
+      "vac-anti-cheat-and-dota2-cheats": {
+        "q": "Comment VAC affecte-t-il les triches Dota 2 ?",
+        "a": "VAC surveille Dota 2 sur PC Windows. Dota 2 Cheats publie des notes de maintenance après les patchs. Consultez Statut avant de jouer."
       },
-      "buy-undetected-warzone-cheats-windows-pc": {
-        "q": "Puis-je acheter des triches Call of Duty: Warzone indétectables pour PC Windows ?",
-        "a": "Oui — Warzone Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et aimbot. Comparez les formules sur la page Tarifs."
+      "buy-reliable-dota2-cheats-windows-pc": {
+        "q": "Puis-je acheter des triches Dota 2  pour PC Windows ?",
+        "a": "Oui — Dota 2 Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et aimbot. Comparez les formules sur la page Tarifs."
       },
-      "how-much-do-warzone-cheats-cost": {
-        "q": "How much do warzone cheats cost in 2026?",
-        "a": "Warzone Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and Ricochet maintenance rebuilds. See Pricing for the latest plan details before checkout."
+      "how-much-do-dota2-cheats-cost": {
+        "q": "How much do dota 2 cheats cost in 2026?",
+        "a": "Dota 2 Cheats is $35 per month or $150 lifetime USD on Windows PC. Both plans include ESP wallhack, 2D radar, soft aim, and VAC maintenance rebuilds. See Pricing for the latest plan details before checkout."
       },
-      "what-is-warzone-esp-hack": {
-        "q": "Qu'est-ce qu'un ESP hack Call of Duty: Warzone ?",
-        "a": "Un ESP hack Call of Duty: Warzone est un overlay de visibilité qui affiche héros ennemis, armes et weapon drops à travers les murs. Warzone Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour Resurgence et Ranked."
+      "what-is-dota2-esp-hack": {
+        "q": "Qu'est-ce qu'un ESP hack Dota 2 ?",
+        "a": "Un ESP hack Dota 2 est un overlay de visibilité qui affiche héros ennemis, armes et weapon drops à travers les murs. Dota 2 Cheats ESP inclut boîtes joueur, étiquettes de distance, signaux de grappin et ultime, et catégories configurables pour ranked et Ranked."
       },
-      "what-is-warzone-aimbot-hack": {
-        "q": "Qu'est-ce qu'un aimbot hack Call of Duty: Warzone ?",
-        "a": "Un aimbot hack Call of Duty: Warzone fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Warzone Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files Ranked."
+      "what-is-dota2-aimbot-hack": {
+        "q": "Qu'est-ce qu'un aimbot hack Dota 2 ?",
+        "a": "Un aimbot hack Dota 2 fournit une assistance de visée avec FOV, lissage et priorité d'os configurables. Dota 2 Cheats utilise des profils soft aim conçus pour paraître naturels en team fights et duels — règle les paramètres dans le menu mod avant les files Ranked."
       },
-      "how-to-install-warzone-cheats": {
-        "q": "How do I install warzone cheats on Windows PC?",
-        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Warzone Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@cheatsforwarzone.com if activation fails."
+      "how-to-install-dota2-cheats": {
+        "q": "How do I install dota 2 cheats on Windows PC?",
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.com if activation fails."
       },
-      "best-warzone-cheats-in-2026": {
-        "q": "What are the best warzone cheats in 2026?",
-        "a": "Top warzone cheats in 2026 combine undetected ESP, soft aim, 2D radar, and fast Ricochet maintenance after patches. Warzone Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
+      "best-dota2-cheats-in-2026": {
+        "q": "What are the best dota 2 cheats in 2026?",
+        "a": "Top dota 2 cheats in 2026 combine ESP, soft aim, 2D radar, and fast VAC maintenance after patches. Dota 2 Cheats bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy."
       },
-      "monthly-vs-lifetime-warzone-cheats": {
-        "q": "Should I buy monthly or lifetime warzone cheats?",
-        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term Call of Duty: Warzone play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
+      "monthly-vs-lifetime-dota2-cheats": {
+        "q": "Should I buy monthly or lifetime dota 2 cheats?",
+        "a": "Choose monthly ($35) if you want a lower entry cost or only play a few seasons. Choose lifetime ($150) if you plan long-term Dota 2 play and want one payment for ESP, radar, aimbot, and future maintenance rebuilds. Both plans ship the same feature set."
       },
-      "warzone-cheats-windows-11": {
-        "q": "Do warzone cheats work on Windows 11?",
-        "a": "Yes. Warzone Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep Ricochet status green on the Updates page, and avoid running outdated builds after major patches."
+      "dota2-cheats-windows-11": {
+        "q": "Do dota 2 cheats work on Windows 11?",
+        "a": "Yes. Dota 2 Cheats supports Windows 10 and Windows 11 on PC. Use a clean install path from the Setup guide, keep VAC status green on the Updates page, and avoid running outdated builds after major patches."
       },
-      "what-is-warzone-soft-aim": {
-        "q": "Qu'est-ce que le soft aim Call of Duty: Warzone ?",
-        "a": "Le soft aim Call of Duty: Warzone guide doucement la visée vers les cibles dans un FOV défini au lieu de verrouiller instantanément. Warzone Cheats permet d'ajuster lissage, priorité d'os et profils par type d'arme pour une assistance contrôlée en Resurgence et Ranked."
+      "what-is-dota2-soft-aim": {
+        "q": "Qu'est-ce que le soft aim Dota 2 ?",
+        "a": "Le soft aim Dota 2 guide doucement la visée vers les cibles dans un FOV défini au lieu de verrouiller instantanément. Dota 2 Cheats permet d'ajuster lissage, priorité d'os et profils par type d'arme pour une assistance contrôlée en ranked et Ranked."
       },
-      "free-warzone-cheat-download": {
-        "q": "Is there a free Call of Duty: Warzone hack download?",
-        "a": "Warzone Cheats is a paid license — there is no official free download. Avoid random “free warzone cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
+      "free-dota2-cheat-download": {
+        "q": "Is there a free Dota 2 hack download?",
+        "a": "Dota 2 Cheats is a paid license — there is no official free download. Avoid random “free dota 2 cheat” sites; they often ship malware or detected loaders. Compare monthly and lifetime plans on Pricing for legitimate ESP, radar, and aimbot access with support."
       },
-      "warzone-ricochet-bypass": {
-        "q": "Comment fonctionne le bypass Ricochet pour les triches Call of Duty: Warzone ?",
-        "a": "Il n'existe pas de bypass Ricochet permanent. Warzone Cheats est maintenu avec des rebuilds après les patchs Call of Duty: Warzone et Ricochet — consultez la page Mises à jour avant de jouer. Des réglages responsables et la dernière build comptent plus que toute promesse de « bypass »."
+      "dota2-vac-bypass": {
+        "q": "Comment fonctionne le bypass VAC pour les triches Dota 2 ?",
+        "a": "Il n'existe pas de bypass VAC permanent. Dota 2 Cheats est maintenu avec des rebuilds après les patchs Dota 2 et VAC — consultez la page Mises à jour avant de jouer. Des réglages responsables et la dernière build comptent plus que toute promesse de « bypass »."
       },
-      "warzone-cheats-for-ranked": {
-        "q": "Les triches Call of Duty: Warzone fonctionnent-elles en compétitif classé ?",
-        "a": "Oui. ESP, radar et soft aim sont conçus pour Ranked et Resurgence sur Call of Duty: Warzone en PC Windows. Utilisez des réglages d'overlay conservateurs, lisez les notes de maintenance après les patchs et confirmez le statut undetected sur la page Mises à jour avant les files compétitives."
+      "dota2-cheats-for-ranked": {
+        "q": "Les triches Dota 2 fonctionnent-elles en compétitif classé ?",
+        "a": "Oui. ESP, radar et soft aim sont conçus pour Ranked et ranked sur Dota 2 en PC Windows. Utilisez des réglages d'overlay conservateurs, lisez les notes de maintenance après les patchs et confirmez le statut reliable sur la page Mises à jour avant les files compétitives."
       },
-      "what-is-warzone-mod-menu": {
-        "q": "What is a Call of Duty: Warzone mod menu?",
-        "a": "A Call of Duty: Warzone mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. Warzone Cheats ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
+      "what-is-dota2-mod-menu": {
+        "q": "What is a Dota 2 mod menu?",
+        "a": "A Dota 2 mod menu is an in-game overlay to toggle ESP wallhack, radar, aimbot, and visual settings without alt-tabbing. Dota 2 Cheats ships a lightweight mod menu for Windows PC — see Features for the full toggle list."
       },
-      "external-vs-internal-warzone-cheats": {
-        "q": "What is the difference between external and internal warzone cheats?",
-        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Warzone Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with Ricochet maintenance after patches."
+      "external-vs-internal-dota2-cheats": {
+        "q": "What is the difference between external and internal dota 2 cheats?",
+        "a": "External hacks read game memory from outside the client; internal hooks run inside the process. Dota 2 Cheats is built as an external-style package for easier setup on Windows PC, bundling ESP, radar, and soft aim with VAC maintenance after patches."
       },
-      "how-long-warzone-cheat-setup-takes": {
-        "q": "How long does warzone cheats setup take?",
-        "a": "Most buyers finish Warzone Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@cheatsforwarzone.com with your order ID."
+      "how-long-dota2-cheat-setup-takes": {
+        "q": "How long does dota 2 cheats setup take?",
+        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.com with your order ID."
       },
-      "does-warzone-cheats-include-triggerbot": {
-        "q": "Does Warzone Cheats include triggerbot?",
-        "a": "Warzone Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
+      "does-dota2-cheats-include-triggerbot": {
+        "q": "Does Dota 2 Cheats include triggerbot?",
+        "a": "Dota 2 Cheats focuses on ESP wallhack, 2D radar, and soft aim profiles. Triggerbot is not advertised as a standalone module — review the Features page for the current toggle list before checkout."
       }
     }
   },
   "media": {
-    "demoVideoTitle": "Warzone Cheats ESP, Aimbot demo",
+    "demoVideoTitle": "Dota 2 Cheats ESP, Aimbot demo",
     "playVideo": "Play video"
   },
   "agent": {
-    "accent": "2026 — Undetected ESP, Aimbot & Wallhack",
-    "accentShort": "Undetected warzone cheats 2026",
-    "title": "Warzone Cheats",
-    "subtitle": "Undetected ESP, aimbot, and wallhack for Call of Duty: Warzone on Windows PC — Ricochet maintenance included.",
-    "subtitleShort": "ESP, aimbot & wallhack for Warzone PC",
-    "buyNow": "Buy Warzone Cheats",
+    "accent": "2026 — ESP, Aimbot & Wallhack",
+    "accentShort": "Reliable dota 2 cheats 2026",
+    "title": "Dota 2 Cheats",
+    "subtitle": "ESP, aimbot, and wallhack for Dota 2 on Windows PC — VAC maintenance included.",
+    "subtitleShort": "ESP, aimbot & wallhack for Dota 2 PC",
+    "buyNow": "Buy Dota 2 Cheats",
     "seeFeatures": "See Features",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Call of Duty: Warzone ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Soft aim",
     "chipRadar": "2D radar",

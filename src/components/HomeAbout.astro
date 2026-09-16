@@ -11,8 +11,8 @@ interface Props {
 const { locale } = Astro.props;
 const t = getT(locale);
 const pillarHref = getLocalizedPath('hacks', locale);
-const espHref = getLocalizedPath('warzone-esp', locale);
-const aimbotHref = getLocalizedPath('warzone-aimbot', locale);
+const espHref = getLocalizedPath('dota2-esp', locale);
+const aimbotHref = getLocalizedPath('dota2-aimbot', locale);
 const updatesHref = getLocalizedPath('updates', locale);
 ---
 
@@ -29,7 +29,7 @@ const updatesHref = getLocalizedPath('updates', locale);
 				{t('home.aboutP2Mid')}
 				<a href={aimbotHref}>{t('home.aboutAimbot')}</a>
 				{t('home.aboutP2Or')}
-				<a href={updatesHref}>{t('home.aboutUndetected')}</a>
+				<a href={updatesHref}>{t('home.aboutReliable')}</a>
 				{t('home.aboutP2After')}
 			</p>
 		</div>

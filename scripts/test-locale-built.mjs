@@ -40,7 +40,7 @@ async function testBuiltHtml() {
 		} catch (e) { console.error(`FAIL ${locale}/ home: ${e.message}`); failed++; }
 
 		// Verify generated content section counts match EN for key pages
-		for (const pageId of ['features', 'pricing', 'hacks', 'faq', 'warzone-esp']) {
+		for (const pageId of ['features', 'pricing', 'hacks', 'faq', 'dota2-esp']) {
 			const enCount = EN_SECTIONS[pageId];
 			const locCount = locPages[pageId]?.sections?.length ?? 0;
 			if (locCount !== enCount) {

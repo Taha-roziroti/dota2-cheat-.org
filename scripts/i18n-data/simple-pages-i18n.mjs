@@ -22,129 +22,129 @@ function modulePageH1(pageId, locale) {
 const UI = {
 	es: {
 		features: 'Funciones', store: 'Tienda', status: 'Estado', setup: 'Instalación', support: 'Soporte', faq: 'FAQ',
-		gallery: 'Aspecto en juego', buy: 'Comprar Warzone Cheats', viewStore: 'Ver tienda', setupGuide: 'Guía de instalación',
-		checkStatus: 'Ver estado', overview: 'Resumen Warzone Cheats', viewFeatures: 'Ver funciones', contactSupport: 'Contactar soporte',
-		inGame: 'Aspecto en juego', fullGuide: 'Warzone Cheats — Guía completa',
+		gallery: 'Aspecto en juego', buy: 'Comprar Dota 2 Cheats', viewStore: 'Ver tienda', setupGuide: 'Guía de instalación',
+		checkStatus: 'Ver estado', overview: 'Resumen Dota 2 Cheats', viewFeatures: 'Ver funciones', contactSupport: 'Contactar soporte',
+		inGame: 'Aspecto en juego', fullGuide: 'Dota 2 Cheats — Guía completa',
 	},
 	fr: {
 		features: 'Fonctions', store: 'Boutique', status: 'Statut', setup: 'Installation', support: 'Support', faq: 'FAQ',
-		gallery: 'Rendu en jeu', buy: 'Acheter Warzone Cheats', viewStore: 'Voir la boutique', setupGuide: "Guide d'installation",
-		checkStatus: 'Voir le statut', overview: 'Aperçu Warzone Cheats', viewFeatures: 'Voir les fonctions', contactSupport: 'Contacter le support',
-		inGame: 'Rendu en jeu', fullGuide: 'Warzone Cheats — Guide complet',
+		gallery: 'Rendu en jeu', buy: 'Acheter Dota 2 Cheats', viewStore: 'Voir la boutique', setupGuide: "Guide d'installation",
+		checkStatus: 'Voir le statut', overview: 'Aperçu Dota 2 Cheats', viewFeatures: 'Voir les fonctions', contactSupport: 'Contacter le support',
+		inGame: 'Rendu en jeu', fullGuide: 'Dota 2 Cheats — Guide complet',
 	},
 	de: {
 		features: 'Features', store: 'Shop', status: 'Status', setup: 'Setup', support: 'Support', faq: 'FAQ',
-		gallery: 'Ingame-Ansicht', buy: 'Warzone Cheats kaufen', viewStore: 'Shop ansehen', setupGuide: 'Setup-Anleitung',
-		checkStatus: 'Status prüfen', overview: 'Warzone Cheats Übersicht', viewFeatures: 'Features ansehen', contactSupport: 'Support kontaktieren',
-		inGame: 'Ingame-Ansicht', fullGuide: 'Warzone Cheats — Vollständiger Guide',
+		gallery: 'Ingame-Ansicht', buy: 'Dota 2 Cheats kaufen', viewStore: 'Shop ansehen', setupGuide: 'Setup-Anleitung',
+		checkStatus: 'Status prüfen', overview: 'Dota 2 Cheats Übersicht', viewFeatures: 'Features ansehen', contactSupport: 'Support kontaktieren',
+		inGame: 'Ingame-Ansicht', fullGuide: 'Dota 2 Cheats — Vollständiger Guide',
 	},
 	pt: {
 		features: 'Recursos', store: 'Loja', status: 'Status', setup: 'Instalação', support: 'Suporte', faq: 'FAQ',
-		gallery: 'Visual in-game', buy: 'Comprar Warzone Cheats', viewStore: 'Ver loja', setupGuide: 'Guia de instalação',
-		checkStatus: 'Ver status', overview: 'Visão geral Warzone Cheats', viewFeatures: 'Ver recursos', contactSupport: 'Contactar suporte',
-		inGame: 'Visual in-game', fullGuide: 'Warzone Cheats — Guia completo',
+		gallery: 'Visual in-game', buy: 'Comprar Dota 2 Cheats', viewStore: 'Ver loja', setupGuide: 'Guia de instalação',
+		checkStatus: 'Ver status', overview: 'Visão geral Dota 2 Cheats', viewFeatures: 'Ver recursos', contactSupport: 'Contactar suporte',
+		inGame: 'Visual in-game', fullGuide: 'Dota 2 Cheats — Guia completo',
 	},
 	it: {
 		features: 'Funzioni', store: 'Negozio', status: 'Stato', setup: 'Setup', support: 'Supporto', faq: 'FAQ',
-		gallery: 'Aspetto in-game', buy: 'Acquista Warzone Cheats', viewStore: 'Vedi negozio', setupGuide: 'Guida installazione',
-		checkStatus: 'Controlla stato', overview: 'Panoramica Warzone Cheats', viewFeatures: 'Vedi funzioni', contactSupport: 'Contatta supporto',
-		inGame: 'Aspetto in-game', fullGuide: 'Warzone Cheats — Guida completa',
+		gallery: 'Aspetto in-game', buy: 'Acquista Dota 2 Cheats', viewStore: 'Vedi negozio', setupGuide: 'Guida installazione',
+		checkStatus: 'Controlla stato', overview: 'Panoramica Dota 2 Cheats', viewFeatures: 'Vedi funzioni', contactSupport: 'Contatta supporto',
+		inGame: 'Aspetto in-game', fullGuide: 'Dota 2 Cheats — Guida completa',
 	},
 	nl: {
 		features: 'Functies', store: 'Winkel', status: 'Status', setup: 'Setup', support: 'Support', faq: 'FAQ',
-		gallery: 'In-game weergave', buy: 'Warzone Cheats kopen', viewStore: 'Winkel bekijken', setupGuide: 'Installatiegids',
-		checkStatus: 'Status controleren', overview: 'Warzone Cheats overzicht', viewFeatures: 'Functies bekijken', contactSupport: 'Contact support',
-		inGame: 'In-game weergave', fullGuide: 'Warzone Cheats — Volledige gids',
+		gallery: 'In-game weergave', buy: 'Dota 2 Cheats kopen', viewStore: 'Winkel bekijken', setupGuide: 'Installatiegids',
+		checkStatus: 'Status controleren', overview: 'Dota 2 Cheats overzicht', viewFeatures: 'Functies bekijken', contactSupport: 'Contact support',
+		inGame: 'In-game weergave', fullGuide: 'Dota 2 Cheats — Volledige gids',
 	},
 	pl: {
 		features: 'Funkcje', store: 'Sklep', status: 'Status', setup: 'Instalacja', support: 'Wsparcie', faq: 'FAQ',
-		gallery: 'Wygląd w grze', buy: 'Kup Warzone Cheats', viewStore: 'Zobacz sklep', setupGuide: 'Przewodnik instalacji',
-		checkStatus: 'Sprawdź status', overview: 'Przegląd Warzone Cheats', viewFeatures: 'Zobacz funkcje', contactSupport: 'Kontakt z supportem',
-		inGame: 'Wygląd w grze', fullGuide: 'Warzone Cheats — Pełny przewodnik',
+		gallery: 'Wygląd w grze', buy: 'Kup Dota 2 Cheats', viewStore: 'Zobacz sklep', setupGuide: 'Przewodnik instalacji',
+		checkStatus: 'Sprawdź status', overview: 'Przegląd Dota 2 Cheats', viewFeatures: 'Zobacz funkcje', contactSupport: 'Kontakt z supportem',
+		inGame: 'Wygląd w grze', fullGuide: 'Dota 2 Cheats — Pełny przewodnik',
 	},
 	ru: {
 		features: 'Функции', store: 'Магазин', status: 'Статус', setup: 'Установка', support: 'Поддержка', faq: 'FAQ',
-		gallery: 'Вид в игре', buy: 'Купить Warzone Cheats', viewStore: 'Открыть магазин', setupGuide: 'Гайд по установке',
-		checkStatus: 'Проверить статус', overview: 'Обзор Warzone Cheats', viewFeatures: 'Смотреть функции', contactSupport: 'Связаться с поддержкой',
-		inGame: 'Вид в игре', fullGuide: 'Warzone Cheats — Полный гайд',
+		gallery: 'Вид в игре', buy: 'Купить Dota 2 Cheats', viewStore: 'Открыть магазин', setupGuide: 'Гайд по установке',
+		checkStatus: 'Проверить статус', overview: 'Обзор Dota 2 Cheats', viewFeatures: 'Смотреть функции', contactSupport: 'Связаться с поддержкой',
+		inGame: 'Вид в игре', fullGuide: 'Dota 2 Cheats — Полный гайд',
 	},
 	tr: {
 		features: 'Özellikler', store: 'Mağaza', status: 'Durum', setup: 'Kurulum', support: 'Destek', faq: 'SSS',
-		gallery: 'Oyun içi görünüm', buy: 'Warzone Cheats satın al', viewStore: 'Mağazayı gör', setupGuide: 'Kurulum rehberi',
-		checkStatus: 'Durumu kontrol et', overview: 'Warzone Cheats genel bakış', viewFeatures: 'Özellikleri gör', contactSupport: 'Destekle iletişim',
-		inGame: 'Oyun içi görünüm', fullGuide: 'Warzone Cheats — Tam rehber',
+		gallery: 'Oyun içi görünüm', buy: 'Dota 2 Cheats satın al', viewStore: 'Mağazayı gör', setupGuide: 'Kurulum rehberi',
+		checkStatus: 'Durumu kontrol et', overview: 'Dota 2 Cheats genel bakış', viewFeatures: 'Özellikleri gör', contactSupport: 'Destekle iletişim',
+		inGame: 'Oyun içi görünüm', fullGuide: 'Dota 2 Cheats — Tam rehber',
 	},
 	ar: {
 		features: 'الميزات', store: 'المتجر', status: 'الحالة', setup: 'التثبيت', support: 'الدعم', faq: 'الأسئلة الشائعة',
-		gallery: 'المظهر داخل اللعبة', buy: 'اشترِ Warzone Cheats', viewStore: 'عرض المتجر', setupGuide: 'دليل التثبيت',
-		checkStatus: 'تحقق من الحالة', overview: 'نظرة عامة على Warzone Cheats', viewFeatures: 'عرض الميزات', contactSupport: 'اتصل بالدعم',
-		inGame: 'المظهر داخل اللعبة', fullGuide: 'Warzone Cheats — دليل كامل',
+		gallery: 'المظهر داخل اللعبة', buy: 'اشترِ Dota 2 Cheats', viewStore: 'عرض المتجر', setupGuide: 'دليل التثبيت',
+		checkStatus: 'تحقق من الحالة', overview: 'نظرة عامة على Dota 2 Cheats', viewFeatures: 'عرض الميزات', contactSupport: 'اتصل بالدعم',
+		inGame: 'المظهر داخل اللعبة', fullGuide: 'Dota 2 Cheats — دليل كامل',
 	},
 	ja: {
 		features: '機能', store: 'ストア', status: 'ステータス', setup: 'セットアップ', support: 'サポート', faq: 'FAQ',
-		gallery: 'ゲーム内の見た目', buy: 'Warzone Cheatsを購入', viewStore: 'ストアを見る', setupGuide: 'セットアップガイド',
-		checkStatus: 'ステータスを確認', overview: 'Warzone Cheats概要', viewFeatures: '機能を見る', contactSupport: 'サポートに連絡',
-		inGame: 'ゲーム内の見た目', fullGuide: 'Warzone Cheats — 完全ガイド',
+		gallery: 'ゲーム内の見た目', buy: 'Dota 2 Cheatsを購入', viewStore: 'ストアを見る', setupGuide: 'セットアップガイド',
+		checkStatus: 'ステータスを確認', overview: 'Dota 2 Cheats概要', viewFeatures: '機能を見る', contactSupport: 'サポートに連絡',
+		inGame: 'ゲーム内の見た目', fullGuide: 'Dota 2 Cheats — 完全ガイド',
 	},
 	ko: {
 		features: '기능', store: '스토어', status: '상태', setup: '설치', support: '지원', faq: 'FAQ',
-		gallery: '인게임 화면', buy: 'Warzone Cheats 구매', viewStore: '스토어 보기', setupGuide: '설치 가이드',
-		checkStatus: '상태 확인', overview: 'Warzone Cheats 개요', viewFeatures: '기능 보기', contactSupport: '지원 문의',
-		inGame: '인게임 화면', fullGuide: 'Warzone Cheats — 전체 가이드',
+		gallery: '인게임 화면', buy: 'Dota 2 Cheats 구매', viewStore: '스토어 보기', setupGuide: '설치 가이드',
+		checkStatus: '상태 확인', overview: 'Dota 2 Cheats 개요', viewFeatures: '기능 보기', contactSupport: '지원 문의',
+		inGame: '인게임 화면', fullGuide: 'Dota 2 Cheats — 전체 가이드',
 	},
 	zh: {
 		features: '功能', store: '商店', status: '状态', setup: '安装', support: '支持', faq: '常见问题',
-		gallery: '游戏内效果', buy: '购买 Warzone Cheats', viewStore: '查看商店', setupGuide: '安装指南',
-		checkStatus: '查看状态', overview: 'Warzone Cheats概览', viewFeatures: '查看功能', contactSupport: '联系支持',
-		inGame: '游戏内效果', fullGuide: 'Warzone Cheats — 完整指南',
+		gallery: '游戏内效果', buy: '购买 Dota 2 Cheats', viewStore: '查看商店', setupGuide: '安装指南',
+		checkStatus: '查看状态', overview: 'Dota 2 Cheats概览', viewFeatures: '查看功能', contactSupport: '联系支持',
+		inGame: '游戏内效果', fullGuide: 'Dota 2 Cheats — 完整指南',
 	},
 	hi: {
 		features: 'फ़ीचर्स', store: 'स्टोर', status: 'स्टेटस', setup: 'सेटअप', support: 'सहायता', faq: 'FAQ',
-		gallery: 'इन-गेम लुक', buy: 'Warzone Cheats खरीदें', viewStore: 'स्टोर देखें', setupGuide: 'सेटअप गाइड',
-		checkStatus: 'स्टेटस जांचें', overview: 'Warzone Cheats अवलोकन', viewFeatures: 'फ़ीचर्स देखें', contactSupport: 'सहायता से संपर्क',
-		inGame: 'इन-गेम लुक', fullGuide: 'Warzone Cheats — पूर्ण गाइड',
+		gallery: 'इन-गेम लुक', buy: 'Dota 2 Cheats खरीदें', viewStore: 'स्टोर देखें', setupGuide: 'सेटअप गाइड',
+		checkStatus: 'स्टेटस जांचें', overview: 'Dota 2 Cheats अवलोकन', viewFeatures: 'फ़ीचर्स देखें', contactSupport: 'सहायता से संपर्क',
+		inGame: 'इन-गेम लुक', fullGuide: 'Dota 2 Cheats — पूर्ण गाइड',
 	},
 	id: {
 		features: 'Fitur', store: 'Toko', status: 'Status', setup: 'Setup', support: 'Dukungan', faq: 'FAQ',
-		gallery: 'Tampilan in-game', buy: 'Beli Warzone Cheats', viewStore: 'Lihat toko', setupGuide: 'Panduan setup',
-		checkStatus: 'Cek status', overview: 'Ringkasan Warzone Cheats', viewFeatures: 'Lihat fitur', contactSupport: 'Hubungi dukungan',
-		inGame: 'Tampilan in-game', fullGuide: 'Warzone Cheats — Panduan lengkap',
+		gallery: 'Tampilan in-game', buy: 'Beli Dota 2 Cheats', viewStore: 'Lihat toko', setupGuide: 'Panduan setup',
+		checkStatus: 'Cek status', overview: 'Ringkasan Dota 2 Cheats', viewFeatures: 'Lihat fitur', contactSupport: 'Hubungi dukungan',
+		inGame: 'Tampilan in-game', fullGuide: 'Dota 2 Cheats — Panduan lengkap',
 	},
 	th: {
 		features: 'ฟีเจอร์', store: 'ร้านค้า', status: 'สถานะ', setup: 'ติดตั้ง', support: 'สนับสนุน', faq: 'FAQ',
-		gallery: 'ลุคในเกม', buy: 'ซื้อ Warzone Cheats', viewStore: 'ดูร้านค้า', setupGuide: 'คู่มือติดตั้ง',
-		checkStatus: 'ตรวจสอบสถานะ', overview: 'ภาพรวม Warzone Cheats', viewFeatures: 'ดูฟีเจอร์', contactSupport: 'ติดต่อฝ่ายสนับสนุน',
-		inGame: 'ลุคในเกม', fullGuide: 'Warzone Cheats — คู่มือฉบับสมบูรณ์',
+		gallery: 'ลุคในเกม', buy: 'ซื้อ Dota 2 Cheats', viewStore: 'ดูร้านค้า', setupGuide: 'คู่มือติดตั้ง',
+		checkStatus: 'ตรวจสอบสถานะ', overview: 'ภาพรวม Dota 2 Cheats', viewFeatures: 'ดูฟีเจอร์', contactSupport: 'ติดต่อฝ่ายสนับสนุน',
+		inGame: 'ลุคในเกม', fullGuide: 'Dota 2 Cheats — คู่มือฉบับสมบูรณ์',
 	},
 	vi: {
 		features: 'Tính năng', store: 'Cửa hàng', status: 'Trạng thái', setup: 'Cài đặt', support: 'Hỗ trợ', faq: 'FAQ',
-		gallery: 'Giao diện trong game', buy: 'Mua Warzone Cheats', viewStore: 'Xem cửa hàng', setupGuide: 'Hướng dẫn cài đặt',
-		checkStatus: 'Kiểm tra trạng thái', overview: 'Tổng quan Warzone Cheats', viewFeatures: 'Xem tính năng', contactSupport: 'Liên hệ hỗ trợ',
-		inGame: 'Giao diện trong game', fullGuide: 'Warzone Cheats — Hướng dẫn đầy đủ',
+		gallery: 'Giao diện trong game', buy: 'Mua Dota 2 Cheats', viewStore: 'Xem cửa hàng', setupGuide: 'Hướng dẫn cài đặt',
+		checkStatus: 'Kiểm tra trạng thái', overview: 'Tổng quan Dota 2 Cheats', viewFeatures: 'Xem tính năng', contactSupport: 'Liên hệ hỗ trợ',
+		inGame: 'Giao diện trong game', fullGuide: 'Dota 2 Cheats — Hướng dẫn đầy đủ',
 	},
 	uk: {
 		features: 'Функції', store: 'Магазин', status: 'Статус', setup: 'Встановлення', support: 'Підтримка', faq: 'FAQ',
-		gallery: 'Вигляд у грі', buy: 'Купити Warzone Cheats', viewStore: 'Переглянути магазин', setupGuide: 'Гайд з встановлення',
-		checkStatus: 'Перевірити статус', overview: 'Огляд Warzone Cheats', viewFeatures: 'Дивитися функції', contactSupport: "Зв'язатися з підтримкою",
-		inGame: 'Вигляд у грі', fullGuide: 'Warzone Cheats — Повний гайд',
+		gallery: 'Вигляд у грі', buy: 'Купити Dota 2 Cheats', viewStore: 'Переглянути магазин', setupGuide: 'Гайд з встановлення',
+		checkStatus: 'Перевірити статус', overview: 'Огляд Dota 2 Cheats', viewFeatures: 'Дивитися функції', contactSupport: "Зв'язатися з підтримкою",
+		inGame: 'Вигляд у грі', fullGuide: 'Dota 2 Cheats — Повний гайд',
 	},
 	cs: {
 		features: 'Funkce', store: 'Obchod', status: 'Stav', setup: 'Instalace', support: 'Podpora', faq: 'FAQ',
-		gallery: 'Vzhled ve hře', buy: 'Koupit Warzone Cheats', viewStore: 'Zobrazit obchod', setupGuide: 'Průvodce instalací',
-		checkStatus: 'Zkontrolovat stav', overview: 'Přehled Warzone Cheats', viewFeatures: 'Zobrazit funkce', contactSupport: 'Kontaktovat podporu',
-		inGame: 'Vzhled ve hře', fullGuide: 'Warzone Cheats — Kompletní průvodce',
+		gallery: 'Vzhled ve hře', buy: 'Koupit Dota 2 Cheats', viewStore: 'Zobrazit obchod', setupGuide: 'Průvodce instalací',
+		checkStatus: 'Zkontrolovat stav', overview: 'Přehled Dota 2 Cheats', viewFeatures: 'Zobrazit funkce', contactSupport: 'Kontaktovat podporu',
+		inGame: 'Vzhled ve hře', fullGuide: 'Dota 2 Cheats — Kompletní průvodce',
 	},
 	ro: {
 		features: 'Funcții', store: 'Magazin', status: 'Status', setup: 'Instalare', support: 'Suport', faq: 'FAQ',
-		gallery: 'Aspect în joc', buy: 'Cumpără Warzone Cheats', viewStore: 'Vezi magazinul', setupGuide: 'Ghid de instalare',
-		checkStatus: 'Verifică statusul', overview: 'Prezentare Warzone Cheats', viewFeatures: 'Vezi funcțiile', contactSupport: 'Contactează suportul',
-		inGame: 'Aspect în joc', fullGuide: 'Warzone Cheats — Ghid complet',
+		gallery: 'Aspect în joc', buy: 'Cumpără Dota 2 Cheats', viewStore: 'Vezi magazinul', setupGuide: 'Ghid de instalare',
+		checkStatus: 'Verifică statusul', overview: 'Prezentare Dota 2 Cheats', viewFeatures: 'Vezi funcțiile', contactSupport: 'Contactează suportul',
+		inGame: 'Aspect în joc', fullGuide: 'Dota 2 Cheats — Ghid complet',
 	},
 	sv: {
 		features: 'Funktioner', store: 'Butik', status: 'Status', setup: 'Installation', support: 'Support', faq: 'FAQ',
-		gallery: 'Utseende i spelet', buy: 'Köp Warzone Cheats', viewStore: 'Visa butik', setupGuide: 'Installationsguide',
-		checkStatus: 'Kontrollera status', overview: 'Warzone Cheats-översikt', viewFeatures: 'Visa funktioner', contactSupport: 'Kontakta support',
-		inGame: 'Utseende i spelet', fullGuide: 'Warzone Cheats — Fullständig guide',
+		gallery: 'Utseende i spelet', buy: 'Köp Dota 2 Cheats', viewStore: 'Visa butik', setupGuide: 'Installationsguide',
+		checkStatus: 'Kontrollera status', overview: 'Dota 2 Cheats-översikt', viewFeatures: 'Visa funktioner', contactSupport: 'Kontakta support',
+		inGame: 'Utseende i spelet', fullGuide: 'Dota 2 Cheats — Fullständig guide',
 	},
 };
 
@@ -166,7 +166,7 @@ function buildFeatures(locale, u, p) {
 				['Asistencia de puntería que puedes ajustar para que se sienta natural.', 'Configura FOV, suavidad y prioridad de huesos por arma antes del match.'],
 				['Un radar 2D simple para amenazas fuera de tu vista.', 'Detecta flancos cerca de sitios de bomba sin llenar toda la pantalla.'],
 				['La mayoría de sitios de trucos cubren ESP, aimbot, radar, instalación y estado en páginas separadas. Usa estas guías:', 'Cada guía cubre una parte del stack de match para que compares antes del checkout.'],
-				['Reconstruimos tras parches grandes de Call of Duty: Warzone o Ricochet.', 'Revisa Estado antes de jugar después de un día de parche.', 'Verifica cambios oficiales en las notas de Call of Duty: Warzone y la Wiki de Call of Duty: Warzone antes de ajustar overlays.'],
+				['Reconstruimos tras parches grandes de Dota 2 o VAC.', 'Revisa Estado antes de jugar después de un día de parche.', 'Verifica cambios oficiales en las notas de Dota 2 y la Wiki de Dota 2 antes de ajustar overlays.'],
 			],
 			list: [
 				['Cajas de jugador y distancia', 'Marcadores de weapon drops y base', 'Filtros de heli y objective'],
@@ -183,7 +183,7 @@ function buildFeatures(locale, u, p) {
 				['Aide à la visée réglable pour un rendu naturel.', 'Définissez FOV, fluidité et priorité d\'os par arme avant le match.'],
 				['Un radar 2D simple pour les menaces hors champ.', 'Repérez les flancs près des POI sans remplir l\'écran.'],
 				['La plupart des sites couvrent ESP, aimbot, radar, installation et statut sur des pages séparées. Utilisez ces guides :', 'Chaque guide couvre une partie du stack de match pour comparer avant le checkout.'],
-				['Nous reconstruisons après les gros patchs Call of Duty: Warzone ou Ricochet.', 'Consultez Statut avant de jouer après un jour de patch.', 'Vérifiez les notes Call of Duty: Warzone et le Wiki Call of Duty: Warzone avant d\'ajuster les overlays.'],
+				['Nous reconstruisons après les gros patchs Dota 2 ou VAC.', 'Consultez Statut avant de jouer après un jour de patch.', 'Vérifiez les notes Dota 2 et le Wiki Dota 2 avant d\'ajuster les overlays.'],
 			],
 			list: [
 				['Boîtes joueur et distance', 'Marqueurs de weapon drops et base', 'Filtres héli et objective'],
@@ -200,7 +200,7 @@ function buildFeatures(locale, u, p) {
 				['Zielhilfe, die sich natürlich anfühlt.', 'FOV, Smoothness und Knochenpriorität pro Waffe before queueing einstellen.'],
 				['Einfaches 2D-Radar für Bedrohungen außerhalb des Sichtfelds.', 'Flanken bei Monumenten erkennen, ohne den ganzen Bildschirm zu füllen.'],
 				['Die meisten Cheat-Seiten behandeln ESP, Aimbot, Radar, Setup und Status auf separaten Seiten. Nutze diese Guides:', 'Jeder Guide deckt einen Teil des match stacks ab, damit du vor dem Checkout vergleichen kannst.'],
-				['Wir bauen nach großen Call of Duty: Warzone- oder Ricochet-Patches neu.', 'Prüfe Status vor dem Spielen nach Patch-Tagen.', 'Offizielle Änderungen in Call of Duty: Warzone-Patchnotes und Call of Duty: Warzone Wiki prüfen, bevor du Overlays anpasst.'],
+				['Wir bauen nach großen Dota 2- oder VAC-Patches neu.', 'Prüfe Status vor dem Spielen nach Patch-Tagen.', 'Offizielle Änderungen in Dota 2-Patchnotes und Dota 2 Wiki prüfen, bevor du Overlays anpasst.'],
 			],
 			list: [
 				['Spielerboxen & Distanz', 'Weapon drops- und Basis-Marker', 'Heli- und objective-Filter'],
@@ -214,10 +214,10 @@ function buildFeatures(locale, u, p) {
 	const content = null; // always mirror EN feature structure (menu labels stay English)
 	if (!content) {
 		return {
-			title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Warzone Cheats`),
-			description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
+			title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Dota 2 Cheats`),
+			description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.reliable}.`)),
 			h1: modulePageH1('features', locale) ?? u.features,
-			intro: p.s1(`${u.features} für Call of Duty: Warzone auf ${p.win}.`),
+			intro: p.s1(`${u.features} für Dota 2 auf ${p.win}.`),
 			ctaPrimary: u.buy,
 			ctaSecondary: u.viewStore,
 			ctaSecondaryHref: '/pricing/',
@@ -231,10 +231,10 @@ function buildFeatures(locale, u, p) {
 	}
 	const en = simplePagesEn.features;
 	return {
-		title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Warzone Cheats`),
-		description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.undetected}.`)),
+		title: clampTitle(`${u.features} 2026 | ESP, Aimbot & Radar | Dota 2 Cheats`),
+		description: clampDesc(stripcheckoutFromMeta(`${u.features}: ${focus}. ${p.delivery}. ${p.reliable}.`)),
 		h1: modulePageH1('features', locale) ?? u.features,
-		intro: p.s1(`${u.features} für Call of Duty: Warzone auf ${p.win}.`),
+		intro: p.s1(`${u.features} für Dota 2 auf ${p.win}.`),
 		ctaPrimary: u.buy,
 		ctaSecondary: u.viewStore,
 		ctaSecondaryHref: '/pricing/',
@@ -253,7 +253,7 @@ function buildFeatures(locale, u, p) {
 
 function simplePageTitle(h1, enTitle) {
 	const pipe = enTitle.indexOf('|');
-	const suffix = pipe >= 0 ? enTitle.slice(pipe).replace(/\s*Guide\s*$/i, '').trim() : '| Warzone Cheats';
+	const suffix = pipe >= 0 ? enTitle.slice(pipe).replace(/\s*Guide\s*$/i, '').trim() : '| Dota 2 Cheats';
 	return `${h1} ${suffix.startsWith('|') ? suffix : `| ${suffix}`}`.replace(/\s+/g, ' ').trim();
 }
 
@@ -277,7 +277,7 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripcheckoutFromMeta(
-					`${h1} for Call of Duty: Warzone Battle Royale and Resurgence on Windows PC — ${focus}. ${p.delivery}. Official warzone cheats at cheatsforwarzone.com.`,
+					`${h1} for Dota 2 ranked matches and Resurgence on Windows PC — ${focus}. ${p.delivery}. Official dota 2 cheats at dota2cheat.com.`,
 				),
 			),
 			h1,
@@ -347,28 +347,28 @@ function getNativeSimpleContent(locale, u, p) {
 			{ h2: sectionTitle(L, 'whatAreCheats'), paragraphs: sectionParas(L, 'hacks', 0, p) },
 			{ h2: sectionTitle(L, 'whatIncludes'), paragraphs: sectionParas(L, 'hacks', 1, p), list: sectionList(L, 'hacks', 1) },
 			{ h2: sectionTitle(L, 'moduleGuides'), paragraphs: sectionParas(L, 'hacks', 2, p), list: sectionList(L, 'hacks', 2, L) },
-			{ h2: sectionTitle(L, 'undetectedPatches'), paragraphs: sectionParas(L, 'hacks', 3, p), list: sectionList(L, 'hacks', 3, L) },
+			{ h2: sectionTitle(L, 'reliablePatches'), paragraphs: sectionParas(L, 'hacks', 3, p), list: sectionList(L, 'hacks', 3, L) },
 			{ h2: sectionTitle(L, 'getStarted'), paragraphs: sectionParas(L, 'hacks', 4, p), list: sectionList(L, 'hacks', 4, L) },
 		],
 	});
 
-	mk('warzone-esp', {
-		h1: modulePageH1('warzone-esp', L) ?? 'Call of Duty: Warzone ESP',
-		intro: sectionParas(L, 'warzone-esp', 'intro', p)[0],
+	mk('dota2-esp', {
+		h1: modulePageH1('dota2-esp', L) ?? 'Dota 2 ESP',
+		intro: sectionParas(L, 'dota2-esp', 'intro', p)[0],
 		sections: [
-			{ h2: sectionTitle(L, 'whatEspShows'), paragraphs: sectionParas(L, 'warzone-esp', 0, p), list: sectionList(L, 'warzone-esp', 0) },
-			{ h2: sectionTitle(L, 'whenToUse'), paragraphs: sectionParas(L, 'warzone-esp', 1, p), list: sectionList(L, 'warzone-esp', 1) },
-			{ h2: sectionTitle(L, 'nextSteps'), paragraphs: sectionParas(L, 'warzone-esp', 2, p), list: sectionList(L, 'warzone-esp', 2, L) },
+			{ h2: sectionTitle(L, 'whatEspShows'), paragraphs: sectionParas(L, 'dota2-esp', 0, p), list: sectionList(L, 'dota2-esp', 0) },
+			{ h2: sectionTitle(L, 'whenToUse'), paragraphs: sectionParas(L, 'dota2-esp', 1, p), list: sectionList(L, 'dota2-esp', 1) },
+			{ h2: sectionTitle(L, 'nextSteps'), paragraphs: sectionParas(L, 'dota2-esp', 2, p), list: sectionList(L, 'dota2-esp', 2, L) },
 		],
 	});
 
-	mk('warzone-aimbot', {
-		h1: modulePageH1('warzone-aimbot', L) ?? 'Call of Duty: Warzone Aimbot',
-		intro: sectionParas(L, 'warzone-aimbot', 'intro', p)[0],
+	mk('dota2-aimbot', {
+		h1: modulePageH1('dota2-aimbot', L) ?? 'Dota 2 Aimbot',
+		intro: sectionParas(L, 'dota2-aimbot', 'intro', p)[0],
 		sections: [
-			{ h2: sectionTitle(L, 'controls'), paragraphs: sectionParas(L, 'warzone-aimbot', 0, p), list: sectionList(L, 'warzone-aimbot', 0) },
-			{ h2: sectionTitle(L, 'playStyles'), paragraphs: sectionParas(L, 'warzone-aimbot', 1, p), list: sectionList(L, 'warzone-aimbot', 1) },
-			{ h2: sectionTitle(L, 'nextSteps'), paragraphs: sectionParas(L, 'warzone-aimbot', 2, p), list: sectionList(L, 'warzone-aimbot', 2, L) },
+			{ h2: sectionTitle(L, 'controls'), paragraphs: sectionParas(L, 'dota2-aimbot', 0, p), list: sectionList(L, 'dota2-aimbot', 0) },
+			{ h2: sectionTitle(L, 'playStyles'), paragraphs: sectionParas(L, 'dota2-aimbot', 1, p), list: sectionList(L, 'dota2-aimbot', 1) },
+			{ h2: sectionTitle(L, 'nextSteps'), paragraphs: sectionParas(L, 'dota2-aimbot', 2, p), list: sectionList(L, 'dota2-aimbot', 2, L) },
 		],
 	});
 
@@ -424,10 +424,10 @@ const SECTION_TITLES = {
 	currentStatus: { es: 'Estado actual', fr: 'Statut actuel', de: 'Aktueller Status', pt: 'Status atual', it: 'Stato attuale', nl: 'Huidige status', pl: 'Aktualny status', ru: 'Текущий статус', tr: 'Güncel durum', ar: 'الحالة الحالية', ja: '現在のステータス', ko: '현재 상태', zh: '当前状态', hi: 'वर्तमान स्थिति', id: 'Status saat ini', th: 'สถานะปัจจุบัน', vi: 'Trạng thái hiện tại', uk: 'Поточний статус', cs: 'Aktuální stav', ro: 'Status actual', sv: 'Aktuell status' },
 	afterPatch: { es: 'Después de un parche', fr: 'Après un patch', de: 'Nach einem Patch', pt: 'Após um patch', it: 'Dopo una patch', nl: 'Na een patch', pl: 'Po patchu', ru: 'После патча', tr: 'Yama sonrası', ar: 'بعد التصحيح', ja: 'パッチ後', ko: '패치 후', zh: '补丁后', hi: 'पैच के बाद', id: 'Setelah patch', th: 'หลังแพตช์', vi: 'Sau bản vá', uk: 'Після патчу', cs: 'Po patchi', ro: 'După patch', sv: 'Efter patch' },
 	important: { es: 'Importante', fr: 'Important', de: 'Wichtig', pt: 'Importante', it: 'Importante', nl: 'Belangrijk', pl: 'Ważne', ru: 'Важно', tr: 'Önemli', ar: 'مهم', ja: '重要', ko: '중요', zh: '重要', hi: 'महत्वपूर्ण', id: 'Penting', th: 'สำคัญ', vi: 'Quan trọng', uk: 'Важливо', cs: 'Důležité', ro: 'Important', sv: 'Viktigt' },
-	whatAreCheats: { es: '¿Qué son los trucos de Call of Duty: Warzone?', fr: 'Que sont les triches Call of Duty: Warzone ?', de: 'Was sind Warzone Cheats?', pt: 'O que são cheats de Call of Duty: Warzone?', it: 'Cosa sono i cheat Call of Duty: Warzone?', nl: 'Wat zijn Warzone cheats?', pl: 'Czym są cheaty Call of Duty: Warzone?', ru: 'Что такое читы Call of Duty: Warzone?', tr: 'Call of Duty: Warzone hileleri nedir?', ar: 'ما هي غش Call of Duty: Warzone؟', ja: 'Call of Duty: Warzoneチートとは？', ko: 'Call of Duty: Warzone 치트란?', zh: '什么是Call of Duty: Warzone作弊？', hi: 'Warzone cheats क्या हैं?', id: 'Apa itu cheat Call of Duty: Warzone?', th: 'Warzone cheats คืออะไร?', vi: 'Cheat Call of Duty: Warzone là gì?', uk: 'Що таке чіти Call of Duty: Warzone?', cs: 'Co jsou warzone cheaty?', ro: 'Ce sunt cheats Call of Duty: Warzone?', sv: 'Vad är Warzone cheats?' },
-	whatIncludes: { es: 'Qué incluye Warzone Cheats', fr: 'Ce que Warzone Cheats inclut', de: 'Was Warzone Cheats enthält', pt: 'O que o Warzone Cheats inclui', it: 'Cosa include Warzone Cheats', nl: 'Wat Warzone Cheats bevat', pl: 'Co zawiera Warzone Cheats', ru: 'Что входит в Warzone Cheats', tr: 'Warzone Cheats neleri içerir', ar: 'ماذا يتضمن Warzone Cheats', ja: 'Warzone Cheatsの内容', ko: 'Warzone Cheats 포함 사항', zh: 'Warzone Cheats包含什么', hi: 'Warzone Cheats में क्या शामिल है', id: 'Apa yang termasuk Warzone Cheats', th: 'Warzone Cheats รวมอะไรบ้าง', vi: 'Warzone Cheats bao gồm gì', uk: 'Що входить до Warzone Cheats', cs: 'Co obsahuje Warzone Cheats', ro: 'Ce include Warzone Cheats', sv: 'Vad Warzone Cheats innehåller' },
+	whatAreCheats: { es: '¿Qué son los trucos de Dota 2?', fr: 'Que sont les triches Dota 2 ?', de: 'Was sind Dota 2 Cheats?', pt: 'O que são cheats de Dota 2?', it: 'Cosa sono i cheat Dota 2?', nl: 'Wat zijn Dota 2 cheats?', pl: 'Czym są cheaty Dota 2?', ru: 'Что такое читы Dota 2?', tr: 'Dota 2 hileleri nedir?', ar: 'ما هي غش Dota 2؟', ja: 'Dota 2チートとは？', ko: 'Dota 2 치트란?', zh: '什么是Dota 2作弊？', hi: 'Dota 2 cheats क्या हैं?', id: 'Apa itu cheat Dota 2?', th: 'Dota 2 cheats คืออะไร?', vi: 'Cheat Dota 2 là gì?', uk: 'Що таке чіти Dota 2?', cs: 'Co jsou dota 2 cheaty?', ro: 'Ce sunt cheats Dota 2?', sv: 'Vad är Dota 2 cheats?' },
+	whatIncludes: { es: 'Qué incluye Dota 2 Cheats', fr: 'Ce que Dota 2 Cheats inclut', de: 'Was Dota 2 Cheats enthält', pt: 'O que o Dota 2 Cheats inclui', it: 'Cosa include Dota 2 Cheats', nl: 'Wat Dota 2 Cheats bevat', pl: 'Co zawiera Dota 2 Cheats', ru: 'Что входит в Dota 2 Cheats', tr: 'Dota 2 Cheats neleri içerir', ar: 'ماذا يتضمن Dota 2 Cheats', ja: 'Dota 2 Cheatsの内容', ko: 'Dota 2 Cheats 포함 사항', zh: 'Dota 2 Cheats包含什么', hi: 'Dota 2 Cheats में क्या शामिल है', id: 'Apa yang termasuk Dota 2 Cheats', th: 'Dota 2 Cheats รวมอะไรบ้าง', vi: 'Dota 2 Cheats bao gồm gì', uk: 'Що входить до Dota 2 Cheats', cs: 'Co obsahuje Dota 2 Cheats', ro: 'Ce include Dota 2 Cheats', sv: 'Vad Dota 2 Cheats innehåller' },
 	moduleGuides: { es: 'Guías de módulos', fr: 'Guides des modules', de: 'Modul-Guides', pt: 'Guias de módulos', it: 'Guide ai moduli', nl: 'Modulegidsen', pl: 'Przewodniki modułów', ru: 'Гайды по модулям', tr: 'Modül rehberleri', ar: 'أدلة الوحدات', ja: 'モジュールガイド', ko: '모듈 가이드', zh: '模块指南', hi: 'मॉड्यूल गाइड', id: 'Panduan modul', th: 'คู่มือโมดูล', vi: 'Hướng dẫn module', uk: 'Гайди модулів', cs: 'Průvodce moduly', ro: 'Ghiduri module', sv: 'Modulguider' },
-	undetectedPatches: { es: 'Estado indetectable y parches', fr: 'Statut indétectable et patchs', de: 'Undetected-Status & Patches', pt: 'Status indetectável e patches', it: 'Stato indetectable e patch', nl: 'Undetected status en patches', pl: 'Status undetected i patche', ru: 'Undetected статус и патчи', tr: 'Undetected durumu ve yamalar', ar: 'الحالة غير المكتشفة والتصحيحات', ja: 'Undetectedステータスとパッチ', ko: 'Undetected 상태 및 패치', zh: 'Undetected状态和补丁', hi: 'Undetected स्थिति और पैच', id: 'Status undetected dan patch', th: 'สถานะ undetected และแพตช์', vi: 'Trạng thái undetected và bản vá', uk: 'Undetected статус і патчі', cs: 'Undetected stav a patche', ro: 'Status undetected și patch-uri', sv: 'Undetected-status och patchar' },
+	reliablePatches: { es: 'Estado indetectable y parches', fr: 'Statut indétectable et patchs', de: 'Reliable-Status & Patches', pt: 'Status indetectável e patches', it: 'Stato indetectable e patch', nl: 'Reliable status en patches', pl: 'Status reliable i patche', ru: 'Reliable статус и патчи', tr: 'Reliable durumu ve yamalar', ar: 'الحالة غير المكتشفة والتصحيحات', ja: 'Reliableステータスとパッチ', ko: 'Reliable 상태 및 패치', zh: 'Reliable状态和补丁', hi: 'Reliable स्थिति और पैच', id: 'Status reliable dan patch', th: 'สถานะ reliable และแพตช์', vi: 'Trạng thái reliable và bản vá', uk: 'Reliable статус і патчі', cs: 'Reliable stav a patche', ro: 'Status reliable și patch-uri', sv: 'Reliable-status och patchar' },
 	getStarted: { es: 'Cómo empezar', fr: 'Comment commencer', de: 'So startest du', pt: 'Como começar', it: 'Come iniziare', nl: 'Aan de slag', pl: 'Jak zacząć', ru: 'Как начать', tr: 'Nasıl başlanır', ar: 'كيف تبدأ', ja: '始め方', ko: '시작 방법', zh: '如何开始', hi: 'कैसे शुरू करें', id: 'Cara memulai', th: 'วิธีเริ่มต้น', vi: 'Cách bắt đầu', uk: 'Як почати', cs: 'Jak začít', ro: 'Cum să începi', sv: 'Kom igång' },
 	whatEspShows: { es: 'Qué muestra el ESP', fr: 'Ce que l\'ESP affiche', de: 'Was ESP zeigt', pt: 'O que o ESP mostra', it: 'Cosa mostra l\'ESP', nl: 'Wat ESP toont', pl: 'Co pokazuje ESP', ru: 'Что показывает ESP', tr: 'ESP ne gösterir', ar: 'ماذا يعرض ESP', ja: 'ESPの表示内容', ko: 'ESP 표시 내용', zh: 'ESP显示什么', hi: 'ESP क्या दिखाता है', id: 'Apa yang ditampilkan ESP', th: 'ESP แสดงอะไร', vi: 'ESP hiển thị gì', uk: 'Що показує ESP', cs: 'Co ESP zobrazuje', ro: 'Ce arată ESP', sv: 'Vad ESP visar' },
 	whenToUse: { es: 'Cuándo usarlo', fr: 'Quand l\'utiliser', de: 'Wann nutzen', pt: 'Quando usar', it: 'Quando usarlo', nl: 'Wanneer gebruiken', pl: 'Kiedy używać', ru: 'Когда использовать', tr: 'Ne zaman kullanılır', ar: 'متى تستخدمه', ja: '使いどき', ko: '사용 시기', zh: '何时使用', hi: 'कब उपयोग करें', id: 'Kapan menggunakan', th: 'เมื่อไหร่ควรใช้', vi: 'Khi nào sử dụng', uk: 'Коли використовувати', cs: 'Kdy použít', ro: 'Când să folosești', sv: 'När du använder det' },

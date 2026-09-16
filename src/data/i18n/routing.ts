@@ -19,18 +19,18 @@ export function isBlogPostSlug(slug: string): boolean {
 /** Canonical page identifiers shared across all locales. */
 export type PageId =
 	| 'home'
-	| 'warzone-esp'
-	| 'warzone-aimbot'
+	| 'dota2-esp'
+	| 'dota2-aimbot'
 	| 'features'
 	| 'pricing'
 	| 'setup'
 	| 'updates'
 	| 'faq'
 	| 'support'
-	| 'undetected'
+	| 'reliable'
 	| 'wallhack'
 	| 'radar'
-	| 'ricochet'
+	| 'vac'
 	| 'cheats-2026'
 	| 'hacks'
 	| 'cheat-download'
@@ -47,18 +47,18 @@ export type PageId =
 /** English (official) paths — served at site root without /en/ prefix. */
 export const englishPaths: Record<PageId, string> = {
 	home: '/',
-	'warzone-esp': '/esp/',
-	'warzone-aimbot': '/aimbot/',
+	'dota2-esp': '/esp/',
+	'dota2-aimbot': '/aimbot/',
 	features: '/features/',
 	pricing: '/pricing/',
 	setup: '/setup/',
 	updates: '/updates/',
 	faq: '/faq/',
 	support: '/support/',
-	undetected: '/undetected/',
+	reliable: '/reliable/',
 	wallhack: '/wallhack/',
 	radar: '/radar/',
-	ricochet: '/ricochet/',
+	vac: '/vac/',
 	'cheats-2026': '/2026/',
 	hacks: '/cheats/',
 	'cheat-download': '/download/',
@@ -102,7 +102,7 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 		ro: '',
 		sv: '',
 	},
-	'warzone-esp': {
+	'dota2-esp': {
 		en: 'esp',
 		es: 'esp',
 		fr: 'esp',
@@ -126,7 +126,7 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 		ro: 'esp',
 		sv: 'esp',
 	},
-	'warzone-aimbot': {
+	'dota2-aimbot': {
 		en: 'aimbot',
 		es: 'aimbot',
 		fr: 'aimbot',
@@ -294,29 +294,29 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 		ro: 'suport',
 		sv: 'support',
 	},
-	undetected: {
-		en: 'undetected',
-		es: 'indetectables',
+	reliable: {
+		en: 'reliable',
+		es: '',
 		fr: 'indetectable',
-		de: 'undetected',
+		de: 'reliable',
 		pt: 'indetectaveis',
 		it: 'indetectabili',
-		nl: 'undetected',
+		nl: 'reliable',
 		pl: 'niewykrywalne',
-		ru: 'undetected',
+		ru: 'reliable',
 		tr: 'tespit-edilemez',
-		ar: 'undetected',
-		ja: 'undetected',
-		ko: 'undetected',
-		zh: 'undetected',
-		hi: 'undetected',
-		id: 'undetected',
-		th: 'undetected',
-		vi: 'undetected',
-		uk: 'undetected',
-		cs: 'undetected',
+		ar: 'reliable',
+		ja: 'reliable',
+		ko: 'reliable',
+		zh: 'reliable',
+		hi: 'reliable',
+		id: 'reliable',
+		th: 'reliable',
+		vi: 'reliable',
+		uk: 'reliable',
+		cs: 'reliable',
 		ro: 'nedetectabile',
-		sv: 'undetected',
+		sv: 'reliable',
 	},
 	wallhack: {
 		en: 'wallhack',
@@ -366,29 +366,29 @@ export const localizedSlugs: Record<PageId, Record<LocaleCode, string>> = {
 		ro: 'radar',
 		sv: 'radar',
 	},
-	ricochet: {
-		en: 'ricochet',
-		es: 'ricochet',
-		fr: 'ricochet',
-		de: 'ricochet',
-		pt: 'ricochet',
-		it: 'ricochet',
-		nl: 'ricochet',
-		pl: 'ricochet',
-		ru: 'ricochet',
-		tr: 'ricochet',
-		ar: 'ricochet',
-		ja: 'ricochet',
-		ko: 'ricochet',
-		zh: 'ricochet',
-		hi: 'ricochet',
-		id: 'ricochet',
-		th: 'ricochet',
-		vi: 'ricochet',
-		uk: 'ricochet',
-		cs: 'ricochet',
-		ro: 'ricochet',
-		sv: 'ricochet',
+	vac: {
+		en: 'vac',
+		es: 'vac',
+		fr: 'vac',
+		de: 'vac',
+		pt: 'vac',
+		it: 'vac',
+		nl: 'vac',
+		pl: 'vac',
+		ru: 'vac',
+		tr: 'vac',
+		ar: 'vac',
+		ja: 'vac',
+		ko: 'vac',
+		zh: 'vac',
+		hi: 'vac',
+		id: 'vac',
+		th: 'vac',
+		vi: 'vac',
+		uk: 'vac',
+		cs: 'vac',
+		ro: 'vac',
+		sv: 'vac',
 	},
 	'cheats-2026': {
 		en: '2026',
@@ -697,18 +697,22 @@ export function localizeInternalHref(href: string, locale: LocaleCode): string {
 	}
 	const trimmed = href.replace(/\/+$/, '') || '/';
 	const withSlash = trimmed === '/' ? '/' : `${trimmed}/`;
-	if (withSlash === '/cheats/' || withSlash === '/warzone-cheats/') {
+	if (withSlash === '/cheats/' || withSlash === '/dota2-cheats/') {
 		return getLocalizedPath('hacks', locale);
 	}
-	if (withSlash.startsWith('/blog/') && withSlash !== '/blog/') {
-		const legacySlug = withSlash.slice('/blog/'.length, -1);
-		if (isBlogPostSlug(legacySlug)) {
-			return locale === defaultLocale ? `/${legacySlug}/` : `/${locale}/${legacySlug}/`;
+	if (withSlash.startsWith('/forums/') && withSlash !== '/forums/') {
+		const forumSlug = withSlash.slice('/forums/'.length, -1);
+		if (isBlogPostSlug(forumSlug)) {
+			return locale === defaultLocale
+				? `/forums/${forumSlug}/`
+				: `/${locale}/forums/${forumSlug}/`;
 		}
 	}
 	const rootSlug = trimmed.replace(/^\//, '');
 	if (rootSlug && isBlogPostSlug(rootSlug)) {
-		return locale === defaultLocale ? `/${rootSlug}/` : `/${locale}/${rootSlug}/`;
+		return locale === defaultLocale
+			? `/forums/${rootSlug}/`
+			: `/${locale}/forums/${rootSlug}/`;
 	}
 	for (const pageId of pageIds) {
 		const english = englishPaths[pageId];
@@ -821,7 +825,7 @@ export function resolvePageContextFromPath(pathname: string): PageContext {
 		return { locale, pageId: 'home' };
 	}
 
-	if (rest[0] === 'blog') {
+	if (rest[0] === 'blog' || rest[0] === 'forums') {
 		if (rest.length === 1) {
 			return { locale, isBlogIndex: true };
 		}
@@ -840,13 +844,6 @@ export function resolvePageContextFromPath(pathname: string): PageContext {
 			return { locale, isFaqIndex: true };
 		}
 		return { locale, faqSlug: rest[1] };
-	}
-
-	if (rest[0] === 'guides') {
-		if (rest.length === 1) {
-			return { locale, isGuidesIndex: true };
-		}
-		return { locale, guideSlug: rest[1] };
 	}
 
 	if (rest.length === 1 && isBlogPostSlug(rest[0])) {
@@ -877,12 +874,6 @@ export function getPageLocaleSwitchHref(context: PageContext, targetLocale: Loca
 		return targetLocale === defaultLocale
 			? `/faq/${context.faqSlug}/`
 			: `/${targetLocale}/faq/${context.faqSlug}/`;
-	}
-	if (context.isGuidesIndex) {
-		return '/guides/';
-	}
-	if (context.guideSlug) {
-		return '/guides/';
 	}
 	if (context.pageId) {
 		return getLocalizedPath(context.pageId, targetLocale);
@@ -933,9 +924,9 @@ export function getNavForLocale(locale: LocaleCode, labels: Record<string, strin
 	const items: { label: string; href: string; pageId?: PageId }[] = [
 		{ label: labels.home, href: getLocalizedPath('home', locale), pageId: 'home' },
 	{ label: labels.hacks ?? 'Hacks', href: getLocalizedPath('hacks', locale), pageId: 'hacks' },
-		{ label: labels.aimbot, href: getLocalizedPath('warzone-aimbot', locale), pageId: 'warzone-aimbot' },
-		{ label: labels.esp, href: getLocalizedPath('warzone-esp', locale), pageId: 'warzone-esp' },
-		{ label: 'Blog', href: locale === defaultLocale ? '/blog/' : `/${locale}/blog/` },
+		{ label: labels.aimbot, href: getLocalizedPath('dota2-aimbot', locale), pageId: 'dota2-aimbot' },
+		{ label: labels.esp, href: getLocalizedPath('dota2-esp', locale), pageId: 'dota2-esp' },
+		{ label: 'Forums', href: locale === defaultLocale ? '/forums/' : `/${locale}/forums/` },
 		{ label: labels.features, href: getLocalizedPath('features', locale), pageId: 'features' },
 		{ label: labels.pricing, href: getLocalizedPath('pricing', locale), pageId: 'pricing' },
 		{ label: labels.setup, href: getLocalizedPath('setup', locale), pageId: 'setup' },

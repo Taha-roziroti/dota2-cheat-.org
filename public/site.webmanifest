@@ -1,11 +1,11 @@
 {
-  "name": "Warzone Cheats",
-  "short_name": "Warzone Cheats",
-  "description": "Undetected warzone cheats — ESP, aimbot, and radar for PC",
+  "name": "Dota 2 Cheats",
+  "short_name": "Dota 2 Cheats",
+  "description": "Reliable dota 2 cheats — ESP, aimbot, and radar for PC",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0D0D0D",
-  "theme_color": "#0D0D0D",
+  "background_color": "#0D0A14",
+  "theme_color": "#0D0A14",
   "icons": [
     {
       "src": "/favicon.png",

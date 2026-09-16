@@ -14,8 +14,8 @@ const PREFERRED_HOSTS = [
 	englishPaths.features,
 	englishPaths.pricing,
 	englishPaths.updates,
-	englishPaths['warzone-esp'],
-	englishPaths['warzone-aimbot'],
+	englishPaths['dota2-esp'],
+	englishPaths['dota2-aimbot'],
 	englishPaths.setup,
 	englishPaths.faq,
 	englishPaths.support,
@@ -23,7 +23,7 @@ const PREFERRED_HOSTS = [
 	englishPaths.privacy,
 	englishPaths.refund,
 	englishPaths.terms,
-	'/blog/',
+	'/forums/',
 	'/reviews/',
 ] as const;
 

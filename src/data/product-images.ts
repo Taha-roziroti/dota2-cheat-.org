@@ -1,6 +1,6 @@
 import { siteConfig } from './site';
 
-/** User-provided Warzone gameplay screenshots (8 unique). */
+/** User-provided Dota 2 gameplay screenshots (8 unique). */
 export const PRODUCT_SCREENSHOT_SOURCES = [
 	'user:291e026c-07bb-4e4a-8d62-c8c7a5b14965.png',
 	'user:c5bc12a4-9b23-4840-8448-df2ee6f7c971.png',
@@ -26,39 +26,39 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'Warzone ESP box overlay at Train Wreck with Peacekeeper Mk2 and 36m distance tag',
-		title: 'Warzone ESP box and distance at Train Wreck',
-		caption: 'Warzone ESP wallhack with player box, distance readout and aimbot FOV indicator on PC',
+		alt: 'Dota 2 ESP box overlay at Train Wreck with Peacekeeper Mk2 and 36m distance tag',
+		title: 'Dota 2 ESP box and distance at Train Wreck',
+		caption: 'Dota 2 ESP wallhack with player box, distance readout and aimbot FOV indicator on PC',
 	},
 	2: {
-		alt: 'Warzone player ESP skeleton overlay at Coal Depot with multiple distance markers in gas zone',
-		title: 'Warzone skeleton ESP at Coal Depot',
-		caption: 'Warzone wallhack showing enemy skeletons, red boxes and distance ESP through gas',
+		alt: 'Dota 2 player ESP skeleton overlay at Coal Depot with multiple distance markers in gas zone',
+		title: 'Dota 2 skeleton ESP at Coal Depot',
+		caption: 'Dota 2 wallhack showing enemy skeletons, red boxes and distance ESP through gas',
 	},
 	3: {
-		alt: 'Warzone aimbot box ESP on Main Street rooftop with AR-27 and 23m distance tag',
-		title: 'Warzone aimbot and box ESP on Main Street',
-		caption: 'Warzone cheats box ESP with aimbot lock, visibility check and distance tags on PC',
+		alt: 'Dota 2 aimbot box ESP on Main Street rooftop with AR-27 and 23m distance tag',
+		title: 'Dota 2 aimbot and box ESP on Main Street',
+		caption: 'Dota 2 cheats box ESP with aimbot lock, visibility check and distance tags on PC',
 	},
 	4: {
-		alt: 'Warzone ESP distance markers through scope on Main Street with AK-27 33 rounds',
-		title: 'Warzone scope ESP and distance tags',
-		caption: 'Warzone ESP distance markers and aimbot target box during Battle Royale combat',
+		alt: 'Dota 2 ESP distance markers through scope on Main Street with AK-27 33 rounds',
+		title: 'Dota 2 scope ESP and distance tags',
+		caption: 'Dota 2 ESP distance markers and aimbot target box during ranked matches combat',
 	},
 	5: {
-		alt: 'Warzone wallhack box ESP through scope with red hitmarker on Main Street 24m',
-		title: 'Warzone wallhack scope targeting',
-		caption: 'Warzone wallhack player box ESP and aimbot crosshair overlay on rooftop fight',
+		alt: 'Dota 2 wallhack box ESP through scope with red hitmarker on Main Street 24m',
+		title: 'Dota 2 wallhack scope targeting',
+		caption: 'Dota 2 wallhack player box ESP and aimbot crosshair overlay on rooftop fight',
 	},
 	6: {
-		alt: 'Warzone ESP box overlay on Fast Forward alley with D520 Mirage and 113m tag',
-		title: 'Warzone ESP box on Fast Forward',
-		caption: 'Warzone player ESP with distance tags and visible/invisible counter in gas zone',
+		alt: 'Dota 2 ESP box overlay on Fast Forward alley with D520 Mirage and 113m tag',
+		title: 'Dota 2 ESP box on Fast Forward',
+		caption: 'Dota 2 player ESP with distance tags and visible/invisible counter in gas zone',
 	},
 	7: {
-		alt: 'Warzone item ESP showing cash armor plates and loot tags inside bank vault',
-		title: 'Warzone item ESP and loot tags',
-		caption: 'Warzone item ESP showing cash, armor plates, beacons and loot through walls on PC',
+		alt: 'Dota 2 item ESP showing cash armor plates and loot tags inside bank vault',
+		title: 'Dota 2 item ESP and loot tags',
+		caption: 'Dota 2 item ESP showing cash, armor plates, beacons and loot through walls on PC',
 	},
 };
 
@@ -75,12 +75,12 @@ export function screenshotsShareSource(a: number, b: number): boolean {
 }
 
 export function screenshotIdFromSrc(src: string): number | undefined {
-	const match = src.match(/warzone-screenshot-(\d{2})\.webp/i);
+	const match = src.match(/dota2-screenshot-(\d{2})\.webp/i);
 	return match ? parseInt(match[1]!, 10) : undefined;
 }
 
 /** Cinematic hero art — homepage banner only; never reuse in galleries or in-game blocks. */
-export const HERO_IMAGE_PREFIXES = ['/images/warzone-cheats-hero', '/images/warzone-hero-poster'] as const;
+export const HERO_IMAGE_PREFIXES = ['/images/dota2-cheats-hero', '/images/dota2-hero-poster'] as const;
 
 export function isHeroMarketingImage(src: string): boolean {
 	return HERO_IMAGE_PREFIXES.some((prefix) => src.startsWith(prefix));
@@ -88,7 +88,7 @@ export function isHeroMarketingImage(src: string): boolean {
 
 export function screenshotSrc(n: number): string {
 	const id = normalizeScreenshotId(n);
-	return `/images/warzone-screenshot-${String(id).padStart(2, '0')}.webp`;
+	return `/images/dota2-screenshot-${String(id).padStart(2, '0')}.webp`;
 }
 
 export function absoluteScreenshotUrl(n: number): string {
@@ -98,9 +98,9 @@ export function absoluteScreenshotUrl(n: number): string {
 export function getProductScreenshot(n: number): ProductScreenshotMeta {
 	const id = normalizeScreenshotId(n);
 	const meta = alts[id] ?? {
-		alt: `Warzone cheats gameplay screenshot ${id}`,
-		title: `Warzone cheats screenshot ${id}`,
-		caption: `Warzone cheats screenshot ${id} for Call of Duty Warzone on Windows PC`,
+		alt: `Dota 2 cheats gameplay screenshot ${id}`,
+		title: `Dota 2 cheats screenshot ${id}`,
+		caption: `Dota 2 cheats screenshot ${id} for Dota 2 Dota 2 on Windows PC`,
 	};
 	const src = screenshotSrc(id);
 	const sourceKey = screenshotSourceKey(id);

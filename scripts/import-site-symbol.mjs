@@ -50,13 +50,13 @@ async function main() {
 	const base = await logoWithAlpha();
 	const png512 = await base.clone().resize(512, 512).png().toBuffer();
 
-	await writeFile(path.join(imagesDir, 'warzone-cheats-logo.png'), png512);
+	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.png'), png512);
 	await writeFile(
-		path.join(imagesDir, 'warzone-cheats-logo.webp'),
+		path.join(imagesDir, 'dota2-cheats-logo.webp'),
 		await sharp(png512).webp({ quality: 92, effort: 6 }).toBuffer(),
 	);
 	await writeFile(
-		path.join(imagesDir, 'warzone-cheats-logo-mark.webp'),
+		path.join(imagesDir, 'dota2-cheats-logo-mark.webp'),
 		await sharp(png512).resize(128, 128).webp({ quality: 92, effort: 6 }).toBuffer(),
 	);
 

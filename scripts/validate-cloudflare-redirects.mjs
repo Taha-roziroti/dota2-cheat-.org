@@ -45,12 +45,12 @@ if (existsSync(path.join(ROOT, 'dist'))) {
 const MIDDLEWARE = path.join(ROOT, 'functions/_middleware.js');
 if (existsSync(MIDDLEWARE)) {
 	const middleware = readFileSync(MIDDLEWARE, 'utf8');
-	if (/LEGACY_HOSTS[\s\S]*?['"]cheatsforwarzone\.net['"]/.test(middleware)) {
+	if (/LEGACY_HOSTS[\s\S]*?['"]cheatsfordota2\.net['"]/.test(middleware)) {
 		console.error('✗ functions/_middleware.js: canonical host must not appear in LEGACY_HOSTS');
 		process.exit(1);
 	}
-	if (/const WWW_HOST = ['"]cheatsforwarzone\.net['"]/.test(middleware)) {
-		console.error('✗ functions/_middleware.js: WWW_HOST must be www.cheatsforwarzone.com');
+	if (/const WWW_HOST = ['"]cheatsfordota2\.net['"]/.test(middleware)) {
+		console.error('✗ functions/_middleware.js: WWW_HOST must be www.dota2cheat.com');
 		process.exit(1);
 	}
 	console.log('✓ functions/_middleware.js: canonical host redirect guardrails OK');

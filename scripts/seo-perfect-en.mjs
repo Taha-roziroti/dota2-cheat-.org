@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Purge Fortnite/Warzone/BR leftovers from EN page source and regenerate i18n.
+ * Purge Fortnite/Dota 2/BR leftovers from EN page source and regenerate i18n.
  * Run: node scripts/seo-perfect-en.mjs
  */
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -25,7 +25,7 @@ const replacements = [
 	['PC & Controller Guide', 'Windows PC Guide'],
 	['PC and controller cheats', 'Windows PC cheats'],
 
-	// BR / Fortnite lexicon → Call of Duty: Warzone
+	// BR / Fortnite lexicon → Dota 2
 	['vehicles, weapon drops', 'players, NPCs, weapon drops'],
 	['notice vehicles before they push your position', 'spot players and NPCs before they push your angle'],
 	['Player, boss, and weapon drops', 'Player, apex, and weapon drops'],
@@ -37,7 +37,7 @@ const replacements = [
 	['long-range DMR fights and dorms clears', 'long-range ambush competitive fights and high-traffic zone clears'],
 	['Save separate Aimbot profiles for ARs, SMGs, and long-ranges', 'Save separate Aimbot profiles for carnivores, ambush builds, and long-range species'],
 	['building and rooftop fights', 'forest and monument edge ambushes'],
-	['weapons, and Ricochet', 'species balance, and Ricochet'],
+	['weapons, and VAC', 'species balance, and VAC'],
 	['major weapon updates', 'major species balance updates'],
 	['boss threat cues, weapon drops and operator markers', 'threat cues, weapon drops and resources markers'],
 	['weapon drops, weapon drops, and bosses', 'weapon drops, resource nodes, and enemy players'],
@@ -91,43 +91,43 @@ const replacements = [
 	['Best Hacks with ESP & ', 'ESP Soft Aim & Radar'],
 	['ESP, Soft Aim & ', 'ESP, Soft Aim & Radar'],
 	['with — learn', '— learn'],
-	['RRicochet out for', 'Reach out for'],
-	['an Ricochet', 'a Ricochet'],
+	['RVAC out for', 'Reach out for'],
+	['an VAC', 'a VAC'],
 	['After a Escape', 'After an Escape'],
 	['after a Escape', 'after an Escape'],
 
 	// Keyword stuffing / nonsense duplicates
-	['warzone cheats & warzone cheats', 'warzone cheats'],
+	['dota 2 cheats & dota 2 cheats', 'dota 2 cheats'],
 	[
-		'covering both warzone cheats and warzone cheats search intent',
-		'covering both “warzone cheats” and “warzone cheats” search intent',
+		'covering both dota 2 cheats and dota 2 cheats search intent',
+		'covering both “dota 2 cheats” and “dota 2 cheats” search intent',
 	],
 	[
-		'also searched as warzone cheats and warzone cheat.',
-		'built for Call of Duty: Warzone on Windows PC.',
+		'also searched as dota 2 cheats and dota 2 cheat.',
+		'built for Dota 2 on Windows PC.',
 	],
 	[
-		'warzone cheats vs warzone cheats — same stack, clear pages',
-		'How this Warzone Cheats pillar fits nearby pages',
+		'dota 2 cheats vs dota 2 cheats — same stack, clear pages',
+		'How this Dota 2 Cheats pillar fits nearby pages',
 	],
 	[
-		'Searchers use warzone cheats and warzone cheats interchangeably. This pillar focuses on hacks language; the',
+		'Searchers use dota 2 cheats and dota 2 cheats interchangeably. This pillar focuses on hacks language; the',
 		'Use this pillar for the core product overview. For year-specific buying notes, see the',
 	],
 
 	// Point cannibal URLs at canonicals
-	['/warzone-esp-hack/', '/warzone-esp/'],
-	['/warzone-aimbot-hack/', '/warzone-aimbot/'],
-	['/best-warzone-cheats/', '/'],
-	['best warzone cheats guide', 'Warzone Cheats pillar'],
-	['best warzone cheats checklist', 'warzone cheats checklist'],
-	['best warzone cheats', 'warzone cheats'],
+	['/dota2-esp-hack/', '/dota2-esp/'],
+	['/dota2-aimbot-hack/', '/dota2-aimbot/'],
+	['/best-dota2-cheats/', '/'],
+	['best dota 2 cheats guide', 'Dota 2 Cheats pillar'],
+	['best dota 2 cheats checklist', 'dota 2 cheats checklist'],
+	['best dota 2 cheats', 'dota 2 cheats'],
 	[
-		'Prefer softer tracking? Read the <a href="/warzone-soft-aim/">soft aim guide</a>. Want the search term most players use? See <a href="/warzone-aimbot/">aimbot hack</a>.',
-		'Prefer softer tracking? Read the <a href="/warzone-soft-aim/">soft aim guide</a>.',
+		'Prefer softer tracking? Read the <a href="/dota2-soft-aim/">soft aim guide</a>. Want the search term most players use? See <a href="/dota2-aimbot/">aimbot hack</a>.',
+		'Prefer softer tracking? Read the <a href="/dota2-soft-aim/">soft aim guide</a>.',
 	],
-	['Related landings: <a href="/warzone-cheat-download/">cheat download</a>, <a href="/warzone-mod-menu/">mod menu</a>, <a href="/warzone-aimbot/">aimbot hack</a>, <a href="/warzone-esp/">ESP hack</a>.',
-		'Related landings: <a href="/warzone-cheat-download/">cheat download</a>, <a href="/warzone-mod-menu/">mod menu</a>, <a href="/warzone-aimbot/">aimbot</a>, <a href="/warzone-esp/">ESP</a>.'],
+	['Related landings: <a href="/dota2-cheat-download/">cheat download</a>, <a href="/dota2-mod-menu/">mod menu</a>, <a href="/dota2-aimbot/">aimbot hack</a>, <a href="/dota2-esp/">ESP hack</a>.',
+		'Related landings: <a href="/dota2-cheat-download/">cheat download</a>, <a href="/dota2-mod-menu/">mod menu</a>, <a href="/dota2-aimbot/">aimbot</a>, <a href="/dota2-esp/">ESP</a>.'],
 ];
 
 let src = readFileSync(PAGES_EN, 'utf8');

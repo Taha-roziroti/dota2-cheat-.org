@@ -8,7 +8,7 @@ import { globalSeoKeywords } from './seo-keywords';
 export function seoPageTitle(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 30) {
-		text = `${text} | Warzone Cheats PC`;
+		text = `${text} | Dota 2 Cheats PC`;
 	}
 	/** Google SERP titles typically display ~50–60 chars; clamp at 60. */
 	if (text.length <= 60) return text;
@@ -20,11 +20,11 @@ export function seoPageTitle(template: string): string {
 export { brand, fillBrandTokens, seoDescription, seoTitle };
 
 const copyDefaults = {
-	tagline: 'Undetected {primaryKeyword} — ESP, aimbot, and radar for PC',
+	tagline: '{primaryKeyword} — ESP, aimbot, and maphack for PC',
 	summary:
-		'{brand} is an undetected {game} cheat package for Windows PC. Includes ESP, soft aim, and radar, with {antiCheat} maintenance after patches.',
-	heroLede: 'Hacks and cheats available — 0% detection.',
-	blogLabel: '{game} Intel',
+		'{brand} is a {game} cheat package for Windows PC. Includes ESP, skillshot assist, maphack, and radar with {antiCheat} maintenance after patches.',
+	heroLede: 'ESP, aimbot, and maphack for Dota 2 on Windows PC.',
+	blogLabel: 'Community Forums',
 	ctaBuy: 'Buy now',
 	ctaBuyShort: 'Buy',
 	featuresIntro: 'Everything included in one license for {game} on Windows PC.',
@@ -35,7 +35,7 @@ const copyDefaults = {
 	supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 	faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 	reviewsIntro:
-		'Real feedback on Warzone cheats and Call of Duty: Warzone hacks — ESP, soft aim, radar, and support from {brand} buyers.',
+		'Real feedback on Dota 2 cheats and Dota 2 hacks — ESP, soft aim, radar, and support from {brand} buyers.',
 	chipEsp: 'ESP / wallhack',
 	chipAim: 'Soft aim',
 	chipRadar: '2D radar',
@@ -48,36 +48,36 @@ const copyDefaults = {
 } as const;
 
 const seoDefaults = {
-	homeTitle: 'Warzone Cheats | Undetected ESP, Aimbot & Radar',
+	homeTitle: 'Dota 2 Esp, Aimbot & Wallhack',
 	homeDescription:
-		'Buy undetected Warzone cheats at cheatsforwarzone.com — ESP, aimbot, wallhack & radar for PC. Ricochet updates included. Plans from $35/month.',
-	featuresTitle: 'Warzone Cheats Features | ESP, Aimbot & Radar',
+		'Dota 2 cheats with ESP, aimbot and wallhack for ranked matches on PC. Hero vision, maphack, skillshot assist, and VAC maintenance after patches.',
+	featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Radar',
 	featuresDescription:
-		'Full Warzone cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at cheatsforwarzone.com.',
-	storeTitle: 'Warzone Cheats Pricing | $35/mo or $150 Lifetime',
+		'Full Dota 2 cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at dota2cheat.com.',
+	storeTitle: 'Dota 2 Cheats Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
-		'Buy Warzone cheats at cheatsforwarzone.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
-	statusTitle: 'Call of Duty: Warzone Status | Undetected {antiCheat} Updates',
+		'Buy Dota 2 cheats at dota2cheat.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+	statusTitle: 'Dota 2 Cheats Status | VAC Patch Updates',
 	statusDescription:
-		'Live status after {game} & {antiCheat} patches. Check undetected ESP, aimbot & radar rebuilds on PC before you queue. cheatsforwarzone.com.',
-	previewTitle: 'Warzone Cheats | ESP, Aimbot & Wallhack Guide',
+		'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
+	previewTitle: 'Dota 2 Cheats | ESP, Aimbot & Wallhack Guide',
 	previewDescription:
-		'Warzone cheats guide — undetected ESP wallhack, soft aim, radar & {antiCheat} rebuilds on PC. Compare features & buy from $35 at cheatsforwarzone.com.',
-	setupTitle: 'Warzone Cheats Setup | Windows PC Install Guide',
+		'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.com.',
+	setupTitle: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 	setupDescription:
-		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at cheatsforwarzone.com. Check {antiCheat} status before your first match.',
-	supportTitle: 'Warzone Cheats Support | License & Setup Help',
+		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at dota2cheat.com. Check {antiCheat} status before your first match.',
+	supportTitle: 'Dota 2 Cheats Support | License & Setup Help',
 	supportDescription:
-		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. cheatsforwarzone.com/support.',
-	faqTitle: 'Warzone Cheats FAQ | ESP, Aimbot & {antiCheat}',
+		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. dota2cheat.com/support.',
+	faqTitle: 'Dota 2 Cheats FAQ | ESP, Aimbot & {antiCheat}',
 	faqDescription:
-		'FAQ for warzone cheats — delivery, setup, undetected status, {antiCheat} updates & pricing on PC. Answers at cheatsforwarzone.com before you buy.',
-	reviewsTitle: 'Warzone Cheats Reviews | Bladepoint Hacks & Cheats',
+		'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.com before you buy.',
+	reviewsTitle: 'Dota 2 Cheats Reviews | ESP, Aimbot & Maphack',
 	reviewsDescription:
-		'Real buyer reviews for Warzone cheats and Call of Duty: Warzone hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at cheatsforwarzone.com.',
-	blogTitle: 'Call of Duty: Warzone Blog | Guides & Patch Tips | {brand}',
+		'Real buyer reviews for Dota 2 cheats and Dota 2 hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at dota2cheat.com.',
+	blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 	blogDescription:
-		'Call of Duty: Warzone guides — ranked tips, ESP & aimbot notes, weapon meta tiers & {antiCheat} updates for PC. Read the blog at cheatsforwarzone.com/blog.',
+		'Dota 2 cheats forums — setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.',
 } as const;
 
 type SeoShape = typeof seoDefaults;

@@ -22,7 +22,7 @@ function hasWidthSuffix(name: string): boolean {
  * Other assets (agent banners, feature art) do not — skip srcset for those.
  */
 function hasContentVariants(name: string): boolean {
-	return /^(warzone-screenshot-\d{2}|reviews-banner)$/i.test(name);
+	return /^(dota2-screenshot-\d{2}|reviews-banner)$/i.test(name);
 }
 
 /** Build srcset for content images that have -480w / -960w variants. */
@@ -47,16 +47,16 @@ export function contentSrcSet(baseSrc: string): string | undefined {
  * Homepage / banner agent — wide banner (~2.37:1); LCP uses the 1199w WebP variant.
  */
 export const heroResponsive: ResponsiveWidth[] = [
-	{ src: '/images/warzone-cheats-hero-480w.webp', width: 480 },
-	{ src: '/images/warzone-cheats-hero-640w.webp', width: 640 },
-	{ src: '/images/warzone-cheats-hero-1024w.webp', width: 1024 },
-	{ src: '/images/warzone-cheats-hero-1199w.webp', width: 1199 },
+	{ src: '/images/dota2-cheats-hero-480w.webp', width: 480 },
+	{ src: '/images/dota2-cheats-hero-640w.webp', width: 640 },
+	{ src: '/images/dota2-cheats-hero-1024w.webp', width: 1024 },
+	{ src: '/images/dota2-cheats-hero-1199w.webp', width: 1199 },
 ];
 
 export const heroDesktopResponsive: ResponsiveWidth[] = heroResponsive;
 
 /** Default LCP src — full native-width WebP for retina desktops. */
-export const heroSrc = '/images/warzone-cheats-hero-1199w.webp';
+export const heroSrc = '/images/dota2-cheats-hero-1199w.webp';
 export const heroSrcSet = buildSrcSet(heroResponsive);
 export const heroSizes = '(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 1199px';
 

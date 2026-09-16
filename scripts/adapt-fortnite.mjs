@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * One-time migration: Warzone Cheats template → Fortnite Cheats.
+ * One-time migration: Dota 2 Cheats template → Fortnite Cheats.
  * Run from project root: node scripts/adapt-fortnite.mjs
  */
 import { readFile, writeFile, readdir, rm, rename, mkdir } from 'node:fs/promises';
@@ -10,24 +10,24 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 const REMOVE_PAGE_DIRS = [
-	'warzone-hacks',
-	'warzone-cheat-download',
-	'warzone-mod-menu',
-	'warzone-soft-aim',
-	'best-warzone-cheats',
-	'warzone-aimbot-hack',
-	'warzone-esp-hack',
-	'warzone-unlock-all',
+	'dota2-hacks',
+	'dota2-cheat-download',
+	'dota2-mod-menu',
+	'dota2-soft-aim',
+	'best-dota2-cheats',
+	'dota2-aimbot-hack',
+	'dota2-esp-hack',
+	'dota2-unlock-all',
 ];
 
 const RENAME_PAGE_DIRS = [
-	['warzone-aimbot', 'fortnite-aimbot'],
-	['warzone-esp', 'fortnite-esp'],
-	['warzone-wallhack', 'fortnite-wallhack'],
-	['warzone-radar-hack', 'fortnite-radar-hack'],
-	['undetected-warzone-cheats', 'undetected-fortnite-cheats'],
-	['warzone-cheats-2026', 'fortnite-cheats-2026'],
-	['ricochet-bypass', 'eac-bypass-fortnite'],
+	['dota2-aimbot', 'fortnite-aimbot'],
+	['dota2-esp', 'fortnite-esp'],
+	['dota2-wallhack', 'fortnite-wallhack'],
+	['dota2-radar-hack', 'fortnite-radar-hack'],
+	['reliable-dota2-cheats', 'reliable-fortnite-cheats'],
+	['dota2-cheats-2026', 'fortnite-cheats-2026'],
+	['vac-bypass', 'eac-bypass-fortnite'],
 ];
 
 const REMOVE_PAGE_IDS = [
@@ -37,46 +37,46 @@ const REMOVE_PAGE_IDS = [
 
 /** Ordered replacements — specific patterns first. */
 const REPLACEMENTS = [
-	['warzonescheats.net', 'fortnitehack.net'],
-	['warzonecheats.net', 'fortnitehack.net'],
-	['warzonecheats.com', 'fortnitehack.net'],
-	['warzonescheats.com', 'fortnitehack.net'],
-	['support@warzonescheats.net', 'support@fortnitehack.net'],
-	['/products/warzone', '/products/fortnite'],
-	['warzone-esp-wallhack', 'fortnite-esp-wallhack'],
-	['warzone-esp-hack', 'fortnite-esp'],
-	['warzone-aimbot-hack', 'fortnite-aimbot'],
-	['undetected-warzone-cheats', 'undetected-fortnite-cheats'],
-	['warzone-cheats-2026', 'fortnite-cheats-2026'],
-	['warzone-radar-hack', 'fortnite-radar-hack'],
-	['warzone-wallhack', 'fortnite-wallhack'],
-	['ricochet-bypass', 'eac-bypass-fortnite'],
-	['warzone-aimbot', 'fortnite-aimbot'],
-	['warzone-esp', 'fortnite-esp'],
-	["'ricochet'", "'eac-bypass'"],
-	['| ricochet', '| eac-bypass'],
-	['warzone-aimbot', 'fortnite-aimbot'],
-	['warzone-esp', 'fortnite-esp'],
-	['call-of-duty-warzone-cheats', 'fortnite-cheats'],
-	['call-of-duty-warzone', 'fortnite'],
-	['Call of Duty: Warzone', 'Fortnite'],
-	['Call of Duty Warzone', 'Fortnite'],
-	['Warzone Cheats', 'Fortnite Cheats'],
-	['Warzone cheats', 'Fortnite cheats'],
-	['Warzone cheat', 'Fortnite cheat'],
-	['Warzone CheatsSite', 'FortniteCheatsSite'],
-	['Warzone CheatsSite', 'FortniteCheatsSite'],
-	['Ricochet anti-cheat', 'Easy Anti-Cheat (EAC)'],
-	['Ricochet maintenance', 'EAC maintenance'],
-	['Ricochet bypass', 'EAC bypass'],
-	['Ricochet Bypass', 'EAC Bypass'],
-	['Ricochet', 'Easy Anti-Cheat (EAC)'],
-	['ricochet', 'eac'],
-	['Verdansk, Urzikstan, and Rebirth Island', 'survival island, Zero Build, and official servers'],
-	['Verdansk, Urzikstan and Rebirth Island', 'survival island, Zero Build and official servers'],
-	['Verdansk, Urzikstan, et Rebirth Island', 'survival island, Zero Build et lobbies compétitifs'],
-	['Verdansk, Urzikstan e Rebirth Island', 'survival island, Zero Build e lobbies competitivi'],
-	['Verdansk, Urzikstan und Rebirth Island', 'survival island, Zero Build und Competitive-Lobbys'],
+	['dota2scheats.net', 'fortnitehack.net'],
+	['dota2cheats.net', 'fortnitehack.net'],
+	['dota2cheats.com', 'fortnitehack.net'],
+	['dota2scheats.com', 'fortnitehack.net'],
+	['support@dota2scheats.net', 'support@fortnitehack.net'],
+	['/products/dota2', '/products/fortnite'],
+	['dota2-esp-wallhack', 'fortnite-esp-wallhack'],
+	['dota2-esp-hack', 'fortnite-esp'],
+	['dota2-aimbot-hack', 'fortnite-aimbot'],
+	['reliable-dota2-cheats', 'reliable-fortnite-cheats'],
+	['dota2-cheats-2026', 'fortnite-cheats-2026'],
+	['dota2-radar-hack', 'fortnite-radar-hack'],
+	['dota2-wallhack', 'fortnite-wallhack'],
+	['vac-bypass', 'eac-bypass-fortnite'],
+	['dota2-aimbot', 'fortnite-aimbot'],
+	['dota2-esp', 'fortnite-esp'],
+	["'vac'", "'eac-bypass'"],
+	['| vac', '| eac-bypass'],
+	['dota2-aimbot', 'fortnite-aimbot'],
+	['dota2-esp', 'fortnite-esp'],
+	['call-of-duty-dota2-cheats', 'fortnite-cheats'],
+	['call-of-duty-dota2', 'fortnite'],
+	['Dota 2', 'Fortnite'],
+	['Dota 2 Dota 2', 'Fortnite'],
+	['Dota 2 Cheats', 'Fortnite Cheats'],
+	['Dota 2 cheats', 'Fortnite cheats'],
+	['Dota 2 cheat', 'Fortnite cheat'],
+	['Dota 2 CheatsSite', 'FortniteCheatsSite'],
+	['Dota 2 CheatsSite', 'FortniteCheatsSite'],
+	['VAC anti-cheat', 'Easy Anti-Cheat (EAC)'],
+	['VAC maintenance', 'EAC maintenance'],
+	['VAC bypass', 'EAC bypass'],
+	['VAC Bypass', 'EAC Bypass'],
+	['VAC', 'Easy Anti-Cheat (EAC)'],
+	['vac', 'eac'],
+	['the map, Urzikstan, and Rebirth Island', 'survival island, Zero Build, and official servers'],
+	['the map, Urzikstan and Rebirth Island', 'survival island, Zero Build and official servers'],
+	['the map, Urzikstan, et Rebirth Island', 'survival island, Zero Build et lobbies compétitifs'],
+	['the map, Urzikstan e Rebirth Island', 'survival island, Zero Build e lobbies competitivi'],
+	['the map, Urzikstan und Rebirth Island', 'survival island, Zero Build und Competitive-Lobbys'],
 	['gulag fights', 'reboot van rotations'],
 	['gulag fight', 'reboot van fight'],
 	['gulag rounds', 'respawn rounds'],
@@ -95,13 +95,13 @@ const REPLACEMENTS = [
 	['contract', 'chest'],
 	['Al Mazrah', 'survival island'],
 	['al-mazrah', 'survival-island'],
-	['warzoneImages', 'fortniteImages'],
-	["from './warzone'", "from './fortnite'"],
-	["from '../data/warzone'", "from '../data/fortnite'"],
-	['warzonescheats', 'fortnitecheats'],
-	['project-name=warzonescheats', 'project-name=fortnitecheats'],
-	['name = "warzonescheats"', 'name = "fortnitecheats"'],
-	['https://warzonescheats.net', 'https://fortnitehack.net'],
+	['dota2Images', 'fortniteImages'],
+	["from './dota2'", "from './fortnite'"],
+	["from '../data/dota2'", "from '../data/fortnite'"],
+	['dota2scheats', 'fortnitecheats'],
+	['project-name=dota2scheats', 'project-name=fortnitecheats'],
+	['name = "dota2scheats"', 'name = "fortnitecheats"'],
+	['https://dota2scheats.net', 'https://fortnitehack.net'],
 ];
 
 const TEXT_EXTENSIONS = new Set([
@@ -189,20 +189,20 @@ async function renamePageDirs() {
 	}
 }
 
-async function renameWarzoneTs() {
-	const from = path.join(ROOT, 'src', 'data', 'warzone.ts');
+async function renameDota 2Ts() {
+	const from = path.join(ROOT, 'src', 'data', 'dota2.ts');
 	const to = path.join(ROOT, 'src', 'data', 'fortnite.ts');
 	try {
 		await rename(from, to);
-		console.log('Renamed warzone.ts → fortnite.ts');
+		console.log('Renamed dota2.ts → fortnite.ts');
 	} catch (e) {
-		console.warn(`warzone.ts rename: ${e.message}`);
+		console.warn(`dota2.ts rename: ${e.message}`);
 	}
 }
 
 async function updatePageAstroFiles() {
 	for (const [from, to] of RENAME_PAGE_DIRS) {
-		const pageId = to.replace('undetected-fortnite-cheats', 'undetected')
+		const pageId = to.replace('reliable-fortnite-cheats', 'reliable')
 			.replace('fortnite-cheats-2026', 'cheats-2026')
 			.replace('eac-bypass-fortnite', 'eac-bypass')
 			.replace('fortnite-', 'fortnite-');
@@ -213,7 +213,7 @@ async function updatePageAstroFiles() {
 				'fortnite-esp': 'fortnite-esp',
 				'fortnite-wallhack': 'wallhack',
 				'fortnite-radar-hack': 'radar',
-				'undetected-fortnite-cheats': 'undetected',
+				'reliable-fortnite-cheats': 'reliable',
 				'fortnite-cheats-2026': 'cheats-2026',
 				'eac-bypass-fortnite': 'eac-bypass',
 			};
@@ -240,11 +240,11 @@ async function renameImages() {
 		return;
 	}
 	for (const file of files) {
-		if (file.includes('call-of-duty-warzone') || file.includes('warzone-')) {
+		if (file.includes('call-of-duty-dota2') || file.includes('dota2-')) {
 			const newName = file
-				.replace(/call-of-duty-warzone-cheats/g, 'fortnite-cheats')
-				.replace(/call-of-duty-warzone/g, 'fortnite')
-				.replace(/warzone-/g, 'fortnite-');
+				.replace(/call-of-duty-dota2-cheats/g, 'fortnite-cheats')
+				.replace(/call-of-duty-dota2/g, 'fortnite')
+				.replace(/dota2-/g, 'fortnite-');
 			if (newName !== file) {
 				await rename(path.join(imagesDir, file), path.join(imagesDir, newName));
 				console.log(`Renamed image: ${file} → ${newName}`);
@@ -254,10 +254,10 @@ async function renameImages() {
 }
 
 async function main() {
-	console.log('Adapting Warzone template → Fortnite Cheats...\n');
+	console.log('Adapting Dota 2 template → Fortnite Cheats...\n');
 	await removeExtraPages();
 	await renamePageDirs();
-	await renameWarzoneTs();
+	await renameDota 2Ts();
 	await transformTextFiles();
 	await updatePageAstroFiles();
 	await renameImages();

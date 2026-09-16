@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Migrate URL slugs from warzone-cheats → warzone-cheats (paths + sitemaps).
+ * Migrate URL slugs from dota2-cheats → dota2-cheats (paths + sitemaps).
  * Generates 301 redirects in functions/path-redirects.json from old routing slugs.
  * Run: node scripts/migrate-cheats-urls-to-hacks.mjs
  */
@@ -19,90 +19,90 @@ const SKIP_DIRS = new Set([
 	'tmp',
 	'.astro',
 	'the-finals-cheats-org',
-	'warzone-cheats-org-audit',
+	'dota2-cheats-org-audit',
 ]);
 const SKIP_FILES = new Set(['package-lock.json', 'migrate-cheats-urls-to-hacks.mjs']);
 
 /** Ordered — longest / most specific first. Image asset names are excluded via guard. */
 const SLUG_REPLACEMENTS = [
-	['undetected-warzone-cheats-eac', 'undetected-warzone-cheats-eac'],
-	['undetected-warzone-cheats', 'undetected-warzone-cheats'],
-	['unentdeckte-warzone-cheats', 'unentdeckte-warzone-cheats'],
-	['buy-undetected-warzone-cheats-windows-pc', 'buy-undetected-warzone-cheats-windows-pc'],
-	['ricochet-anti-cheat-and-warzone-cheats', 'ricochet-anti-cheat-and-warzone-cheats'],
-	['are-warzone-cheats-undetected-in-2026', 'are-warzone-cheats-undetected-in-2026'],
-	['what-are-warzone-cheats', 'what-are-warzone-cheats'],
-	['does-warzone-cheats-include-radar-hack', 'does-warzone-cheats-include-radar-hack'],
-	['warzone-cheats-vs-ghostware-features-pricing', 'warzone-cheats-vs-ghostware-features-pricing'],
-	['warzone-cheats-vs-cheatspike-comparison', 'warzone-cheats-vs-cheatspike-comparison'],
-	['elitefn-vs-warzone-cheats-two-week-test', 'elitefn-vs-warzone-cheats-two-week-test'],
-	['warzone-cheats-complete-guide-2026', 'warzone-cheats-complete-guide-2026'],
-	['warzone-cheats-2026-whats-new', 'warzone-cheats-2026-whats-new'],
-	['warzone-cheats-buyers-guide', 'warzone-cheats-buyers-guide'],
-	['best-warzone-cheats', 'best-warzone-cheats'],
-	['beste-warzone-cheats', 'beste-warzone-cheats'],
-	['basta-warzone-cheats', 'basta-warzone-cheats'],
-	['nejlepsi-warzone-cheats', 'nejlepsi-warzone-cheats'],
-	['warzone-cheats-2026', 'warzone-cheats-2026'],
-	['warzone-cheats-funktionen', 'warzone-cheats-funktionen'],
-	['warzone-cheats-functies', 'warzone-cheats-functies'],
-	['warzone-cheats-funkce', 'warzone-cheats-funkce'],
-	['warzone-cheats-funktioner', 'warzone-cheats-funktioner'],
-	['warzone-cheats-features', 'warzone-cheats-features'],
-	['warzone-cheats-preise', 'warzone-cheats-preise'],
-	['warzone-cheats-prijzen', 'warzone-cheats-prijzen'],
-	['warzone-cheats-priser', 'warzone-cheats-priser'],
-	['warzone-cheats-pricing', 'warzone-cheats-pricing'],
-	['warzone-cheats-ceny', 'warzone-cheats-ceny'],
-	['warzone-cheats-installation', 'warzone-cheats-installation'],
-	['warzone-cheats-installatie', 'warzone-cheats-installatie'],
-	['warzone-cheats-instalace', 'warzone-cheats-instalace'],
-	['warzone-cheats-setup', 'warzone-cheats-setup'],
-	['warzone-cheats-updates', 'warzone-cheats-updates'],
-	['warzone-cheats-uppdateringar', 'warzone-cheats-uppdateringar'],
-	['warzone-cheats-aktualizace', 'warzone-cheats-aktualizace'],
-	['warzone-cheats-faq', 'warzone-cheats-faq'],
-	['warzone-cheats-support', 'warzone-cheats-support'],
-	['warzone-cheats-podpora', 'warzone-cheats-podpora'],
-	['niewykrywalne-cheats-warzone', 'niewykrywalne-cheats-warzone'],
-	['najlepsze-cheats-warzone', 'najlepsze-hacks-warzone'],
-	['melhores-cheats-warzone', 'melhores-hacks-warzone'],
-	['cele-mai-bune-cheats-warzone', 'cele-mai-bune-hacks-warzone'],
-	['cheats-warzone-indetectaveis', 'cheats-warzone-indetectaveis'],
-	['cheats-warzone-nedetectabile', 'cheats-warzone-nedetectabile'],
-	['cheats-warzone-2026', 'hacks-warzone-2026'],
-	['hacks-cheats-warzone', 'hacks-warzone'],
-	['faq-cheats-warzone', 'faq-hacks-warzone'],
-	['functii-cheats-warzone', 'functii-hacks-warzone'],
-	['preturi-cheats-warzone', 'preturi-hacks-warzone'],
-	['actualizari-cheats-warzone', 'actualizari-hacks-warzone'],
-	['instalare-cheats-warzone', 'instalare-hacks-warzone'],
-	['suport-cheats-warzone', 'suport-hacks-warzone'],
-	['recursos-cheats-warzone', 'recursos-cheats-warzone'],
-	['precos-cheats-warzone', 'precos-hacks-warzone'],
-	['atualizacoes-cheats-warzone', 'atualizacoes-hacks-warzone'],
-	['instalacao-cheats-warzone', 'instalacao-hacks-warzone'],
-	['suporte-cheats-warzone', 'suporte-hacks-warzone'],
-	['download-cheats-warzone', 'download-hacks-warzone'],
-	['menu-mod-cheats-warzone', 'menu-mod-hacks-warzone'],
-	['meniu-mod-cheats-warzone', 'meniu-mod-hacks-warzone'],
-	['soft-aim-cheats-warzone', 'soft-aim-hacks-warzone'],
-	['aimbot-hack-cheats-warzone', 'aimbot-hack-hacks-warzone'],
-	['esp-hack-cheats-warzone', 'esp-hack-hacks-warzone'],
-	['unlock-all-cheats-warzone', 'unlock-all-hacks-warzone'],
-	['wallhack-cheats-warzone', 'wallhack-hacks-warzone'],
-	['radar-hack-cheats-warzone', 'radar-hack-hacks-warzone'],
-	['descarcare-cheats-warzone', 'descarcare-hacks-warzone'],
-	['cheats-warzone-esp', 'hacks-warzone-esp'],
-	['cheats-warzone-aimbot', 'hacks-warzone-aimbot'],
-	['ricochet-bypass-cheats', 'ricochet-bypass-hacks'],
-	['/warzone-cheats/', '/warzone-cheats/'],
-	['/warzone-cheats', '/warzone-cheats'],
-	["'warzone-cheats'", "'warzone-cheats'"],
-	['"warzone-cheats"', '"warzone-cheats"'],
+	['reliable-dota2-cheats-eac', 'reliable-dota2-cheats-eac'],
+	['reliable-dota2-cheats', 'reliable-dota2-cheats'],
+	['unentdeckte-dota2-cheats', 'unentdeckte-dota2-cheats'],
+	['buy-reliable-dota2-cheats-windows-pc', 'buy-reliable-dota2-cheats-windows-pc'],
+	['vac-anti-cheat-and-dota2-cheats', 'vac-anti-cheat-and-dota2-cheats'],
+	['are-dota2-cheats-reliable-in-2026', 'are-dota2-cheats-reliable-in-2026'],
+	['what-are-dota2-cheats', 'what-are-dota2-cheats'],
+	['does-dota2-cheats-include-radar-hack', 'does-dota2-cheats-include-radar-hack'],
+	['dota2-cheats-vs-ghostware-features-pricing', 'dota2-cheats-vs-ghostware-features-pricing'],
+	['dota2-cheats-vs-cheatspike-comparison', 'dota2-cheats-vs-cheatspike-comparison'],
+	['elitefn-vs-dota2-cheats-two-week-test', 'elitefn-vs-dota2-cheats-two-week-test'],
+	['dota2-cheats-complete-guide-2026', 'dota2-cheats-complete-guide-2026'],
+	['dota2-cheats-2026-whats-new', 'dota2-cheats-2026-whats-new'],
+	['dota2-cheats-buyers-guide', 'dota2-cheats-buyers-guide'],
+	['best-dota2-cheats', 'best-dota2-cheats'],
+	['beste-dota2-cheats', 'beste-dota2-cheats'],
+	['basta-dota2-cheats', 'basta-dota2-cheats'],
+	['nejlepsi-dota2-cheats', 'nejlepsi-dota2-cheats'],
+	['dota2-cheats-2026', 'dota2-cheats-2026'],
+	['dota2-cheats-funktionen', 'dota2-cheats-funktionen'],
+	['dota2-cheats-functies', 'dota2-cheats-functies'],
+	['dota2-cheats-funkce', 'dota2-cheats-funkce'],
+	['dota2-cheats-funktioner', 'dota2-cheats-funktioner'],
+	['dota2-cheats-features', 'dota2-cheats-features'],
+	['dota2-cheats-preise', 'dota2-cheats-preise'],
+	['dota2-cheats-prijzen', 'dota2-cheats-prijzen'],
+	['dota2-cheats-priser', 'dota2-cheats-priser'],
+	['dota2-cheats-pricing', 'dota2-cheats-pricing'],
+	['dota2-cheats-ceny', 'dota2-cheats-ceny'],
+	['dota2-cheats-installation', 'dota2-cheats-installation'],
+	['dota2-cheats-installatie', 'dota2-cheats-installatie'],
+	['dota2-cheats-instalace', 'dota2-cheats-instalace'],
+	['dota2-cheats-setup', 'dota2-cheats-setup'],
+	['dota2-cheats-updates', 'dota2-cheats-updates'],
+	['dota2-cheats-uppdateringar', 'dota2-cheats-uppdateringar'],
+	['dota2-cheats-aktualizace', 'dota2-cheats-aktualizace'],
+	['dota2-cheats-faq', 'dota2-cheats-faq'],
+	['dota2-cheats-support', 'dota2-cheats-support'],
+	['dota2-cheats-podpora', 'dota2-cheats-podpora'],
+	['niewykrywalne-cheats-dota2', 'niewykrywalne-cheats-dota2'],
+	['najlepsze-cheats-dota2', 'najlepsze-hacks-dota2'],
+	['melhores-cheats-dota2', 'melhores-hacks-dota2'],
+	['cele-mai-bune-cheats-dota2', 'cele-mai-bune-hacks-dota2'],
+	['cheats-dota2-indetectaveis', 'cheats-dota2-indetectaveis'],
+	['cheats-dota2-nedetectabile', 'cheats-dota2-nedetectabile'],
+	['cheats-dota2-2026', 'hacks-dota2-2026'],
+	['hacks-cheats-dota2', 'hacks-dota2'],
+	['faq-cheats-dota2', 'faq-hacks-dota2'],
+	['functii-cheats-dota2', 'functii-hacks-dota2'],
+	['preturi-cheats-dota2', 'preturi-hacks-dota2'],
+	['actualizari-cheats-dota2', 'actualizari-hacks-dota2'],
+	['instalare-cheats-dota2', 'instalare-hacks-dota2'],
+	['suport-cheats-dota2', 'suport-hacks-dota2'],
+	['recursos-cheats-dota2', 'recursos-cheats-dota2'],
+	['precos-cheats-dota2', 'precos-hacks-dota2'],
+	['atualizacoes-cheats-dota2', 'atualizacoes-hacks-dota2'],
+	['instalacao-cheats-dota2', 'instalacao-hacks-dota2'],
+	['suporte-cheats-dota2', 'suporte-hacks-dota2'],
+	['download-cheats-dota2', 'download-hacks-dota2'],
+	['menu-mod-cheats-dota2', 'menu-mod-hacks-dota2'],
+	['meniu-mod-cheats-dota2', 'meniu-mod-hacks-dota2'],
+	['soft-aim-cheats-dota2', 'soft-aim-hacks-dota2'],
+	['aimbot-hack-cheats-dota2', 'aimbot-hack-hacks-dota2'],
+	['esp-hack-cheats-dota2', 'esp-hack-hacks-dota2'],
+	['unlock-all-cheats-dota2', 'unlock-all-hacks-dota2'],
+	['wallhack-cheats-dota2', 'wallhack-hacks-dota2'],
+	['radar-hack-cheats-dota2', 'radar-hack-hacks-dota2'],
+	['descarcare-cheats-dota2', 'descarcare-hacks-dota2'],
+	['cheats-dota2-esp', 'hacks-dota2-esp'],
+	['cheats-dota2-aimbot', 'hacks-dota2-aimbot'],
+	['vac-bypass-cheats', 'vac-bypass-hacks'],
+	['/dota2-cheats/', '/dota2-cheats/'],
+	['/dota2-cheats', '/dota2-cheats'],
+	["'dota2-cheats'", "'dota2-cheats'"],
+	['"dota2-cheats"', '"dota2-cheats"'],
 ];
 
-const IMAGE_ASSET_PREFIX = '/images/warzone-cheats';
+const IMAGE_ASSET_PREFIX = '/images/dota2-cheats';
 
 function applySlugReplacements(text) {
 	let out = text;
@@ -112,7 +112,7 @@ function applySlugReplacements(text) {
 			.split('\n')
 			.map((line) => {
 				// Never rewrite static image asset filenames.
-				if (line.includes('/images/warzone-cheats')) {
+				if (line.includes('/images/dota2-cheats')) {
 					return line;
 				}
 				return line.split(from).join(to);
@@ -178,10 +178,10 @@ function shouldProcess(file) {
 }
 
 const DIR_RENAMES = [
-	['src/pages/warzone-cheats', 'src/pages/warzone-cheats'],
-	['src/pages/best-warzone-cheats', 'src/pages/best-warzone-cheats'],
-	['src/pages/undetected-warzone-cheats', 'src/pages/undetected-warzone-cheats'],
-	['src/pages/warzone-cheats-2026', 'src/pages/warzone-cheats-2026'],
+	['src/pages/dota2-cheats', 'src/pages/dota2-cheats'],
+	['src/pages/best-dota2-cheats', 'src/pages/best-dota2-cheats'],
+	['src/pages/reliable-dota2-cheats', 'src/pages/reliable-dota2-cheats'],
+	['src/pages/dota2-cheats-2026', 'src/pages/dota2-cheats-2026'],
 ];
 
 // --- Parse routing before migration ---
@@ -205,8 +205,8 @@ for (const file of files) {
 // Fix duplicate check in routing.ts
 let routing = await readFile(ROUTING, 'utf8');
 routing = routing.replace(
-	"if (withSlash === '/warzone-cheats/' || withSlash === '/warzone-cheats/')",
-	"if (withSlash === '/warzone-cheats/' || withSlash === '/warzone-cheats/')",
+	"if (withSlash === '/dota2-cheats/' || withSlash === '/dota2-cheats/')",
+	"if (withSlash === '/dota2-cheats/' || withSlash === '/dota2-cheats/')",
 );
 await writeFile(ROUTING, routing, 'utf8');
 

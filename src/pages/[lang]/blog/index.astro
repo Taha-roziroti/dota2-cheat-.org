@@ -10,7 +10,7 @@ export function getStaticPaths() {
 
 const lang = Astro.params.lang ?? '';
 if (!isLocaleCode(lang)) {
-	return Astro.redirect('/blog/', 301);
+	return Astro.redirect('/forums/', 301);
 }
 
 return Astro.redirect(getBlogBasePath(lang as LocaleCode), 301);

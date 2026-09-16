@@ -35,7 +35,7 @@ export function getBlogImageSrc(key: BlogImageKey): string {
 }
 
 export function getBlogBasePath(locale: LocaleCode): string {
-	return locale === defaultLocale ? '/blog/' : `/${locale}/blog/`;
+	return locale === defaultLocale ? '/forums/' : `/${locale}/forums/`;
 }
 
 export function isBlogPath(pathname: string): boolean {
@@ -69,9 +69,9 @@ export function getBlogLocaleSwitchHref(pathname: string, targetLocale: LocaleCo
 
 export function getBlogPostPath(locale: LocaleCode, slug: string): string {
 	if (locale === defaultLocale) {
-		return `/${slug}/`;
+		return `/forums/${slug}/`;
 	}
-	return `/${locale}/${slug}/`;
+	return `/${locale}/forums/${slug}/`;
 }
 
 export function absoluteBlogUrl(locale: LocaleCode, slug?: string): string {
@@ -217,7 +217,7 @@ export function getBlogSitemapEntriesForLocale(locale: LocaleCode) {
 	for (const [index, post] of blogPosts.entries()) {
 		const t = post.translations[locale];
 		const meta = getBlogPostImageMeta(index);
-		const isProductPost = /Warzone Cheats|Aimbot|ESP|Undetected|Comparisons/i.test(post.category);
+		const isProductPost = /Dota 2 Cheats|Aimbot|ESP|Reliable|Comparisons/i.test(post.category);
 		entries.push({
 			path: getBlogPostPath(locale, t.slug),
 			lastmod: post.updated,

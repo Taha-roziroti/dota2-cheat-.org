@@ -1,6 +1,6 @@
 /**
- * Import Warzone cheat screenshots from Supabase + user-provided local assets.
- * Writes crawl URLs: /images/warzone-screenshot-01.webp … 19.webp
+ * Import Dota 2 cheat screenshots from Supabase + user-provided local assets.
+ * Writes crawl URLs: /images/dota2-screenshot-01.webp … 19.webp
  * plus -480w / -960w responsive variants. Does not touch agent assets.
  */
 import { mkdir, writeFile } from 'node:fs/promises';
@@ -13,7 +13,7 @@ const BASE =
 
 const ASSETS_DIR = '/home/ubuntu/.cursor/projects/workspace/assets';
 
-/** 19 unique Call of Duty: Warzone gameplay screenshots — no UI captures or duplicates. */
+/** 19 unique Dota 2 gameplay screenshots — no UI captures or duplicates. */
 const SOURCES = [
 	{ kind: 'url', value: `${BASE}Screenshot%202026-08-13%20185425.png` },
 	{ kind: 'url', value: `${BASE}Screenshot%202026-08-13%20185442.png` },
@@ -38,21 +38,21 @@ const SOURCES = [
 
 const SCREENSHOT_COUNT = SOURCES.length;
 const imagesDir = path.join(ROOT, 'public/images');
-const tmpDir = path.join(ROOT, 'tmp/warzone-screenshots/sources');
+const tmpDir = path.join(ROOT, 'tmp/dota2-screenshots/sources');
 
 const CONTENT_WIDTHS = [480, 960];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
 
 const LEGACY_MAP = {
-	'warzone-screenshot-01': ['warzone-cheats-esp.webp', 'warzone-esp-player-tags.webp'],
-	'warzone-screenshot-02': ['warzone-cheats-wallhack.webp', 'warzone-cheats-session.webp'],
-	'warzone-screenshot-03': ['warzone-cheats-aimbot.webp', 'warzone-cheats-combat.webp'],
-	'warzone-screenshot-04': [
-		'warzone-cheats-aimbot-view.webp',
-		'warzone-aimbot-skeleton.webp',
-		'warzone-aimbot-sniper.webp',
+	'dota2-screenshot-01': ['dota2-cheats-esp.webp', 'dota2-esp-player-tags.webp'],
+	'dota2-screenshot-02': ['dota2-cheats-wallhack.webp', 'dota2-cheats-session.webp'],
+	'dota2-screenshot-03': ['dota2-cheats-aimbot.webp', 'dota2-cheats-combat.webp'],
+	'dota2-screenshot-04': [
+		'dota2-cheats-aimbot-view.webp',
+		'dota2-aimbot-skeleton.webp',
+		'dota2-aimbot-sniper.webp',
 	],
-	'warzone-screenshot-05': ['warzone-cheats-radar.webp', 'warzone-esp-radar.webp'],
+	'dota2-screenshot-05': ['dota2-cheats-radar.webp', 'dota2-esp-radar.webp'],
 };
 
 async function loadSource(source, index) {
@@ -60,7 +60,7 @@ async function loadSource(source, index) {
 		return source.value;
 	}
 	const res = await fetch(source.value, {
-		headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Call of Duty: WarzoneCheatsSite/1.0)' },
+		headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Dota 2CheatsSite/1.0)' },
 	});
 	if (!res.ok) throw new Error(`Download failed (${index + 1}): HTTP ${res.status}`);
 	const buf = Buffer.from(await res.arrayBuffer());
@@ -101,7 +101,7 @@ async function writeScreenshotSet(pngPath, baseName) {
 await mkdir(imagesDir, { recursive: true });
 await mkdir(tmpDir, { recursive: true });
 
-console.log(`Importing ${SCREENSHOT_COUNT} unique Call of Duty: Warzone screenshots…`);
+console.log(`Importing ${SCREENSHOT_COUNT} unique Dota 2 screenshots…`);
 const sourceFiles = [];
 for (let i = 0; i < SOURCES.length; i += 1) {
 	console.log(`  ↓ ${i + 1}/${SCREENSHOT_COUNT}`);
@@ -112,7 +112,7 @@ let totalBytes = 0;
 
 for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 	const num = String(n).padStart(2, '0');
-	const base = `warzone-screenshot-${num}`;
+	const base = `dota2-screenshot-${num}`;
 	const png = sourceFiles[n - 1];
 
 	console.log(`Processing ${base}…`);

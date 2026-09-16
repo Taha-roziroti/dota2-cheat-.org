@@ -18,6 +18,12 @@ export type BlogSection = {
 	paragraphs: string[];
 };
 
+export type ForumComment = {
+	author: string;
+	date: string;
+	body: string;
+};
+
 export type BlogTranslation = {
 	slug: string;
 	title: string;
@@ -27,6 +33,8 @@ export type BlogTranslation = {
 	keywords: string[];
 	imageAlt: string;
 	sections: BlogSection[];
+	/** Community replies on forum threads */
+	comments?: ForumComment[];
 };
 
 export type BlogPostDefinition = {

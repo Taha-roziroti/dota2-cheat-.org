@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Final pass: fix remaining Call of Duty: Warzone references in src/. */
+/** Final pass: fix remaining Dota 2 references in src/. */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -8,27 +8,27 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 's
 const REMOVE_PAGE_IDS = ['hacks', 'cheat-download', 'mod-menu', 'soft-aim', 'best-cheats', 'aimbot-hack', 'esp-hack', 'unlock-all'];
 
 const REPLACEMENTS = [
-	['warzoneImages', 'warzoneImages'],
-	["from '../data/warzone'", "from '../data/warzone'"],
-	["from './warzone'", "from './warzone'"],
-	['/undetected-warzone-cheats/', '/undetected-warzone-cheats/'],
-	['/warzone-wallhack/', '/warzone-wallhack/'],
-	['/warzone-radar-hack/', '/warzone-radar-hack/'],
-	['/ricochet-bypass/', '/ricochet-bypass/'],
-	['/warzone-cheats-2026/', '/warzone-cheats-2026/'],
-	['/warzone-aimbot/', '/warzone-aimbot/'],
-	['/warzone-esp/', '/warzone-esp/'],
-	['/warzone-cheats/', '/warzone-esp/'],
-	['Warzone Cheats', 'Warzone Cheats'],
-	['warzone cheats', 'warzone cheats'],
-	['thefinals wallhack', 'Call of Duty: Warzone wallhack'],
-	['warzone radar', 'Call of Duty: Warzone radar'],
-	['Call of Duty: Warzone Aimbot', 'Call of Duty: Warzone Aimbot'],
-	['Call of Duty: Warzone ESP', 'Call of Duty: Warzone ESP'],
-	['Call of Duty: Warzone's, 'Call of Duty: Warzone's],
-	['Ricochet', 'Ricochet'],
-	['ricochet', 'ricochet'],
-	['cheatsforwarzone.com', 'cheatsforwarzone.com'],
+	['dota2Images', 'dota2Images'],
+	["from '../data/dota2'", "from '../data/dota2'"],
+	["from './dota2'", "from './dota2'"],
+	['/reliable-dota2-cheats/', '/reliable-dota2-cheats/'],
+	['/dota2-wallhack/', '/dota2-wallhack/'],
+	['/dota2-radar-hack/', '/dota2-radar-hack/'],
+	['/vac-bypass/', '/vac-bypass/'],
+	['/dota2-cheats-2026/', '/dota2-cheats-2026/'],
+	['/dota2-aimbot/', '/dota2-aimbot/'],
+	['/dota2-esp/', '/dota2-esp/'],
+	['/dota2-cheats/', '/dota2-esp/'],
+	['Dota 2 Cheats', 'Dota 2 Cheats'],
+	['dota 2 cheats', 'dota 2 cheats'],
+	['thefinals wallhack', 'Dota 2 wallhack'],
+	['dota2 radar', 'Dota 2 radar'],
+	['Dota 2 Aimbot', 'Dota 2 Aimbot'],
+	['Dota 2 ESP', 'Dota 2 ESP'],
+	['Dota 2's, 'Dota 2's],
+	['VAC', 'VAC'],
+	['vac', 'vac'],
+	['dota2cheat.com', 'dota2cheat.com'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],

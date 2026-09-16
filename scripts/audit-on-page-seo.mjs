@@ -94,8 +94,8 @@ function main() {
 			issues.push({ rel, kind: 'og-description-mismatch' });
 		}
 
-		if (/\bricochet \| ricochet\b/i.test(title) || /\bricochet: ricochet\b/i.test(desc)) {
-			issues.push({ rel, kind: 'broken-ricochet-meta' });
+		if (/\bvac \| vac\b/i.test(title) || /\bvac: vac\b/i.test(desc)) {
+			issues.push({ rel, kind: 'broken-vac-meta' });
 		}
 	}
 
@@ -105,7 +105,7 @@ function main() {
 	const smPath = path.join(distDir, 'sitemap-en.xml');
 	if (fs.existsSync(smPath)) {
 		const sm = fs.readFileSync(smPath, 'utf8');
-		for (const m of sm.matchAll(/<loc>https:\/\/cheatsforwarzone\.org([^<]*)<\/loc>/g)) {
+		for (const m of sm.matchAll(/<loc>https:\/\/cheatsfordota2\.org([^<]*)<\/loc>/g)) {
 			const urlPath = m[1] || '/';
 			const fp = htmlPath(urlPath.endsWith('/') ? urlPath : `${urlPath}/`);
 			if (!fs.existsSync(path.join(distDir, fp))) continue;

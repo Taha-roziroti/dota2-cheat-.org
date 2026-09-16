@@ -28,9 +28,9 @@ function readBrand() {
 	};
 	const name = str('name');
 	const url = str('url').replace(/\/$/, '');
-	if (/warzonecheats\.org/i.test(url)) {
+	if (/dota2cheats\.org/i.test(url)) {
 		throw new Error(
-			`brand.ts url is ${url} — must be https://cheatsforwarzone.com. Run: node scripts/rebrand-warzone-cheats.mjs`,
+			`brand.ts url is ${url} — must be https://dota2cheat.com. Run: node scripts/rebrand-dota2-cheats.mjs`,
 		);
 	}
 	return {
@@ -51,7 +51,7 @@ function readBrand() {
 }
 
 const brand = readBrand();
-const description = `Undetected ${brand.primary} — ESP, aimbot, and radar for PC`;
+const description = `Reliable ${brand.primary} — ESP, aimbot, and radar for PC`;
 
 writeFileSync(
 	path.join(ROOT, 'public/robots.txt'),

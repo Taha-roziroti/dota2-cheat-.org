@@ -1,26 +1,16 @@
 ---
-import BlogPostPage from '../../components/BlogPostPage.astro';
-import { blogPosts, getPostBySlug, resolvePost } from '../../data/blog/helpers';
-import { defaultLocale } from '../../data/i18n/locales';
+import { blogPosts } from '../../data/blog/helpers';
 import { isBlogPostSlug } from '../../data/i18n/routing';
 
 export function getStaticPaths() {
-	return blogPosts.map((post) => {
-		const resolved = resolvePost(post, defaultLocale);
-		return {
-			params: { slug: resolved.translation.slug },
-			props: { post: resolved },
-		};
-	});
+	return blogPosts.map((post) => ({
+		params: { slug: post.translations.en.slug },
+	}));
 }
 
 const slug = Astro.params.slug ?? '';
-if (!isBlogPostSlug(slug)) {
-	return Astro.redirect('/404/', 404);
+if (isBlogPostSlug(slug)) {
+	return Astro.redirect(`/forums/${slug}/`, 301);
 }
-
-const { post } = Astro.props;
-const live = getPostBySlug(defaultLocale, post.translation.slug) ?? post;
+return Astro.redirect('/404/', 404);
 ---
-
-<BlogPostPage locale="en" post={live} />

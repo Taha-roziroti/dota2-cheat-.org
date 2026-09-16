@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { blogPosts } from '../src/data/blog/posts.generated.ts';
+import { blogPosts } from '../src/data/forums/posts.generated.ts';
 
 console.log('posts', blogPosts.length);
 console.log('sample title', blogPosts[0].translations.en.title);
@@ -13,7 +13,7 @@ const all = blogPosts.flatMap((p) =>
 	]),
 );
 
-const needles = ['${EXT', 'V-Bucks', 'Hammer AR', 'FNCS', 'Verdansk', 'EliteFN', 'GhostWare', 'CheatSpike', 'Battle Pass', 'Item Shop'];
+const needles = ['${EXT', 'V-Bucks', 'Hammer AR', 'FNCS', 'the map', 'EliteFN', 'GhostWare', 'CheatSpike', 'Battle Pass', 'Item Shop'];
 for (const n of needles) {
 	const hits = all.filter((t) => t.includes(n));
 	if (hits.length) console.log('LEFTOVER', n, hits.length);

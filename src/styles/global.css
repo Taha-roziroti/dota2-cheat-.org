@@ -5,16 +5,16 @@
 @theme {
 	--font-sans: "Barlow", ui-sans-serif, system-ui, sans-serif;
 	--font-display: "Bebas Neue", ui-sans-serif, sans-serif;
-	--font-warzone: "Bebas Neue", ui-sans-serif, sans-serif;
+	--font-dota2: "Bebas Neue", ui-sans-serif, sans-serif;
 
-	/* COD Warzone canvas — charcoal base, white ink, amber accent */
-	--bg: #0d0d0d;
-	--bg-panel: #1a1a1a;
-	--bg-elevated: #242424;
-	--bg-hover: #2e2e2e;
-	--line: #333333;
-	--line-soft: #2a2a2a;
-	--line-strong: #444444;
+	/* Dota 2 dark purple canvas */
+	--bg: #0d0a14;
+	--bg-panel: #0f0c18;
+	--bg-elevated: #0f0c19;
+	--bg-hover: #0e0b17;
+	--line: #1a1525;
+	--line-soft: #120e1a;
+	--line-strong: #040306;
 	--ink: #f5f5f5;
 	--ink-heading: #ffffff;
 	--ink-secondary: #d4d4d8;
@@ -22,7 +22,7 @@
 	--ink-faint: #71717a;
 	--link: #ff9d00;
 
-	/* Brand accent — Warzone amber/orange CTA */
+	/* Brand accent — Dota 2 amber/orange CTA */
 	--magenta: #ff9d00;
 	--magenta-soft: #ffb84d;
 	--magenta-deep: #cc7a00;
@@ -42,7 +42,7 @@
 		0 14px 36px color-mix(in srgb, #4a3000 55%, transparent);
 
 	/* Legacy aliases */
-	--tone-void: #050505;
+	--tone-void: #040306;
 	--tone-night: var(--bg);
 	--tone-body: var(--bg);
 	--tone-surface: var(--bg-panel);

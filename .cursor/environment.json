@@ -1,10 +1,10 @@
 {
-  "name": "Warzone Cheats",
+  "name": "Dota 2 Cheats",
   "install": "npm ci && npm run build",
   "start": "npm run localhost",
   "ports": [
     {
-      "name": "Warzone Cheats site",
+      "name": "Dota 2 Cheats site",
       "port": 5173
     }
   ],

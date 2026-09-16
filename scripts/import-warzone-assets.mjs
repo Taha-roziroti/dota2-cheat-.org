@@ -1,6 +1,6 @@
 /**
- * Import Warzone hero, favicon, and gameplay screenshots from user assets.
- * Writes /images/warzone-screenshot-01.webp … 07.webp plus responsive variants.
+ * Import Dota 2 hero, favicon, and gameplay screenshots from user assets.
+ * Writes /images/dota2-screenshot-01.webp … 07.webp plus responsive variants.
  */
 import { mkdir, writeFile, copyFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -24,10 +24,10 @@ const SCREENSHOT_SOURCES = [
 	path.join(ASSETS_DIR, '05a7f39c-e076-43b9-8aac-05851b338275.png'),
 ];
 
-/** Favicon / navbar logo — Call of Duty wordmark */
+/** Favicon / navbar logo — Dota 2 wordmark */
 const FAVICON_SOURCE = path.join(ASSETS_DIR, '32cbbd34-30a2-4e3e-9479-3b9c302e1385.webp');
 
-const LOGO_BG = { r: 13, g: 13, b: 13, alpha: 1 }; // #0D0D0D — matches Warzone theme
+const LOGO_BG = { r: 13, g: 13, b: 13, alpha: 1 }; // #0D0D0D — matches Dota 2 theme
 const LOGO_RESIZE = { kernel: sharp.kernel.lanczos3 };
 
 /** Strip fake checkerboard BG and output white wordmark on transparency. */
@@ -151,34 +151,34 @@ async function buildHeroCropBuffer() {
 }
 
 async function writeHero() {
-	const heroBase = 'warzone-cheats-hero';
+	const heroBase = 'dota2-cheats-hero';
 	const heroCrop = await buildHeroCropBuffer();
 	await writeResponsive(heroBase, heroCrop);
-	await writeResponsive('warzone-hero-poster', heroCrop);
+	await writeResponsive('dota2-hero-poster', heroCrop);
 	const hero4k = await sharp(heroCrop)
 		.resize(3840, null, { fit: 'inside', withoutEnlargement: true })
 		.webp({ quality: 88, effort: 6 })
 		.toBuffer();
-	await writeFile(path.join(imagesDir, 'warzone-cheats-hero-4k.webp'), hero4k);
+	await writeFile(path.join(imagesDir, 'dota2-cheats-hero-4k.webp'), hero4k);
 }
 
 async function writeScreenshots() {
 	for (let i = 0; i < SCREENSHOT_SOURCES.length; i += 1) {
 		const id = String(i + 1).padStart(2, '0');
-		await writeResponsive(`warzone-screenshot-${id}`, SCREENSHOT_SOURCES[i]);
+		await writeResponsive(`dota2-screenshot-${id}`, SCREENSHOT_SOURCES[i]);
 	}
 }
 
 async function writeFavicon() {
 	const master = await buildLogoMaster();
-	await writeFile(path.join(imagesDir, 'warzone-cheats-logo-master.png'), master);
+	await writeFile(path.join(imagesDir, 'dota2-cheats-logo-master.png'), master);
 
 	const navWidths = [
-		{ name: 'warzone-cheats-logo-nav-360w.png', w: 360 },
-		{ name: 'warzone-cheats-logo-nav-480w.png', w: 480 },
-		{ name: 'warzone-cheats-logo-nav-560w.png', w: 560 },
-		{ name: 'warzone-cheats-logo-nav-720w.png', w: 720 },
-		{ name: 'warzone-cheats-logo-nav.png', w: 640 },
+		{ name: 'dota2-cheats-logo-nav-360w.png', w: 360 },
+		{ name: 'dota2-cheats-logo-nav-480w.png', w: 480 },
+		{ name: 'dota2-cheats-logo-nav-560w.png', w: 560 },
+		{ name: 'dota2-cheats-logo-nav-720w.png', w: 720 },
+		{ name: 'dota2-cheats-logo-nav.png', w: 640 },
 	];
 	for (const { name, w } of navWidths) {
 		const png = await navLogoFromMaster(master, w);
@@ -189,10 +189,10 @@ async function writeFavicon() {
 	}
 
 	const sizes = [
-		{ name: 'warzone-site-icon-128.webp', size: 128 },
-		{ name: 'warzone-site-icon-512.webp', size: 512 },
-		{ name: 'warzone-cheats-logo.webp', size: 512 },
-		{ name: 'warzone-cheats-logo-mark.webp', size: 256 },
+		{ name: 'dota2-site-icon-128.webp', size: 128 },
+		{ name: 'dota2-site-icon-512.webp', size: 512 },
+		{ name: 'dota2-cheats-logo.webp', size: 512 },
+		{ name: 'dota2-cheats-logo-mark.webp', size: 256 },
 	];
 	for (const { name, size } of sizes) {
 		const png = await whiteLogoOnDark(size);
@@ -200,7 +200,7 @@ async function writeFavicon() {
 		await writeFile(path.join(imagesDir, name), buf);
 	}
 	const png512 = await whiteLogoOnDark(512);
-	await writeFile(path.join(imagesDir, 'warzone-cheats-logo.png'), png512);
+	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.png'), png512);
 
 	const publicDir = path.join(ROOT, 'public');
 	const faviconSizes = [
@@ -217,12 +217,12 @@ async function writeFavicon() {
 	const svgBase64 = png512.toString('base64');
 	const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"><rect width="512" height="512" fill="#0d0d0d"/><image width="512" height="512" href="data:image/png;base64,${svgBase64}"/></svg>`;
 	await writeFile(path.join(publicDir, 'favicon.svg'), faviconSvg);
-	console.log('  ✓ favicon + logo assets (Call of Duty wordmark + nav logo)');
+	console.log('  ✓ favicon + logo assets (Dota 2 wordmark + nav logo)');
 }
 
 async function main() {
 	await mkdir(imagesDir, { recursive: true });
-	console.log('Importing Warzone assets…');
+	console.log('Importing Dota 2 assets…');
 	await writeHero();
 	await writeScreenshots();
 	await writeFavicon();

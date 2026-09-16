@@ -5,46 +5,46 @@
  */
 export const brand = {
 	/** Public brand name (nav, footer, H1 hero, schema Organization) */
-	name: 'Warzone Cheats',
+	name: 'Dota 2 Cheats',
 	/** Short product label if needed */
-	shortName: 'Warzone Cheats',
+	shortName: 'Dota 2 Cheats',
 	/** Canonical origin — no trailing slash */
-	url: 'https://cheatsforwarzone.com',
+	url: 'https://dota2cheat.com',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@cheatsforwarzone.com',
-	checkoutUrl: 'https://zadeyo.com/go/UMAIR?to=%2Fproducts%2Fwarzone',
+	supportEmail: 'support@dota2cheat.com',
+	/** Replace with your live affiliate / store URL */
+	checkoutUrl: 'https://dota2cheat.com/store',
 
 	/** Public profiles for Organization sameAs + Twitter cards (edit in Brand Studio). */
 	social: {
-		twitterSite: '@CallofDuty',
+		twitterSite: '@DOTA2',
 		sameAs: [
-			'https://x.com/CallofDuty',
-			'https://www.reddit.com/r/Warzone/',
-			'https://www.callofduty.com/warzone',
+			'https://x.com/DOTA2',
+			'https://www.reddit.com/r/DotA2/',
+			'https://www.dota2.com/',
 		],
 	} as const,
 
 	/** Game this template instance targets */
-	game: 'Call of Duty: Warzone',
+	game: 'Dota 2',
 	/** Official game page — linked from hero and footer */
-	gameUrl: 'https://www.callofduty.com/warzone',
+	gameUrl: 'https://www.dota2.com/',
 	/** Anti-cheat name used in Status / FAQ copy */
-	antiCheat: 'Ricochet',
+	antiCheat: 'VAC',
 
-	logo: '/images/warzone-cheats-logo.webp',
-	logoRaster: '/images/warzone-cheats-logo.png',
+	logo: '/images/dota2-cheats-logo.webp',
+	logoRaster: '/images/dota2-cheats-logo.png',
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
-	logoAlt: 'Call of Duty wordmark — Warzone cheats site icon for ESP aimbot and wallhack on PC',
-	defaultOgImage: '/images/warzone-screenshot-03.webp',
-	heroImage: '/images/warzone-cheats-hero.webp',
-	/** Cinematic hero loop — homepage hero banner only */
-	heroVideoUrl: '/videos/hero.webm',
+	logoAlt: 'Dota 2 cheats site icon — ESP, aimbot and maphack tools for PC',
+	defaultOgImage: '/images/dota2-screenshot-03.webp',
+	heroImage: '/images/hero-banner.webp',
+	/** Placeholder — swap in video background later */
+	heroVideoUrl: '',
 	heroVideoMp4: '',
-	demoVideoPoster: '/images/warzone-hero-poster.webp',
-	/** In-game ESP screenshot for homepage about block — never the cinematic hero art. */
-	demoScreenshot: '/images/warzone-screenshot-02.webp',
+	demoVideoPoster: '/images/hero-banner.webp',
+	demoScreenshot: '/images/dota2-screenshot-02.webp',
 
 	plans: [
 		{ id: 'monthly', label: 'Monthly', price: 35, duration: 'P30D' },
@@ -53,106 +53,103 @@ export const brand = {
 	currency: 'USD',
 	platforms: ['Windows PC'] as const,
 
-	/** COD Warzone palette — charcoal canvas, white ink, amber CTA accent */
+	/** Dota 2 dark purple canvas */
 	theme: {
-		accent: '#FF9D00',
-		bg: '#0D0D0D',
-		soft: '#FFB84D',
-		deep: '#CC7A00',
-		hover: '#FFAD33',
-		panel: '#1A1A1A',
-		elevated: '#242424',
-		line: '#333333',
+		accent: '#E8B923',
+		bg: '#0D0A14',
+		soft: '#F0C94A',
+		deep: '#B8941F',
+		hover: '#F5D547',
+		panel: '#0F0C18',
+		elevated: '#0F0C19',
+		line: '#1A1525',
 		ink: '#F5F5F5',
 		inkHeading: '#FFFFFF',
 		inkSecondary: '#D4D4D8',
 		inkMuted: '#A1A1AA',
-		link: '#FF9D00',
+		link: '#E8B923',
 	},
 
 	keywords: {
-		primary: 'warzone cheats',
+		primary: 'dota 2 cheats',
 		list: [
-			'warzone cheats',
-			'warzone cheat',
-			'warzone hacks',
-			'warzone hack',
-			'cod warzone cheats',
-			'cod warzone hacks',
-			'call of duty warzone cheats',
-			'call of duty warzone hacks',
-			'warzone aimbot',
-			'warzone esp',
-			'warzone wallhack',
-			'warzone triggerbot',
-			'warzone radar hack',
-			'warzone no recoil',
-			'warzone mod menu',
-			'warzone cheat software',
-			'warzone cheats pc',
-			'warzone cheats 2026',
-			'undetected warzone cheats',
-			'best warzone cheats',
-			'warzone unlock tool',
-			'warzone soft aim',
-			'warzone silent aim',
+			'dota 2 cheats',
+			'dota 2 cheat',
+			'dota 2 hacks',
+			'dota 2 hack',
+			'dota 2 esp',
+			'dota 2 aimbot',
+			'dota 2 wallhack',
+			'dota 2 maphack',
+			'dota 2 scripts',
+			'dota 2 overlay',
+			'dota 2 radar hack',
+			'dota 2 camera hack',
+			'dota 2 auto last hit',
+			'dota 2 skillshot assist',
+			'dota 2 cheats pc',
+			'dota 2 cheats 2026',
+			'best dota 2 cheats',
+			'dota 2 mod menu',
+			'dota 2 combo script',
+			'dota 2 ward hack',
 		] as const,
 	},
 
 	seo: {
-		homeTitle: 'Warzone Esp, Aimbot & Wallhack',
+		homeTitle: 'Dota 2 Esp, Aimbot & Wallhack',
 		homeDescription:
-			'Warzone cheats with ESP, aimbot and wallhack for Battle Royale on PC. Undetected player ESP, loot tags, soft aim, and radar with Ricochet maintenance.',
-		featuresTitle: 'Warzone Cheats Features | ESP, Aimbot & Wallhack',
+			'Dota 2 cheats with ESP, aimbot and wallhack for ranked and casual matches on PC. Hero vision, map overlays, skillshot assist, and VAC maintenance after patches.',
+		featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Maphack',
 		featuresDescription:
-			'Full warzone cheats feature list — aimbot sliders, player ESP, bots ESP, item ESP, radar, color options, and config profiles for PC. See every control at cheatsforwarzone.com.',
-		storeTitle: 'Warzone Cheats Pricing | $35/mo or $150 Lifetime',
+			'Full dota 2 cheats feature list — hero ESP, ward vision, maphack, skillshot assist, auto last hit, camera distance, and config profiles for PC.',
+		storeTitle: 'Dota 2 Cheats Pricing | $35/mo or $150 Lifetime',
 		storeDescription:
-			'Buy warzone cheats — $35/month or $150 lifetime. ESP, aimbot and wallhack for Battle Royale on PC. Instant digital delivery worldwide.',
-		statusTitle: 'Warzone Cheats Status | Undetected {antiCheat} Updates',
+			'Buy dota 2 cheats — $35/month or $150 lifetime. ESP, aimbot and maphack for ranked matches on PC. Instant digital delivery worldwide.',
+		statusTitle: 'Dota 2 Cheats Status | VAC Patch Updates',
 		statusDescription:
-			'Live status after {game} and {antiCheat} patches. Check undetected ESP, aimbot and wallhack rebuilds on PC before you drop into Verdansk.',
-		previewTitle: 'Warzone Cheats | ESP, Aimbot & Wallhack Guide',
+			'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
+		previewTitle: 'Dota 2 Cheats | ESP, Aimbot & Wallhack Guide',
 		previewDescription:
-			'Warzone cheats guide — undetected ESP wallhack, aimbot, radar and {antiCheat} rebuilds for Battle Royale on PC. Buy from $35 at cheatsforwarzone.com.',
-		setupTitle: 'Warzone Cheats Setup | Windows PC Install Guide',
+			'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.com.',
+		setupTitle: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		setupDescription:
-			'Install {brand} on PC — activate ESP, aimbot and wallhack step by step. Check {antiCheat} status before your first Battle Royale match.',
-		supportTitle: 'Warzone Cheats Support | License & Setup Help',
+			'Install {brand} on PC — activate ESP, aimbot and maphack step by step. Check {antiCheat} status before your first ranked match.',
+		supportTitle: 'Dota 2 Cheats Support | License & Setup Help',
 		supportDescription:
 			'Support for license delivery, ESP setup and billing on PC. Email {email} with your order ID before you queue.',
-		faqTitle: 'Warzone Cheats FAQ | ESP, Aimbot & Ricochet',
+		faqTitle: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		faqDescription:
-			'FAQ for warzone cheats — delivery, setup, Battle Royale use, {antiCheat} updates and pricing on PC. Answers at cheatsforwarzone.com before you buy.',
-		reviewsTitle: 'Warzone Cheats Reviews | ESP, Aimbot & Wallhack',
+			'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.com before you buy.',
+		reviewsTitle: 'Dota 2 Cheats Reviews | ESP, Aimbot & Maphack',
 		reviewsDescription:
-			'Real buyer reviews for warzone cheats — ESP, aimbot, wallhack and {antiCheat} maintenance on PC. See license holder feedback at cheatsforwarzone.com.',
-		blogTitle: 'Warzone Cheats Blog | Guides & Patch Tips',
+			'Real buyer reviews for dota 2 cheats — ESP, aimbot, maphack and {antiCheat} maintenance on PC. See license holder feedback at dota2cheat.com.',
+		blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 		blogDescription:
-			'Warzone guides — Battle Royale tips, ESP and aimbot notes, loot callouts and {antiCheat} updates for PC. Read guides at cheatsforwarzone.com/blog.',
+			'Dota 2 cheats forums — setup walkthroughs, ESP settings, aimbot sliders, and VAC patch notes for PC. Join discussions at dota2cheat.com/forums/.',
 	},
 
 	copy: {
-		tagline: 'Undetected {primaryKeyword} — ESP, aimbot, and wallhack for PC',
+		tagline: '{primaryKeyword} — ESP, aimbot, and maphack for PC',
 		summary:
-			'{brand} is an undetected {game} cheats package for Windows PC. Includes ESP, aimbot, wallhack, item ESP, and radar with {antiCheat} maintenance after patches.',
-		heroLede: 'Undetected ESP, aimbot, and wallhack for Call of Duty: Warzone on Windows PC.',
-		blogLabel: 'Warzone Intel',
+			'{brand} is a {game} cheats package for Windows PC. Includes ESP, aimbot, maphack, ward vision, and skillshot assist with {antiCheat} maintenance after patches.',
+		heroLede: 'ESP, aimbot, and maphack for Dota 2 on Windows PC.',
+		blogLabel: 'Community Forums',
 		ctaBuy: 'Get Access',
 		ctaBuyShort: 'Buy',
-		featuresIntro: 'Every aimbot, ESP, item, radar, and config control included in one license for {game} on Windows PC.',
+		featuresIntro: 'Every ESP, maphack, skillshot assist, radar, and config control included in one license for {game} on Windows PC.',
 		storeIntro: 'Pick a plan. Same features on both. Instant delivery after payment.',
-		statusIntro: 'Check here after a {game} or {antiCheat} patch before you drop in.',
+		statusIntro: 'Check here after a {game} or {antiCheat} patch before you queue.',
 		previewIntro:
-			'{brand} for Call of Duty: Warzone — ESP wallhack, aimbot, item ESP, radar, and Ricochet rebuilds after patches.',
+			'{brand} for Dota 2 — ESP maphack, skillshot assist, ward vision, radar overlays, and VAC rebuilds after patches.',
 		setupIntro: 'Install {brand} on Windows PC after you buy. Follow these short steps.',
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 		reviewsIntro:
-			'Real feedback on warzone cheats — ESP, aimbot, wallhack, and support from {brand} buyers.',
-		chipEsp: 'ESP / wallhack',
-		chipAim: 'Aimbot',
-		chipRadar: 'Radar hack',
+			'Real feedback on dota 2 cheats — ESP, aimbot, maphack, and support from {brand} buyers.',
+		chipEsp: 'ESP / maphack',
+		chipAim: 'Skillshot assist',
+		chipRadar: 'Radar overlay',
 		chipUpdates: 'Patch updates',
 		navHome: 'Home',
 		navPreview: 'Cheats',
@@ -163,46 +160,46 @@ export const brand = {
 	},
 
 	sitemap: {
-		contentLastmod: '2026-09-07',
-		blogImageTitle: '{brand} blog',
-		blogImageCaption: 'Tips and updates for {primaryKeyword}',
+		contentLastmod: '2026-09-16',
+		blogImageTitle: '{brand} forums',
+		blogImageCaption: 'Community discussions for {primaryKeyword}',
 		reviewsImageTitle: '{brand} reviews',
-		reviewsImageCaption: 'Warzone cheats reviews — what buyers say about {primaryKeyword}',
+		reviewsImageCaption: 'Dota 2 cheats reviews — what buyers say about {primaryKeyword}',
 		images: [
 			{
-				src: '/images/warzone-screenshot-01.webp',
-				title: 'Warzone ESP box overlay at Train Wreck with distance tags',
-				caption: 'Warzone ESP wallhack with player box, distance readout and aimbot FOV on PC',
+				src: '/images/dota2-screenshot-01.webp',
+				title: 'Dota 2 ESP hero overlay with health bars and distance tags',
+				caption: 'Dota 2 ESP maphack with hero box, distance readout and ward vision on PC',
 			},
 			{
-				src: '/images/warzone-screenshot-02.webp',
-				title: 'Warzone player ESP skeleton overlay at Coal Depot',
-				caption: 'Warzone wallhack showing enemy skeletons and distance ESP through gas zone',
+				src: '/images/dota2-screenshot-02.webp',
+				title: 'Dota 2 hero ESP skeleton overlay in lane',
+				caption: 'Dota 2 wallhack showing enemy heroes and ability cooldowns through fog',
 			},
 			{
-				src: '/images/warzone-screenshot-03.webp',
-				title: 'Warzone aimbot and box ESP on Main Street rooftop',
-				caption: 'Warzone cheats box ESP with aimbot lock and visibility check on PC',
+				src: '/images/dota2-screenshot-03.webp',
+				title: 'Dota 2 skillshot assist targeting enemy mid',
+				caption: 'Dota 2 cheats skillshot assist with aimbot lock and visibility check on PC',
 			},
 			{
-				src: '/images/warzone-screenshot-04.webp',
-				title: 'Warzone ESP distance markers through scope on Main Street',
-				caption: 'Warzone ESP distance tags and aimbot target box during Battle Royale',
+				src: '/images/dota2-screenshot-04.webp',
+				title: 'Dota 2 ESP distance markers on minimap',
+				caption: 'Dota 2 ESP distance tags and radar overlay during ranked match',
 			},
 			{
-				src: '/images/warzone-screenshot-05.webp',
-				title: 'Warzone wallhack box ESP with scope targeting',
-				caption: 'Warzone wallhack player box ESP and aimbot crosshair overlay on rooftop',
+				src: '/images/dota2-screenshot-05.webp',
+				title: 'Dota 2 maphack ward vision through trees',
+				caption: 'Dota 2 maphack ward vision and hero ESP overlay in jungle',
 			},
 			{
-				src: '/images/warzone-screenshot-06.webp',
-				title: 'Warzone ESP box overlay on Fast Forward alley',
-				caption: 'Warzone player ESP with distance tags and visibility counter in gas zone',
+				src: '/images/dota2-screenshot-06.webp',
+				title: 'Dota 2 ESP box overlay at Roshan pit',
+				caption: 'Dota 2 player ESP with distance tags and Roshan timer in ranked',
 			},
 			{
-				src: '/images/warzone-screenshot-07.webp',
-				title: 'Warzone item ESP and loot tags inside bank vault',
-				caption: 'Warzone item ESP showing cash, armor plates, beacons and loot through walls on PC',
+				src: '/images/dota2-screenshot-07.webp',
+				title: 'Dota 2 item ESP and rune tags on map',
+				caption: 'Dota 2 item ESP showing bounty runes, wards and courier through fog on PC',
 			},
 		],
 	},
@@ -228,9 +225,9 @@ export function seoTitle(topic: string): string {
 export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('cheatsforwarzone.com')
-			? ' Windows PC license with Ricochet maintenance after patches.'
-			: ' Compare plans and guides at cheatsforwarzone.com.';
+		const pad = text.toLowerCase().includes('dota2cheat.com')
+			? ' Windows PC license with VAC maintenance after patches.'
+			: ' Compare plans and forums at dota2cheat.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= 160) return text;

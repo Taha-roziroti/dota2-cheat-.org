@@ -8,5 +8,5 @@ export function getStaticPaths() {
 }
 
 const slug = Astro.params.slug ?? '';
-return Astro.redirect(`/${slug}/`, 301);
+return Astro.redirect(`/forums/${slug}/`, 301);
 ---

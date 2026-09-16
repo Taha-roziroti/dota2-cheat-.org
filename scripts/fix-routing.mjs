@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Rebuild routing.ts and constants.mjs from clea Call of Duty: Warzone source. */
+/** Rebuild routing.ts and constants.mjs from clea Dota 2 source. */
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -13,43 +13,43 @@ const REMOVE_IDS = [
 ];
 
 const REPLACEMENTS = [
-	['warzone-esp', 'warzone-esp'],
-	['warzone-aimbot', 'warzone-aimbot'],
-	['ricochet', 'ricochet'],
-	['undetected-warzone-cheats', 'undetected-warzone-cheats'],
-	['warzone-wallhack', 'warzone-wallhack'],
-	['warzone-radar-hack', 'warzone-radar-hack'],
-	['warzone-cheats-2026', 'warzone-cheats-2026'],
-	['ricochet-bypass', 'ricochet-bypass'],
-	['cheatsforwarzone.com', 'cheatsforwarzone.com'],
-	['trucos-warzone', 'trucos-warzone'],
-	['triche-warzone', 'triche-warzone'],
-	['warzone-cheats', 'warzone-cheats'],
-	['cheats-warzone', 'cheats-warzone'],
-	['trucchi-warzone', 'trucchi-warzone'],
-	['cheaty-warzone', 'cheaty-warzone'],
-	['chity-warzone', 'chity-warzone'],
-	['chitov-warzone', 'chitov-warzone'],
-	['chitiv-warzone', 'chitiv-warzone'],
-	['cheatow-warzone', 'cheatow-warzone'],
-	['hile-warzone', 'hile-warzone'],
-	['warzone-hile', 'warzone-hile'],
-	['warzone-esp-chity', 'warzone-esp-chity'],
-	['warzone-aimbot-chity', 'warzone-aimbot-chity'],
-	['unentdeckte-warzone-cheats', 'unentdeckte-warzone-cheats'],
-	['cheats-warzone-indetectaveis', 'cheats-warzone-indetectaveis'],
-	['trucchi-warzone-indetectabili', 'trucchi-warzone-indetectabili'],
-	['niewykrywalne-cheats-warzone', 'niewykrywalne-cheats-warzone'],
-	['nedecektiruemye-chity-warzone', 'nedecektiruemye-chity-warzone'],
-	['tespit-edilemeyen-warzone-hileleri', 'tespit-edilemeyen-warzone-hileleri'],
-	['nedecektovani-chity-warzone', 'nedecektovani-chity-warzone'],
-	['cheats-warzone-nedetectabile', 'cheats-warzone-nedetectabile'],
-	['basta-warzone-cheats', 'basta-warzone-cheats'],
-	['ricochet-bypass-trucos-warzone', 'ricochet-bypass-trucos-warzone'],
-	['ricochet-bypass-triche-warzone', 'ricochet-bypass-triche-warzone'],
-	['ricochet-bypass-hacks-warzone', 'ricochet-bypass-hacks-warzone'],
-	['ricochet-bypass-chity-warzone', 'ricochet-bypass-chity-warzone'],
-	['ricochet-bypass-rust', 'ricochet-bypass'],
+	['dota2-esp', 'dota2-esp'],
+	['dota2-aimbot', 'dota2-aimbot'],
+	['vac', 'vac'],
+	['reliable-dota2-cheats', 'reliable-dota2-cheats'],
+	['dota2-wallhack', 'dota2-wallhack'],
+	['dota2-radar-hack', 'dota2-radar-hack'],
+	['dota2-cheats-2026', 'dota2-cheats-2026'],
+	['vac-bypass', 'vac-bypass'],
+	['dota2cheat.com', 'dota2cheat.com'],
+	['trucos-dota2', 'trucos-dota2'],
+	['triche-dota2', 'triche-dota2'],
+	['dota2-cheats', 'dota2-cheats'],
+	['cheats-dota2', 'cheats-dota2'],
+	['trucchi-dota2', 'trucchi-dota2'],
+	['cheaty-dota2', 'cheaty-dota2'],
+	['chity-dota2', 'chity-dota2'],
+	['chitov-dota2', 'chitov-dota2'],
+	['chitiv-dota2', 'chitiv-dota2'],
+	['cheatow-dota2', 'cheatow-dota2'],
+	['hile-dota2', 'hile-dota2'],
+	['dota2-hile', 'dota2-hile'],
+	['dota2-esp-chity', 'dota2-esp-chity'],
+	['dota2-aimbot-chity', 'dota2-aimbot-chity'],
+	['unentdeckte-dota2-cheats', 'unentdeckte-dota2-cheats'],
+	['cheats-dota2-indetectaveis', 'cheats-dota2-indetectaveis'],
+	['trucchi-dota2-indetectabili', 'trucchi-dota2-indetectabili'],
+	['niewykrywalne-cheats-dota2', 'niewykrywalne-cheats-dota2'],
+	['nedecektiruemye-chity-dota2', 'nedecektiruemye-chity-dota2'],
+	['tespit-edilemeyen-dota2-hileleri', 'tespit-edilemeyen-dota2-hileleri'],
+	['nedecektovani-chity-dota2', 'nedecektovani-chity-dota2'],
+	['cheats-dota2-nedetectabile', 'cheats-dota2-nedetectabile'],
+	['basta-dota2-cheats', 'basta-dota2-cheats'],
+	['vac-bypass-trucos-dota2', 'vac-bypass-trucos-dota2'],
+	['vac-bypass-triche-dota2', 'vac-bypass-triche-dota2'],
+	['vac-bypass-hacks-dota2', 'vac-bypass-hacks-dota2'],
+	['vac-bypass-chity-dota2', 'vac-bypass-chity-dota2'],
+	['vac-bypass-rust', 'vac-bypass'],
 ];
 
 function apply(content) {
@@ -78,31 +78,31 @@ async function fixRouting() {
 	content = apply(content);
 	for (const id of REMOVE_IDS) content = removePageBlocks(content, id);
 	// Fix eac key in englishPaths
-	content = content.replace(/\teac: '/, "\t'ricochet': '");
+	content = content.replace(/\teac: '/, "\t'vac': '");
 	await writeFile(path.join(ROOT, 'src/data/i18n/routing.ts'), content);
 	console.log('Fixed routing.ts');
 }
 
 async function fixConstants() {
-	const heroImages = `/** Agent image per page topic — keyword-rich warzone-cheats paths. */
+	const heroImages = `/** Agent image per page topic — keyword-rich dota2-cheats paths. */
 export const HERO_IMAGES = {
-	home: '/images/the-warzone-cheats-hero.webp',
-	'warzone-esp': '/images/the-warzone-cheats-esp-wallhack.webp',
-	'warzone-aimbot': '/images/the-warzone-cheats-aimbot-combat.webp',
-	features: '/images/warzone-cheats-package.webp',
-	pricing: '/images/warzone-cheats-cover.webp',
+	home: '/images/the-dota2-cheats-hero.webp',
+	'dota2-esp': '/images/the-dota2-cheats-esp-wallhack.webp',
+	'dota2-aimbot': '/images/the-dota2-cheats-aimbot-combat.webp',
+	features: '/images/dota2-cheats-package.webp',
+	pricing: '/images/dota2-cheats-cover.webp',
 	setup: '/images/rust-loadout-builder.webp',
 	updates: '/images/rust-header-art.webp',
 	faq: '/images/rust-pack-fight.webp',
-	support: '/images/warzone-cheats-package.webp',
-	undetected: '/images/rust-survival-combat.webp',
-	wallhack: '/images/the-warzone-cheats-esp-wallhack.webp',
+	support: '/images/dota2-cheats-package.webp',
+	reliable: '/images/rust-survival-combat.webp',
+	wallhack: '/images/the-dota2-cheats-esp-wallhack.webp',
 	radar: '/images/rust-player-esp.webp',
-	'ricochet': '/images/rust-reboot-van-fight.webp',
-	'cheats-2026': '/images/the-warzone-cheats-hero.webp',
-	privacy: '/images/the-warzone-cheats-aimbot-combat.webp',
-	refund: '/images/warzone-cheats-cover.webp',
-	terms: '/images/warzone-cheats-package.webp',
+	'vac': '/images/rust-reboot-van-fight.webp',
+	'cheats-2026': '/images/the-dota2-cheats-hero.webp',
+	privacy: '/images/the-dota2-cheats-aimbot-combat.webp',
+	refund: '/images/dota2-cheats-cover.webp',
+	terms: '/images/dota2-cheats-package.webp',
 };`;
 
 	let content = await readFile(path.join(SRC, 'scripts/i18n-data/constants.mjs'), 'utf8');
@@ -112,12 +112,12 @@ export const HERO_IMAGES = {
 	}
 	content = content.replace(
 		/export const PAGE_IDS = \[[\s\S]*?\];/,
-		`export const PAGE_IDS = [\n\t'home', 'warzone-esp', 'warzone-aimbot', 'features', 'pricing', 'setup',\n\t'updates', 'faq', 'support', 'undetected', 'wallhack', 'radar', 'ricochet',\n\t'cheats-2026', 'privacy', 'refund', 'terms',\n];`,
+		`export const PAGE_IDS = [\n\t'home', 'dota2-esp', 'dota2-aimbot', 'features', 'pricing', 'setup',\n\t'updates', 'faq', 'support', 'reliable', 'wallhack', 'radar', 'vac',\n\t'cheats-2026', 'privacy', 'refund', 'terms',\n];`,
 	);
 	content = content.replace(/\/\*\* Agent image[\s\S]*?};/, heroImages);
 	content = content.replace(
 		/export type PageId = [^;]+;/,
-		"export type PageId = 'home' | 'warzone-esp' | 'warzone-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'ricochet' | 'cheats-2026' | 'privacy' | 'refund' | 'terms';",
+		"export type PageId = 'home' | 'dota2-esp' | 'dota2-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'reliable' | 'wallhack' | 'radar' | 'vac' | 'cheats-2026' | 'privacy' | 'refund' | 'terms';",
 	);
 	content = content.replace(/operatorEsp/g, 'playerEsp');
 	content = content.replace(/extractFight/g, 'raidFight');

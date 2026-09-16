@@ -6,39 +6,39 @@ export const LOCALES = [
 ];
 
 export const PAGE_IDS = [
-	'home', 'warzone-esp', 'warzone-aimbot', 'features', 'pricing', 'setup',
-	'updates', 'faq', 'support', 'undetected', 'wallhack', 'radar', 'ricochet',
+	'home', 'dota2-esp', 'dota2-aimbot', 'features', 'pricing', 'setup',
+	'updates', 'faq', 'support', 'reliable', 'wallhack', 'radar', 'vac',
 	'cheats-2026', 'hacks', 'cheat-download', 'mod-menu', 'soft-aim', 'best-cheats',
 	'aimbot-hack', 'esp-hack', 'unlock-all', 'privacy', 'refund', 'terms',
 ];
 
-/** Agent image per page — simple warzone cheats keyword filenames. */
+/** Agent image per page — simple dota 2 cheats keyword filenames. */
 export const HERO_IMAGES = {
-	home: '/images/warzone-screenshot-01.webp',
-	'warzone-esp': '/images/warzone-screenshot-01.webp',
-	'warzone-aimbot': '/images/warzone-screenshot-02.webp',
-	features: '/images/warzone-screenshot-03.webp',
-	pricing: '/images/warzone-screenshot-04.webp',
-	setup: '/images/warzone-screenshot-05.webp',
-	updates: '/images/warzone-screenshot-06.webp',
-	faq: '/images/warzone-screenshot-07.webp',
-	support: '/images/warzone-screenshot-07.webp',
-	undetected: '/images/warzone-screenshot-01.webp',
-	wallhack: '/images/warzone-screenshot-02.webp',
-	radar: '/images/warzone-screenshot-03.webp',
-	ricochet: '/images/warzone-screenshot-04.webp',
-	'cheats-2026': '/images/warzone-screenshot-05.webp',
-	hacks: '/images/warzone-screenshot-06.webp',
-	'cheat-download': '/images/warzone-screenshot-07.webp',
-	'mod-menu': '/images/warzone-screenshot-02.webp',
-	'soft-aim': '/images/warzone-screenshot-01.webp',
-	'best-cheats': '/images/warzone-screenshot-02.webp',
-	'aimbot-hack': '/images/warzone-screenshot-03.webp',
-	'esp-hack': '/images/warzone-screenshot-04.webp',
-	'unlock-all': '/images/warzone-screenshot-05.webp',
-	privacy: '/images/warzone-screenshot-06.webp',
-	refund: '/images/warzone-screenshot-07.webp',
-	terms: '/images/warzone-screenshot-03.webp',
+	home: '/images/dota2-screenshot-01.webp',
+	'dota2-esp': '/images/dota2-screenshot-01.webp',
+	'dota2-aimbot': '/images/dota2-screenshot-02.webp',
+	features: '/images/dota2-screenshot-03.webp',
+	pricing: '/images/dota2-screenshot-04.webp',
+	setup: '/images/dota2-screenshot-05.webp',
+	updates: '/images/dota2-screenshot-06.webp',
+	faq: '/images/dota2-screenshot-07.webp',
+	support: '/images/dota2-screenshot-07.webp',
+	reliable: '/images/dota2-screenshot-01.webp',
+	wallhack: '/images/dota2-screenshot-02.webp',
+	radar: '/images/dota2-screenshot-03.webp',
+	vac: '/images/dota2-screenshot-04.webp',
+	'cheats-2026': '/images/dota2-screenshot-05.webp',
+	hacks: '/images/dota2-screenshot-06.webp',
+	'cheat-download': '/images/dota2-screenshot-07.webp',
+	'mod-menu': '/images/dota2-screenshot-02.webp',
+	'soft-aim': '/images/dota2-screenshot-01.webp',
+	'best-cheats': '/images/dota2-screenshot-02.webp',
+	'aimbot-hack': '/images/dota2-screenshot-03.webp',
+	'esp-hack': '/images/dota2-screenshot-04.webp',
+	'unlock-all': '/images/dota2-screenshot-05.webp',
+	privacy: '/images/dota2-screenshot-06.webp',
+	refund: '/images/dota2-screenshot-07.webp',
+	terms: '/images/dota2-screenshot-03.webp',
 };
 
 export const TS_HEADER = `import type { LocaleCode } from './locales';
@@ -70,7 +70,7 @@ export type LocaleUi = {
 \t\theaderArt: string; hacksPackage: string; matchFight: string; battleRoyale: string; matchMap: string;
 \t};
 };
-export type PageId = 'home' | 'warzone-esp' | 'warzone-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'undetected' | 'wallhack' | 'radar' | 'ricochet' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
+export type PageId = 'home' | 'dota2-esp' | 'dota2-aimbot' | 'features' | 'pricing' | 'setup' | 'updates' | 'faq' | 'support' | 'reliable' | 'wallhack' | 'radar' | 'vac' | 'cheats-2026' | 'hacks' | 'cheat-download' | 'mod-menu' | 'soft-aim' | 'best-cheats' | 'aimbot-hack' | 'esp-hack' | 'unlock-all' | 'privacy' | 'refund' | 'terms';
 `;
 
 /** Clamp meta strings to SEO limits without ugly ellipsis. */
@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('cheatsforwarzone.com')
-			? ' Windows PC license with Ricochet maintenance after patches.'
-			: ' Compare plans and guides at cheatsforwarzone.com.';
+		const pad = text.toLowerCase().includes('dota2cheat.com')
+			? ' Windows PC license with VAC maintenance after patches.'
+			: ' Compare plans and guides at dota2cheat.com.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;
@@ -110,7 +110,7 @@ export function stripcheckoutFromMeta(text) {
 		.replace(/\s*checkout delivery\.?/gi, ' instant digital delivery.')
 		.replace(/\s*and checkout delivery\.?/gi, ' and instant digital delivery.')
 		.replace(/\|\s*Instant checkout Delivery/g, '| Instant Digital Delivery')
-		.replace(/Buy on checkout/g, 'Buy Warzone Cheats')
+		.replace(/Buy on checkout/g, 'Buy Dota 2 Cheats')
 		.replace(/\s{2,}/g, ' ')
 		.trim();
 }
@@ -133,19 +133,19 @@ export function section(h2, ...args) {
 /** Authoritative external citation helpers (open in new tab). */
 export const EXT = {
 	activision:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone</a>',
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	rust:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone</a>',
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	finals:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone</a>',
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	naraka:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone</a>',
-	warzone:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone</a>',
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
+	dota2:
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2</a>',
 	status:
-		'<a href="https://www.callofduty.com/warzone" target="_blank" rel="noopener noreferrer">Call of Duty: Warzone on PC</a>',
+		'<a href="https://www.callofduty.com/dota2" target="_blank" rel="noopener noreferrer">Dota 2 on PC</a>',
 	eac:
-		'<a href="https://www.callofduty.com/warzone/news" target="_blank" rel="noopener noreferrer">Ricochet anti-cheat</a>',
-	ricochet:
-		'<a href="https://www.callofduty.com/warzone/news" target="_blank" rel="noopener noreferrer">Ricochet anti-cheat</a>',
+		'<a href="https://www.callofduty.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
+	vac:
+		'<a href="https://www.callofduty.com/dota2/news" target="_blank" rel="noopener noreferrer">VAC anti-cheat</a>',
 };

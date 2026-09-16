@@ -1,6 +1,6 @@
 /**
- * SVG overlay generators for warzone cheats marketing images.
- * Composited on top of IGN Call of Duty: Warzone gameplay screenshots.
+ * SVG overlay generators for dota 2 cheats marketing images.
+ * Composited on top of IGN Dota 2 gameplay screenshots.
  */
 
 const PURPLE = '#c084fc';
@@ -99,7 +99,7 @@ export function modMenuOverlay(w, h) {
 	return `
 		<rect x="${x}" y="${y}" width="${pw}" height="${ph}" fill="rgba(10,6,18,0.9)" stroke="${PURPLE}" stroke-width="2" rx="10"/>
 		<text x="${x + 14}" y="${y + 28}" fill="${PURPLE}" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">RUST CHEATS</text>
-		<text x="${x + 14}" y="${y + 44}" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">UNDETECTED · v2026</text>
+		<text x="${x + 14}" y="${y + 44}" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">RELIABLE · v2026</text>
 		<line x1="${x + 10}" y1="${y + 50}" x2="${x + pw - 10}" y2="${y + 50}" stroke="rgba(192,132,252,0.3)" stroke-width="1"/>
 		${rowSvg}
 	`;

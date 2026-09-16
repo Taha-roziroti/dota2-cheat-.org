@@ -1,13 +1,13 @@
 /** Canonical public origin — must match src/data/brand.ts url. */
-export const CANONICAL_ORIGIN = 'https://cheatsforwarzone.com';
-export const CANONICAL_HOST = 'cheatsforwarzone.com';
+export const CANONICAL_ORIGIN = 'https://dota2cheat.com';
+export const CANONICAL_HOST = 'dota2cheat.com';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
-	'warzonehacks.org',
-	'www.warzonehacks.org',
-	'warzonecheats.org',
-	'www.warzonecheats.org',
+	'dota2hacks.org',
+	'www.dota2hacks.org',
+	'dota2cheats.org',
+	'www.dota2cheats.org',
 	'rustcheats.co',
 	'www.rustcheats.co',
 	'bestrustcheats.com',

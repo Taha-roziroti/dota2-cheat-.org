@@ -11,7 +11,7 @@ export const IGN_SOURCE_IMAGES = {
 	Battlefield: 'https://assets-prd.ignimgs.com/2024/03/20/battlefields7-1710977997041.jpg',
 	'League of Legends': 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg',
 	Valorant: 'https://sm.ign.com/t/ign_in/screenshot/default/victory-1920x1080-v3_kk72.1080.jpg',
-	'Call of Duty: Warzone':
+	'Dota 2':
 		'https://sm.ign.com/t/ign_pk/screenshot/default/wz-verdansksubway-1601169413816_x2hg.1400.jpg',
 	'Gray Zone Warfare': 'https://assets-prd.ignimgs.com/2023/11/30/gray-zone-warfare-button-1701383116349.jpg',
 	'Overwatch 2': 'https://assets-prd.ignimgs.com/2026/03/11/overwatch-1773211203379.jpg',
@@ -57,7 +57,7 @@ export const IGN_SOURCE_IMAGES = {
 	Grounded: 'https://assets-prd.ignimgs.com/2024/04/01/grounded-replacement-button-1712013698268.jpg',
 	'Dota 2': 'https://assets-prd.ignimgs.com/2021/12/07/dota-2-1638917128883.jpg',
 	'Civilization VI': 'https://assets-prd.ignimgs.com/2021/12/14/civ6-1639520169673.jpg',
-	'Call of Duty': 'https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg',
+	'Dota 2': 'https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg',
 	'PC Gaming': 'https://assets-prd.ignimgs.com/2022/03/14/cod-1647224857106.jpg',
 };
 

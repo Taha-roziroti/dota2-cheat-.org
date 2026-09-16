@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Ensures every sitemap page URL uses the canonical apex from brand.ts (cheatsforwarzone.com).
+ * Ensures every sitemap page URL uses the canonical apex from brand.ts (dota2cheat.com).
  * Run after build: node scripts/validate-sitemap-canonical-domain.mjs
  */
 import { readFileSync, readdirSync, statSync } from 'node:fs';
@@ -20,8 +20,8 @@ const CANONICAL = readBrandUrl();
 const CANONICAL_HOST = new URL(CANONICAL).host;
 
 const LEGACY_HOSTS = [
-	'warzonehacks.org',
-	'warzonecheats.org',
+	'dota2hacks.org',
+	'dota2cheats.org',
 	'thefinalscheats.org',
 	'rustcheats.co',
 	'bestrustcheats.com',
@@ -83,16 +83,16 @@ const bannedLegacySlugLocs = pageLocs.filter((loc) => {
 	try {
 		const pathname = new URL(loc).pathname;
 		return (
-			/\/(?:undetected-)?warzone-hacks(?:\/|$|-)/i.test(pathname) ||
-			/\/best-warzone-hacks(?:\/|$)/i.test(pathname) ||
-			/\/warzone-hacks-2026(?:\/|$)/i.test(pathname)
+			/\/(?:reliable-)?dota2-hacks(?:\/|$|-)/i.test(pathname) ||
+			/\/best-dota2-hacks(?:\/|$)/i.test(pathname) ||
+			/\/dota2-hacks-2026(?:\/|$)/i.test(pathname)
 		);
 	} catch {
 		return false;
 	}
 });
 if (bannedLegacySlugLocs.length > 0) {
-	console.error('[validate-sitemap-canonical-domain] Banned legacy warzone slug in sitemap page URLs:');
+	console.error('[validate-sitemap-canonical-domain] Banned legacy dota2 slug in sitemap page URLs:');
 	for (const loc of bannedLegacySlugLocs.slice(0, 10)) {
 		console.error(`  ${loc}`);
 	}

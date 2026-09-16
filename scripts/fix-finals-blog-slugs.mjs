@@ -21,18 +21,18 @@ const SLUG_MAP = {
 };
 
 const KEYWORD_REPLACEMENTS = [
-	[/\bthe rust patch notes\b/gi, 'Call of Duty: Warzone patch notes'],
-	[/\brust major update\b/gi, 'Call of Duty: Warzone major update'],
-	[/\brust intel\b/gi, 'Warzone intel'],
-	[/\brust skins\b/gi, 'Call of Duty: Warzone cosmetics'],
-	[/\brust cosmetics\b/gi, 'Call of Duty: Warzone cosmetics'],
-	[/\bthe rust skins\b/gi, 'Call of Duty: Warzone cosmetics'],
-	[/\brust player tier\b/gi, 'Call of Duty: Warzone weapon tier'],
-	[/\brust weapon drops routes\b/gi, 'Call of Duty: Warzone loadout drop routes'],
-	[/\brust warmup\b/gi, 'Call of Duty: Warzone warmup'],
-	[/\brust pro settings\b/gi, 'Call of Duty: Warzone pro settings'],
-	[/\brust competitive meta\b/gi, 'Call of Duty: Warzone competitive meta'],
-	[/\brust farming run\b/gi, 'Call of Duty: Warzone weapon drops run'],
+	[/\bthe rust patch notes\b/gi, 'Dota 2 patch notes'],
+	[/\brust major update\b/gi, 'Dota 2 major update'],
+	[/\brust intel\b/gi, 'Dota 2 intel'],
+	[/\brust skins\b/gi, 'Dota 2 cosmetics'],
+	[/\brust cosmetics\b/gi, 'Dota 2 cosmetics'],
+	[/\bthe rust skins\b/gi, 'Dota 2 cosmetics'],
+	[/\brust player tier\b/gi, 'Dota 2 weapon tier'],
+	[/\brust weapon drops routes\b/gi, 'Dota 2 loadout drop routes'],
+	[/\brust warmup\b/gi, 'Dota 2 warmup'],
+	[/\brust pro settings\b/gi, 'Dota 2 pro settings'],
+	[/\brust competitive meta\b/gi, 'Dota 2 competitive meta'],
+	[/\brust farming run\b/gi, 'Dota 2 weapon drops run'],
 	[/\bmonument edges\b/gi, 'arena edges'],
 	[/\bmonument\b/gi, 'arena'],
 	[/\brouble floor\b/gi, 'credit floor'],
@@ -68,15 +68,15 @@ writeFileSync(validate, applyMap(readFileSync(validate, 'utf8')), 'utf8');
 const redirectsPath = join(ROOT, 'functions', 'path-redirects.json');
 const redirects = JSON.parse(readFileSync(redirectsPath, 'utf8'));
 for (const [from, to] of Object.entries(SLUG_MAP)) {
-	redirects[`/blog/${from}/`] = `/blog/${to}/`;
-	redirects[`/blog/${from}`] = `/blog/${to}/`;
+	redirects[`/forums/${from}/`] = `/forums/${to}/`;
+	redirects[`/forums/${from}`] = `/forums/${to}/`;
 }
 writeFileSync(redirectsPath, `${JSON.stringify(redirects, null, 2)}\n`, 'utf8');
 
 const cannibalPath = join(ROOT, 'functions', 'cannibal-redirects.json');
 const cannibal = JSON.parse(readFileSync(cannibalPath, 'utf8'));
-cannibal['/fr/meilleures-triches-finals/'] = '/fr/meilleures-triches-warzone/';
-cannibal['/fr/meilleures-triches-finals'] = '/fr/meilleures-triches-warzone/';
+cannibal['/fr/meilleures-triches-finals/'] = '/fr/meilleures-triches-dota2/';
+cannibal['/fr/meilleures-triches-finals'] = '/fr/meilleures-triches-dota2/';
 delete cannibal['/fr/meilleures-triches-rust/'];
 delete cannibal['/fr/meilleures-triches-rust'];
 writeFileSync(cannibalPath, `${JSON.stringify(cannibal, null, 2)}\n`, 'utf8');

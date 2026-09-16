@@ -15,7 +15,7 @@ const OUT_DIR = path.join(__dirname, '..', 'public', 'images', 'guides');
 async function fetchBuffer(url) {
 	const res = await fetch(url, {
 		headers: {
-			'User-Agent': 'Mozilla/5.0 (compatible; cheatsforwarzone-guide-sync/1.0)',
+			'User-Agent': 'Mozilla/5.0 (compatible; cheatsfordota2-guide-sync/1.0)',
 			Referer: 'https://www.ign.com/',
 		},
 	});

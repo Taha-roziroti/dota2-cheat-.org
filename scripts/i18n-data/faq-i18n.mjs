@@ -4,141 +4,141 @@ import { FAQ_ACCURACY_FIXES } from './faq-accuracy-fixes.mjs';
 
 export const FAQ_I18N = {
 	es: {
-		'what-are-warzone-cheats': {
-			q: '¿Qué es Warzone Cheats?',
-			a: 'Warzone Cheats es un paquete de trucos indetectables para Call of Duty: Warzone en PC Windows. Incluye ESP wallhack, radar 2D y controles de aimbot, con mantenimiento Ricochet y soporte de instalación.',
+		'what-are-dota2-cheats': {
+			q: '¿Qué es Dota 2 Cheats?',
+			a: 'Dota 2 Cheats es un paquete de trucos indetectables para Dota 2 en PC Windows. Incluye ESP wallhack, radar 2D y controles de aimbot, con mantenimiento VAC y soporte de instalación.',
 		},
-		'are-warzone-cheats-undetected-in-2026': {
-			q: '¿Los trucos de Call of Duty: Warzone son indetectables en 2026?',
-			a: 'Warzone Cheats se mantiene para Call of Duty: Warzone con reconstrucciones tras parches de Ricochet y del juego. Revisa la página de Estado antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente.',
+		'are-dota2-cheats-reliable-in-2026': {
+			q: '¿Los trucos de Dota 2 son indetectables en 2026?',
+			a: 'Dota 2 Cheats se mantiene para Dota 2 con reconstrucciones tras parches de VAC y del juego. Revisa la página de Estado antes de entrar en match. Ningún cheat puede garantizar indetectabilidad permanente.',
 		},
 		'solo-farmer-and-raider-sessions': {
 			q: '¿Funciona en matches de base y PvP?',
-			a: 'Sí. ESP, radar y aimbot están pensados para el flujo de match de Call of Duty: Warzone: leer jugadores y agents, detectar weapon drops y mantener conciencia cerca de sitios de bomba y spike sectors.',
+			a: 'Sí. ESP, radar y aimbot están pensados para el flujo de match de Dota 2: leer jugadores y agents, detectar weapon drops y mantener conciencia cerca de sitios de bomba y spike sectors.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: '¿Qué incluye: ESP, wallhack, radar o Aimbot?',
-			a: 'Warzone Cheats agrupa ESP wallhack, marcadores de weapon drops, radar 2D y Aimbot configurable en una licencia. Consulta Funciones para la lista completa.',
+			a: 'Dota 2 Cheats agrupa ESP wallhack, marcadores de weapon drops, radar 2D y Aimbot configurable en una licencia. Consulta Funciones para la lista completa.',
 		},
 		'how-are-licenses-delivered': {
 			q: '¿Cómo se entregan las licencias?',
 			a: 'Tras confirmar el pago, los datos de la licencia se entregan digitalmente en el checkout. El tiempo puede variar según el método de pago. Guarda la confirmación del pedido si contactas soporte.',
 		},
 		'where-to-check-updates': {
-			q: '¿Dónde reviso actualizaciones tras un parche de Call of Duty: Warzone o Ricochet?',
+			q: '¿Dónde reviso actualizaciones tras un parche de Dota 2 o VAC?',
 			a: 'Las notas de mantenimiento se publican en la página de Estado cuando un parche afecta al paquete. Es el lugar más rápido para confirmar si hay una nueva build.',
 		},
 		'how-to-contact-support': {
 			q: '¿Cómo contacto soporte?',
-			a: 'Usa la página de Soporte o escribe a support@cheatsforwarzone.com. Incluye los datos del pedido y una descripción clara del problema de instalación.',
+			a: 'Usa la página de Soporte o escribe a support@dota2cheat.com. Incluye los datos del pedido y una descripción clara del problema de instalación.',
 		},
-		'what-is-a-warzone-wallhack': {
-			q: '¿Qué es un wallhack de Call of Duty: Warzone?',
-			a: 'Un wallhack de Call of Duty: Warzone es un overlay ESP que muestra jugadores, agents y weapon drops a través de las paredes. Warzone Cheats incluye distancias, señales de match y categorías configurables.',
+		'what-is-a-dota2-wallhack': {
+			q: '¿Qué es un wallhack de Dota 2?',
+			a: 'Un wallhack de Dota 2 es un overlay ESP que muestra jugadores, agents y weapon drops a través de las paredes. Dota 2 Cheats incluye distancias, señales de match y categorías configurables.',
 		},
-		'does-warzone-cheats-include-radar-hack': {
-			q: '¿Warzone Cheats incluye radar hack?',
-			a: 'Sí. Warzone Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone.',
+		'does-dota2-cheats-include-radar-hack': {
+			q: '¿Dota 2 Cheats incluye radar hack?',
+			a: 'Sí. Dota 2 Cheats incluye overlays de radar 2D que resaltan amenazas cercanas fuera de tu campo de visión, útil para flancos y zonas de zone.',
 		},
-		'ricochet-anti-cheat-and-warzone-cheats': {
-			q: '¿Cómo afecta Ricochet a los trucos de Call of Duty: Warzone?',
-			a: 'Ricochet monitoriza Call of Duty: Warzone en PC Windows. Warzone Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar.',
+		'vac-anti-cheat-and-dota2-cheats': {
+			q: '¿Cómo afecta VAC a los trucos de Dota 2?',
+			a: 'VAC monitoriza Dota 2 en PC Windows. Dota 2 Cheats publica notas de mantenimiento tras parches que pueden requerir una nueva build. Revisa Estado antes de jugar.',
 		},
-		'buy-undetected-warzone-cheats-windows-pc': {
-			q: '¿Puedo comprar trucos indetectables de Call of Duty: Warzone para PC Windows?',
-			a: 'Sí: Warzone Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y aimbot en un solo paquete. Compara planes en la Tienda antes del checkout.',
+		'buy-reliable-dota2-cheats-windows-pc': {
+			q: '¿Puedo comprar trucos indetectables de Dota 2 para PC Windows?',
+			a: 'Sí: Dota 2 Cheats vende licencias mensuales y de por vida para PC Windows con ESP, radar y aimbot en un solo paquete. Compara planes en la Tienda antes del checkout.',
 		},
 	},
 	fr: {
-		'what-are-warzone-cheats': {
-			q: "Qu'est-ce que Warzone Cheats ?",
-			a: "Warzone Cheats est un squad de triches indétectables pour Call of Duty: Warzone sur PC Windows. Il inclut ESP wallhack, radar 2D et contrôles aimbot, avec maintenance Ricochet et aide à l'installation.",
+		'what-are-dota2-cheats': {
+			q: "Qu'est-ce que Dota 2 Cheats ?",
+			a: "Dota 2 Cheats est un squad de triches indétectables pour Dota 2 sur PC Windows. Il inclut ESP wallhack, radar 2D et contrôles aimbot, avec maintenance VAC et aide à l'installation.",
 		},
-		'are-warzone-cheats-undetected-in-2026': {
-			q: 'Les triches Call of Duty: Warzone sont-elles indétectables en 2026 ?',
-			a: "Warzone Cheats est maintenu pour Call of Duty: Warzone avec des rebuilds après les patchs Ricochet et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente.",
+		'are-dota2-cheats-reliable-in-2026': {
+			q: 'Les triches Dota 2 sont-elles indétectables en 2026 ?',
+			a: "Dota 2 Cheats est maintenu pour Dota 2 avec des rebuilds après les patchs VAC et du jeu. Consultez la page Statut avant de match. Aucune triche ne garantit une indétectabilité permanente.",
 		},
 		'solo-farmer-and-raider-sessions': {
 			q: 'Est-ce que ça fonctionne en matches de base et en PvP ?',
-			a: "Oui. ESP, radar et aimbot sont conçus pour le flux de match Call of Duty: Warzone — lire les joueurs et agents, repérer le weapon drops et rester vigilant près des bomb sites.",
+			a: "Oui. ESP, radar et aimbot sont conçus pour le flux de match Dota 2 — lire les joueurs et agents, repérer le weapon drops et rester vigilant près des bomb sites.",
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: "Qu'est-ce qui est inclus — ESP, wallhack, radar ou Aimbot ?",
-			a: "Warzone Cheats regroupe ESP wallhack, marqueurs de weapon drops, radar 2D et Aimbot configurable dans une licence. Voir Fonctions pour la liste complète.",
+			a: "Dota 2 Cheats regroupe ESP wallhack, marqueurs de weapon drops, radar 2D et Aimbot configurable dans une licence. Voir Fonctions pour la liste complète.",
 		},
 		'how-are-licenses-delivered': {
 			q: 'Comment les licences sont-elles livrées ?',
 			a: "Après confirmation du paiement, les détails de licence sont livrés numériquement via le checkout. Gardez la confirmation de commande si vous contactez le support.",
 		},
 		'where-to-check-updates': {
-			q: 'Où vérifier les mises à jour après un patch Call of Duty: Warzone ou Ricochet ?',
+			q: 'Où vérifier les mises à jour après un patch Dota 2 ou VAC ?',
 			a: "Les notes de maintenance sont publiées sur la page Statut quand un patch affecte le squad. C'est l'endroit le plus rapide pour confirmer une nouvelle build.",
 		},
 		'how-to-contact-support': {
 			q: 'Comment contacter le support ?',
-			a: "Utilisez la page Support ou écrivez à support@cheatsforwarzone.com avec les détails de votre commande et une description claire du problème.",
+			a: "Utilisez la page Support ou écrivez à support@dota2cheat.com avec les détails de votre commande et une description claire du problème.",
 		},
-		'what-is-a-warzone-wallhack': {
-			q: "Qu'est-ce qu'un wallhack Call of Duty: Warzone ?",
-			a: "Un wallhack Call of Duty: Warzone est un overlay ESP qui affiche joueurs, agents et weapon drops à travers les murs. Warzone Cheats inclut distances, signaux de match et catégories configurables.",
+		'what-is-a-dota2-wallhack': {
+			q: "Qu'est-ce qu'un wallhack Dota 2 ?",
+			a: "Un wallhack Dota 2 est un overlay ESP qui affiche joueurs, agents et weapon drops à travers les murs. Dota 2 Cheats inclut distances, signaux de match et catégories configurables.",
 		},
-		'does-warzone-cheats-include-radar-hack': {
-			q: 'Warzone Cheats inclut-il un radar hack ?',
-			a: "Oui. Warzone Cheats inclut des overlays radar 2D qui mettent en évidence les menaces proches hors de votre champ de vision.",
+		'does-dota2-cheats-include-radar-hack': {
+			q: 'Dota 2 Cheats inclut-il un radar hack ?',
+			a: "Oui. Dota 2 Cheats inclut des overlays radar 2D qui mettent en évidence les menaces proches hors de votre champ de vision.",
 		},
-		'ricochet-anti-cheat-and-warzone-cheats': {
-			q: 'Comment Ricochet affecte-t-il les triches Call of Duty: Warzone ?',
-			a: "Ricochet surveille Call of Duty: Warzone sur PC Windows. Warzone Cheats publie des notes de maintenance après les patchs. Consultez Statut avant de jouer.",
+		'vac-anti-cheat-and-dota2-cheats': {
+			q: 'Comment VAC affecte-t-il les triches Dota 2 ?',
+			a: "VAC surveille Dota 2 sur PC Windows. Dota 2 Cheats publie des notes de maintenance après les patchs. Consultez Statut avant de jouer.",
 		},
-		'buy-undetected-warzone-cheats-windows-pc': {
-			q: 'Puis-je acheter des triches Call of Duty: Warzone indétectables pour PC Windows ?',
-			a: "Oui — Warzone Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et aimbot. Comparez les formules sur la page Tarifs.",
+		'buy-reliable-dota2-cheats-windows-pc': {
+			q: 'Puis-je acheter des triches Dota 2 indétectables pour PC Windows ?',
+			a: "Oui — Dota 2 Cheats vend des licences mensuelles et à vie pour PC Windows avec ESP, radar et aimbot. Comparez les formules sur la page Tarifs.",
 		},
 	},
 	de: {
-		'what-are-warzone-cheats': {
-			q: 'Was ist Warzone Cheats?',
-			a: 'Warzone Cheats ist ein undetected Paket für Call of Duty: Warzone auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Aimbot-Steuerung mit Ricochet-Wartung und Setup-Support.',
+		'what-are-dota2-cheats': {
+			q: 'Was ist Dota 2 Cheats?',
+			a: 'Dota 2 Cheats ist ein reliable Paket für Dota 2 auf Windows PC. Es enthält ESP Wallhack, 2D-Radar und Aimbot-Steuerung mit VAC-Wartung und Setup-Support.',
 		},
-		'are-warzone-cheats-undetected-in-2026': {
-			q: 'Sind Warzone Cheats 2026 undetected?',
-			a: 'Warzone Cheats wird für Call of Duty: Warzone mit Rebuilds nach Ricochet- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Undetected-Garantie geben.',
+		'are-dota2-cheats-reliable-in-2026': {
+			q: 'Sind Dota 2 Cheats 2026 reliable?',
+			a: 'Dota 2 Cheats wird für Dota 2 mit Rebuilds nach VAC- und Spiel-Patches gewartet. Prüfe die Status-Seite before queueing. Kein Cheat kann dauerhafte Reliable-Garantie geben.',
 		},
 		'solo-farmer-and-raider-sessions': {
 			q: 'Funktioniert das bei Basis-Raids und PvP?',
-			a: 'Ja. ESP, Radar und Aimbot sind für den Call of Duty: Warzone-Raid-Flow gebaut — Spieler und agents lesen, Weapon drops erkennen und bei Monumenten wachsam bleiben.',
+			a: 'Ja. ESP, Radar und Aimbot sind für den Dota 2-Raid-Flow gebaut — Spieler und agents lesen, Weapon drops erkennen und bei Monumenten wachsam bleiben.',
 		},
 		'esp-wallhack-radar-or-aimbot': {
 			q: 'Was ist enthalten — ESP, Wallhack, Radar oder Aimbot?',
-			a: 'Warzone Cheats bündelt ESP Wallhack, Weapon drops-Marker, 2D-Radar und konfigurierbaren Aimbot in einer Lizenz. Siehe Features für die vollständige Liste.',
+			a: 'Dota 2 Cheats bündelt ESP Wallhack, Weapon drops-Marker, 2D-Radar und konfigurierbaren Aimbot in einer Lizenz. Siehe Features für die vollständige Liste.',
 		},
 		'how-are-licenses-delivered': {
 			q: 'Wie werden Lizenzen geliefert?',
 			a: 'Nach Zahlungsbestätigung werden Lizenzdetails digital über den Checkout geliefert. Bewahre die Bestellbestätigung für Support-Anfragen auf.',
 		},
 		'where-to-check-updates': {
-			q: 'Wo prüfe ich Updates nach einem Call of Duty: Warzone- oder Ricochet-Patch?',
+			q: 'Wo prüfe ich Updates nach einem Dota 2- oder VAC-Patch?',
 			a: 'Wartungshinweise erscheinen auf der Status-Seite, wenn ein Patch das Paket betrifft. Dort siehst du am schnellsten, ob ein neuer Build live ist.',
 		},
 		'how-to-contact-support': {
 			q: 'Wie kontaktiere ich den Support?',
-			a: 'Nutze die Support-Seite oder schreibe an support@cheatsforwarzone.com mit Bestelldetails und einer klaren Problembeschreibung.',
+			a: 'Nutze die Support-Seite oder schreibe an support@dota2cheat.com mit Bestelldetails und einer klaren Problembeschreibung.',
 		},
-		'what-is-a-warzone-wallhack': {
-			q: 'Was ist ein Call of Duty: Warzone Wallhack?',
-			a: 'Ein Call of Duty: Warzone Wallhack ist ein ESP-Overlay, das Spieler, agents und Weapon drops durch Wände zeigt. Warzone Cheats enthält Distanzen, Raid-Hinweise und umschaltbare Kategorien.',
+		'what-is-a-dota2-wallhack': {
+			q: 'Was ist ein Dota 2 Wallhack?',
+			a: 'Ein Dota 2 Wallhack ist ein ESP-Overlay, das Spieler, agents und Weapon drops durch Wände zeigt. Dota 2 Cheats enthält Distanzen, Raid-Hinweise und umschaltbare Kategorien.',
 		},
-		'does-warzone-cheats-include-radar-hack': {
-			q: 'Enthält Warzone Cheats einen Radar Hack?',
-			a: 'Ja. Warzone Cheats enthält 2D-Radar-Overlays für nahe Bedrohungen außerhalb deines Sichtfelds.',
+		'does-dota2-cheats-include-radar-hack': {
+			q: 'Enthält Dota 2 Cheats einen Radar Hack?',
+			a: 'Ja. Dota 2 Cheats enthält 2D-Radar-Overlays für nahe Bedrohungen außerhalb deines Sichtfelds.',
 		},
-		'ricochet-anti-cheat-and-warzone-cheats': {
-			q: 'Wie wirkt sich Ricochet auf Warzone Cheats aus?',
-			a: 'Ricochet überwacht Call of Duty: Warzone auf Windows PC. Warzone Cheats veröffentlicht Wartungshinweise nach Patches. Prüfe Status vor dem Spielen.',
+		'vac-anti-cheat-and-dota2-cheats': {
+			q: 'Wie wirkt sich VAC auf Dota 2 Cheats aus?',
+			a: 'VAC überwacht Dota 2 auf Windows PC. Dota 2 Cheats veröffentlicht Wartungshinweise nach Patches. Prüfe Status vor dem Spielen.',
 		},
-		'buy-undetected-warzone-cheats-windows-pc': {
-			q: 'Kann ich undetected Warzone Cheats für Windows PC kaufen?',
-			a: 'Ja — Warzone Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Aimbot. Vergleiche Pläne auf der Preisseite.',
+		'buy-reliable-dota2-cheats-windows-pc': {
+			q: 'Kann ich reliable Dota 2 Cheats für Windows PC kaufen?',
+			a: 'Ja — Dota 2 Cheats verkauft Monats- und Lifetime-Lizenzen für Windows PC mit ESP, Radar und Aimbot. Vergleiche Pläne auf der Preisseite.',
 		},
 	},
 };
@@ -177,21 +177,21 @@ for (const [locale, labels] of Object.entries(FAQ_TEMPLATES)) {
 				.replace(/Tienda/g, labels.store)
 				.replace(/Instalación/g, labels.setup)
 				.replace(/Soporte/g, labels.support)
-				.replace(/trucos de Call of Duty: Warzone/g, 'Warzone Cheats')
-				.replace(/indetectables/g, 'undetected'),
+				.replace(/trucos de Dota 2/g, 'Dota 2 Cheats')
+				.replace(/indetectables/g, 'reliable'),
 			a: entry.a
 				.replace(/página de Estado/g, labels.status)
 				.replace(/Funciones/g, labels.features)
 				.replace(/Tienda/g, labels.store)
 				.replace(/Soporte/g, labels.support)
-				.replace(/indetectables/g, 'undetected')
+				.replace(/indetectables/g, 'reliable')
 				.replace(/trucos/g, 'cheats'),
 		};
 	}
 	FAQ_I18N[locale] = items;
 }
 
-/** Apply Call of Duty: Warzone-accurate FAQ copy over legacy Call of Duty: Warzone terminology. */
+/** Apply Dota 2-accurate FAQ copy over legacy Dota 2 terminology. */
 for (const [locale, fixes] of Object.entries(FAQ_ACCURACY_FIXES)) {
 	if (!FAQ_I18N[locale]) FAQ_I18N[locale] = {};
 	Object.assign(FAQ_I18N[locale], fixes);

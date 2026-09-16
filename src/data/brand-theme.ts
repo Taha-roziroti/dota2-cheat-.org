@@ -53,7 +53,7 @@ export const themeDefaults: BrandThemeInput = {
 
 export const themePresets: { id: string; label: string; accent: string; bg: string }[] = [
 	{ id: 'magenta', label: 'Magenta', accent: '#c026d3', bg: '#08090a' },
-	{ id: 'warzone', label: 'Call of Duty: Warzone', accent: '#FF4655', bg: '#0F1923' },
+	{ id: 'dota2', label: 'Dota 2', accent: '#FF4655', bg: '#0F1923' },
 	{ id: 'fortnite', label: 'Fortnite', accent: '#2b9dff', bg: '#0a0e17' },
 	{ id: 'apex', label: 'Apex', accent: '#ff6b2c', bg: '#0c0d10' },
 	{ id: 'teal', label: 'Teal', accent: '#14b8a6', bg: '#071012' },

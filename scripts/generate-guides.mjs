@@ -89,11 +89,11 @@ const GAME_PROFILES = {
 		mechanics: ['crosshair placement', 'ability combos', 'economy rounds'],
 		antiCheat: 'Vanguard kernel driver running at boot',
 	},
-	'Call of Duty: Warzone': {
+	'Dota 2': {
 		genre: 'battle royale',
-		setting: 'Verdansk, Rebirth, and Urzikstan drops with loadout customisation',
+		setting: 'the map, Rebirth, and Urzikstan drops with loadout customisation',
 		mechanics: ['loadout metas', 'buy stations', 'gulag resets'],
-		antiCheat: 'Ricochet anti-cheat with kernel-level monitoring',
+		antiCheat: 'VAC anti-cheat with kernel-level monitoring',
 	},
 	'Gray Zone Warfare': {
 		genre: 'open-world tactical FPS',
@@ -359,11 +359,11 @@ const GAME_PROFILES = {
 		mechanics: ['district adjacency', 'tech/civic paths', 'diplomatic victory routes'],
 		antiCheat: 'server-side validation in ranked multiplayer',
 	},
-	'Call of Duty': {
+	'Dota 2': {
 		genre: 'arcade military FPS',
 		setting: 'multiplayer playlists across modern and classic CoD maps',
 		mechanics: ['loadout tuning', 'movement tech', 'scorestreak timing'],
-		antiCheat: 'Ricochet anti-cheat with kernel-level monitoring',
+		antiCheat: 'VAC anti-cheat with kernel-level monitoring',
 	},
 };
 
@@ -390,8 +390,8 @@ function classifyGame(host) {
 	if (h.includes('battlefield')) return 'Battlefield';
 	if (h.includes('lol')) return 'League of Legends';
 	if (h.includes('valorant') || h.includes('valo')) return 'Valorant';
-	if (h.includes('warzone')) return 'Call of Duty: Warzone';
-	if (h.includes('codhack') || h.includes('codcheat')) return 'Call of Duty';
+	if (h.includes('dota2')) return 'Dota 2';
+	if (h.includes('codhack') || h.includes('codcheat')) return 'Dota 2';
 	if (h.includes('grayzone')) return 'Gray Zone Warfare';
 	if (h.includes('overwatch')) return 'Overwatch 2';
 	if (h.includes('theisle') || h.includes('islecheat')) return 'The Isle';
@@ -480,7 +480,7 @@ function buildGuide(url, index, usedSlugs) {
 		'ESP and wallhack setup',
 		'aimbot configuration',
 		'radar overlay tuning',
-		'undetected cheat selection',
+		'reliable cheat selection',
 		'soft aim vs hard lock',
 		'menu and loader setup',
 		'patch-day cheat safety',
@@ -492,7 +492,7 @@ function buildGuide(url, index, usedSlugs) {
 
 	const title = `${game} Cheat Guide: ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} (2026)`;
 	const h1 = `${game} ${angle.replace(/\b\w/g, (c) => c.toUpperCase())} Cheat Guide`;
-	const metaDescription = `${game} cheat guide for PC — ${angle}, ESP, aimbot, radar, and undetected setup tips for ${profile.setting}. Updated 2026.`;
+	const metaDescription = `${game} cheat guide for PC — ${angle}, ESP, aimbot, radar, and reliable setup tips for ${profile.setting}. Updated 2026.`;
 
 	const intro = `${game} cheat users need more than a download link. This cheat guide covers ${angle} for ${profile.genre} sessions in ${profile.setting}: which features matter first, how overlays behave in live matches, and why ${mechanic} still affects whether ESP and aim assist feel useful instead of noisy.`;
 
@@ -512,9 +512,9 @@ function buildGuide(url, index, usedSlugs) {
 			],
 		},
 		{
-			h2: 'Undetected use and anti-cheat context',
+			h2: 'Reliable use and anti-cheat context',
 			paragraphs: [
-				`${game} runs ${profile.antiCheat}. No cheat stays undetected forever — patch days and ban waves are normal. Avoid public menus, keep loaders updated, and do not stream or clip obvious overlay footage if account safety matters.`,
+				`${game} runs ${profile.antiCheat}. No cheat stays reliable forever — patch days and ban waves are normal. Avoid public menus, keep loaders updated, and do not stream or clip obvious overlay footage if account safety matters.`,
 				`Use a spare account for testing new ${game} cheat builds. Kernel or external options differ by provider; read loader notes after every update and disable features that feel unstable in ${profile.setting}.`,
 			],
 		},

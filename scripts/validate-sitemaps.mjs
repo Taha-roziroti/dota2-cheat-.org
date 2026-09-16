@@ -52,7 +52,7 @@ async function resolveDistRoot() {
 const SITE = readBrandUrl();
 const IMAGE_SITEMAP_ENTRIES = countBrandSitemapImages();
 
-const BLOG_PAGES = 31; // /blog/ index + 30 posts
+const BLOG_PAGES = 31; // /forums/ index + 30 posts
 const REVIEW_PAGES = 11; // /reviews/ index + 10 review detail pages
 const FAQ_PAGES = 26; // standalone FAQ answer pages (index is in product pages)
 const GUIDE_SITEMAP_PAGES = 165; // /guides/ hub + 164 guide posts (2 legacy slugs omitted)
@@ -80,13 +80,13 @@ const SITEMAP_INDEX_ENTRIES = 1 + I18N_LOCALES + 1; // EN + locales + images
 
 /** Built HTML that intentionally 301s — allowed to be absent from sitemaps */
 const REDIRECT_ONLY_PATHS = new Set([
-	'/warzone-aimbot-hack/',
-	'/warzone-esp-hack/',
-	'/warzone-mod-menu/',
-	'/warzone-unlock-all/',
-	'/warzone-soft-aim/',
-	'/warzone-wallhack/',
-	'/warzone-cheat-download/',
+	'/dota2-aimbot-hack/',
+	'/dota2-esp-hack/',
+	'/dota2-mod-menu/',
+	'/dota2-unlock-all/',
+	'/dota2-soft-aim/',
+	'/dota2-wallhack/',
+	'/dota2-cheat-download/',
 ]);
 
 /** Legacy competitor guides — HTML exists but omitted from sitemaps (old brand in slug). */
@@ -96,8 +96,8 @@ const SITEMAP_OMIT_PATHS = new Set([
 ]);
 
 const LEGACY_SITEMAP_HOSTS = [
-	'warzonehacks.org',
-	'warzonecheats.org',
+	'dota2hacks.org',
+	'dota2cheats.org',
 	'thefinalscheats.org',
 	'rustcheats.co',
 	'bestrustcheats.com',
@@ -109,101 +109,101 @@ const LEGACY_SITEMAP_HOSTS = [
 
 const ENGLISH_PATHS = [
 	'/',
-	'/warzone-esp/',
-	'/warzone-aimbot/',
+	'/dota2-esp/',
+	'/dota2-aimbot/',
 	'/features/',
 	'/pricing/',
 	'/setup/',
 	'/updates/',
 	'/faq/',
 	'/support/',
-	'/warzone-cheats/',
-	'/undetected-warzone-cheats/',
-	'/warzone-wallhack/',
-	'/warzone-radar-hack/',
-	'/ricochet-bypass/',
-	'/warzone-cheats-2026/',
-	'/best-warzone-cheats/',
-	'/warzone-cheat-download/',
-	'/warzone-mod-menu/',
-	'/warzone-soft-aim/',
-	'/warzone-unlock-all/',
+	'/dota2-cheats/',
+	'/reliable-dota2-cheats/',
+	'/dota2-wallhack/',
+	'/dota2-radar-hack/',
+	'/vac-bypass/',
+	'/dota2-cheats-2026/',
+	'/best-dota2-cheats/',
+	'/dota2-cheat-download/',
+	'/dota2-mod-menu/',
+	'/dota2-soft-aim/',
+	'/dota2-unlock-all/',
 	'/privacy-policy/',
 	'/refund-policy/',
 	'/terms/',
-	'/blog/',
-	'/blog/warzone-patch-notes-guide/',
-	'/blog/warzone-cosmetics-guide/',
-	'/blog/warzone-weapon-tier-list/',
-	'/blog/warzone-weapon-drops-run-strategies/',
-	'/blog/warzone-competitive-meta-guide/',
-	'/blog/warzone-weapon-drops-routes-guide/',
-	'/blog/warzone-pro-settings-guide/',
-	'/blog/warzone-warmup-routine/',
-	'/blog/warzone-cheats-complete-guide-2026/',
-	'/blog/warzone-cheats-buyers-guide/',
-	'/blog/warzone-cheats-2026-whats-new/',
-	'/blog/warzone-aimbot-settings-guide/',
-	'/blog/warzone-esp-wallhack-explained/',
-	'/blog/undetected-warzone-cheats-eac/',
-	'/blog/warzone-cheats-vs-cheatspike-comparison/',
-	'/blog/elitefn-vs-warzone-cheats-two-week-test/',
-	'/blog/warzone-cheats-vs-ghostware-features-pricing/',
-	'/blog/warzone-triggerbot-guide/',
-	'/blog/warzone-no-recoil-guide/',
-	'/blog/warzone-wallhack-features/',
-	'/blog/warzone-radar-hack-guide/',
-	'/blog/warzone-ranked-cheats-guide/',
-	'/blog/warzone-unlock-tool-guide/',
-	'/blog/warzone-silent-aim-soft-aim/',
-	'/blog/warzone-mod-menu-overview/',
-	'/blog/warzone-esp-gameplay-clips/',
-	'/blog/best-warzone-cheats-2026-comparison/',
+	'/forums/',
+	'/forums/dota2-patch-notes-guide/',
+	'/forums/dota2-cosmetics-guide/',
+	'/forums/dota2-weapon-tier-list/',
+	'/forums/dota2-weapon-drops-run-strategies/',
+	'/forums/dota2-competitive-meta-guide/',
+	'/forums/dota2-weapon-drops-routes-guide/',
+	'/forums/dota2-pro-settings-guide/',
+	'/forums/dota2-warmup-routine/',
+	'/forums/dota2-cheats-complete-guide-2026/',
+	'/forums/dota2-cheats-buyers-guide/',
+	'/forums/dota2-cheats-2026-whats-new/',
+	'/forums/dota2-aimbot-settings-guide/',
+	'/forums/dota2-esp-wallhack-explained/',
+	'/forums/reliable-dota2-cheats-eac/',
+	'/forums/dota2-cheats-vs-cheatspike-comparison/',
+	'/forums/elitefn-vs-dota2-cheats-two-week-test/',
+	'/forums/dota2-cheats-vs-ghostware-features-pricing/',
+	'/forums/dota2-triggerbot-guide/',
+	'/forums/dota2-no-recoil-guide/',
+	'/forums/dota2-wallhack-features/',
+	'/forums/dota2-radar-hack-guide/',
+	'/forums/dota2-ranked-cheats-guide/',
+	'/forums/dota2-unlock-tool-guide/',
+	'/forums/dota2-silent-aim-soft-aim/',
+	'/forums/dota2-mod-menu-overview/',
+	'/forums/dota2-esp-gameplay-clips/',
+	'/forums/best-dota2-cheats-2026-comparison/',
 	'/reviews/',
-	'/reviews/warzone-soft-aim-review-xkrypt0/',
-	'/reviews/warzone-esp-rotation-review-buildsr4k/',
-	'/reviews/warzone-cloud-dma-review-dma-wizard/',
-	'/reviews/warzone-soft-aim-review-ctrl-player99/',
-	'/reviews/warzone-cheat-setup-review-stormchaser07/',
-	'/reviews/warzone-agent-esp-review-weapondrops-goblinx/',
-	'/reviews/warzone-soft-aim-session-review-rankedgrind42/',
-	'/reviews/warzone-radar-hack-review-vanlifewarzone/',
-	'/reviews/warzone-ricochet-update-review-patchdaymike/',
-	'/reviews/warzone-operator-soft-aim-review-snipezonly/',
-	'/faq/what-are-warzone-cheats/',
-	'/faq/are-warzone-cheats-undetected-in-2026/',
-	'/faq/warzone-ranked-competitive-play/',
+	'/reviews/dota2-soft-aim-review-xkrypt0/',
+	'/reviews/dota2-esp-rotation-review-buildsr4k/',
+	'/reviews/dota2-cloud-dma-review-dma-wizard/',
+	'/reviews/dota2-soft-aim-review-ctrl-player99/',
+	'/reviews/dota2-cheat-setup-review-stormchaser07/',
+	'/reviews/dota2-agent-esp-review-weapondrops-goblinx/',
+	'/reviews/dota2-soft-aim-session-review-rankedgrind42/',
+	'/reviews/dota2-radar-hack-review-vanlifedota2/',
+	'/reviews/dota2-vac-update-review-patchdaymike/',
+	'/reviews/dota2-operator-soft-aim-review-snipezonly/',
+	'/faq/what-are-dota2-cheats/',
+	'/faq/are-dota2-cheats-reliable-in-2026/',
+	'/faq/dota2-ranked-competitive-play/',
 	'/faq/esp-wallhack-radar-or-aimbot/',
 	'/faq/how-are-licenses-delivered/',
 	'/faq/where-to-check-updates/',
 	'/faq/how-to-contact-support/',
-	'/faq/what-is-a-warzone-wallhack/',
-	'/faq/does-warzone-cheats-include-radar-hack/',
-	'/faq/ricochet-anti-cheat-and-warzone-cheats/',
-	'/faq/buy-undetected-warzone-cheats-windows-pc/',
-	'/faq/what-is-warzone-esp-hack/',
-	'/faq/what-is-warzone-aimbot-hack/',
-	'/faq/best-warzone-cheats-in-2026/',
-	'/faq/monthly-vs-lifetime-warzone-cheats/',
-	'/faq/warzone-cheats-windows-11/',
-	'/faq/what-is-warzone-soft-aim/',
-	'/faq/free-warzone-cheat-download/',
-	'/faq/warzone-ricochet-bypass/',
-	'/faq/warzone-cheats-for-ranked/',
-	'/faq/what-is-warzone-mod-menu/',
-	'/faq/external-vs-internal-warzone-cheats/',
-	'/faq/how-long-warzone-cheat-setup-takes/',
-	'/faq/does-warzone-cheats-include-triggerbot/',
-	'/faq/how-much-do-warzone-cheats-cost/',
-	'/faq/how-to-install-warzone-cheats/',
+	'/faq/what-is-a-dota2-wallhack/',
+	'/faq/does-dota2-cheats-include-radar-hack/',
+	'/faq/vac-anti-cheat-and-dota2-cheats/',
+	'/faq/buy-reliable-dota2-cheats-windows-pc/',
+	'/faq/what-is-dota2-esp-hack/',
+	'/faq/what-is-dota2-aimbot-hack/',
+	'/faq/best-dota2-cheats-in-2026/',
+	'/faq/monthly-vs-lifetime-dota2-cheats/',
+	'/faq/dota2-cheats-windows-11/',
+	'/faq/what-is-dota2-soft-aim/',
+	'/faq/free-dota2-cheat-download/',
+	'/faq/dota2-vac-bypass/',
+	'/faq/dota2-cheats-for-ranked/',
+	'/faq/what-is-dota2-mod-menu/',
+	'/faq/external-vs-internal-dota2-cheats/',
+	'/faq/how-long-dota2-cheat-setup-takes/',
+	'/faq/does-dota2-cheats-include-triggerbot/',
+	'/faq/how-much-do-dota2-cheats-cost/',
+	'/faq/how-to-install-dota2-cheats/',
 	'/about/',
 	'/compare/',
 	'/write-for-us/',
 	'/guides/',
-	'/guides/warzone-valocheats-com-guide/',
-	'/guides/warzone-warzonehack-net-guide/',
-	'/guides/warzone-warzonehacks-org-guide/',
-	'/guides/warzone-valohacks-com-guide/',
+	'/guides/dota2-valocheats-com-guide/',
+	'/guides/dota2-dota2hack-net-guide/',
+	'/guides/dota2-dota2hacks-org-guide/',
+	'/guides/dota2-valohacks-com-guide/',
 ];
 
 const LOCALE_CODES = [
@@ -243,9 +243,9 @@ function isBannedLegacyCrawlUrl(url) {
 	try {
 		const pathname = new URL(url).pathname;
 		return (
-			/\/(?:undetected-)?warzone-hacks(?:\/|$|-)/i.test(pathname) ||
-			/\/best-warzone-hacks(?:\/|$)/i.test(pathname) ||
-			/\/warzone-hacks-2026(?:\/|$)/i.test(pathname)
+			/\/(?:reliable-)?dota2-hacks(?:\/|$|-)/i.test(pathname) ||
+			/\/best-dota2-hacks(?:\/|$)/i.test(pathname) ||
+			/\/dota2-hacks-2026(?:\/|$)/i.test(pathname)
 		);
 	} catch {
 		return false;
@@ -622,17 +622,17 @@ async function main() {
 	}
 	if (errors === 0) ok('No legacy brand domains in any sitemap file');
 
-	// No legacy warzone-hacks/cheats URL slugs in crawlable sitemap URLs
+	// No legacy dota2-hacks/cheats URL slugs in crawlable sitemap URLs
 	for (const file of sitemapFiles) {
 		const xml = await readFile(path.join(DIST, file), 'utf8');
 		for (const crawlUrl of collectCrawlablePageUrls(xml)) {
 			if (isBannedLegacyCrawlUrl(crawlUrl)) {
-				fail(`${file} contains banned legacy warzone crawl URL: ${crawlUrl}`);
+				fail(`${file} contains banned legacy dota2 crawl URL: ${crawlUrl}`);
 				bump();
 			}
 		}
 	}
-	if (errors === 0) ok('No legacy warzone-hacks/cheats slugs in any sitemap URL (loc, hreflang, or image:loc)');
+	if (errors === 0) ok('No legacy dota2-hacks/cheats slugs in any sitemap URL (loc, hreflang, or image:loc)');
 
 	// Every page <loc> must use the canonical apex from brand.ts
 	const canonicalPrefix = `${SITE}/`;

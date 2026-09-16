@@ -23,7 +23,7 @@ const BLOG_GRID_COLUMNS = 3;
 
 function buildPageImageMap(): Record<PageId, string> {
 	const map = {} as Record<PageId, string>;
-	map.home = '/images/warzone-screenshot-01.webp';
+	map.home = '/images/dota2-screenshot-01.webp';
 	const contentIds = pageIds.filter((id) => id !== 'home');
 	for (const [index, pageId] of contentIds.entries()) {
 		map[pageId] = shot((index % PRODUCT_SCREENSHOT_COUNT) + 1);
@@ -159,7 +159,7 @@ export function crawlPhotoMeta(
 /** Default large social / SERP image when a page has no specific asset. */
 export const defaultCrawlImageSrc = pageImageSrcById.home;
 
-/** Reviews schema/OG only — Call of Duty: Warzone gameplay screenshot (not shown on reviews page). */
+/** Reviews schema/OG only — Dota 2 gameplay screenshot (not shown on reviews page). */
 export const reviewsImageSrc = shot(3);
 
 export { BLOG_GRID_COLUMNS, GRID_IMAGE_STRIDE };

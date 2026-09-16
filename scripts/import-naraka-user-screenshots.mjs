@@ -1,6 +1,6 @@
 /**
- * Import user-provided Call of Duty: Warzone gameplay screenshots (local PNGs).
- * Writes /images/warzone-screenshot-01.webp … 08.webp + -480w / -960w variants
+ * Import user-provided Dota 2 gameplay screenshots (local PNGs).
+ * Writes /images/dota2-screenshot-01.webp … 08.webp + -480w / -960w variants
  * and legacy feature aliases. Does not touch agent assets.
  */
 import { copyFile, mkdir, writeFile } from 'node:fs/promises';
@@ -23,7 +23,7 @@ const USER_SOURCES = [
 	},
 	{
 		file: 'b1cd963b-a712-4f90-bad0-cdd0fe1756eb.png',
-		label: 'Call of Duty: Warzone third-person gameplay on Windows PC',
+		label: 'Dota 2 third-person gameplay on Windows PC',
 	},
 	{
 		file: 'fa6b50d9-f928-4111-af7b-55c6d7859393.png',
@@ -36,18 +36,18 @@ const CONTENT_WIDTHS = [480, 960];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
 
 const LEGACY_MAP = {
-	'warzone-screenshot-01': ['warzone-cheats-esp.webp', 'warzone-esp-player-tags.webp'],
-	'warzone-screenshot-02': ['warzone-cheats-wallhack.webp', 'warzone-cheats-session.webp'],
-	'warzone-screenshot-03': ['warzone-cheats-aimbot.webp', 'warzone-cheats-combat.webp'],
-	'warzone-screenshot-04': [
-		'warzone-cheats-aimbot-view.webp',
-		'warzone-aimbot-skeleton.webp',
-		'warzone-aimbot-sniper.webp',
+	'dota2-screenshot-01': ['dota2-cheats-esp.webp', 'dota2-esp-player-tags.webp'],
+	'dota2-screenshot-02': ['dota2-cheats-wallhack.webp', 'dota2-cheats-session.webp'],
+	'dota2-screenshot-03': ['dota2-cheats-aimbot.webp', 'dota2-cheats-combat.webp'],
+	'dota2-screenshot-04': [
+		'dota2-cheats-aimbot-view.webp',
+		'dota2-aimbot-skeleton.webp',
+		'dota2-aimbot-sniper.webp',
 	],
-	'warzone-screenshot-05': ['warzone-cheats-radar.webp', 'warzone-esp-radar.webp'],
-	'warzone-screenshot-06': ['naraka-extract-fight.webp', 'naraka-growth-run-combat.webp'],
-	'warzone-screenshot-07': ['naraka-growth-run-mode.webp'],
-	'warzone-screenshot-08': [],
+	'dota2-screenshot-05': ['dota2-cheats-radar.webp', 'dota2-esp-radar.webp'],
+	'dota2-screenshot-06': ['naraka-extract-fight.webp', 'naraka-growth-run-combat.webp'],
+	'dota2-screenshot-07': ['naraka-growth-run-mode.webp'],
+	'dota2-screenshot-08': [],
 };
 
 async function encodeWebp(input, width, options = WEBP) {
@@ -80,12 +80,12 @@ async function writeScreenshotSet(pngPath, baseName) {
 }
 
 await mkdir(imagesDir, { recursive: true });
-await mkdir(path.join(ROOT, 'scripts/assets/warzone-screenshots'), { recursive: true });
+await mkdir(path.join(ROOT, 'scripts/assets/dota2-screenshots'), { recursive: true });
 
 const sourcePaths = [];
 for (let i = 0; i < USER_SOURCES.length; i += 1) {
 	const src = path.join(assetsDir, USER_SOURCES[i].file);
-	const saved = path.join(ROOT, 'scripts/assets/warzone-screenshots', `source-${i + 1}.png`);
+	const saved = path.join(ROOT, 'scripts/assets/dota2-screenshots', `source-${i + 1}.png`);
 	await copyFile(src, saved);
 	sourcePaths.push(saved);
 	console.log(`✓ staged ${USER_SOURCES[i].file}`);
@@ -96,7 +96,7 @@ const canonicalBySlot = {};
 
 for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 	const num = String(n).padStart(2, '0');
-	const base = `warzone-screenshot-${num}`;
+	const base = `dota2-screenshot-${num}`;
 	const sourceIndex = (n - 1) % USER_SOURCES.length;
 	const png = sourcePaths[sourceIndex];
 
@@ -114,7 +114,7 @@ for (let n = 1; n <= SCREENSHOT_COUNT; n += 1) {
 	}
 }
 
-const reviewsCanonical = canonicalBySlot['warzone-screenshot-04'];
+const reviewsCanonical = canonicalBySlot['dota2-screenshot-04'];
 await writeFile(path.join(imagesDir, 'reviews-banner.webp'), reviewsCanonical);
 for (const width of CONTENT_WIDTHS) {
 	const webp = await encodeWebp(sourcePaths[3], width);

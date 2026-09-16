@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Final-pass Call of Duty: Warzone lexicon cleanup — removes leftover Call of Duty: Warzone/Vanguard strings.
- * Run: node scripts/fix-warzone-lexicon.mjs
+ * Final-pass Dota 2 lexicon cleanup — removes leftover Dota 2/Vanguard strings.
+ * Run: node scripts/fix-dota2-lexicon.mjs
  */
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import path from 'node:path';
@@ -9,58 +9,58 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
-const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', 'tmp', '.astro', 'warzone-hacks-org']);
+const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', 'tmp', '.astro', 'dota2-hacks-org']);
 
 /** Ordered — specific patterns first. */
 const REPLACEMENTS = [
-	['warzone ricochet bypass', 'naraka ricochet bypass'],
-	['warzone soft aim', 'warzone soft aim'],
-	['warzone mod menu', 'warzone mod menu'],
-	['warzone external hack', 'naraka external cheat'],
-	['warzone 2d radar', 'naraka 2d radar'],
-	['soft aim warzone', 'soft aim naraka'],
-	['ricochet bypass warzone', 'ricochet bypass naraka'],
-	['warzone anti cheat bypass', 'naraka anti cheat bypass'],
-	['hwid spoofer warzone', 'hwid spoofer naraka'],
-	['ricochet update', 'Ricochet update'],
-	['ricochet undetected', 'Vanguard undetected'],
+	['dota2 vac bypass', 'naraka vac bypass'],
+	['dota2 soft aim', 'dota2 soft aim'],
+	['dota2 mod menu', 'dota2 mod menu'],
+	['dota2 external hack', 'naraka external cheat'],
+	['dota2 2d radar', 'naraka 2d radar'],
+	['soft aim dota2', 'soft aim naraka'],
+	['vac bypass dota2', 'vac bypass naraka'],
+	['dota2 anti cheat bypass', 'naraka anti cheat bypass'],
+	['hwid spoofer dota2', 'hwid spoofer naraka'],
+	['vac update', 'VAC update'],
+	['vac reliable', 'Vanguard reliable'],
 	['Vanguard Safe', 'Vanguard Safe'],
-	['Ricochet maintenance', 'Ricochet maintenance'],
+	['VAC maintenance', 'VAC maintenance'],
 	['Vanguard rebuilds', 'Vanguard rebuilds'],
-	['Ricochet patches', 'Ricochet patches'],
-	['Vanguard and Call of Duty: Warzone', 'Vanguard and Call of Duty: Warzone'],
-	['Vanguard or Call of Duty: Warzone', 'Vanguard or Call of Duty: Warzone'],
+	['VAC patches', 'VAC patches'],
+	['Vanguard and Dota 2', 'Vanguard and Dota 2'],
+	['Vanguard or Dota 2', 'Vanguard or Dota 2'],
 	['Vanguard', 'Vanguard'],
-	['ricochet', 'ricochet'],
-	['vanlifewarzone', 'vanlifenaraka'],
-	['vanLifeCall of Duty: Warzone', 'vanLifeCall of Duty: Warzone'],
-	['valo hack', 'warzone cheat'],
-	['valo cheats', 'warzone cheats'],
-	['warzone-patch-notes', 'naraka-patch-notes'],
-	['warzone-cosmetics', 'naraka-cosmetics'],
-	['warzone-weapon-tier-list', 'naraka-weapon-tier-list'],
-	['warzone-weapon drops-run', 'naraka-weapon drops-run'],
-	['warzone-competitive-meta', 'naraka-competitive-meta'],
-	['warzone-cashout-routes', 'naraka-weapon drops-routes'],
-	['warzone-pro-settings', 'naraka-pro-settings'],
-	['warzone-warmup-routine', 'naraka-warmup-routine'],
-	['free-warzone-hack-download', 'free-warzone-cheat-download'],
-	['how-long-warzone-hack-setup-takes', 'how-long-warzone-cheat-setup-takes'],
+	['vac', 'vac'],
+	['vanlifedota2', 'vanlifenaraka'],
+	['vanLifeDota 2', 'vanLifeDota 2'],
+	['valo hack', 'dota 2 cheat'],
+	['valo cheats', 'dota 2 cheats'],
+	['dota2-patch-notes', 'naraka-patch-notes'],
+	['dota2-cosmetics', 'naraka-cosmetics'],
+	['dota2-weapon-tier-list', 'naraka-weapon-tier-list'],
+	['dota2-weapon drops-run', 'naraka-weapon drops-run'],
+	['dota2-competitive-meta', 'naraka-competitive-meta'],
+	['dota2-cashout-routes', 'naraka-weapon drops-routes'],
+	['dota2-pro-settings', 'naraka-pro-settings'],
+	['dota2-warmup-routine', 'naraka-warmup-routine'],
+	['free-dota2-hack-download', 'free-dota2-cheat-download'],
+	['how-long-dota2-hack-setup-takes', 'how-long-dota2-cheat-setup-takes'],
 	['agent tiers', 'agent tiers'],
 	['agents and abilities', 'agents and weapons'],
 	['agents &', 'agents &'],
 	['operator ESP', 'operator ESP'],
 	['operator markers', 'operator markers'],
-	['internalLinks.ricochet', 'internalLinks.ricochet'],
-	['Call of Duty: Warzone hacks', 'Warzone cheats'],
-	['warzone hacks', 'warzone cheats'],
-	['warzone hack', 'warzone cheat'],
+	['internalLinks.vac', 'internalLinks.vac'],
+	['Dota 2 hacks', 'Dota 2 cheats'],
+	['dota 2 hacks', 'dota 2 cheats'],
+	['dota 2 hack', 'dota 2 cheat'],
 	['{game} hacks', '{game} cheats'],
 	['Hacks FAQ', 'Cheats FAQ'],
 	['navPreview: \'Hacks\'', "navPreview: 'Cheats'"],
 	["navPreview: 'Hacks'", "navPreview: 'Cheats'"],
-	['/products/warzone', '/products/warzone'],
-	['valo/valo cheats', 'naraka/warzone cheats'],
+	['/products/dota2', '/products/dota2'],
+	['valo/valo cheats', 'naraka/dota 2 cheats'],
 	['antiCheat: \'Vanguard\'', "antiCheat: 'Vanguard'"],
 	['sitemap-meta.ts', 'sitemap-meta.ts'], // noop anchor
 ];
@@ -80,9 +80,9 @@ let changed = 0;
 
 for (const file of walk(ROOT)) {
 	if (!TEXT_EXT.test(file)) continue;
-	if (path.basename(file) === 'fix-warzone-lexicon.mjs') continue;
-	if (path.basename(file) === 'adapt-warzone-site.mjs') continue;
-	if (path.basename(file) === 'adapt-warzone.mjs') continue;
+	if (path.basename(file) === 'fix-dota2-lexicon.mjs') continue;
+	if (path.basename(file) === 'adapt-dota2-site.mjs') continue;
+	if (path.basename(file) === 'adapt-dota2.mjs') continue;
 	let text = readFileSync(file, 'utf8');
 	const original = text;
 	for (const [from, to] of REPLACEMENTS) {
@@ -95,4 +95,4 @@ for (const file of walk(ROOT)) {
 	}
 }
 
-console.log(`fix-warzone-lexicon: ${changed} file(s) updated`);
+console.log(`fix-dota2-lexicon: ${changed} file(s) updated`);

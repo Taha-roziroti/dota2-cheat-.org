@@ -1,11 +1,11 @@
-# Deploy cheatsforwarzone.com
+# Deploy dota2cheat.com
 
-Step-by-step guide to deploy the Warzone Cheats static site to **cheatsforwarzone.com** on Cloudflare Pages, configure DNS, and submit to Google Search Console.
+Step-by-step guide to deploy the Dota 2 Cheats static site to **dota2cheat.com** on Cloudflare Pages, configure DNS, and submit to Google Search Console.
 
 ## Prerequisites
 
 - Node.js **≥ 22.12.0**
-- Cloudflare account with access to **cheatsforwarzone.com** DNS
+- Cloudflare account with access to **dota2cheat.com** DNS
 - Wrangler CLI (included as dev dependency): `npx wrangler login`
 
 ## 1. Build and validate locally
@@ -64,13 +64,13 @@ npm run build:validate
 npm run pages:deploy
 ```
 
-This runs `wrangler pages deploy dist --project-name=cheatsforwarzone` (see `wrangler.toml`).
+This runs `wrangler pages deploy dist --project-name=cheatsfordota2` (see `wrangler.toml`).
 
 ## 3. Custom domain and DNS
 
-Add **cheatsforwarzone.com** as the primary custom domain on the Pages project.
+Add **dota2cheat.com** as the primary custom domain on the Pages project.
 
-### Apex (cheatsforwarzone.com)
+### Apex (dota2cheat.com)
 
 In **Cloudflare DNS** for the zone:
 
@@ -84,11 +84,11 @@ Cloudflare CNAME flattening handles apex records automatically.
 
 1. Add a DNS record for `www` pointing to the same Pages project (proxied CNAME or A record).
 2. In **Rules** → **Redirect Rules** (or Bulk Redirects), create:
-   - **Source:** `cheatsforwarzone.com/*`
-   - **Target:** `https://cheatsforwarzone.com/${1}`
+   - **Source:** `dota2cheat.com/*`
+   - **Target:** `https://dota2cheat.com/${1}`
    - **Status:** 301
 
-The deployed `functions/_middleware.js` also enforces apex canonical host, legacy domain redirects (`cheatsforwarzone.com`, `.net`, `.com`), and legacy path redirects.
+The deployed `functions/_middleware.js` also enforces apex canonical host, legacy domain redirects (`dota2cheat.com`, `.net`, `.com`), and legacy path redirects.
 
 ### SSL / HTTPS
 
@@ -100,35 +100,35 @@ The deployed `functions/_middleware.js` also enforces apex canonical host, legac
 
 Verify these URLs return **200** with correct content:
 
-- `https://cheatsforwarzone.com/`
-- `https://cheatsforwarzone.com/es/`
-- `https://cheatsforwarzone.com/warzone-cheats/`
-- `https://cheatsforwarzone.com/warzone-aimbot/`
-- `https://cheatsforwarzone.com/sitemap.xml`
-- `https://cheatsforwarzone.com/robots.txt`
+- `https://dota2cheat.com/`
+- `https://dota2cheat.com/es/`
+- `https://dota2cheat.com/dota2-cheats/`
+- `https://dota2cheat.com/dota2-aimbot/`
+- `https://dota2cheat.com/sitemap.xml`
+- `https://dota2cheat.com/robots.txt`
 
 Verify redirects:
 
-- `http://cheatsforwarzone.com` → `https://cheatsforwarzone.com` (301)
-- `https://cheatsforwarzone.com` → `https://cheatsforwarzone.com` (301)
-- Legacy domains (e.g. `cheatsforwarzone.com`) → `https://cheatsforwarzone.com` (301)
+- `http://dota2cheat.com` → `https://dota2cheat.com` (301)
+- `https://dota2cheat.com` → `https://dota2cheat.com` (301)
+- Legacy domains (e.g. `dota2cheat.com`) → `https://dota2cheat.com` (301)
 - `/sitemap-index.xml` → `/sitemap.xml` (301)
-- Legacy paths (e.g. `/fortnite-hacks/`) → Call of Duty: Warzone equivalents (301)
+- Legacy paths (e.g. `/fortnite-hacks/`) → Dota 2 equivalents (301)
 
 ## 5. Google Search Console
 
 1. Go to [Google Search Console](https://search.google.com/search-console).
-2. **Add property** → choose **Domain** → enter `cheatsforwarzone.com`.
+2. **Add property** → choose **Domain** → enter `dota2cheat.com`.
 3. Verify ownership via the **DNS TXT record** Cloudflare provides (add in Cloudflare DNS, wait for propagation, then confirm in GSC).
 4. After verification, open **Sitemaps** and submit:
    ```
-   https://cheatsforwarzone.com/sitemap.xml
+   https://dota2cheat.com/sitemap.xml
    ```
-   Remove any legacy submissions (`sitemap-index.xml`, old `cheatsforwarzone.com` URLs).
+   Remove any legacy submissions (`sitemap-index.xml`, old `dota2cheat.com` URLs).
 5. Use **URL Inspection** to request indexing for:
    - Homepage (`/`)
-   - Pillar page (`/warzone-cheats/`)
-   - Key landing pages (`/warzone-aimbot/`, `/warzone-esp/`, `/warzone-cheats-2026/`, etc.)
+   - Pillar page (`/dota2-cheats/`)
+   - Key landing pages (`/dota2-aimbot/`, `/dota2-esp/`, `/dota2-cheats-2026/`, etc.)
    - A sample of locale homepages (`/es/`, `/de/`, `/fr/`)
 6. Monitor **Pages** (Coverage), **Core Web Vitals**, and **International targeting** (hreflang) over the following weeks.
 
@@ -146,11 +146,11 @@ Verify redirects:
 
 - [ ] `npm run build:validate` passes locally
 - [ ] Cloudflare Pages project attached to this repo
-- [ ] Custom domain `cheatsforwarzone.com` attached and active
+- [ ] Custom domain `dota2cheat.com` attached and active
 - [ ] `www` redirects to apex
-- [ ] Legacy domains 301 to `cheatsforwarzone.com`
+- [ ] Legacy domains 301 to `dota2cheat.com`
 - [ ] Always Use HTTPS enabled
-- [ ] `robots.txt` and sitemaps serve from `https://cheatsforwarzone.com`
+- [ ] `robots.txt` and sitemaps serve from `https://dota2cheat.com`
 - [ ] Google Search Console domain verified
 - [ ] `sitemap.xml` submitted in GSC
-- [ ] Homepage and `/warzone-cheats/` requested for indexing
+- [ ] Homepage and `/dota2-cheats/` requested for indexing

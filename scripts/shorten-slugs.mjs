@@ -19,18 +19,18 @@ const LOCALES = [
 /** Short english path segments (no leading/trailing slash). */
 const SHORT_EN = {
 	home: '',
-	'warzone-esp': 'esp',
-	'warzone-aimbot': 'aimbot',
+	'dota2-esp': 'esp',
+	'dota2-aimbot': 'aimbot',
 	features: 'features',
 	pricing: 'pricing',
 	setup: 'setup',
 	updates: 'updates',
 	faq: 'faq',
 	support: 'support',
-	undetected: 'undetected',
+	reliable: 'reliable',
 	wallhack: 'wallhack',
 	radar: 'radar',
-	ricochet: 'ricochet',
+	vac: 'vac',
 	'cheats-2026': '2026',
 	hacks: 'cheats',
 	'cheat-download': 'download',
@@ -49,65 +49,65 @@ const SHORT_EN = {
 const SHORT_LOCALIZED = {
 	en: { ...SHORT_EN },
 	es: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funciones', pricing: 'precios', setup: 'instalacion',
-		updates: 'actualizaciones', faq: 'faq', support: 'soporte', undetected: 'indetectables', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'trucos', 'cheat-download': 'descarga', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funciones', pricing: 'precios', setup: 'instalacion',
+		updates: 'actualizaciones', faq: 'faq', support: 'soporte', reliable: 'indetectables', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'trucos', 'cheat-download': 'descarga', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'mejores', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'privacidad', refund: 'reembolso', terms: 'terminos',
 	},
 	fr: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'fonctions', pricing: 'prix', setup: 'installation',
-		updates: 'maj', faq: 'faq', support: 'support', undetected: 'indetectable', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'triche', 'cheat-download': 'telechargement', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'fonctions', pricing: 'prix', setup: 'installation',
+		updates: 'maj', faq: 'faq', support: 'support', reliable: 'indetectable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'triche', 'cheat-download': 'telechargement', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'meilleurs', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'confidentialite', refund: 'remboursement', terms: 'conditions',
 	},
 	de: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funktionen', pricing: 'preise', setup: 'installation',
-		updates: 'updates', faq: 'faq', support: 'support', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funktionen', pricing: 'preise', setup: 'installation',
+		updates: 'updates', faq: 'faq', support: 'support', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'beste', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'datenschutz', refund: 'rueckerstattung', terms: 'nutzung',
 	},
 	pt: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'recursos', pricing: 'precos', setup: 'instalacao',
-		updates: 'atualizacoes', faq: 'faq', support: 'suporte', undetected: 'indetectaveis', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'hacks', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'recursos', pricing: 'precos', setup: 'instalacao',
+		updates: 'atualizacoes', faq: 'faq', support: 'suporte', reliable: 'indetectaveis', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'hacks', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'melhores', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'privacidade', refund: 'reembolso', terms: 'termos',
 	},
 	it: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funzioni', pricing: 'prezzi', setup: 'installazione',
-		updates: 'aggiornamenti', faq: 'faq', support: 'supporto', undetected: 'indetectabili', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'trucchi', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funzioni', pricing: 'prezzi', setup: 'installazione',
+		updates: 'aggiornamenti', faq: 'faq', support: 'supporto', reliable: 'indetectabili', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'trucchi', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'migliori', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'privacy', refund: 'rimborso', terms: 'termini',
 	},
 	nl: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'functies', pricing: 'prijzen', setup: 'installatie',
-		updates: 'updates', faq: 'faq', support: 'support', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'functies', pricing: 'prijzen', setup: 'installatie',
+		updates: 'updates', faq: 'faq', support: 'support', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'beste', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'privacy', refund: 'terugbetaling', terms: 'voorwaarden',
 	},
 	pl: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funkcje', pricing: 'ceny', setup: 'instalacja',
-		updates: 'aktualizacje', faq: 'faq', support: 'wsparcie', undetected: 'niewykrywalne', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'hacks', 'cheat-download': 'pobieranie', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funkcje', pricing: 'ceny', setup: 'instalacja',
+		updates: 'aktualizacje', faq: 'faq', support: 'wsparcie', reliable: 'niewykrywalne', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'hacks', 'cheat-download': 'pobieranie', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'najlepsze', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'prywatnosc', refund: 'zwroty', terms: 'regulamin',
 	},
 	ru: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funkcii', pricing: 'ceny', setup: 'ustanovka',
-		updates: 'obnovleniya', faq: 'faq', support: 'podderzhka', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'chity', 'cheat-download': 'skachat', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funkcii', pricing: 'ceny', setup: 'ustanovka',
+		updates: 'obnovleniya', faq: 'faq', support: 'podderzhka', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'chity', 'cheat-download': 'skachat', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'luchshie', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'konfidencialnost', refund: 'vozvrat', terms: 'usloviya',
 	},
 	tr: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'ozellikler', pricing: 'fiyatlar', setup: 'kurulum',
-		updates: 'guncellemeler', faq: 'sss', support: 'destek', undetected: 'tespit-edilemez', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'hile', 'cheat-download': 'indir', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'ozellikler', pricing: 'fiyatlar', setup: 'kurulum',
+		updates: 'guncellemeler', faq: 'sss', support: 'destek', reliable: 'tespit-edilemez', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'hile', 'cheat-download': 'indir', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'en-iyi', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'gizlilik', refund: 'iade', terms: 'kosullar',
 	},
@@ -120,51 +120,51 @@ const SHORT_LOCALIZED = {
 	th: { ...SHORT_EN },
 	vi: { ...SHORT_EN },
 	uk: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funktsiyi', pricing: 'tsiny', setup: 'vstanovka',
-		updates: 'onovlennya', faq: 'faq', support: 'pidtrymka', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'chity', 'cheat-download': 'zavantazhennya', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funktsiyi', pricing: 'tsiny', setup: 'vstanovka',
+		updates: 'onovlennya', faq: 'faq', support: 'pidtrymka', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'chity', 'cheat-download': 'zavantazhennya', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'naykrashchi', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'konfidentsijnist', refund: 'povorennya', terms: 'umovy',
 	},
 	cs: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funkce', pricing: 'ceny', setup: 'instalace',
-		updates: 'aktualizace', faq: 'faq', support: 'podpora', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funkce', pricing: 'ceny', setup: 'instalace',
+		updates: 'aktualizace', faq: 'faq', support: 'podpora', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'nejlepsi', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'soukromi', refund: 'refund', terms: 'podminky',
 	},
 	ro: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'functii', pricing: 'preturi', setup: 'instalare',
-		updates: 'actualizari', faq: 'faq', support: 'suport', undetected: 'nedetectabile', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'descarcare', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'functii', pricing: 'preturi', setup: 'instalare',
+		updates: 'actualizari', faq: 'faq', support: 'suport', reliable: 'nedetectabile', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'descarcare', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'cele-mai-bune', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'confidentialitate', refund: 'rambursare', terms: 'termeni',
 	},
 	sv: {
-		home: '', 'warzone-esp': 'esp', 'warzone-aimbot': 'aimbot', features: 'funktioner', pricing: 'priser', setup: 'installation',
-		updates: 'uppdateringar', faq: 'faq', support: 'support', undetected: 'undetected', wallhack: 'wallhack', radar: 'radar',
-		ricochet: 'ricochet', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
+		home: '', 'dota2-esp': 'esp', 'dota2-aimbot': 'aimbot', features: 'funktioner', pricing: 'priser', setup: 'installation',
+		updates: 'uppdateringar', faq: 'faq', support: 'support', reliable: 'reliable', wallhack: 'wallhack', radar: 'radar',
+		vac: 'vac', 'cheats-2026': '2026', hacks: 'cheats', 'cheat-download': 'download', 'mod-menu': 'mod',
 		'soft-aim': 'soft-aim', 'best-cheats': 'basta', 'aimbot-hack': 'aimbot-hack', 'esp-hack': 'esp-hack', 'unlock-all': 'unlock',
 		privacy: 'integritet', refund: 'aterbetalning', terms: 'villkor',
 	},
 };
 
 const DIR_RENAMES = [
-	['src/pages/warzone-esp', 'src/pages/esp'],
-	['src/pages/warzone-aimbot', 'src/pages/aimbot'],
-	['src/pages/undetected-warzone-cheats', 'src/pages/undetected'],
-	['src/pages/warzone-wallhack', 'src/pages/wallhack'],
-	['src/pages/warzone-radar-hack', 'src/pages/radar'],
-	['src/pages/ricochet-bypass', 'src/pages/ricochet'],
-	['src/pages/warzone-cheats-2026', 'src/pages/2026'],
-	['src/pages/warzone-cheats', 'src/pages/cheats'],
-	['src/pages/warzone-cheat-download', 'src/pages/download'],
-	['src/pages/warzone-mod-menu', 'src/pages/mod'],
-	['src/pages/warzone-soft-aim', 'src/pages/soft-aim'],
-	['src/pages/best-warzone-cheats', 'src/pages/best'],
-	['src/pages/warzone-aimbot-hack', 'src/pages/aimbot-hack'],
-	['src/pages/warzone-esp-hack', 'src/pages/esp-hack'],
-	['src/pages/warzone-unlock-all', 'src/pages/unlock'],
+	['src/pages/dota2-esp', 'src/pages/esp'],
+	['src/pages/dota2-aimbot', 'src/pages/aimbot'],
+	['src/pages/reliable-dota2-cheats', 'src/pages/reliable'],
+	['src/pages/dota2-wallhack', 'src/pages/wallhack'],
+	['src/pages/dota2-radar-hack', 'src/pages/radar'],
+	['src/pages/vac-bypass', 'src/pages/vac'],
+	['src/pages/dota2-cheats-2026', 'src/pages/2026'],
+	['src/pages/dota2-cheats', 'src/pages/cheats'],
+	['src/pages/dota2-cheat-download', 'src/pages/download'],
+	['src/pages/dota2-mod-menu', 'src/pages/mod'],
+	['src/pages/dota2-soft-aim', 'src/pages/soft-aim'],
+	['src/pages/best-dota2-cheats', 'src/pages/best'],
+	['src/pages/dota2-aimbot-hack', 'src/pages/aimbot-hack'],
+	['src/pages/dota2-esp-hack', 'src/pages/esp-hack'],
+	['src/pages/dota2-unlock-all', 'src/pages/unlock'],
 	['src/pages/privacy-policy', 'src/pages/privacy'],
 	['src/pages/refund-policy', 'src/pages/refund'],
 ];
@@ -264,8 +264,8 @@ let routing = routingBefore;
 routing = replaceBlock(routing, 'export const englishPaths', buildEnglishPathsBlock() + '\n');
 routing = replaceBlock(routing, 'export const localizedSlugs', buildLocalizedSlugsBlock() + '\n');
 routing = routing.replace(
-	"if (withSlash === '/warzone-cheats/' || withSlash === '/warzone-cheats/')",
-	"if (withSlash === '/cheats/' || withSlash === '/warzone-cheats/')",
+	"if (withSlash === '/dota2-cheats/' || withSlash === '/dota2-cheats/')",
+	"if (withSlash === '/cheats/' || withSlash === '/dota2-cheats/')",
 );
 await writeFile(ROUTING, routing, 'utf8');
 console.log('Updated routing.ts with short slugs');
@@ -312,57 +312,57 @@ console.log(`Updated path-redirects.json (${Object.keys(newRedirects).length} en
 // --- Update middleware PATH_REDIRECTS for cannibal pages (short paths) ---
 let middleware = await readFile(MIDDLEWARE, 'utf8');
 const middlewareUpdates = [
-	["'/warzone-soft-aim'", "'/soft-aim'"],
-	["'/warzone-soft-aim/'", "'/soft-aim/'"],
-	["'/warzone-wallhack'", "'/wallhack'"],
-	["'/warzone-wallhack/'", "'/wallhack/'"],
-	["'/warzone-cheat-download'", "'/download'"],
-	["'/warzone-cheat-download/'", "'/download/'"],
-	["'/warzone-mod-menu'", "'/mod'"],
-	["'/warzone-mod-menu/'", "'/mod/'"],
-	["'/warzone-unlock-all'", "'/unlock'"],
-	["'/warzone-unlock-all/'", "'/unlock/'"],
-	["'/warzone-esp-hack'", "'/esp-hack'"],
-	["'/warzone-esp-hack/'", "'/esp-hack/'"],
-	["'/warzone-aimbot-hack'", "'/aimbot-hack'"],
-	["'/warzone-aimbot-hack/'", "'/aimbot-hack/'"],
-	["'/warzone-hacks'", "'/cheats'"],
-	["'/warzone-hacks/'", "'/cheats/'"],
-	["'/warzone-esp'", "'/esp'"],
-	["'/warzone-esp/'", "'/esp/'"],
-	["'/warzone-aimbot'", "'/aimbot'"],
-	["'/warzone-aimbot/'", "'/aimbot/'"],
-	["'/ricochet-bypass'", "'/ricochet'"],
-	["'/ricochet-bypass/'", "'/ricochet/'"],
+	["'/dota2-soft-aim'", "'/soft-aim'"],
+	["'/dota2-soft-aim/'", "'/soft-aim/'"],
+	["'/dota2-wallhack'", "'/wallhack'"],
+	["'/dota2-wallhack/'", "'/wallhack/'"],
+	["'/dota2-cheat-download'", "'/download'"],
+	["'/dota2-cheat-download/'", "'/download/'"],
+	["'/dota2-mod-menu'", "'/mod'"],
+	["'/dota2-mod-menu/'", "'/mod/'"],
+	["'/dota2-unlock-all'", "'/unlock'"],
+	["'/dota2-unlock-all/'", "'/unlock/'"],
+	["'/dota2-esp-hack'", "'/esp-hack'"],
+	["'/dota2-esp-hack/'", "'/esp-hack/'"],
+	["'/dota2-aimbot-hack'", "'/aimbot-hack'"],
+	["'/dota2-aimbot-hack/'", "'/aimbot-hack/'"],
+	["'/dota2-hacks'", "'/cheats'"],
+	["'/dota2-hacks/'", "'/cheats/'"],
+	["'/dota2-esp'", "'/esp'"],
+	["'/dota2-esp/'", "'/esp/'"],
+	["'/dota2-aimbot'", "'/aimbot'"],
+	["'/dota2-aimbot/'", "'/aimbot/'"],
+	["'/vac-bypass'", "'/vac'"],
+	["'/vac-bypass/'", "'/vac/'"],
 ];
 for (const [from, to] of middlewareUpdates) {
 	middleware = middleware.replace(from, to);
 }
 // Cannibal targets use new short paths
-middleware = middleware.replace("'/warzone-soft-aim/'", "'/aimbot/'");
+middleware = middleware.replace("'/dota2-soft-aim/'", "'/aimbot/'");
 middleware = middleware.replace("'/soft-aim/'", "'/aimbot/'");
-middleware = middleware.replace("'/warzone-wallhack/'", "'/esp/'");
+middleware = middleware.replace("'/dota2-wallhack/'", "'/esp/'");
 middleware = middleware.replace("'/wallhack/'", "'/esp/'");
-middleware = middleware.replace("'/warzone-cheat-download/'", "'/setup/'");
+middleware = middleware.replace("'/dota2-cheat-download/'", "'/setup/'");
 middleware = middleware.replace("'/download/'", "'/setup/'");
-middleware = middleware.replace("'/warzone-mod-menu/'", "'/'");
+middleware = middleware.replace("'/dota2-mod-menu/'", "'/'");
 middleware = middleware.replace("'/mod/'", "'/'");
-middleware = middleware.replace("'/warzone-unlock-all/'", "'/'");
+middleware = middleware.replace("'/dota2-unlock-all/'", "'/'");
 middleware = middleware.replace("'/unlock/'", "'/'");
-middleware = middleware.replace("'/warzone-esp-hack/'", "'/esp/'");
+middleware = middleware.replace("'/dota2-esp-hack/'", "'/esp/'");
 middleware = middleware.replace("'/esp-hack/'", "'/esp/'");
-middleware = middleware.replace("'/warzone-aimbot-hack/'", "'/aimbot/'");
+middleware = middleware.replace("'/dota2-aimbot-hack/'", "'/aimbot/'");
 middleware = middleware.replace("'/aimbot-hack/'", "'/aimbot/'");
-middleware = middleware.replace("'/undetected-warzone-cheats'", "'/undetected'");
-middleware = middleware.replace("'/undetected-warzone-cheats/'", "'/undetected/'");
-middleware = middleware.replace("'/warzone-cheats'", "'/cheats'");
-middleware = middleware.replace("'/warzone-cheats/'", "'/cheats/'");
-middleware = middleware.replace("'/warzone-cheats-2026'", "'/2026'");
-middleware = middleware.replace("'/warzone-cheats-2026/'", "'/2026/'");
-middleware = middleware.replace("'/best-warzone-cheats'", "'/best'");
-middleware = middleware.replace("'/best-warzone-cheats/'", "'/best/'");
-middleware = middleware.replace("'/warzone-radar-hack'", "'/radar'");
-middleware = middleware.replace("'/warzone-radar-hack/'", "'/radar/'");
+middleware = middleware.replace("'/reliable-dota2-cheats'", "'/reliable'");
+middleware = middleware.replace("'/reliable-dota2-cheats/'", "'/reliable/'");
+middleware = middleware.replace("'/dota2-cheats'", "'/cheats'");
+middleware = middleware.replace("'/dota2-cheats/'", "'/cheats/'");
+middleware = middleware.replace("'/dota2-cheats-2026'", "'/2026'");
+middleware = middleware.replace("'/dota2-cheats-2026/'", "'/2026/'");
+middleware = middleware.replace("'/best-dota2-cheats'", "'/best'");
+middleware = middleware.replace("'/best-dota2-cheats/'", "'/best/'");
+middleware = middleware.replace("'/dota2-radar-hack'", "'/radar'");
+middleware = middleware.replace("'/dota2-radar-hack/'", "'/radar/'");
 await writeFile(MIDDLEWARE, middleware, 'utf8');
 console.log('Updated functions/_middleware.js PATH_REDIRECTS');
 

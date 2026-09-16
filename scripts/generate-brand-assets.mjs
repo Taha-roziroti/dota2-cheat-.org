@@ -19,12 +19,12 @@ async function squareLogoBuffer(size) {
 
 async function generateSiteLogo() {
 	const logoPng = await squareLogoBuffer(512);
-	await writeFile(path.join(imagesDir, 'warzone-cheats-logo.png'), logoPng);
-	console.log('Wrote public/images/warzone-cheats-logo.png (512×512)');
+	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.png'), logoPng);
+	console.log('Wrote public/images/dota2-cheats-logo.png (512×512)');
 
 	const logoWebp = await sharp(logoPng).webp({ quality: 90, effort: 6 }).toBuffer();
-	await writeFile(path.join(imagesDir, 'warzone-cheats-logo.webp'), logoWebp);
-	console.log('Wrote public/images/warzone-cheats-logo.webp');
+	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.webp'), logoWebp);
+	console.log('Wrote public/images/dota2-cheats-logo.webp');
 }
 
 async function generateFavicons(logoBuffer) {
@@ -57,9 +57,9 @@ async function generateFavicons(logoBuffer) {
 
 async function generateWebManifest() {
 	const manifest = {
-		name: 'Warzone Cheats',
-		short_name: 'Warzone Cheats',
-		description: 'Undetected warzone cheats — ESP, aimbot, radar and for PC',
+		name: 'Dota 2 Cheats',
+		short_name: 'Dota 2 Cheats',
+		description: 'Reliable dota 2 cheats — ESP, aimbot, radar and for PC',
 		start_url: '/',
 		display: 'standalone',
 		background_color: '#0a0612',

@@ -168,6 +168,25 @@ function pageTitle(headline: string): string {
 		</article>
 
 		{
+			t.comments && t.comments.length > 0 && (
+				<section class="post__comments" aria-label={ui.commentsTitle}>
+					<h2>{ui.commentsTitle} ({t.comments.length})</h2>
+					<ul class="post__comments-list">
+						{t.comments.map((comment) => (
+							<li class="post__comment">
+								<div class="post__comment-head">
+									<strong>{comment.author}</strong>
+									<time datetime={comment.date}>{comment.date}</time>
+								</div>
+								<p>{comment.body}</p>
+							</li>
+						))}
+					</ul>
+				</section>
+			)
+		}
+
+		{
 			related.length > 0 && (
 				<section class="post__related" aria-label={ui.relatedPosts}>
 					<h2>{ui.relatedPosts}</h2>
@@ -349,6 +368,62 @@ function pageTitle(headline: string): string {
 		border-radius: var(--radius-md, 0.75rem);
 		background: color-mix(in srgb, var(--magenta) 4%, var(--bg-panel));
 		box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+	}
+
+	.post__comments {
+		margin-top: 2.5rem;
+		padding: 1.35rem 1.15rem;
+		border: 1px solid var(--line);
+		border-radius: var(--radius-md, 0.75rem);
+		background: color-mix(in srgb, var(--magenta) 3%, var(--bg-panel));
+	}
+
+	.post__comments h2 {
+		margin: 0 0 1rem;
+		font-family: var(--font-display);
+		font-size: 1.15rem;
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.post__comments-list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		display: grid;
+		gap: 1rem;
+	}
+
+	.post__comment {
+		padding: 0.85rem 0.95rem;
+		border: 1px solid var(--line-soft, var(--line));
+		border-radius: 0.55rem;
+		background: var(--bg-elevated);
+	}
+
+	.post__comment-head {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		gap: 0.5rem 0.75rem;
+		margin-bottom: 0.45rem;
+	}
+
+	.post__comment-head strong {
+		color: var(--ink);
+		font-size: 0.9rem;
+	}
+
+	.post__comment-head time {
+		color: var(--ink-faint);
+		font-size: 0.78rem;
+	}
+
+	.post__comment p {
+		margin: 0;
+		color: var(--ink-muted);
+		font-size: 0.92rem;
+		line-height: 1.55;
 	}
 
 	.post__related h2 {
