@@ -1852,35 +1852,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Trucos Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. mantenimiento VAC tras parches VAC",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Trucos Dota 2 — Funciones",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Guía de trucos s</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Mantenimiento VAC</a>. Feature stack: <a href=\"/features/\">Todas las funciones</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. mantenimiento VAC tras parches VAC Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/vac-bypass/\">Mantenimiento VAC</a> · <a href=\"/features/\">Todas las funciones</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Trucos Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Tienda</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Guía de instalación</a> after delivery.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. mantenimiento VAC tras parches VAC Enlaces relacionados: <a href=\"/faq/\">FAQ</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-cheats-2026/\">trucos Dota 2 2026</a> · <a href=\"/setup/\">Guía de instalación</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Trucos Dota 2 — Primeros pasos",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guía de trucos s</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Mantenimiento VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. mantenimiento VAC tras parches VAC Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a> · <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/compare/\">Comparar</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium en 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">guía del comprador</a>.",
 							],
 						},
 					],
@@ -1898,27 +1898,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. wallhack ESP para jugadores, wards and runes y distancia",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. wallhack ESP para jugadores, wards and runes y distancia",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Estado y actualizaciones",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Guía de trucos s</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Tienda</a> or continue to the <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. wallhack ESP para jugadores, wards and runes y distancia Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/premium-dota2-cheats/\">trucos Dota 2</a> · <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a> · <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>.",
 							],
 						},
 					],
@@ -1974,43 +1974,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Resumen",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cómo se gestionan las actualizaciones VAC para Dota 2 cheats Enlaces relacionados: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Funciones",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Guía de trucos s</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cómo se gestionan las actualizaciones VAC para Dota 2 cheats Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Estado y actualizaciones",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Soporte</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Tienda</a> and finish <a href=\"/setup/\">Guía de instalación</a> only after <a href=\"/updates/\">Guía de trucos s</a> shows a live build.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cómo se gestionan las actualizaciones VAC para Dota 2 cheats Enlaces relacionados: <a href=\"/faq/\">FAQ</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/support/\">Soporte</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a> · <a href=\"/setup/\">Guía de instalación</a> · <a href=\"/updates/\">Guía de trucos s</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Primeros pasos",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cómo se gestionan las actualizaciones VAC para Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cómo se gestionan las actualizaciones VAC para Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guía de trucos s</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Mantenimiento VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a> · <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/premium-dota2-cheats/\">trucos Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -2028,35 +2028,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Trucos Dota 2 2026 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. checklist de dota 2 cheats 2026 antes del checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Guía de trucos s</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Tienda</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a> · <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Trucos Dota 2 2026 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. checklist de dota 2 cheats 2026 antes del checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>, <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> · <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Trucos Dota 2 2026 — Estado y actualizaciones",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Soporte</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. checklist de dota 2 cheats 2026 antes del checkout Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guía del foro 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/support/\">Soporte</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Trucos Dota 2 2026 — Primeros pasos",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Producto completo</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. checklist de dota 2 cheats 2026 antes del checkout Enlaces relacionados: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/\">Producto completo</a> · <a href=\"/premium-dota2-cheats/\">trucos Dota 2</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guía del foro 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">guía completa 2026</a>.",
 							],
 						},
 					],
@@ -2147,27 +2147,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Descarga Dota 2 Cheats — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. descarga de licencia digital tras el pago",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Guía de instalación</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/setup/\">Guía de instalación</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Descarga Dota 2 Cheats — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. descarga de licencia digital tras el pago",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Tienda</a>.",
-								"Feature detail: <a href=\"/features/\">Todas las funciones</a>. Module pages: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/features/\">Todas las funciones</a> · <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Descarga Dota 2 Cheats — Estado y actualizaciones",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Guía de trucos s</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Soporte</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. descarga de licencia digital tras el pago Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/support/\">Soporte</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -2185,27 +2185,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Menú mod Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. toggles de ESP y Skillshot assist en el cliente",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Menú mod Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. toggles de ESP y Skillshot assist en el cliente",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> profiles before aggressive FOV.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Menú mod Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Guía de trucos s</a> and <a href=\"/vac-bypass/\">Mantenimiento VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Tienda</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Guía de instalación</a> after your license email arrives.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. toggles de ESP y Skillshot assist en el cliente Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a> · <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/setup/\">Guía de instalación</a>.",
 							],
 						},
 					],
@@ -2223,27 +2223,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. ajustes suaves de Skillshot assist para Windows PC",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. ajustes suaves de Skillshot assist para Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Guía de trucos s</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Tienda</a>.",
-								"Activation help: <a href=\"/setup/\">Guía de instalación</a> · status questions: <a href=\"/support/\">Soporte</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. ajustes suaves de Skillshot assist para Windows PC Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/setup/\">Guía de instalación</a> · <a href=\"/support/\">Soporte</a>.",
 							],
 						},
 					],
@@ -2261,23 +2261,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Mejores trucos Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. qué comparar antes de comprar dota 2 cheats",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Guía de trucos s</a> note before you judge any package “best.”",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a> · <a href=\"/updates/\">Guía de trucos s</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Mejores trucos Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. qué comparar antes de comprar dota 2 cheats",
-								"Review <a href=\"/features/\">Todas las funciones</a>, <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>, <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/features/\">Todas las funciones</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Mejores trucos Dota 2 — Estado y actualizaciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. qué comparar antes de comprar dota 2 cheats",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
@@ -2285,11 +2285,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Mejores trucos Dota 2 — Primeros pasos",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Guía de trucos s</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Tienda</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. qué comparar antes de comprar dota 2 cheats Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Comparar</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Tienda</a>.",
 							],
 						},
 					],
@@ -2307,27 +2307,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. asistencia de hack Aimbot para Dota 2",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot y Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. asistencia de hack Aimbot para Dota 2",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Guía de trucos s</a> and <a href=\"/vac-bypass/\">Mantenimiento VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Tienda</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. asistencia de hack Aimbot para Dota 2 Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a> · <a href=\"/vac-bypass/\">Mantenimiento VAC</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>.",
 							],
 						},
 					],
@@ -2345,27 +2345,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cajas ESP hack, pins de héroe y distancia",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/dota2-esp/\">Guía ESP y wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cajas ESP hack, pins de héroe y distancia",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Guía de trucos s</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Tienda</a>.",
-								"Install steps: <a href=\"/setup/\">Guía de instalación</a>. Status questions: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. cajas ESP hack, pins de héroe y distancia Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/pricing/\">Tienda</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/setup/\">Guía de instalación</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -2383,27 +2383,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Resumen",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. búsquedas unlock-all vs herramientas reales ESP y Aimbot",
 								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 en PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Funciones",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. búsquedas unlock-all vs herramientas reales ESP y Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> and <a href=\"/features/\">Todas las funciones</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/dota2-esp/\">Guía ESP y wallhack</a> · <a href=\"/features/\">Todas las funciones</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Resumen Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Estado y actualizaciones",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Tienda</a> and read the <a href=\"/setup/\">Guía de instalación</a> before checkout.",
-								"Check the <a href=\"/updates/\">Guía de trucos s</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Soporte</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. búsquedas unlock-all vs herramientas reales ESP y Aimbot Enlaces relacionados: <a href=\"/pricing/\">Tienda</a> · <a href=\"/setup/\">Guía de instalación</a>.",
+								"Licencias con entrega digital instantánea vía checkout checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC. Enlaces relacionados: <a href=\"/updates/\">Guía de trucos s</a>.",
+								"Consulta la página Updates antes de jugar tras parches de VAC. Ningún cheat garantiza estado permanente. Enlaces relacionados: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Soporte</a>.",
 							],
 						},
 					],
@@ -3062,35 +3062,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Triches Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. maintenance VAC après patchs VAC",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Triches Dota 2 — Fonctions",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Guide triches s</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Maintenance VAC</a>. Feature stack: <a href=\"/features/\">Toutes les fonctions</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. maintenance VAC après patchs VAC Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/vac-bypass/\">Maintenance VAC</a> · <a href=\"/features/\">Toutes les fonctions</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Triches Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Boutique</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Guide d'installation</a> after delivery.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. maintenance VAC après patchs VAC Liens utiles: <a href=\"/faq/\">FAQ</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-cheats-2026/\">triches Dota 2 2026</a> · <a href=\"/setup/\">Guide d'installation</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Triches Dota 2 — Premiers pas",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guide triches s</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Maintenance VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. maintenance VAC après patchs VAC Liens utiles: <a href=\"/updates/\">Guide triches s</a> · <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/compare/\">Comparer</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium en 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">guide acheteur</a>.",
 							],
 						},
 					],
@@ -3108,27 +3108,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. wallhack ESP pour joueurs, wards and runes et distance",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. wallhack ESP pour joueurs, wards and runes et distance",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Statut et mises à jour",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Guide triches s</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Boutique</a> or continue to the <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. wallhack ESP pour joueurs, wards and runes et distance Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/premium-dota2-cheats/\">triches Dota 2</a> · <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/pricing/\">Boutique</a> · <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>.",
 							],
 						},
 					],
@@ -3184,43 +3184,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Aperçu",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. gestion des mises à jour VAC pour Dota 2 cheats Liens utiles: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Fonctions",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Guide triches s</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. gestion des mises à jour VAC pour Dota 2 cheats Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Statut et mises à jour",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Boutique</a> and finish <a href=\"/setup/\">Guide d'installation</a> only after <a href=\"/updates/\">Guide triches s</a> shows a live build.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. gestion des mises à jour VAC pour Dota 2 cheats Liens utiles: <a href=\"/faq/\">FAQ</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/support/\">Support</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/pricing/\">Boutique</a> · <a href=\"/setup/\">Guide d'installation</a> · <a href=\"/updates/\">Guide triches s</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Premiers pas",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. gestion des mises à jour VAC pour Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. gestion des mises à jour VAC pour Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guide triches s</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Maintenance VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/updates/\">Guide triches s</a> · <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/premium-dota2-cheats/\">triches Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -3238,35 +3238,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Triches Dota 2 2026 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. checklist dota 2 cheats 2026 avant checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Guide triches s</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Boutique</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a> · <a href=\"/updates/\">Guide triches s</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Triches Dota 2 2026 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. checklist dota 2 cheats 2026 avant checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>, <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> · <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Triches Dota 2 2026 — Statut et mises à jour",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. checklist dota 2 cheats 2026 avant checkout Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guide forum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Triches Dota 2 2026 — Premiers pas",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Produit complet</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. checklist dota 2 cheats 2026 avant checkout Liens utiles: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/\">Produit complet</a> · <a href=\"/premium-dota2-cheats/\">triches Dota 2</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guide forum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">guide complet 2026</a>.",
 							],
 						},
 					],
@@ -3357,27 +3357,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Téléchargement Dota 2 Cheats — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. téléchargement licence numérique après paiement",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Guide d'installation</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/setup/\">Guide d'installation</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Téléchargement Dota 2 Cheats — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. téléchargement licence numérique après paiement",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Boutique</a>.",
-								"Feature detail: <a href=\"/features/\">Toutes les fonctions</a>. Module pages: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/features/\">Toutes les fonctions</a> · <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Téléchargement Dota 2 Cheats — Statut et mises à jour",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Guide triches s</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. téléchargement licence numérique après paiement Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/support/\">Support</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -3395,27 +3395,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Menu mod Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. toggles ESP et Skillshot assist in-client",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Menu mod Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. toggles ESP et Skillshot assist in-client",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> profiles before aggressive FOV.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Menu mod Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Guide triches s</a> and <a href=\"/vac-bypass/\">Maintenance VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Boutique</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Guide d'installation</a> after your license email arrives.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. toggles ESP et Skillshot assist in-client Liens utiles: <a href=\"/updates/\">Guide triches s</a> · <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/setup/\">Guide d'installation</a>.",
 							],
 						},
 					],
@@ -3433,27 +3433,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. réglages Skillshot assist fluides pour Windows PC",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. réglages Skillshot assist fluides pour Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Guide triches s</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Boutique</a>.",
-								"Activation help: <a href=\"/setup/\">Guide d'installation</a> · status questions: <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. réglages Skillshot assist fluides pour Windows PC Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/setup/\">Guide d'installation</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -3471,23 +3471,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Meilleures triches Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. quoi comparer avant d'acheter dota 2 cheats",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Guide triches s</a> note before you judge any package “best.”",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a> · <a href=\"/updates/\">Guide triches s</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Meilleures triches Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. quoi comparer avant d'acheter dota 2 cheats",
-								"Review <a href=\"/features/\">Toutes les fonctions</a>, <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>, <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/features/\">Toutes les fonctions</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Meilleures triches Dota 2 — Statut et mises à jour",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. quoi comparer avant d'acheter dota 2 cheats",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
@@ -3495,11 +3495,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Meilleures triches Dota 2 — Premiers pas",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Guide triches s</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Boutique</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. quoi comparer avant d'acheter dota 2 cheats Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Comparer</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Boutique</a>.",
 							],
 						},
 					],
@@ -3517,27 +3517,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. assistencia de hack Aimbot pour Dota 2",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot et Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. assistencia de hack Aimbot pour Dota 2",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Guide triches s</a> and <a href=\"/vac-bypass/\">Maintenance VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Boutique</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. assistencia de hack Aimbot pour Dota 2 Liens utiles: <a href=\"/updates/\">Guide triches s</a> · <a href=\"/vac-bypass/\">Maintenance VAC</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>.",
 							],
 						},
 					],
@@ -3555,27 +3555,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. boîtes ESP hack, pins wards and runese et distance",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/dota2-esp/\">Guide ESP et wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. boîtes ESP hack, pins wards and runese et distance",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Guide triches s</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Boutique</a>.",
-								"Install steps: <a href=\"/setup/\">Guide d'installation</a>. Status questions: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. boîtes ESP hack, pins wards and runese et distance Liens utiles: <a href=\"/updates/\">Guide triches s</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/pricing/\">Boutique</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/setup/\">Guide d'installation</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -3593,27 +3593,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Aperçu",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. recherches unlock-all vs vrais outils ESP et Aimbot",
 								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 sur PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Fonctions",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. recherches unlock-all vs vrais outils ESP et Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> and <a href=\"/features/\">Toutes les fonctions</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/dota2-esp/\">Guide ESP et wallhack</a> · <a href=\"/features/\">Toutes les fonctions</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Aperçu Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Statut et mises à jour",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Boutique</a> and read the <a href=\"/setup/\">Guide d'installation</a> before checkout.",
-								"Check the <a href=\"/updates/\">Guide triches s</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Support</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. recherches unlock-all vs vrais outils ESP et Aimbot Liens utiles: <a href=\"/pricing/\">Boutique</a> · <a href=\"/setup/\">Guide d'installation</a>.",
+								"Licences avec livraison numérique instantanée via checkout checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC. Liens utiles: <a href=\"/updates/\">Guide triches s</a>.",
+								"Consultez Updates après les patchs VAC. Aucune triche ne garantit un statut permanent. Liens utiles: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -4272,35 +4272,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "dota 2 cheats — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. VAC-Wartung nach VAC Patches",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "dota 2 cheats — Features",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">dota 2 cheats Guide</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC Wartung</a>. Feature stack: <a href=\"/features/\">Alle Features</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. VAC-Wartung nach VAC Patches Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/vac-bypass/\">VAC Wartung</a> · <a href=\"/features/\">Alle Features</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "dota 2 cheats — Status & Updates",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Shop</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Setup-Anleitung</a> after delivery.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. VAC-Wartung nach VAC Patches Weiterführende Links: <a href=\"/faq/\">FAQ</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> · <a href=\"/setup/\">Setup-Anleitung</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "dota 2 cheats — Erste Schritte",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">dota 2 cheats Guide</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC Wartung</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. VAC-Wartung nach VAC Patches Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a> · <a href=\"/vac-bypass/\">VAC Wartung</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/compare/\">Vergleichen</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">Premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC-Bypass FAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">Käuferguide</a>.",
 							],
 						},
 					],
@@ -4318,27 +4318,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Wallhack ESP für Spieler, Helden und Entfernung",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Wallhack ESP für Spieler, Helden und Entfernung",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a> cues for flanks during arena corners and vertical fights.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status & Updates",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">dota 2 cheats Guide</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC Wartung</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Shop</a> or continue to the <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> landing for alternate search wording.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Wallhack ESP für Spieler, Helden und Entfernung Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/vac-bypass/\">VAC Wartung</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/pricing/\">Shop</a> · <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>.",
 							],
 						},
 					],
@@ -4394,43 +4394,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — Überblick",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. wie VAC Updates für Dota 2 Cheats gehandhabt werden Weiterführende Links: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — Features",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">dota 2 cheats Guide</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. wie VAC Updates für Dota 2 Cheats gehandhabt werden Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — Status & Updates",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Shop</a> and finish <a href=\"/setup/\">Setup-Anleitung</a> only after <a href=\"/updates/\">dota 2 cheats Guide</a> shows a live build.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. wie VAC Updates für Dota 2 Cheats gehandhabt werden Weiterführende Links: <a href=\"/faq/\">FAQ</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/support/\">Support</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/pricing/\">Shop</a> · <a href=\"/setup/\">Setup-Anleitung</a> · <a href=\"/updates/\">dota 2 cheats Guide</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — Erste Schritte",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. wie VAC Updates für Dota 2 Cheats gehandhabt werden",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/faq/dota2-vac-bypass/\">VAC-Bypass FAQ</a>.",
 								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. wie VAC Updates für Dota 2 Cheats gehandhabt werden",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">dota 2 cheats Guide</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC Wartung</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a> · <a href=\"/vac-bypass/\">VAC Wartung</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 					],
@@ -4448,35 +4448,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. 2026 dota 2 cheats Checkliste vor dem Checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">dota 2 cheats Guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Shop</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a> · <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. 2026 dota 2 cheats Checkliste vor dem Checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>, <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — Status & Updates",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. 2026 dota 2 cheats Checkliste vor dem Checkout Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forum-Guide 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — Erste Schritte",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Vollständiges Produkt</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. 2026 dota 2 cheats Checkliste vor dem Checkout Weiterführende Links: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/\">Vollständiges Produkt</a> · <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forum-Guide 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">kompletter 2026-Guide</a>.",
 							],
 						},
 					],
@@ -4567,27 +4567,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. digitaler Lizenz-Download nach Zahlung",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Setup-Anleitung</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/setup/\">Setup-Anleitung</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. digitaler Lizenz-Download nach Zahlung",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Shop</a>.",
-								"Feature detail: <a href=\"/features/\">Alle Features</a>. Module pages: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/features/\">Alle Features</a> · <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — Status & Updates",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">dota 2 cheats Guide</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. digitaler Lizenz-Download nach Zahlung Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/support/\">Support</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 					],
@@ -4605,27 +4605,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod-Menü — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. In-Client ESP- und Soft-Aim-Toggles",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod-Menü — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. In-Client ESP- und Soft-Aim-Toggles",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> profiles before aggressive FOV.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod-Menü — Status & Updates",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">dota 2 cheats Guide</a> and <a href=\"/vac-bypass/\">VAC Wartung</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Shop</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Setup-Anleitung</a> after your license email arrives.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. In-Client ESP- und Soft-Aim-Toggles Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a> · <a href=\"/vac-bypass/\">VAC Wartung</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/setup/\">Setup-Anleitung</a>.",
 							],
 						},
 					],
@@ -4643,27 +4643,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. sanfte Soft-Aim-Einstellungen für Windows PC",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. sanfte Soft-Aim-Einstellungen für Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> and <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a> overlays.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — Status & Updates",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">dota 2 cheats Guide</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Shop</a>.",
-								"Activation help: <a href=\"/setup/\">Setup-Anleitung</a> · status questions: <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. sanfte Soft-Aim-Einstellungen für Windows PC Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/setup/\">Setup-Anleitung</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -4681,23 +4681,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Beste Dota 2 Cheats — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. was vor dem Kauf der dota 2 cheats verglichen werden sollte",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">dota 2 cheats Guide</a> note before you judge any package “best.”",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a> · <a href=\"/updates/\">dota 2 cheats Guide</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Beste Dota 2 Cheats — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. was vor dem Kauf der dota 2 cheats verglichen werden sollte",
-								"Review <a href=\"/features/\">Alle Features</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>, <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/features/\">Alle Features</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Beste Dota 2 Cheats — Status & Updates",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. was vor dem Kauf der dota 2 cheats verglichen werden sollte",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
@@ -4705,11 +4705,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Beste Dota 2 Cheats — Erste Schritte",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">dota 2 cheats Guide</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Shop</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. was vor dem Kauf der dota 2 cheats verglichen werden sollte Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Vergleichen</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Shop</a>.",
 							],
 						},
 					],
@@ -4727,27 +4727,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hack — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Aimbot-Hack-Assist für Dota 2",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot und Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hack — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Aimbot-Hack-Assist für Dota 2",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hack — Status & Updates",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">dota 2 cheats Guide</a> and <a href=\"/vac-bypass/\">VAC Wartung</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Shop</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> for the full information + assist loop.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Aimbot-Hack-Assist für Dota 2 Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a> · <a href=\"/vac-bypass/\">VAC Wartung</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>.",
 							],
 						},
 					],
@@ -4765,27 +4765,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hack — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. ESP-Hack-Boxen, Helden-Pins und Entfernung",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hack — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. ESP-Hack-Boxen, Helden-Pins und Entfernung",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hack — Status & Updates",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">dota 2 cheats Guide</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Shop</a>.",
-								"Install steps: <a href=\"/setup/\">Setup-Anleitung</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. ESP-Hack-Boxen, Helden-Pins und Entfernung Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a> · <a href=\"/dota2-radar-hack/\">2D-Radar-Overlay</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/pricing/\">Shop</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/setup/\">Setup-Anleitung</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 					],
@@ -4803,27 +4803,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — Überblick",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. unlock-all Suchen vs echte ESP- und Aimbot-Tools",
 								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 auf PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — Features",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. unlock-all Suchen vs echte ESP- und Aimbot-Tools",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> and <a href=\"/features/\">Alle Features</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/dota2-esp/\">ESP- und Wallhack-Guide</a> · <a href=\"/features/\">Alle Features</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats Übersicht</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — Status & Updates",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Shop</a> and read the <a href=\"/setup/\">Setup-Anleitung</a> before checkout.",
-								"Check the <a href=\"/updates/\">dota 2 cheats Guide</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Support</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. unlock-all Suchen vs echte ESP- und Aimbot-Tools Weiterführende Links: <a href=\"/pricing/\">Shop</a> · <a href=\"/setup/\">Setup-Anleitung</a>.",
+								"Lizenzen mit sofortige digitale Lieferung über checkout Checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung. Weiterführende Links: <a href=\"/updates/\">dota 2 cheats Guide</a>.",
+								"Updates-Seite nach VAC-Patches prüfen. Kein Cheat garantiert dauerhaft patch status. Weiterführende Links: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -5482,35 +5482,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "cheats Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. manutenção VAC após patches VAC",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "cheats Dota 2 — Recursos",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Guia de cheats indetectáveis</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Manutenção VAC</a>. Feature stack: <a href=\"/features/\">Todos os recursos</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. manutenção VAC após patches VAC Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/vac-bypass/\">Manutenção VAC</a> · <a href=\"/features/\">Todos os recursos</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "cheats Dota 2 — Status e atualizações",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Loja</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Guia de instalação</a> after delivery.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. manutenção VAC após patches VAC Links relacionados: <a href=\"/faq/\">FAQ</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-cheats-2026/\">cheats Dota 2 2026</a> · <a href=\"/setup/\">Guia de instalação</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "cheats Dota 2 — Primeiros passos",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guia de cheats indetectáveis</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Manutenção VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. manutenção VAC após patches VAC Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a> · <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/compare/\">Comparar</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium em 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">guia do comprador</a>.",
 							],
 						},
 					],
@@ -5528,27 +5528,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. wallhack ESP para jogadores, carcaças e distância",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. wallhack ESP para jogadores, carcaças e distância",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status e atualizações",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Guia de cheats indetectáveis</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Loja</a> or continue to the <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. wallhack ESP para jogadores, carcaças e distância Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/premium-dota2-cheats/\">cheats Dota 2</a> · <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/pricing/\">Loja</a> · <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>.",
 							],
 						},
 					],
@@ -5604,43 +5604,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Visão geral",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. como as atualizações VAC são tratadas para Dota 2 cheats Links relacionados: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Recursos",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Guia de cheats indetectáveis</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. como as atualizações VAC são tratadas para Dota 2 cheats Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Status e atualizações",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Suporte</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Loja</a> and finish <a href=\"/setup/\">Guia de instalação</a> only after <a href=\"/updates/\">Guia de cheats indetectáveis</a> shows a live build.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. como as atualizações VAC são tratadas para Dota 2 cheats Links relacionados: <a href=\"/faq/\">FAQ</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/support/\">Suporte</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/pricing/\">Loja</a> · <a href=\"/setup/\">Guia de instalação</a> · <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Primeiros passos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. como as atualizações VAC são tratadas para Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. como as atualizações VAC são tratadas para Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guia de cheats indetectáveis</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Manutenção VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a> · <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/premium-dota2-cheats/\">cheats Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -5658,35 +5658,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheats Dota 2 2026 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. checklist de dota 2 cheats 2026 antes do checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Guia de cheats indetectáveis</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Loja</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a> · <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheats Dota 2 2026 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. checklist de dota 2 cheats 2026 antes do checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheats Dota 2 2026 — Status e atualizações",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Suporte</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. checklist de dota 2 cheats 2026 antes do checkout Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guia do fórum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/support/\">Suporte</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheats Dota 2 2026 — Primeiros passos",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Produto completo</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. checklist de dota 2 cheats 2026 antes do checkout Links relacionados: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/\">Produto completo</a> · <a href=\"/premium-dota2-cheats/\">cheats Dota 2</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guia do fórum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">guia completo 2026</a>.",
 							],
 						},
 					],
@@ -5777,27 +5777,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Download Dota 2 Cheats — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. download de licença digital após pagamento",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Guia de instalação</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/setup/\">Guia de instalação</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Download Dota 2 Cheats — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. download de licença digital após pagamento",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Loja</a>.",
-								"Feature detail: <a href=\"/features/\">Todos os recursos</a>. Module pages: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/features/\">Todos os recursos</a> · <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Download Dota 2 Cheats — Status e atualizações",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Guia de cheats indetectáveis</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Suporte</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. download de licença digital após pagamento Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/support/\">Suporte</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -5815,27 +5815,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Menu mod Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. toggles de ESP e Skillshot assist no cliente",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Menu mod Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. toggles de ESP e Skillshot assist no cliente",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> profiles before aggressive FOV.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Menu mod Dota 2 — Status e atualizações",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Guia de cheats indetectáveis</a> and <a href=\"/vac-bypass/\">Manutenção VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Loja</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Guia de instalação</a> after your license email arrives.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. toggles de ESP e Skillshot assist no cliente Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a> · <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/setup/\">Guia de instalação</a>.",
 							],
 						},
 					],
@@ -5853,27 +5853,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. ajustes suaves de Skillshot assist para Windows PC",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. ajustes suaves de Skillshot assist para Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Status e atualizações",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Guia de cheats indetectáveis</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Loja</a>.",
-								"Activation help: <a href=\"/setup/\">Guia de instalação</a> · status questions: <a href=\"/support/\">Suporte</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. ajustes suaves de Skillshot assist para Windows PC Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/setup/\">Guia de instalação</a> · <a href=\"/support/\">Suporte</a>.",
 							],
 						},
 					],
@@ -5891,23 +5891,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Melhores cheats Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. o que comparar antes de comprar dota 2 cheats",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Guia de cheats indetectáveis</a> note before you judge any package “best.”",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a> · <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Melhores cheats Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. o que comparar antes de comprar dota 2 cheats",
-								"Review <a href=\"/features/\">Todos os recursos</a>, <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/features/\">Todos os recursos</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Melhores cheats Dota 2 — Status e atualizações",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. o que comparar antes de comprar dota 2 cheats",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
@@ -5915,11 +5915,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Melhores cheats Dota 2 — Primeiros passos",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Guia de cheats indetectáveis</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Loja</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. o que comparar antes de comprar dota 2 cheats Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Comparar</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Loja</a>.",
 							],
 						},
 					],
@@ -5937,27 +5937,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. assistência de hack Aimbot para Dota 2",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. assistência de hack Aimbot para Dota 2",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Status e atualizações",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Guia de cheats indetectáveis</a> and <a href=\"/vac-bypass/\">Manutenção VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Loja</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. assistência de hack Aimbot para Dota 2 Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a> · <a href=\"/vac-bypass/\">Manutenção VAC</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>.",
 							],
 						},
 					],
@@ -5975,27 +5975,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. caixas ESP hack, pins de carcaça e distância",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/dota2-esp/\">Guia ESP e wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. caixas ESP hack, pins de carcaça e distância",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Status e atualizações",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Guia de cheats indetectáveis</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Loja</a>.",
-								"Install steps: <a href=\"/setup/\">Guia de instalação</a>. Status questions: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. caixas ESP hack, pins de carcaça e distância Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/pricing/\">Loja</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/setup/\">Guia de instalação</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -6013,27 +6013,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Visão geral",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. buscas unlock-all vs ferramentas reais ESP e Aimbot",
 								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 no PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Recursos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. buscas unlock-all vs ferramentas reais ESP e Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> and <a href=\"/features/\">Todos os recursos</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/dota2-esp/\">Guia ESP e wallhack</a> · <a href=\"/features/\">Todos os recursos</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Visão geral Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Status e atualizações",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Loja</a> and read the <a href=\"/setup/\">Guia de instalação</a> before checkout.",
-								"Check the <a href=\"/updates/\">Guia de cheats indetectáveis</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Suporte</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. buscas unlock-all vs ferramentas reais ESP e Aimbot Links relacionados: <a href=\"/pricing/\">Loja</a> · <a href=\"/setup/\">Guia de instalação</a>.",
+								"Licenças com entrega digital instantânea via checkout checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC. Links relacionados: <a href=\"/updates/\">Guia de cheats indetectáveis</a>.",
+								"Verifique Updates após patches VAC. Nenhum cheat garante status permanente. Links relacionados: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Suporte</a>.",
 							],
 						},
 					],
@@ -6692,35 +6692,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Cheat Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. manutenzione VAC dopo patch VAC",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Cheat Dota 2 — Funzioni",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Guida cheat </a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Manutenzione VAC</a>. Feature stack: <a href=\"/features/\">Tutte le funzioni</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. manutenzione VAC dopo patch VAC Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/vac-bypass/\">Manutenzione VAC</a> · <a href=\"/features/\">Tutte le funzioni</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Cheat Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Negozio</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Guida installazione</a> after delivery.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. manutenzione VAC dopo patch VAC Link correlati: <a href=\"/faq/\">FAQ</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-cheats-2026/\">cheat Dota 2 2026</a> · <a href=\"/setup/\">Guida installazione</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Cheat Dota 2 — Primi passi",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Guida cheat </a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Manutenzione VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. manutenzione VAC dopo patch VAC Link correlati: <a href=\"/updates/\">Guida cheat </a> · <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/compare/\">Confronta</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium nel 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">guida acquirenti</a>.",
 							],
 						},
 					],
@@ -6738,27 +6738,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. wallhack ESP per giocatori, wards and runes e distanza",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. wallhack ESP per giocatori, wards and runes e distanza",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Stato e aggiornamenti",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Guida cheat </a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Negozio</a> or continue to the <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. wallhack ESP per giocatori, wards and runes e distanza Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/pricing/\">Negozio</a> · <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>.",
 							],
 						},
 					],
@@ -6814,43 +6814,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Panoramica",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. come vengono gestiti gli aggiornamenti VAC per Dota 2 cheats Link correlati: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Funzioni",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Guida cheat </a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. come vengono gestiti gli aggiornamenti VAC per Dota 2 cheats Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Stato e aggiornamenti",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Supporto</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Negozio</a> and finish <a href=\"/setup/\">Guida installazione</a> only after <a href=\"/updates/\">Guida cheat </a> shows a live build.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. come vengono gestiti gli aggiornamenti VAC per Dota 2 cheats Link correlati: <a href=\"/faq/\">FAQ</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/support/\">Supporto</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/pricing/\">Negozio</a> · <a href=\"/setup/\">Guida installazione</a> · <a href=\"/updates/\">Guida cheat </a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Primi passi",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. come vengono gestiti gli aggiornamenti VAC per Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. come vengono gestiti gli aggiornamenti VAC per Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Guida cheat </a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Manutenzione VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/updates/\">Guida cheat </a> · <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -6868,35 +6868,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheat Dota 2 2026 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. checklist dota 2 cheats 2026 prima del checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Guida cheat </a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Negozio</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a> · <a href=\"/updates/\">Guida cheat </a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheat Dota 2 2026 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. checklist dota 2 cheats 2026 prima del checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheat Dota 2 2026 — Stato e aggiornamenti",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Supporto</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. checklist dota 2 cheats 2026 prima del checkout Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guida forum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/support/\">Supporto</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheat Dota 2 2026 — Primi passi",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Prodotto completo</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. checklist dota 2 cheats 2026 prima del checkout Link correlati: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/\">Prodotto completo</a> · <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Guida forum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">guida completa 2026</a>.",
 							],
 						},
 					],
@@ -6987,27 +6987,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Download Dota 2 Cheats — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. download licenza digitale dopo il pagamento",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Guida installazione</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/setup/\">Guida installazione</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Download Dota 2 Cheats — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. download licenza digitale dopo il pagamento",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Negozio</a>.",
-								"Feature detail: <a href=\"/features/\">Tutte le funzioni</a>. Module pages: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/features/\">Tutte le funzioni</a> · <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Download Dota 2 Cheats — Stato e aggiornamenti",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Guida cheat </a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Supporto</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. download licenza digitale dopo il pagamento Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/support/\">Supporto</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -7025,27 +7025,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Mod menu Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. toggle ESP e Skillshot assist in-client",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Mod menu Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. toggle ESP e Skillshot assist in-client",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> profiles before aggressive FOV.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Mod menu Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Guida cheat </a> and <a href=\"/vac-bypass/\">Manutenzione VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Negozio</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Guida installazione</a> after your license email arrives.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. toggle ESP e Skillshot assist in-client Link correlati: <a href=\"/updates/\">Guida cheat </a> · <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/setup/\">Guida installazione</a>.",
 							],
 						},
 					],
@@ -7063,27 +7063,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. impostazioni Skillshot assist fluide per Windows PC",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. impostazioni Skillshot assist fluide per Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Guida cheat </a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Negozio</a>.",
-								"Activation help: <a href=\"/setup/\">Guida installazione</a> · status questions: <a href=\"/support/\">Supporto</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. impostazioni Skillshot assist fluide per Windows PC Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/setup/\">Guida installazione</a> · <a href=\"/support/\">Supporto</a>.",
 							],
 						},
 					],
@@ -7101,23 +7101,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Migliori cheat Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. cosa confrontare prima di acquistare dota 2 cheats",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Guida cheat </a> note before you judge any package “best.”",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a> · <a href=\"/updates/\">Guida cheat </a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Migliori cheat Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. cosa confrontare prima di acquistare dota 2 cheats",
-								"Review <a href=\"/features/\">Tutte le funzioni</a>, <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>, <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/features/\">Tutte le funzioni</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Migliori cheat Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. cosa confrontare prima di acquistare dota 2 cheats",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
@@ -7125,11 +7125,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Migliori cheat Dota 2 — Primi passi",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Guida cheat </a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Negozio</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. cosa confrontare prima di acquistare dota 2 cheats Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Confronta</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Negozio</a>.",
 							],
 						},
 					],
@@ -7147,27 +7147,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. assistenza hack Aimbot per Dota 2",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot e Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. assistenza hack Aimbot per Dota 2",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Guida cheat </a> and <a href=\"/vac-bypass/\">Manutenzione VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Negozio</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. assistenza hack Aimbot per Dota 2 Link correlati: <a href=\"/updates/\">Guida cheat </a> · <a href=\"/vac-bypass/\">Manutenzione VAC</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>.",
 							],
 						},
 					],
@@ -7185,27 +7185,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. box ESP hack, pin wards and runesa e distanza",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/dota2-esp/\">Guida ESP e wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. box ESP hack, pin wards and runesa e distanza",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Guida cheat </a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Negozio</a>.",
-								"Install steps: <a href=\"/setup/\">Guida installazione</a>. Status questions: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. box ESP hack, pin wards and runesa e distanza Link correlati: <a href=\"/updates/\">Guida cheat </a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/pricing/\">Negozio</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/setup/\">Guida installazione</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -7223,27 +7223,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Panoramica",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. ricerche unlock-all vs veri strumenti ESP e Aimbot",
 								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 su PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Funzioni",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. ricerche unlock-all vs veri strumenti ESP e Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> and <a href=\"/features/\">Tutte le funzioni</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/dota2-esp/\">Guida ESP e wallhack</a> · <a href=\"/features/\">Tutte le funzioni</a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Panoramica Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Stato e aggiornamenti",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Negozio</a> and read the <a href=\"/setup/\">Guida installazione</a> before checkout.",
-								"Check the <a href=\"/updates/\">Guida cheat </a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Supporto</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. ricerche unlock-all vs veri strumenti ESP e Aimbot Link correlati: <a href=\"/pricing/\">Negozio</a> · <a href=\"/setup/\">Guida installazione</a>.",
+								"Licenze con consegna digitale istantanea via checkout checkout. Piani $35/mese e $150 a vita includono manutenzione VAC. Link correlati: <a href=\"/updates/\">Guida cheat </a>.",
+								"Controlla Updates dopo patch VAC. Nessun cheat garantisce stato permanente. Link correlati: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Supporto</a>.",
 							],
 						},
 					],
@@ -7902,35 +7902,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "dota 2 cheats — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. VAC-onderhoud na VAC patches",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "dota 2 cheats — Functies",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">dota 2 cheats gids</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC onderhoud</a>. Feature stack: <a href=\"/features/\">Alle functies</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. VAC-onderhoud na VAC patches Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/vac-bypass/\">VAC onderhoud</a> · <a href=\"/features/\">Alle functies</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "dota 2 cheats — Status en updates",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Winkel</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Installatiegids</a> after delivery.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. VAC-onderhoud na VAC patches Gerelateerde links: <a href=\"/faq/\">FAQ</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> · <a href=\"/setup/\">Installatiegids</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "dota 2 cheats — Aan de slag",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">dota 2 cheats gids</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC onderhoud</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. VAC-onderhoud na VAC patches Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a> · <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/compare/\">Vergelijken</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC-bypass FAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">kopersgids</a>.",
 							],
 						},
 					],
@@ -7948,27 +7948,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wallhack ESP voor spelers, heldsen en afstand",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wallhack ESP voor spelers, heldsen en afstand",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> cues for flanks during arena corners and vertical fights.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status en updates",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">dota 2 cheats gids</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Winkel</a> or continue to the <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> landing for alternate search wording.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wallhack ESP voor spelers, heldsen en afstand Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/pricing/\">Winkel</a> · <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>.",
 							],
 						},
 					],
@@ -8024,43 +8024,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — Overzicht",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. hoe VAC updates worden afgehandeld voor Dota 2 cheats Gerelateerde links: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — Functies",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">dota 2 cheats gids</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. hoe VAC updates worden afgehandeld voor Dota 2 cheats Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — Status en updates",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Winkel</a> and finish <a href=\"/setup/\">Installatiegids</a> only after <a href=\"/updates/\">dota 2 cheats gids</a> shows a live build.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. hoe VAC updates worden afgehandeld voor Dota 2 cheats Gerelateerde links: <a href=\"/faq/\">FAQ</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/support/\">Support</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/pricing/\">Winkel</a> · <a href=\"/setup/\">Installatiegids</a> · <a href=\"/updates/\">dota 2 cheats gids</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — Aan de slag",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. hoe VAC updates worden afgehandeld voor Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/faq/dota2-vac-bypass/\">VAC-bypass FAQ</a>.",
 								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. hoe VAC updates worden afgehandeld voor Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">dota 2 cheats gids</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC onderhoud</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a> · <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 					],
@@ -8078,35 +8078,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. 2026 dota 2 cheats checklist vóór checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">dota 2 cheats gids</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Winkel</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a> · <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. 2026 dota 2 cheats checklist vóór checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>, <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>, <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>, <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — Status en updates",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. 2026 dota 2 cheats checklist vóór checkout Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forumgids 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — Aan de slag",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Volledig product</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. 2026 dota 2 cheats checklist vóór checkout Gerelateerde links: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/\">Volledig product</a> · <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forumgids 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">volledige gids 2026</a>.",
 							],
 						},
 					],
@@ -8197,27 +8197,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. digitale licentiedownload na betaling",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Installatiegids</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/setup/\">Installatiegids</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. digitale licentiedownload na betaling",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Winkel</a>.",
-								"Feature detail: <a href=\"/features/\">Alle functies</a>. Module pages: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>, <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/features/\">Alle functies</a> · <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — Status en updates",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">dota 2 cheats gids</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. digitale licentiedownload na betaling Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/support/\">Support</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 					],
@@ -8235,27 +8235,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod Menu — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. in-client ESP en Skillshot assist toggles",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>, <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod Menu — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. in-client ESP en Skillshot assist toggles",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> profiles before aggressive FOV.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod Menu — Status en updates",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">dota 2 cheats gids</a> and <a href=\"/vac-bypass/\">VAC onderhoud</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Winkel</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Installatiegids</a> after your license email arrives.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. in-client ESP en Skillshot assist toggles Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a> · <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/setup/\">Installatiegids</a>.",
 							],
 						},
 					],
@@ -8273,27 +8273,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. vloeiende Skillshot assist instellingen voor Windows PC",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. vloeiende Skillshot assist instellingen voor Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> and <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> overlays.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — Status en updates",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">dota 2 cheats gids</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Winkel</a>.",
-								"Activation help: <a href=\"/setup/\">Installatiegids</a> · status questions: <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. vloeiende Skillshot assist instellingen voor Windows PC Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/setup/\">Installatiegids</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -8311,23 +8311,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Beste Dota 2 Cheats — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wat te vergelijken vóór aankoop van dota 2 cheats",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">dota 2 cheats gids</a> note before you judge any package “best.”",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a> · <a href=\"/updates/\">dota 2 cheats gids</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Beste Dota 2 Cheats — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wat te vergelijken vóór aankoop van dota 2 cheats",
-								"Review <a href=\"/features/\">Alle functies</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>, <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/features/\">Alle functies</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Beste Dota 2 Cheats — Status en updates",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wat te vergelijken vóór aankoop van dota 2 cheats",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
@@ -8335,11 +8335,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Beste Dota 2 Cheats — Aan de slag",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">dota 2 cheats gids</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Winkel</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. wat te vergelijken vóór aankoop van dota 2 cheats Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Vergelijken</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Winkel</a>.",
 							],
 						},
 					],
@@ -8357,27 +8357,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hack — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Aimbot hack assist voor Dota 2",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot en Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hack — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Aimbot hack assist voor Dota 2",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hack — Status en updates",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">dota 2 cheats gids</a> and <a href=\"/vac-bypass/\">VAC onderhoud</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Winkel</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> for the full information + assist loop.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Aimbot hack assist voor Dota 2 Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a> · <a href=\"/vac-bypass/\">VAC onderhoud</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>.",
 							],
 						},
 					],
@@ -8395,27 +8395,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hack — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. ESP hack boxen, held pins en afstand",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hack — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. ESP hack boxen, held pins en afstand",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hack — Status en updates",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">dota 2 cheats gids</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Winkel</a>.",
-								"Install steps: <a href=\"/setup/\">Installatiegids</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. ESP hack boxen, held pins en afstand Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/pricing/\">Winkel</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/setup/\">Installatiegids</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 					],
@@ -8433,27 +8433,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — Overzicht",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. unlock-all zoekopdrachten vs echte ESP en Aimbot tools",
 								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 op PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — Functies",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. unlock-all zoekopdrachten vs echte ESP en Aimbot tools",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> and <a href=\"/features/\">Alle functies</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/dota2-esp/\">ESP- en wallhack-gids</a> · <a href=\"/features/\">Alle functies</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats overzicht</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — Status en updates",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Winkel</a> and read the <a href=\"/setup/\">Installatiegids</a> before checkout.",
-								"Check the <a href=\"/updates/\">dota 2 cheats gids</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Support</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. unlock-all zoekopdrachten vs echte ESP en Aimbot tools Gerelateerde links: <a href=\"/pricing/\">Winkel</a> · <a href=\"/setup/\">Installatiegids</a>.",
+								"Licenties met directe digitale levering via checkout checkout. $35/maand en $150 lifetime incl. VAC-onderhoud. Gerelateerde links: <a href=\"/updates/\">dota 2 cheats gids</a>.",
+								"Check Updates na VAC-patches. Geen cheat garandeert permanent patch status. Gerelateerde links: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -9112,35 +9112,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Cheaty Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. konserwacja VAC po patchach VAC",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Cheaty Dota 2 — Funkcje",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Status patchy</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Konserwacja VAC</a>. Feature stack: <a href=\"/features/\">Wszystkie funkcje</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. konserwacja VAC po patchach VAC Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/vac-bypass/\">Konserwacja VAC</a> · <a href=\"/features/\">Wszystkie funkcje</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Cheaty Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Sklep</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Przewodnik instalacji</a> after delivery.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. konserwacja VAC po patchach VAC Powiązane linki: <a href=\"/faq/\">FAQ</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-cheats-2026/\">cheaty Dota 2 2026</a> · <a href=\"/setup/\">Przewodnik instalacji</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Cheaty Dota 2 — Pierwsze kroki",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Status patchy</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Konserwacja VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. konserwacja VAC po patchach VAC Powiązane linki: <a href=\"/updates/\">Status patchy</a> · <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/compare/\">Porównaj</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium w 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">przewodnik kupującego</a>.",
 							],
 						},
 					],
@@ -9158,27 +9158,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wallhack ESP dla graczy, bohaterów i dystansu",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wallhack ESP dla graczy, bohaterów i dystansu",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status i aktualizacje",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Status patchy</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Sklep</a> or continue to the <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wallhack ESP dla graczy, bohaterów i dystansu Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a> · <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/pricing/\">Sklep</a> · <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>.",
 							],
 						},
 					],
@@ -9234,43 +9234,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Przegląd",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. jak obsługiwane są aktualizacje VAC dla Dota 2 cheats Powiązane linki: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Funkcje",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Status patchy</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. jak obsługiwane są aktualizacje VAC dla Dota 2 cheats Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Status i aktualizacje",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Wsparcie</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Sklep</a> and finish <a href=\"/setup/\">Przewodnik instalacji</a> only after <a href=\"/updates/\">Status patchy</a> shows a live build.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. jak obsługiwane są aktualizacje VAC dla Dota 2 cheats Powiązane linki: <a href=\"/faq/\">FAQ</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/support/\">Wsparcie</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/pricing/\">Sklep</a> · <a href=\"/setup/\">Przewodnik instalacji</a> · <a href=\"/updates/\">Status patchy</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Pierwsze kroki",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. jak obsługiwane są aktualizacje VAC dla Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. jak obsługiwane są aktualizacje VAC dla Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Status patchy</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Konserwacja VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/updates/\">Status patchy</a> · <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -9288,35 +9288,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheaty Dota 2 2026 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. checklista dota 2 cheats 2026 przed checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Status patchy</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Sklep</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a> · <a href=\"/updates/\">Status patchy</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheaty Dota 2 2026 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. checklista dota 2 cheats 2026 przed checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>, <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>, <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> · <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheaty Dota 2 2026 — Status i aktualizacje",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Wsparcie</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. checklista dota 2 cheats 2026 przed checkout Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Przewodnik forum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/support/\">Wsparcie</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheaty Dota 2 2026 — Pierwsze kroki",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Pełny produkt</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. checklista dota 2 cheats 2026 przed checkout Powiązane linki: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/\">Pełny produkt</a> · <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Przewodnik forum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">pełny przewodnik 2026</a>.",
 							],
 						},
 					],
@@ -9407,27 +9407,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Pobieranie Dota 2 Cheats — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. cyfrowe pobranie licencji po płatności",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Przewodnik instalacji</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/setup/\">Przewodnik instalacji</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Pobieranie Dota 2 Cheats — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. cyfrowe pobranie licencji po płatności",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Sklep</a>.",
-								"Feature detail: <a href=\"/features/\">Wszystkie funkcje</a>. Module pages: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/features/\">Wszystkie funkcje</a> · <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Pobieranie Dota 2 Cheats — Status i aktualizacje",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Status patchy</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Wsparcie</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. cyfrowe pobranie licencji po płatności Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/support/\">Wsparcie</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -9445,27 +9445,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Mod menu Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. przełączniki ESP i Skillshot assist w kliencie",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Mod menu Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. przełączniki ESP i Skillshot assist w kliencie",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> profiles before aggressive FOV.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Mod menu Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Status patchy</a> and <a href=\"/vac-bypass/\">Konserwacja VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Sklep</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Przewodnik instalacji</a> after your license email arrives.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. przełączniki ESP i Skillshot assist w kliencie Powiązane linki: <a href=\"/updates/\">Status patchy</a> · <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/setup/\">Przewodnik instalacji</a>.",
 							],
 						},
 					],
@@ -9483,27 +9483,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. płynne ustawienia Skillshot assist dla Windows PC",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. płynne ustawienia Skillshot assist dla Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a> overlays.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Status patchy</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Sklep</a>.",
-								"Activation help: <a href=\"/setup/\">Przewodnik instalacji</a> · status questions: <a href=\"/support/\">Wsparcie</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. płynne ustawienia Skillshot assist dla Windows PC Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/setup/\">Przewodnik instalacji</a> · <a href=\"/support/\">Wsparcie</a>.",
 							],
 						},
 					],
@@ -9521,23 +9521,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Najlepsze cheaty Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. co porównać przed zakupem dota 2 cheats",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Status patchy</a> note before you judge any package “best.”",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a> · <a href=\"/updates/\">Status patchy</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Najlepsze cheaty Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. co porównać przed zakupem dota 2 cheats",
-								"Review <a href=\"/features/\">Wszystkie funkcje</a>, <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>, <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/features/\">Wszystkie funkcje</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Najlepsze cheaty Dota 2 — Status i aktualizacje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. co porównać przed zakupem dota 2 cheats",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
@@ -9545,11 +9545,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Najlepsze cheaty Dota 2 — Pierwsze kroki",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Status patchy</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Sklep</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. co porównać przed zakupem dota 2 cheats Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Porównaj</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Sklep</a>.",
 							],
 						},
 					],
@@ -9567,27 +9567,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Aimbot hack assist dla Dota 2",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot i Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Aimbot hack assist dla Dota 2",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Status patchy</a> and <a href=\"/vac-bypass/\">Konserwacja VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Sklep</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Aimbot hack assist dla Dota 2 Powiązane linki: <a href=\"/updates/\">Status patchy</a> · <a href=\"/vac-bypass/\">Konserwacja VAC</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>.",
 							],
 						},
 					],
@@ -9605,27 +9605,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. boxy ESP hack, piny bohaterów i dystans",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. boxy ESP hack, piny bohaterów i dystans",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Status patchy</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Sklep</a>.",
-								"Install steps: <a href=\"/setup/\">Przewodnik instalacji</a>. Status questions: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. boxy ESP hack, piny bohaterów i dystans Powiązane linki: <a href=\"/updates/\">Status patchy</a> · <a href=\"/dota2-radar-hack/\">Overlay radaru 2D</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/pricing/\">Sklep</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/setup/\">Przewodnik instalacji</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -9643,27 +9643,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Przegląd",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot",
 								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Funkcje",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> and <a href=\"/features/\">Wszystkie funkcje</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/dota2-esp/\">Przewodnik ESP i wallhack</a> · <a href=\"/features/\">Wszystkie funkcje</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Przegląd Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Status i aktualizacje",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Sklep</a> and read the <a href=\"/setup/\">Przewodnik instalacji</a> before checkout.",
-								"Check the <a href=\"/updates/\">Status patchy</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Wsparcie</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. wyszukiwania unlock-all vs prawdziwe narzędzia ESP i Aimbot Powiązane linki: <a href=\"/pricing/\">Sklep</a> · <a href=\"/setup/\">Przewodnik instalacji</a>.",
+								"Licencje z natychmiastowa dostawa cyfrowa przez checkout checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC. Powiązane linki: <a href=\"/updates/\">Status patchy</a>.",
+								"Sprawdź Updates po patchach VAC. Żaden cheat nie gwarantuje permanentnego patch statusu. Powiązane linki: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Wsparcie</a>.",
 							],
 						},
 					],
@@ -10322,35 +10322,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "читы Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. обслуживание VAC после патчей VAC",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "читы Dota 2 — Функции",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Статус патчей</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Обслуживание VAC</a>. Feature stack: <a href=\"/features/\">Все функции</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. обслуживание VAC после патчей VAC Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/vac-bypass/\">Обслуживание VAC</a> · <a href=\"/features/\">Все функции</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "читы Dota 2 — Статус и обновления",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Магазин</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Гайд по установке</a> after delivery.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. обслуживание VAC после патчей VAC Полезные ссылки: <a href=\"/faq/\">FAQ</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-cheats-2026/\">читы Dota 2 2026</a> · <a href=\"/setup/\">Гайд по установке</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "читы Dota 2 — С чего начать",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Статус патчей</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Обслуживание VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. обслуживание VAC после патчей VAC Полезные ссылки: <a href=\"/updates/\">Статус патчей</a> · <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/compare/\">Сравнение</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">премиум в 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ обхода VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">гайд покупателя</a>.",
 							],
 						},
 					],
@@ -10368,27 +10368,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. wallhack ESP для игроков, героев и дистанции",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. wallhack ESP для игроков, героев и дистанции",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D радар overlay</a> cues for flanks during arena corners and vertical fights.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Статус и обновления",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Статус патчей</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. wallhack ESP для игроков, героев и дистанции Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/premium-dota2-cheats/\">читы Dota 2</a> · <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/pricing/\">Магазин</a> · <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>.",
 							],
 						},
 					],
@@ -10444,43 +10444,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Обзор",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. как обрабатываются обновления VAC для Dota 2 cheats Полезные ссылки: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Функции",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Статус патчей</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. как обрабатываются обновления VAC для Dota 2 cheats Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Статус и обновления",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Поддержка</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Магазин</a> and finish <a href=\"/setup/\">Гайд по установке</a> only after <a href=\"/updates/\">Статус патчей</a> shows a live build.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. как обрабатываются обновления VAC для Dota 2 cheats Полезные ссылки: <a href=\"/faq/\">FAQ</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/support/\">Поддержка</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/pricing/\">Магазин</a> · <a href=\"/setup/\">Гайд по установке</a> · <a href=\"/updates/\">Статус патчей</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — С чего начать",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. как обрабатываются обновления VAC для Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/faq/dota2-vac-bypass/\">FAQ обхода VAC</a>.",
 								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. как обрабатываются обновления VAC для Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Статус патчей</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Обслуживание VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/updates/\">Статус патчей</a> · <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/premium-dota2-cheats/\">читы Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -10498,35 +10498,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Читы Dota 2 2026 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Статус патчей</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a> · <a href=\"/updates/\">Статус патчей</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Читы Dota 2 2026 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>, <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>, <a href=\"/dota2-radar-hack/\">2D радар overlay</a>, <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> · <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Читы Dota 2 2026 — Статус и обновления",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Поддержка</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Гайд форума 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/support/\">Поддержка</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Читы Dota 2 2026 — С чего начать",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Полный продукт</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout Полезные ссылки: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/\">Полный продукт</a> · <a href=\"/premium-dota2-cheats/\">читы Dota 2</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Гайд форума 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">полный гайд 2026</a>.",
 							],
 						},
 					],
@@ -10617,27 +10617,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Скачать Dota 2 Cheats — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. цифровая загрузка лицензии после оплаты",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Гайд по установке</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/setup/\">Гайд по установке</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Скачать Dota 2 Cheats — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. цифровая загрузка лицензии после оплаты",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Магазин</a>.",
-								"Feature detail: <a href=\"/features/\">Все функции</a>. Module pages: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/features/\">Все функции</a> · <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Скачать Dota 2 Cheats — Статус и обновления",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Статус патчей</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Поддержка</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. цифровая загрузка лицензии после оплаты Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/support/\">Поддержка</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -10655,27 +10655,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Мод-меню Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. переключатели ESP и Skillshot assist в клиенте",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Мод-меню Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. переключатели ESP и Skillshot assist в клиенте",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> profiles before aggressive FOV.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Мод-меню Dota 2 — Статус и обновления",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Статус патчей</a> and <a href=\"/vac-bypass/\">Обслуживание VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Магазин</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Гайд по установке</a> after your license email arrives.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. переключатели ESP и Skillshot assist в клиенте Полезные ссылки: <a href=\"/updates/\">Статус патчей</a> · <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/setup/\">Гайд по установке</a>.",
 							],
 						},
 					],
@@ -10693,27 +10693,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. плавные настройки Skillshot assist для Windows PC",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. плавные настройки Skillshot assist для Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> and <a href=\"/dota2-radar-hack/\">2D радар overlay</a> overlays.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Статус и обновления",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Статус патчей</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Магазин</a>.",
-								"Activation help: <a href=\"/setup/\">Гайд по установке</a> · status questions: <a href=\"/support/\">Поддержка</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. плавные настройки Skillshot assist для Windows PC Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/setup/\">Гайд по установке</a> · <a href=\"/support/\">Поддержка</a>.",
 							],
 						},
 					],
@@ -10731,23 +10731,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Лучшие читы Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. что сравнить перед покупкой dota 2 cheats",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Статус патчей</a> note before you judge any package “best.”",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a> · <a href=\"/updates/\">Статус патчей</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Лучшие читы Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. что сравнить перед покупкой dota 2 cheats",
-								"Review <a href=\"/features/\">Все функции</a>, <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>, <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/features/\">Все функции</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Лучшие читы Dota 2 — Статус и обновления",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. что сравнить перед покупкой dota 2 cheats",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
@@ -10755,11 +10755,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Лучшие читы Dota 2 — С чего начать",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Статус патчей</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. что сравнить перед покупкой dota 2 cheats Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Сравнение</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 					],
@@ -10777,27 +10777,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Хак aimbot Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Aimbot hack assist для Dota 2",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot и Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Хак aimbot Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Aimbot hack assist для Dota 2",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Хак aimbot Dota 2 — Статус и обновления",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Статус патчей</a> and <a href=\"/vac-bypass/\">Обслуживание VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Магазин</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Aimbot hack assist для Dota 2 Полезные ссылки: <a href=\"/updates/\">Статус патчей</a> · <a href=\"/vac-bypass/\">Обслуживание VAC</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>.",
 							],
 						},
 					],
@@ -10815,27 +10815,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Хак ESP Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. ESP hack боксы, pins героев и дистанция",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Хак ESP Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. ESP hack боксы, pins героев и дистанция",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Хак ESP Dota 2 — Статус и обновления",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Статус патчей</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D радар overlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Магазин</a>.",
-								"Install steps: <a href=\"/setup/\">Гайд по установке</a>. Status questions: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. ESP hack боксы, pins героев и дистанция Полезные ссылки: <a href=\"/updates/\">Статус патчей</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/pricing/\">Магазин</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/setup/\">Гайд по установке</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -10853,27 +10853,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Обзор",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. поиски unlock-all vs настоящие ESP и Aimbot инструменты",
 								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Функции",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. поиски unlock-all vs настоящие ESP и Aimbot инструменты",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> and <a href=\"/features/\">Все функции</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/dota2-esp/\">Гайд ESP и wallhack</a> · <a href=\"/features/\">Все функции</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Обзор Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Статус и обновления",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Магазин</a> and read the <a href=\"/setup/\">Гайд по установке</a> before checkout.",
-								"Check the <a href=\"/updates/\">Статус патчей</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Поддержка</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. поиски unlock-all vs настоящие ESP и Aimbot инструменты Полезные ссылки: <a href=\"/pricing/\">Магазин</a> · <a href=\"/setup/\">Гайд по установке</a>.",
+								"Лицензии с мгновенная цифровая доставка через checkout checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC. Полезные ссылки: <a href=\"/updates/\">Статус патчей</a>.",
+								"Проверяйте Updates после патчей VAC. Ни один чит не гарантирует постоянный reliable статус. Полезные ссылки: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Поддержка</a>.",
 							],
 						},
 					],
@@ -11532,35 +11532,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Dota 2 hileleri — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. VAC yamalarından sonra VAC bakımı",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Dota 2 hileleri — Özellikler",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Reliable hile rehberi</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC bakımı</a>. Feature stack: <a href=\"/features/\">Tüm özellikler</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. VAC yamalarından sonra VAC bakımı İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/vac-bypass/\">VAC bakımı</a> · <a href=\"/features/\">Tüm özellikler</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Dota 2 hileleri — Durum ve güncellemeler",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">SSS</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Mağaza</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Kurulum rehberi</a> after delivery.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. VAC yamalarından sonra VAC bakımı İlgili bağlantılar: <a href=\"/faq/\">SSS</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-cheats-2026/\">dota 2 hileleri 2026</a> · <a href=\"/setup/\">Kurulum rehberi</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Dota 2 hileleri — İlk adımlar",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Reliable hile rehberi</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC bakımı</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. VAC yamalarından sonra VAC bakımı İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a> · <a href=\"/vac-bypass/\">VAC bakımı</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/compare/\">Karşılaştır</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">2026 premium</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC bypass SSS</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">alıcı rehberi</a>.",
 							],
 						},
 					],
@@ -11578,27 +11578,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. oyuncular, düşmanler ve mesafe için wallhack ESP",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. oyuncular, düşmanler ve mesafe için wallhack ESP",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D radar overlay</a> cues for flanks during arena corners and vertical fights.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Durum ve güncellemeler",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Reliable hile rehberi</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC bakımı</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Mağaza</a> or continue to the <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> landing for alternate search wording.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. oyuncular, düşmanler ve mesafe için wallhack ESP İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/premium-dota2-cheats/\">dota 2 hileleri</a> · <a href=\"/vac-bypass/\">VAC bakımı</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a> · <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>.",
 							],
 						},
 					],
@@ -11654,43 +11654,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC bypass — Genel bakış",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 cheats için VAC güncellemelerinin nasıl yönetildiği İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC bypass — Özellikler",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Reliable hile rehberi</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 cheats için VAC güncellemelerinin nasıl yönetildiği İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC bypass — Durum ve güncellemeler",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">SSS</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Destek</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Mağaza</a> and finish <a href=\"/setup/\">Kurulum rehberi</a> only after <a href=\"/updates/\">Reliable hile rehberi</a> shows a live build.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 cheats için VAC güncellemelerinin nasıl yönetildiği İlgili bağlantılar: <a href=\"/faq/\">SSS</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/support/\">Destek</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a> · <a href=\"/setup/\">Kurulum rehberi</a> · <a href=\"/updates/\">Reliable hile rehberi</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC bypass — İlk adımlar",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 cheats için VAC güncellemelerinin nasıl yönetildiği",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/faq/dota2-vac-bypass/\">VAC bypass SSS</a>.",
 								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC bypass — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 cheats için VAC güncellemelerinin nasıl yönetildiği",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Reliable hile rehberi</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC bakımı</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a> · <a href=\"/vac-bypass/\">VAC bakımı</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/premium-dota2-cheats/\">dota 2 hileleri</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 					],
@@ -11708,35 +11708,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Hileleri 2026 — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. checkout öncesi 2026 dota 2 cheats kontrol listesi",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Reliable hile rehberi</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Mağaza</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a> · <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Hileleri 2026 — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. checkout öncesi 2026 dota 2 cheats kontrol listesi",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>, <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/dota2-radar-hack/\">2D radar overlay</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Hileleri 2026 — Durum ve güncellemeler",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">SSS</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Destek</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. checkout öncesi 2026 dota 2 cheats kontrol listesi İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 forum rehberi</a> · <a href=\"/faq/\">SSS</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/support/\">Destek</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Hileleri 2026 — İlk adımlar",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Tam ürün</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. checkout öncesi 2026 dota 2 cheats kontrol listesi İlgili bağlantılar: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/\">Tam ürün</a> · <a href=\"/premium-dota2-cheats/\">dota 2 hileleri</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 forum rehberi</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">eksiksiz 2026 rehberi</a>.",
 							],
 						},
 					],
@@ -11827,27 +11827,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Hile İndir — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ödeme sonrası dijital lisans indirme",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Kurulum rehberi</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/setup/\">Kurulum rehberi</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Hile İndir — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ödeme sonrası dijital lisans indirme",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Mağaza</a>.",
-								"Feature detail: <a href=\"/features/\">Tüm özellikler</a>. Module pages: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/features/\">Tüm özellikler</a> · <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Hile İndir — Durum ve güncellemeler",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Reliable hile rehberi</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Destek</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ödeme sonrası dijital lisans indirme İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/support/\">Destek</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 					],
@@ -11865,27 +11865,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod Menü — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. istemci içi ESP ve Skillshot assist toggle'ları",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod Menü — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. istemci içi ESP ve Skillshot assist toggle'ları",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> profiles before aggressive FOV.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod Menü — Durum ve güncellemeler",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Reliable hile rehberi</a> and <a href=\"/vac-bypass/\">VAC bakımı</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Mağaza</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Kurulum rehberi</a> after your license email arrives.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. istemci içi ESP ve Skillshot assist toggle'ları İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a> · <a href=\"/vac-bypass/\">VAC bakımı</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/setup/\">Kurulum rehberi</a>.",
 							],
 						},
 					],
@@ -11903,27 +11903,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Windows PC için akıcı Skillshot assist ayarları",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Windows PC için akıcı Skillshot assist ayarları",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> and <a href=\"/dota2-radar-hack/\">2D radar overlay</a> overlays.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — Durum ve güncellemeler",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Reliable hile rehberi</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Mağaza</a>.",
-								"Activation help: <a href=\"/setup/\">Kurulum rehberi</a> · status questions: <a href=\"/support/\">Destek</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Windows PC için akıcı Skillshot assist ayarları İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/setup/\">Kurulum rehberi</a> · <a href=\"/support/\">Destek</a>.",
 							],
 						},
 					],
@@ -11941,23 +11941,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "En İyi Dota 2 Hileleri — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. dota 2 cheats satın almadan önce ne karşılaştırılmalı",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Reliable hile rehberi</a> note before you judge any package “best.”",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a> · <a href=\"/updates/\">Reliable hile rehberi</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "En İyi Dota 2 Hileleri — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. dota 2 cheats satın almadan önce ne karşılaştırılmalı",
-								"Review <a href=\"/features/\">Tüm özellikler</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>, <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/features/\">Tüm özellikler</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "En İyi Dota 2 Hileleri — Durum ve güncellemeler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. dota 2 cheats satın almadan önce ne karşılaştırılmalı",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
@@ -11965,11 +11965,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "En İyi Dota 2 Hileleri — İlk adımlar",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Reliable hile rehberi</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Mağaza</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. dota 2 cheats satın almadan önce ne karşılaştırılmalı İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Karşılaştır</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Mağaza</a>.",
 							],
 						},
 					],
@@ -11987,27 +11987,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hilesi — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 için Aimbot hack assist",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot ve Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hilesi — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 için Aimbot hack assist",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hilesi — Durum ve güncellemeler",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Reliable hile rehberi</a> and <a href=\"/vac-bypass/\">VAC bakımı</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Mağaza</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> for the full information + assist loop.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Dota 2 için Aimbot hack assist İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a> · <a href=\"/vac-bypass/\">VAC bakımı</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>.",
 							],
 						},
 					],
@@ -12025,27 +12025,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hilesi — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ESP hack kutuları, düşman pinleri ve mesafe",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hilesi — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ESP hack kutuları, düşman pinleri ve mesafe",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hilesi — Durum ve güncellemeler",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Reliable hile rehberi</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D radar overlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Mağaza</a>.",
-								"Install steps: <a href=\"/setup/\">Kurulum rehberi</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. ESP hack kutuları, düşman pinleri ve mesafe İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/setup/\">Kurulum rehberi</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 					],
@@ -12063,27 +12063,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — Genel bakış",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. unlock-all aramaları vs gerçek ESP ve Aimbot araçları",
 								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC'de Dota 2</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — Özellikler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. unlock-all aramaları vs gerçek ESP ve Aimbot araçları",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> and <a href=\"/features/\">Tüm özellikler</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/dota2-esp/\">ESP ve wallhack rehberi</a> · <a href=\"/features/\">Tüm özellikler</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats genel bakış</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — Durum ve güncellemeler",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Mağaza</a> and read the <a href=\"/setup/\">Kurulum rehberi</a> before checkout.",
-								"Check the <a href=\"/updates/\">Reliable hile rehberi</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">SSS</a> and <a href=\"/support/\">Destek</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. unlock-all aramaları vs gerçek ESP ve Aimbot araçları İlgili bağlantılar: <a href=\"/pricing/\">Mağaza</a> · <a href=\"/setup/\">Kurulum rehberi</a>.",
+								"checkout checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir. İlgili bağlantılar: <a href=\"/updates/\">Reliable hile rehberi</a>.",
+								"VAC yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı reliable garantisi vermez. İlgili bağlantılar: <a href=\"/faq/\">SSS</a> · <a href=\"/support/\">Destek</a>.",
 							],
 						},
 					],
@@ -12742,35 +12742,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "غش Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صيانة VAC بعد patch VAC",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "غش Dota 2 — الميزات",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">دليل الغش غير المكتشف</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">صيانة VAC</a>. Feature stack: <a href=\"/features/\">جميع الميزات</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صيانة VAC بعد patch VAC روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/vac-bypass/\">صيانة VAC</a> · <a href=\"/features/\">جميع الميزات</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "غش Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">الأسئلة الشائعة</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">المتجر</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">دليل التثبيت</a> after delivery.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صيانة VAC بعد patch VAC روابط ذات صلة: <a href=\"/faq/\">الأسئلة الشائعة</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-cheats-2026/\">غش Dota 2 2026</a> · <a href=\"/setup/\">دليل التثبيت</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "غش Dota 2 — البدء",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">دليل الغش غير المكتشف</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">صيانة VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صيانة VAC بعد patch VAC روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a> · <a href=\"/vac-bypass/\">صيانة VAC</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/compare/\">مقارنة</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">بريميوم 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">أسئلة تجاوز VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">دليل المشتري</a>.",
 							],
 						},
 					],
@@ -12788,27 +12788,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. wallhack ESP للاعبين والجيف والمسافة",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. wallhack ESP للاعبين والجيف والمسافة",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a> cues for flanks during arena corners and vertical fights.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — الحالة والتحديثات",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">دليل الغش غير المكتشف</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">صيانة VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">المتجر</a> or continue to the <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. wallhack ESP للاعبين والجيف والمسافة روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/premium-dota2-cheats/\">غش Dota 2</a> · <a href=\"/vac-bypass/\">صيانة VAC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a> · <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>.",
 							],
 						},
 					],
@@ -12864,43 +12864,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — نظرة عامة",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. كيف تُدار تحديثات VAC لـ Dota 2 cheats روابط ذات صلة: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — الميزات",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">دليل الغش غير المكتشف</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. كيف تُدار تحديثات VAC لـ Dota 2 cheats روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — الحالة والتحديثات",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">الأسئلة الشائعة</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">الدعم</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">المتجر</a> and finish <a href=\"/setup/\">دليل التثبيت</a> only after <a href=\"/updates/\">دليل الغش غير المكتشف</a> shows a live build.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. كيف تُدار تحديثات VAC لـ Dota 2 cheats روابط ذات صلة: <a href=\"/faq/\">الأسئلة الشائعة</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/support/\">الدعم</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a> · <a href=\"/setup/\">دليل التثبيت</a> · <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — البدء",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. كيف تُدار تحديثات VAC لـ Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/faq/dota2-vac-bypass/\">أسئلة تجاوز VAC</a>.",
 								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. كيف تُدار تحديثات VAC لـ Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">دليل الغش غير المكتشف</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">صيانة VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a> · <a href=\"/vac-bypass/\">صيانة VAC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/premium-dota2-cheats/\">غش Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -12918,35 +12918,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "غش Dota 2 2026 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. قائمة dota 2 cheats 2026 قبل checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">دليل الغش غير المكتشف</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">المتجر</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a> · <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "غش Dota 2 2026 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. قائمة dota 2 cheats 2026 قبل checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>, <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>, <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>, <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> · <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "غش Dota 2 2026 — الحالة والتحديثات",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">الأسئلة الشائعة</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">الدعم</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. قائمة dota 2 cheats 2026 قبل checkout روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">دليل المنتدى 2026</a> · <a href=\"/faq/\">الأسئلة الشائعة</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/support/\">الدعم</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "غش Dota 2 2026 — البدء",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">المنتج الكامل</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. قائمة dota 2 cheats 2026 قبل checkout روابط ذات صلة: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/\">المنتج الكامل</a> · <a href=\"/premium-dota2-cheats/\">غش Dota 2</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/forums/dota2-cheats-2026-whats-new/\">دليل المنتدى 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">الدليل الكامل 2026</a>.",
 							],
 						},
 					],
@@ -13037,27 +13037,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "تحميل Dota 2 Cheats — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. تنزيل ترخيص رقمي بعد الدفع",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">دليل التثبيت</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/setup/\">دليل التثبيت</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "تحميل Dota 2 Cheats — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. تنزيل ترخيص رقمي بعد الدفع",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">المتجر</a>.",
-								"Feature detail: <a href=\"/features/\">جميع الميزات</a>. Module pages: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/features/\">جميع الميزات</a> · <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "تحميل Dota 2 Cheats — الحالة والتحديثات",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">دليل الغش غير المكتشف</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">الدعم</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. تنزيل ترخيص رقمي بعد الدفع روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/support/\">الدعم</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -13075,27 +13075,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "قائمة مود Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مفاتيح ESP وSkillshot assist داخل العميل",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>, <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> · <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "قائمة مود Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مفاتيح ESP وSkillshot assist داخل العميل",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> profiles before aggressive FOV.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "قائمة مود Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">دليل الغش غير المكتشف</a> and <a href=\"/vac-bypass/\">صيانة VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">المتجر</a>.",
-								"Need install steps? Open <a href=\"/setup/\">دليل التثبيت</a> after your license email arrives.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مفاتيح ESP وSkillshot assist داخل العميل روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a> · <a href=\"/vac-bypass/\">صيانة VAC</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/setup/\">دليل التثبيت</a>.",
 							],
 						},
 					],
@@ -13113,27 +13113,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. إعدادات Skillshot assist سلسة لـ Windows PC",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. إعدادات Skillshot assist سلسة لـ Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> and <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a> overlays.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">دليل الغش غير المكتشف</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">المتجر</a>.",
-								"Activation help: <a href=\"/setup/\">دليل التثبيت</a> · status questions: <a href=\"/support/\">الدعم</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. إعدادات Skillshot assist سلسة لـ Windows PC روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/setup/\">دليل التثبيت</a> · <a href=\"/support/\">الدعم</a>.",
 							],
 						},
 					],
@@ -13151,23 +13151,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "أفضل غش Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. ما يجب مقارنته قبل شراء dota 2 cheats",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">دليل الغش غير المكتشف</a> note before you judge any package “best.”",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a> · <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "أفضل غش Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. ما يجب مقارنته قبل شراء dota 2 cheats",
-								"Review <a href=\"/features/\">جميع الميزات</a>, <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>, <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/features/\">جميع الميزات</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "أفضل غش Dota 2 — الحالة والتحديثات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. ما يجب مقارنته قبل شراء dota 2 cheats",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
@@ -13175,11 +13175,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "أفضل غش Dota 2 — البدء",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">دليل الغش غير المكتشف</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">المتجر</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. ما يجب مقارنته قبل شراء dota 2 cheats روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">مقارنة</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">المتجر</a>.",
 							],
 						},
 					],
@@ -13197,27 +13197,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "هاك Aimbot Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مساعدة hack Aimbot reliable لـ Dota 2",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot وSkillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "هاك Aimbot Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مساعدة hack Aimbot reliable لـ Dota 2",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "هاك Aimbot Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">دليل الغش غير المكتشف</a> and <a href=\"/vac-bypass/\">صيانة VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">المتجر</a>.",
-								"Pair with <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. مساعدة hack Aimbot reliable لـ Dota 2 روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a> · <a href=\"/vac-bypass/\">صيانة VAC</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>.",
 							],
 						},
 					],
@@ -13235,27 +13235,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "هاك ESP Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صناديق ESP hack وpins الجيف والمسافة",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/dota2-esp/\">دليل ESP وWallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "هاك ESP Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صناديق ESP hack وpins الجيف والمسافة",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "هاك ESP Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">دليل الغش غير المكتشف</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">المتجر</a>.",
-								"Install steps: <a href=\"/setup/\">دليل التثبيت</a>. Status questions: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. صناديق ESP hack وpins الجيف والمسافة روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a> · <a href=\"/dota2-radar-hack/\">تراكب رادار 2D</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/pricing/\">المتجر</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/setup/\">دليل التثبيت</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -13273,27 +13273,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — نظرة عامة",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية",
 								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 على PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — الميزات",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> and <a href=\"/features/\">جميع الميزات</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/dota2-esp/\">دليل ESP وWallhack</a> · <a href=\"/features/\">جميع الميزات</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">نظرة عامة على Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — الحالة والتحديثات",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">المتجر</a> and read the <a href=\"/setup/\">دليل التثبيت</a> before checkout.",
-								"Check the <a href=\"/updates/\">دليل الغش غير المكتشف</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">الأسئلة الشائعة</a> and <a href=\"/support/\">الدعم</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. بحث unlock-all مقابل أدوات ESP وAimbot الحقيقية روابط ذات صلة: <a href=\"/pricing/\">المتجر</a> · <a href=\"/setup/\">دليل التثبيت</a>.",
+								"تراخيص مع تسليم رقمي فوري عبر checkout checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC. روابط ذات صلة: <a href=\"/updates/\">دليل الغش غير المكتشف</a>.",
+								"راجع Updates بعد تص patches VAC. لا يضمن أي غش حالة reliable دائمة. روابط ذات صلة: <a href=\"/faq/\">الأسئلة الشائعة</a> · <a href=\"/support/\">الدعم</a>.",
 							],
 						},
 					],
@@ -13952,35 +13952,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Dota 2チート — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。VACパッチ後のVACメンテナンス",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Dota 2チート — 機能",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Reliableチートガイド</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VACメンテナンス</a>. Feature stack: <a href=\"/features/\">全機能</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。VACパッチ後のVACメンテナンス 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/vac-bypass/\">VACメンテナンス</a> · <a href=\"/features/\">全機能</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Dota 2チート — ステータスと更新",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">ストア</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">セットアップガイド</a> after delivery.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。VACパッチ後のVACメンテナンス 関連リンク: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-cheats-2026/\">Dota 2チート 2026</a> · <a href=\"/setup/\">セットアップガイド</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Dota 2チート — はじめに",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Reliableチートガイド</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VACメンテナンス</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。VACパッチ後のVACメンテナンス 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a> · <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/compare/\">比較</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">2026年プレミアム</a> · <a href=\"/faq/dota2-vac-bypass/\">VACバイパスFAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">購入者ガイド</a>.",
 							],
 						},
 					],
@@ -13998,27 +13998,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。プレイヤー、敵、距離向けwallhack ESP",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。プレイヤー、敵、距離向けwallhack ESP",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a> cues for flanks during arena corners and vertical fights.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — ステータスと更新",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Reliableチートガイド</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">ストア</a> or continue to the <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> landing for alternate search wording.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。プレイヤー、敵、距離向けwallhack ESP 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/premium-dota2-cheats/\">Dota 2チート</a> · <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/pricing/\">ストア</a> · <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>.",
 							],
 						},
 					],
@@ -14074,43 +14074,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — 概要",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 cheats向けVAC更新の対応方法 関連リンク: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — 機能",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Reliableチートガイド</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 cheats向けVAC更新の対応方法 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — ステータスと更新",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">サポート</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">ストア</a> and finish <a href=\"/setup/\">セットアップガイド</a> only after <a href=\"/updates/\">Reliableチートガイド</a> shows a live build.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 cheats向けVAC更新の対応方法 関連リンク: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/support/\">サポート</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/pricing/\">ストア</a> · <a href=\"/setup/\">セットアップガイド</a> · <a href=\"/updates/\">Reliableチートガイド</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — はじめに",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 cheats向けVAC更新の対応方法",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/faq/dota2-vac-bypass/\">VACバイパスFAQ</a>.",
 								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 cheats向けVAC更新の対応方法",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Reliableチートガイド</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VACメンテナンス</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a> · <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/premium-dota2-cheats/\">Dota 2チート</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 					],
@@ -14128,35 +14128,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。checkout前の2026 dota 2 cheatsチェックリスト",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Reliableチートガイド</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">ストア</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a> · <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。checkout前の2026 dota 2 cheatsチェックリスト",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>, <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>, <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>, <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — ステータスと更新",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">サポート</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。checkout前の2026 dota 2 cheatsチェックリスト 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026フォーラムガイド</a> · <a href=\"/faq/\">FAQ</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/support/\">サポート</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — はじめに",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">製品全体</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。checkout前の2026 dota 2 cheatsチェックリスト 関連リンク: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/\">製品全体</a> · <a href=\"/premium-dota2-cheats/\">Dota 2チート</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026フォーラムガイド</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">完全版2026ガイド</a>.",
 							],
 						},
 					],
@@ -14247,27 +14247,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。支払い後のデジタルライセンスダウンロード",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">セットアップガイド</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/setup/\">セットアップガイド</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。支払い後のデジタルライセンスダウンロード",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">ストア</a>.",
-								"Feature detail: <a href=\"/features/\">全機能</a>. Module pages: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>, <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/features/\">全機能</a> · <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — ステータスと更新",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Reliableチートガイド</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">サポート</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> so you know what “download ready” means after a patch.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。支払い後のデジタルライセンスダウンロード 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/support/\">サポート</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 					],
@@ -14285,27 +14285,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod Menu — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。クライアント内ESPとSkillshot assistトグル",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>, <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod Menu — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。クライアント内ESPとSkillshot assistトグル",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> profiles before aggressive FOV.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod Menu — ステータスと更新",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Reliableチートガイド</a> and <a href=\"/vac-bypass/\">VACメンテナンス</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">ストア</a>.",
-								"Need install steps? Open <a href=\"/setup/\">セットアップガイド</a> after your license email arrives.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。クライアント内ESPとSkillshot assistトグル 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a> · <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/setup/\">セットアップガイド</a>.",
 							],
 						},
 					],
@@ -14323,27 +14323,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Windows PC向けスムーズなSkillshot assist設定",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Windows PC向けスムーズなSkillshot assist設定",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> and <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a> overlays.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — ステータスと更新",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Reliableチートガイド</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">ストア</a>.",
-								"Activation help: <a href=\"/setup/\">セットアップガイド</a> · status questions: <a href=\"/support/\">サポート</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Windows PC向けスムーズなSkillshot assist設定 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/setup/\">セットアップガイド</a> · <a href=\"/support/\">サポート</a>.",
 							],
 						},
 					],
@@ -14361,23 +14361,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "最強Dota 2チート — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。dota 2 cheats購入前に比較すべき点",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Reliableチートガイド</a> note before you judge any package “best.”",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a> · <a href=\"/updates/\">Reliableチートガイド</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "最強Dota 2チート — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。dota 2 cheats購入前に比較すべき点",
-								"Review <a href=\"/features/\">全機能</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>, <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/features/\">全機能</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "最強Dota 2チート — ステータスと更新",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。dota 2 cheats購入前に比較すべき点",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
@@ -14385,11 +14385,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "最強Dota 2チート — はじめに",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Reliableチートガイド</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ストア</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。dota 2 cheats購入前に比較すべき点 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">比較</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ストア</a>.",
 							],
 						},
 					],
@@ -14407,27 +14407,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hack — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2向けAimbot hack assist",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot・Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hack — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2向けAimbot hack assist",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hack — ステータスと更新",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Reliableチートガイド</a> and <a href=\"/vac-bypass/\">VACメンテナンス</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">ストア</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> for the full information + assist loop.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2向けAimbot hack assist 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a> · <a href=\"/vac-bypass/\">VACメンテナンス</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>.",
 							],
 						},
 					],
@@ -14445,27 +14445,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hack — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。ESP hackボックス、敵pin、距離",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hack — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。ESP hackボックス、敵pin、距離",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hack — ステータスと更新",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Reliableチートガイド</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">ストア</a>.",
-								"Install steps: <a href=\"/setup/\">セットアップガイド</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。ESP hackボックス、敵pin、距離 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a> · <a href=\"/dota2-radar-hack/\">2Dレーダーオーバーレイ</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/pricing/\">ストア</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/setup/\">セットアップガイド</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 					],
@@ -14483,27 +14483,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — 概要",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。unlock-all検索 vs 本物のESPとAimbotツール",
 								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — 機能",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。unlock-all検索 vs 本物のESPとAimbotツール",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> and <a href=\"/features/\">全機能</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/dota2-esp/\">ESP・Wallhackガイド</a> · <a href=\"/features/\">全機能</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概要</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — ステータスと更新",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">ストア</a> and read the <a href=\"/setup/\">セットアップガイド</a> before checkout.",
-								"Check the <a href=\"/updates/\">Reliableチートガイド</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">サポート</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。unlock-all検索 vs 本物のESPとAimbotツール 関連リンク: <a href=\"/pricing/\">ストア</a> · <a href=\"/setup/\">セットアップガイド</a>.",
+								"checkout checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。 関連リンク: <a href=\"/updates/\">Reliableチートガイド</a>.",
+								"VACパッチ後はUpdatesページを確認。永久reliableは保証されません。 関連リンク: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">サポート</a>.",
 							],
 						},
 					],
@@ -15162,35 +15162,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Dota 2 치트 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. VAC 패치 후 VAC 유지보수",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Dota 2 치트 — 기능",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Reliable 치트 가이드</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC 유지보수</a>. Feature stack: <a href=\"/features/\">모든 기능</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. VAC 패치 후 VAC 유지보수 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/vac-bypass/\">VAC 유지보수</a> · <a href=\"/features/\">모든 기능</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Dota 2 치트 — 상태 및 업데이트",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">스토어</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">설치 가이드</a> after delivery.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. VAC 패치 후 VAC 유지보수 관련 링크: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-cheats-2026/\">Dota 2 치트 2026</a> · <a href=\"/setup/\">설치 가이드</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Dota 2 치트 — 시작하기",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Reliable 치트 가이드</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC 유지보수</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. VAC 패치 후 VAC 유지보수 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a> · <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/compare/\">비교</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">2026 프리미엄</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC 우회 FAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">구매자 가이드</a>.",
 							],
 						},
 					],
@@ -15208,27 +15208,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 플레이어, 적, 거리용 wallhack ESP",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 플레이어, 적, 거리용 wallhack ESP",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a> cues for flanks during arena corners and vertical fights.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — 상태 및 업데이트",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Reliable 치트 가이드</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">스토어</a> or continue to the <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> landing for alternate search wording.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 플레이어, 적, 거리용 wallhack ESP 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/premium-dota2-cheats/\">Dota 2 치트</a> · <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/pricing/\">스토어</a> · <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>.",
 							],
 						},
 					],
@@ -15284,43 +15284,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — 개요",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 cheats용 VAC 업데이트 처리 방법 관련 링크: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — 기능",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Reliable 치트 가이드</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 cheats용 VAC 업데이트 처리 방법 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — 상태 및 업데이트",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">지원</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">스토어</a> and finish <a href=\"/setup/\">설치 가이드</a> only after <a href=\"/updates/\">Reliable 치트 가이드</a> shows a live build.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 cheats용 VAC 업데이트 처리 방법 관련 링크: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/support/\">지원</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/pricing/\">스토어</a> · <a href=\"/setup/\">설치 가이드</a> · <a href=\"/updates/\">Reliable 치트 가이드</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — 시작하기",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 cheats용 VAC 업데이트 처리 방법",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/faq/dota2-vac-bypass/\">VAC 우회 FAQ</a>.",
 								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 cheats용 VAC 업데이트 처리 방법",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Reliable 치트 가이드</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC 유지보수</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a> · <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/premium-dota2-cheats/\">Dota 2 치트</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 					],
@@ -15338,35 +15338,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. checkout 전 2026 dota 2 cheats 체크리스트",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Reliable 치트 가이드</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">스토어</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a> · <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. checkout 전 2026 dota 2 cheats 체크리스트",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>, <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — 상태 및 업데이트",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">지원</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. checkout 전 2026 dota 2 cheats 체크리스트 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 포럼 가이드</a> · <a href=\"/faq/\">FAQ</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/support/\">지원</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — 시작하기",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">전체 제품</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. checkout 전 2026 dota 2 cheats 체크리스트 관련 링크: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/\">전체 제품</a> · <a href=\"/premium-dota2-cheats/\">Dota 2 치트</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 포럼 가이드</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">완전 가이드 2026</a>.",
 							],
 						},
 					],
@@ -15457,27 +15457,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 결제 후 디지털 라이선스 다운로드",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">설치 가이드</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/setup/\">설치 가이드</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 결제 후 디지털 라이선스 다운로드",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">스토어</a>.",
-								"Feature detail: <a href=\"/features/\">모든 기능</a>. Module pages: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/features/\">모든 기능</a> · <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — 상태 및 업데이트",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Reliable 치트 가이드</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">지원</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 결제 후 디지털 라이선스 다운로드 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/support/\">지원</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 					],
@@ -15495,27 +15495,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 모드 메뉴 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 클라이언트 내 ESP 및 Skillshot assist 토글",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 모드 메뉴 — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 클라이언트 내 ESP 및 Skillshot assist 토글",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> profiles before aggressive FOV.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 모드 메뉴 — 상태 및 업데이트",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Reliable 치트 가이드</a> and <a href=\"/vac-bypass/\">VAC 유지보수</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">스토어</a>.",
-								"Need install steps? Open <a href=\"/setup/\">설치 가이드</a> after your license email arrives.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 클라이언트 내 ESP 및 Skillshot assist 토글 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a> · <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/setup/\">설치 가이드</a>.",
 							],
 						},
 					],
@@ -15533,27 +15533,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Windows PC용 부드러운 Skillshot assist 설정",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Windows PC용 부드러운 Skillshot assist 설정",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> and <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a> overlays.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — 상태 및 업데이트",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Reliable 치트 가이드</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">스토어</a>.",
-								"Activation help: <a href=\"/setup/\">설치 가이드</a> · status questions: <a href=\"/support/\">지원</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Windows PC용 부드러운 Skillshot assist 설정 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/setup/\">설치 가이드</a> · <a href=\"/support/\">지원</a>.",
 							],
 						},
 					],
@@ -15571,23 +15571,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "최고의 Dota 2 치트 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. dota 2 cheats 구매 전 비교할 항목",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Reliable 치트 가이드</a> note before you judge any package “best.”",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a> · <a href=\"/updates/\">Reliable 치트 가이드</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "최고의 Dota 2 치트 — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. dota 2 cheats 구매 전 비교할 항목",
-								"Review <a href=\"/features/\">모든 기능</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>, <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/features/\">모든 기능</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "최고의 Dota 2 치트 — 상태 및 업데이트",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. dota 2 cheats 구매 전 비교할 항목",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
@@ -15595,11 +15595,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "최고의 Dota 2 치트 — 시작하기",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Reliable 치트 가이드</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">스토어</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. dota 2 cheats 구매 전 비교할 항목 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">비교</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">스토어</a>.",
 							],
 						},
 					],
@@ -15617,27 +15617,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 에임봇 핵 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2용 Aimbot hack assist",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot 및 Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 에임봇 핵 — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2용 Aimbot hack assist",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 에임봇 핵 — 상태 및 업데이트",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Reliable 치트 가이드</a> and <a href=\"/vac-bypass/\">VAC 유지보수</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">스토어</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> for the full information + assist loop.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2용 Aimbot hack assist 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a> · <a href=\"/vac-bypass/\">VAC 유지보수</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>.",
 							],
 						},
 					],
@@ -15655,27 +15655,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP 핵 — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. ESP hack 박스, 적 pin, 거리",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP 핵 — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. ESP hack 박스, 적 pin, 거리",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP 핵 — 상태 및 업데이트",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Reliable 치트 가이드</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">스토어</a>.",
-								"Install steps: <a href=\"/setup/\">설치 가이드</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. ESP hack 박스, 적 pin, 거리 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a> · <a href=\"/dota2-radar-hack/\">2D 레이더 오버레이</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/pricing/\">스토어</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/setup/\">설치 가이드</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 					],
@@ -15693,27 +15693,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — 개요",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구",
 								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC Dota 2</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — 기능",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> and <a href=\"/features/\">모든 기능</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/dota2-esp/\">ESP 및 wallhack 가이드</a> · <a href=\"/features/\">모든 기능</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats 개요</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — 상태 및 업데이트",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">스토어</a> and read the <a href=\"/setup/\">설치 가이드</a> before checkout.",
-								"Check the <a href=\"/updates/\">Reliable 치트 가이드</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">지원</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. unlock-all 검색 vs 실제 ESP 및 Aimbot 도구 관련 링크: <a href=\"/pricing/\">스토어</a> · <a href=\"/setup/\">설치 가이드</a>.",
+								"checkout checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함. 관련 링크: <a href=\"/updates/\">Reliable 치트 가이드</a>.",
+								"VAC 패치 후 Updates 페이지 확인. 영구 reliable 보장 없음. 관련 링크: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">지원</a>.",
 							],
 						},
 					],
@@ -16372,35 +16372,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Dota 2作弊 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。VAC补丁后的VAC维护",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Dota 2作弊 — 功能",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Reliable作弊指南</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC维护</a>. Feature stack: <a href=\"/features/\">所有功能</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。VAC补丁后的VAC维护 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/vac-bypass/\">VAC维护</a> · <a href=\"/features/\">所有功能</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Dota 2作弊 — 状态与更新",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">常见问题</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">商店</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">安装指南</a> after delivery.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。VAC补丁后的VAC维护 相关链接: <a href=\"/faq/\">常见问题</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-cheats-2026/\">Dota 2 作弊 2026</a> · <a href=\"/setup/\">安装指南</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Dota 2作弊 — 入门",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Reliable作弊指南</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC维护</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。VAC补丁后的VAC维护 相关链接: <a href=\"/updates/\">Reliable作弊指南</a> · <a href=\"/vac-bypass/\">VAC维护</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/compare/\">对比</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">2026高级版</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC绕过常见问题</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">买家指南</a>.",
 							],
 						},
 					],
@@ -16418,27 +16418,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。玩家、敌人和距离的wallhack ESP",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP和透视指南</a>; for combat assist see <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。玩家、敌人和距离的wallhack ESP",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a> cues for flanks during arena corners and vertical fights.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — 状态与更新",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Reliable作弊指南</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC维护</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">商店</a> or continue to the <a href=\"/dota2-esp/\">ESP和透视指南</a> landing for alternate search wording.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。玩家、敌人和距离的wallhack ESP 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/premium-dota2-cheats/\">Dota 2 作弊</a> · <a href=\"/vac-bypass/\">VAC维护</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/pricing/\">商店</a> · <a href=\"/dota2-esp/\">ESP和透视指南</a>.",
 							],
 						},
 					],
@@ -16494,43 +16494,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — 概览",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 cheats的VAC更新处理方式 相关链接: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — 功能",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Reliable作弊指南</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 cheats的VAC更新处理方式 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — 状态与更新",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">常见问题</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">支持</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">商店</a> and finish <a href=\"/setup/\">安装指南</a> only after <a href=\"/updates/\">Reliable作弊指南</a> shows a live build.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 cheats的VAC更新处理方式 相关链接: <a href=\"/faq/\">常见问题</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/support/\">支持</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/pricing/\">商店</a> · <a href=\"/setup/\">安装指南</a> · <a href=\"/updates/\">Reliable作弊指南</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — 入门",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 cheats的VAC更新处理方式",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/faq/dota2-vac-bypass/\">VAC绕过常见问题</a>.",
 								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 cheats的VAC更新处理方式",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Reliable作弊指南</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC维护</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/updates/\">Reliable作弊指南</a> · <a href=\"/vac-bypass/\">VAC维护</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/premium-dota2-cheats/\">Dota 2 作弊</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 					],
@@ -16548,35 +16548,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2作弊 2026 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。checkout前的2026 dota 2 cheats清单",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Reliable作弊指南</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">商店</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a> · <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/pricing/\">商店</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2作弊 2026 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。checkout前的2026 dota 2 cheats清单",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>, <a href=\"/dota2-esp/\">ESP和透视指南</a>, <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>, <a href=\"/dota2-esp/\">ESP和透视指南</a>, <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> · <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2作弊 2026 — 状态与更新",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">常见问题</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">支持</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。checkout前的2026 dota 2 cheats清单 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026论坛指南</a> · <a href=\"/faq/\">常见问题</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/support/\">支持</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2作弊 2026 — 入门",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> and ESP toggles.",
-								"Compare against <a href=\"/\">完整产品</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。checkout前的2026 dota 2 cheats清单 相关链接: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/\">完整产品</a> · <a href=\"/premium-dota2-cheats/\">Dota 2 作弊</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026论坛指南</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">完整2026指南</a>.",
 							],
 						},
 					],
@@ -16667,27 +16667,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2作弊下载 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。付款后的数字许可证下载",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">安装指南</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/setup/\">安装指南</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2作弊下载 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。付款后的数字许可证下载",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">商店</a>.",
-								"Feature detail: <a href=\"/features/\">所有功能</a>. Module pages: <a href=\"/dota2-esp/\">ESP和透视指南</a>, <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/features/\">所有功能</a> · <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2作弊下载 — 状态与更新",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Reliable作弊指南</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">支持</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。付款后的数字许可证下载 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/support/\">支持</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 					],
@@ -16705,27 +16705,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2修改菜单 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。客户端内ESP和Skillshot assist开关",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP和透视指南</a>, <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>, <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> · <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2修改菜单 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。客户端内ESP和Skillshot assist开关",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> profiles before aggressive FOV.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2修改菜单 — 状态与更新",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Reliable作弊指南</a> and <a href=\"/vac-bypass/\">VAC维护</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">商店</a>.",
-								"Need install steps? Open <a href=\"/setup/\">安装指南</a> after your license email arrives.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。客户端内ESP和Skillshot assist开关 相关链接: <a href=\"/updates/\">Reliable作弊指南</a> · <a href=\"/vac-bypass/\">VAC维护</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/setup/\">安装指南</a>.",
 							],
 						},
 					],
@@ -16743,27 +16743,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Windows PC的流畅Skillshot assist设置",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>. Alternate wording: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Windows PC的流畅Skillshot assist设置",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP和透视指南</a> and <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a> overlays.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — 状态与更新",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Reliable作弊指南</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">商店</a>.",
-								"Activation help: <a href=\"/setup/\">安装指南</a> · status questions: <a href=\"/support/\">支持</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Windows PC的流畅Skillshot assist设置 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/setup/\">安装指南</a> · <a href=\"/support/\">支持</a>.",
 							],
 						},
 					],
@@ -16781,23 +16781,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "最佳Dota 2作弊 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。购买dota 2 cheats前应比较的内容",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Reliable作弊指南</a> note before you judge any package “best.”",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a> · <a href=\"/updates/\">Reliable作弊指南</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "最佳Dota 2作弊 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。购买dota 2 cheats前应比较的内容",
-								"Review <a href=\"/features/\">所有功能</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP和透视指南</a>, <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/features/\">所有功能</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "最佳Dota 2作弊 — 状态与更新",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。购买dota 2 cheats前应比较的内容",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
@@ -16805,11 +16805,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "最佳Dota 2作弊 — 入门",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Reliable作弊指南</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">商店</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。购买dota 2 cheats前应比较的内容 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">对比</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">商店</a>.",
 							],
 						},
 					],
@@ -16827,27 +16827,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2自瞄外挂 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2的Aimbot hack assist",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>. Full settings: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a> · <a href=\"/dota2-aimbot/\">自瞄和软瞄准</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2自瞄外挂 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2的Aimbot hack assist",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2自瞄外挂 — 状态与更新",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Reliable作弊指南</a> and <a href=\"/vac-bypass/\">VAC维护</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">商店</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP和透视指南</a> for the full information + assist loop.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2的Aimbot hack assist 相关链接: <a href=\"/updates/\">Reliable作弊指南</a> · <a href=\"/vac-bypass/\">VAC维护</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a>.",
 							],
 						},
 					],
@@ -16865,27 +16865,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP外挂 — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。ESP hack方框、敌人pin和距离",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP和透视指南</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP和透视指南</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/dota2-esp/\">ESP和透视指南</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP外挂 — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。ESP hack方框、敌人pin和距离",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP外挂 — 状态与更新",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Reliable作弊指南</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">商店</a>.",
-								"Install steps: <a href=\"/setup/\">安装指南</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。ESP hack方框、敌人pin和距离 相关链接: <a href=\"/updates/\">Reliable作弊指南</a> · <a href=\"/dota2-radar-hack/\">2D雷达覆盖</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/pricing/\">商店</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/setup/\">安装指南</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 					],
@@ -16903,27 +16903,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — 概览",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具",
 								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC版Dota 2</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — 功能",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP和透视指南</a> and <a href=\"/features/\">所有功能</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/dota2-esp/\">ESP和透视指南</a> · <a href=\"/features/\">所有功能</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats概览</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — 状态与更新",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">商店</a> and read the <a href=\"/setup/\">安装指南</a> before checkout.",
-								"Check the <a href=\"/updates/\">Reliable作弊指南</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">常见问题</a> and <a href=\"/support/\">支持</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。unlock-all搜索 vs 真正的ESP和Aimbot工具 相关链接: <a href=\"/pricing/\">商店</a> · <a href=\"/setup/\">安装指南</a>.",
+								"通过checkout checkout即时数字交付。$35/月和$150终身含VAC维护。 相关链接: <a href=\"/updates/\">Reliable作弊指南</a>.",
+								"VAC补丁后请查看Updates页面。无任何作弊保证永久reliable。 相关链接: <a href=\"/faq/\">常见问题</a> · <a href=\"/support/\">支持</a>.",
 							],
 						},
 					],
@@ -17582,35 +17582,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "dota 2 cheats — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। VAC patches के बाद VAC maintenance",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "dota 2 cheats — फ़ीचर",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">dota 2 cheats गाइड</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC रखरखाव</a>. Feature stack: <a href=\"/features/\">सभी फ़ीचर्स</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। VAC patches के बाद VAC maintenance संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/vac-bypass/\">VAC रखरखाव</a> · <a href=\"/features/\">सभी फ़ीचर्स</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "dota 2 cheats — स्थिति और अपडेट",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">स्टोर</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">सेटअप गाइड</a> after delivery.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। VAC patches के बाद VAC maintenance संबंधित लिंक: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> · <a href=\"/setup/\">सेटअप गाइड</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "dota 2 cheats — शुरुआत",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">dota 2 cheats गाइड</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC रखरखाव</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। VAC patches के बाद VAC maintenance संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a> · <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/compare/\">तुलना</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">2026 में प्रीमियम</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC बायपास FAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">खरीदार गाइड</a>.",
 							],
 						},
 					],
@@ -17628,27 +17628,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। players, wards and runes और distance के लिए wallhack ESP",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। players, wards and runes और distance के लिए wallhack ESP",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a> cues for flanks during arena corners and vertical fights.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — स्थिति और अपडेट",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">dota 2 cheats गाइड</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">स्टोर</a> or continue to the <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> landing for alternate search wording.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। players, wards and runes और distance के लिए wallhack ESP संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a> · <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>.",
 							],
 						},
 					],
@@ -17704,43 +17704,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — अवलोकन",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 cheats के लिए VAC updates कैसे handle होते हैं संबंधित लिंक: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता।",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — फ़ीचर",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">dota 2 cheats गाइड</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 cheats के लिए VAC updates कैसे handle होते हैं संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — स्थिति और अपडेट",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">सहायता</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">स्टोर</a> and finish <a href=\"/setup/\">सेटअप गाइड</a> only after <a href=\"/updates/\">dota 2 cheats गाइड</a> shows a live build.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 cheats के लिए VAC updates कैसे handle होते हैं संबंधित लिंक: <a href=\"/faq/\">FAQ</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/support/\">सहायता</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a> · <a href=\"/setup/\">सेटअप गाइड</a> · <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — शुरुआत",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 cheats के लिए VAC updates कैसे handle होते हैं",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/faq/dota2-vac-bypass/\">VAC बायपास FAQ</a>.",
 								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता।",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 cheats के लिए VAC updates कैसे handle होते हैं",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">dota 2 cheats गाइड</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC रखरखाव</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a> · <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 					],
@@ -17758,35 +17758,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। checkout से पहले 2026 dota 2 cheats checklist",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">dota 2 cheats गाइड</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">स्टोर</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a> · <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। checkout से पहले 2026 dota 2 cheats checklist",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>, <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>, <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>, <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता।",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — स्थिति और अपडेट",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">सहायता</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। checkout से पहले 2026 dota 2 cheats checklist संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 फ़ोरम गाइड</a> · <a href=\"/faq/\">FAQ</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/support/\">सहायता</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — शुरुआत",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">पूरा उत्पाद</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। checkout से पहले 2026 dota 2 cheats checklist संबंधित लिंक: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/\">पूरा उत्पाद</a> · <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 फ़ोरम गाइड</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">पूर्ण 2026 गाइड</a>.",
 							],
 						},
 					],
@@ -17877,27 +17877,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। payment के बाद digital license download",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">सेटअप गाइड</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/setup/\">सेटअप गाइड</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। payment के बाद digital license download",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">स्टोर</a>.",
-								"Feature detail: <a href=\"/features/\">सभी फ़ीचर्स</a>. Module pages: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>, <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/features/\">सभी फ़ीचर्स</a> · <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — स्थिति और अपडेट",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">dota 2 cheats गाइड</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">सहायता</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। payment के बाद digital license download संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/support/\">सहायता</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 					],
@@ -17915,27 +17915,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod Menu — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। in-client ESP और Skillshot assist toggles",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>, <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod Menu — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। in-client ESP और Skillshot assist toggles",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> profiles before aggressive FOV.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod Menu — स्थिति और अपडेट",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">dota 2 cheats गाइड</a> and <a href=\"/vac-bypass/\">VAC रखरखाव</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">स्टोर</a>.",
-								"Need install steps? Open <a href=\"/setup/\">सेटअप गाइड</a> after your license email arrives.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। in-client ESP और Skillshot assist toggles संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a> · <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/setup/\">सेटअप गाइड</a>.",
 							],
 						},
 					],
@@ -17953,27 +17953,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Windows PC के लिए smooth Skillshot assist settings",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Windows PC के लिए smooth Skillshot assist settings",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> and <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a> overlays.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — स्थिति और अपडेट",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">dota 2 cheats गाइड</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">स्टोर</a>.",
-								"Activation help: <a href=\"/setup/\">सेटअप गाइड</a> · status questions: <a href=\"/support/\">सहायता</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Windows PC के लिए smooth Skillshot assist settings संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/setup/\">सेटअप गाइड</a> · <a href=\"/support/\">सहायता</a>.",
 							],
 						},
 					],
@@ -17991,23 +17991,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "सर्वश्रेष्ठ Dota 2 Cheats — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। dota 2 cheats खरीदने से पहले क्या compare करें",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">dota 2 cheats गाइड</a> note before you judge any package “best.”",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a> · <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "सर्वश्रेष्ठ Dota 2 Cheats — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। dota 2 cheats खरीदने से पहले क्या compare करें",
-								"Review <a href=\"/features/\">सभी फ़ीचर्स</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>, <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/features/\">सभी फ़ीचर्स</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "सर्वश्रेष्ठ Dota 2 Cheats — स्थिति और अपडेट",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। dota 2 cheats खरीदने से पहले क्या compare करें",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
@@ -18015,11 +18015,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "सर्वश्रेष्ठ Dota 2 Cheats — शुरुआत",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">dota 2 cheats गाइड</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">स्टोर</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। dota 2 cheats खरीदने से पहले क्या compare करें संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">तुलना</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">स्टोर</a>.",
 							],
 						},
 					],
@@ -18037,27 +18037,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hack — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 के लिए Aimbot hack assist",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot और Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hack — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 के लिए Aimbot hack assist",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hack — स्थिति और अपडेट",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">dota 2 cheats गाइड</a> and <a href=\"/vac-bypass/\">VAC रखरखाव</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">स्टोर</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> for the full information + assist loop.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। Dota 2 के लिए Aimbot hack assist संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a> · <a href=\"/vac-bypass/\">VAC रखरखाव</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>.",
 							],
 						},
 					],
@@ -18075,27 +18075,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hack — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। ESP hack boxes, wards and runes pins और distance",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hack — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। ESP hack boxes, wards and runes pins और distance",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hack — स्थिति और अपडेट",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">dota 2 cheats गाइड</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">स्टोर</a>.",
-								"Install steps: <a href=\"/setup/\">सेटअप गाइड</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। ESP hack boxes, wards and runes pins और distance संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a> · <a href=\"/dota2-radar-hack/\">2D रडार ओवरले</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/setup/\">सेटअप गाइड</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 					],
@@ -18113,27 +18113,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — अवलोकन",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। unlock-all searches vs real ESP और Aimbot tools",
 								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">PC पर Dota 2</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — फ़ीचर",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। unlock-all searches vs real ESP और Aimbot tools",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> and <a href=\"/features/\">सभी फ़ीचर्स</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/dota2-esp/\">ESP और wallhack गाइड</a> · <a href=\"/features/\">सभी फ़ीचर्स</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats अवलोकन</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — स्थिति और अपडेट",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">स्टोर</a> and read the <a href=\"/setup/\">सेटअप गाइड</a> before checkout.",
-								"Check the <a href=\"/updates/\">dota 2 cheats गाइड</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">सहायता</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। unlock-all searches vs real ESP और Aimbot tools संबंधित लिंक: <a href=\"/pricing/\">स्टोर</a> · <a href=\"/setup/\">सेटअप गाइड</a>.",
+								"checkout checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल। संबंधित लिंक: <a href=\"/updates/\">dota 2 cheats गाइड</a>.",
+								"VAC पैच के बाद Updates पेज देखें। कोई भी cheat permanent reliable गारंटी नहीं देता। संबंधित लिंक: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">सहायता</a>.",
 							],
 						},
 					],
@@ -18792,35 +18792,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Cheat Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pemeliharaan VAC setelah patch VAC",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Cheat Dota 2 — Fitur",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Status patch</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>. Feature stack: <a href=\"/features/\">Semua fitur</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pemeliharaan VAC setelah patch VAC Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/vac-bypass/\">Pemeliharaan VAC</a> · <a href=\"/features/\">Semua fitur</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Cheat Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Toko</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Panduan setup</a> after delivery.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pemeliharaan VAC setelah patch VAC Tautan terkait: <a href=\"/faq/\">FAQ</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-cheats-2026/\">cheat Dota 2 2026</a> · <a href=\"/setup/\">Panduan setup</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Cheat Dota 2 — Memulai",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Status patch</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Pemeliharaan VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pemeliharaan VAC setelah patch VAC Tautan terkait: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/compare/\">Bandingkan</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">panduan pembeli</a>.",
 							],
 						},
 					],
@@ -18838,27 +18838,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. wallhack ESP untuk pemain, musuh, dan jarak",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. wallhack ESP untuk pemain, musuh, dan jarak",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status & pembaruan",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Status patch</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Toko</a> or continue to the <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. wallhack ESP untuk pemain, musuh, dan jarak Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/pricing/\">Toko</a> · <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>.",
 							],
 						},
 					],
@@ -18914,43 +18914,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Ringkasan",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. cara pembaruan VAC ditangani untuk Dota 2 cheats Tautan terkait: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Fitur",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Status patch</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. cara pembaruan VAC ditangani untuk Dota 2 cheats Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Status & pembaruan",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Dukungan</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Toko</a> and finish <a href=\"/setup/\">Panduan setup</a> only after <a href=\"/updates/\">Status patch</a> shows a live build.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. cara pembaruan VAC ditangani untuk Dota 2 cheats Tautan terkait: <a href=\"/faq/\">FAQ</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/support/\">Dukungan</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/pricing/\">Toko</a> · <a href=\"/setup/\">Panduan setup</a> · <a href=\"/updates/\">Status patch</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Memulai",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. cara pembaruan VAC ditangani untuk Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. cara pembaruan VAC ditangani untuk Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Status patch</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -18968,35 +18968,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheat Dota 2 2026 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. checklist dota 2 cheats 2026 sebelum checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Status patch</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Toko</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a> · <a href=\"/updates/\">Status patch</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheat Dota 2 2026 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. checklist dota 2 cheats 2026 sebelum checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheat Dota 2 2026 — Status & pembaruan",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Dukungan</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. checklist dota 2 cheats 2026 sebelum checkout Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Panduan forum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/support/\">Dukungan</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheat Dota 2 2026 — Memulai",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Produk lengkap</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. checklist dota 2 cheats 2026 sebelum checkout Tautan terkait: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/\">Produk lengkap</a> · <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Panduan forum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">panduan lengkap 2026</a>.",
 							],
 						},
 					],
@@ -19087,27 +19087,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Download Cheat Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. unduhan lisensi digital setelah pembayaran",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Panduan setup</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/setup/\">Panduan setup</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Download Cheat Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. unduhan lisensi digital setelah pembayaran",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Toko</a>.",
-								"Feature detail: <a href=\"/features/\">Semua fitur</a>. Module pages: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/features/\">Semua fitur</a> · <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Download Cheat Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Status patch</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Dukungan</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. unduhan lisensi digital setelah pembayaran Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/support/\">Dukungan</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -19125,27 +19125,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Menu mod Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. toggle ESP dan Skillshot assist in-client",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Menu mod Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. toggle ESP dan Skillshot assist in-client",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> profiles before aggressive FOV.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Menu mod Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Status patch</a> and <a href=\"/vac-bypass/\">Pemeliharaan VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Toko</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Panduan setup</a> after your license email arrives.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. toggle ESP dan Skillshot assist in-client Tautan terkait: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/setup/\">Panduan setup</a>.",
 							],
 						},
 					],
@@ -19163,27 +19163,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pengaturan Skillshot assist halus untuk Windows PC",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pengaturan Skillshot assist halus untuk Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Status patch</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Toko</a>.",
-								"Activation help: <a href=\"/setup/\">Panduan setup</a> · status questions: <a href=\"/support/\">Dukungan</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pengaturan Skillshot assist halus untuk Windows PC Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/setup/\">Panduan setup</a> · <a href=\"/support/\">Dukungan</a>.",
 							],
 						},
 					],
@@ -19201,23 +19201,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Cheat Dota 2 terbaik — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. apa yang dibandingkan sebelum membeli dota 2 cheats",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Status patch</a> note before you judge any package “best.”",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a> · <a href=\"/updates/\">Status patch</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Cheat Dota 2 terbaik — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. apa yang dibandingkan sebelum membeli dota 2 cheats",
-								"Review <a href=\"/features/\">Semua fitur</a>, <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/features/\">Semua fitur</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Cheat Dota 2 terbaik — Status & pembaruan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. apa yang dibandingkan sebelum membeli dota 2 cheats",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
@@ -19225,11 +19225,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Cheat Dota 2 terbaik — Memulai",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Status patch</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Toko</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. apa yang dibandingkan sebelum membeli dota 2 cheats Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Bandingkan</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Toko</a>.",
 							],
 						},
 					],
@@ -19247,27 +19247,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. assistencia de hack Aimbot untuk Dota 2",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. assistencia de hack Aimbot untuk Dota 2",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Status patch</a> and <a href=\"/vac-bypass/\">Pemeliharaan VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Toko</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. assistencia de hack Aimbot untuk Dota 2 Tautan terkait: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Pemeliharaan VAC</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>.",
 							],
 						},
 					],
@@ -19285,27 +19285,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. kotak ESP hack, pin musuh, dan jarak",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. kotak ESP hack, pin musuh, dan jarak",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Status patch</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Toko</a>.",
-								"Install steps: <a href=\"/setup/\">Panduan setup</a>. Status questions: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. kotak ESP hack, pin musuh, dan jarak Tautan terkait: <a href=\"/updates/\">Status patch</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/pricing/\">Toko</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/setup/\">Panduan setup</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -19323,27 +19323,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Ringkasan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pencarian unlock-all vs alat ESP dan Aimbot asli",
 								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 di PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Fitur",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pencarian unlock-all vs alat ESP dan Aimbot asli",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> and <a href=\"/features/\">Semua fitur</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/dota2-esp/\">Panduan ESP & wallhack</a> · <a href=\"/features/\">Semua fitur</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Ringkasan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Status & pembaruan",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Toko</a> and read the <a href=\"/setup/\">Panduan setup</a> before checkout.",
-								"Check the <a href=\"/updates/\">Status patch</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Dukungan</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. pencarian unlock-all vs alat ESP dan Aimbot asli Tautan terkait: <a href=\"/pricing/\">Toko</a> · <a href=\"/setup/\">Panduan setup</a>.",
+								"pengiriman digital instan via checkout checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC. Tautan terkait: <a href=\"/updates/\">Status patch</a>.",
+								"Periksa Updates setelah patch VAC. Tidak ada cheat yang menjamin reliable permanen. Tautan terkait: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Dukungan</a>.",
 							],
 						},
 					],
@@ -20002,35 +20002,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "ชีต Dota 2 — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การบำรุงรักษา VAC หลัง patch VAC",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "ชีต Dota 2 — ฟีเจอร์",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">สถานะแพตช์</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">การดูแล VAC</a>. Feature stack: <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การบำรุงรักษา VAC หลัง patch VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/vac-bypass/\">การดูแล VAC</a> · <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "ชีต Dota 2 — สถานะและอัปเดต",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">ร้านค้า</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">คู่มือติดตั้ง</a> after delivery.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การบำรุงรักษา VAC หลัง patch VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/faq/\">FAQ</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats-2026/\">สูตร Dota 2 2026</a> · <a href=\"/setup/\">คู่มือติดตั้ง</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "ชีต Dota 2 — เริ่มต้น",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">สถานะแพตช์</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">การดูแล VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การบำรุงรักษา VAC หลัง patch VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a> · <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/compare/\">เปรียบเทียบ</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">พรีเมียม 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">คู่มือผู้ซื้อ</a>.",
 							],
 						},
 					],
@@ -20048,27 +20048,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC wallhack ESP สำหรับผู้เล่น ศัตรู และระยะทาง",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC wallhack ESP สำหรับผู้เล่น ศัตรู และระยะทาง",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a> cues for flanks during arena corners and vertical fights.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — สถานะและอัปเดต",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">สถานะแพตช์</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">ร้านค้า</a> or continue to the <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC wallhack ESP สำหรับผู้เล่น ศัตรู และระยะทาง ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/premium-dota2-cheats/\">สูตร Dota 2</a> · <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a> · <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>.",
 							],
 						},
 					],
@@ -20124,43 +20124,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — ภาพรวม",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC วิธีจัดการอัปเดต VAC สำหรับ Dota 2 cheats ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — ฟีเจอร์",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">สถานะแพตช์</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC วิธีจัดการอัปเดต VAC สำหรับ Dota 2 cheats ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — สถานะและอัปเดต",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">ฝ่ายสนับสนุน</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">ร้านค้า</a> and finish <a href=\"/setup/\">คู่มือติดตั้ง</a> only after <a href=\"/updates/\">สถานะแพตช์</a> shows a live build.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC วิธีจัดการอัปเดต VAC สำหรับ Dota 2 cheats ลิงก์ที่เกี่ยวข้อง: <a href=\"/faq/\">FAQ</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a> · <a href=\"/setup/\">คู่มือติดตั้ง</a> · <a href=\"/updates/\">สถานะแพตช์</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — เริ่มต้น",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC วิธีจัดการอัปเดต VAC สำหรับ Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC วิธีจัดการอัปเดต VAC สำหรับ Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">สถานะแพตช์</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">การดูแล VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a> · <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/premium-dota2-cheats/\">สูตร Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -20178,35 +20178,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC checklist dota 2 cheats 2026 ก่อน checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">สถานะแพตช์</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">ร้านค้า</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a> · <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC checklist dota 2 cheats 2026 ก่อน checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>, <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>, <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> · <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — สถานะและอัปเดต",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC checklist dota 2 cheats 2026 ก่อน checkout ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">คู่มือฟอรั่ม 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — เริ่มต้น",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC checklist dota 2 cheats 2026 ก่อน checkout ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/\">ผลิตภัณฑ์เต็มรูปแบบ</a> · <a href=\"/premium-dota2-cheats/\">สูตร Dota 2</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/forums/dota2-cheats-2026-whats-new/\">คู่มือฟอรั่ม 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">คู่มือฉบับสมบูรณ์ 2026</a>.",
 							],
 						},
 					],
@@ -20297,27 +20297,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "ดาวน์โหลด Dota 2 Cheats — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">คู่มือติดตั้ง</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/setup/\">คู่มือติดตั้ง</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "ดาวน์โหลด Dota 2 Cheats — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">ร้านค้า</a>.",
-								"Feature detail: <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a>. Module pages: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a> · <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "ดาวน์โหลด Dota 2 Cheats — สถานะและอัปเดต",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">สถานะแพตช์</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">ฝ่ายสนับสนุน</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ดาวน์โหลดใบอนุญาตดิจิทัลหลังชำระเงิน ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -20335,27 +20335,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "เมนูมอด Dota 2 — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สวิตช์ ESP และ Skillshot assist ในไคลเอนต์",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Control deep-dives: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "เมนูมอด Dota 2 — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สวิตช์ ESP และ Skillshot assist ในไคลเอนต์",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> profiles before aggressive FOV.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "เมนูมอด Dota 2 — สถานะและอัปเดต",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">สถานะแพตช์</a> and <a href=\"/vac-bypass/\">การดูแล VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">ร้านค้า</a>.",
-								"Need install steps? Open <a href=\"/setup/\">คู่มือติดตั้ง</a> after your license email arrives.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สวิตช์ ESP และ Skillshot assist ในไคลเอนต์ ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a> · <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/setup/\">คู่มือติดตั้ง</a>.",
 							],
 						},
 					],
@@ -20373,27 +20373,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การตั้งค่า Skillshot assist ที่ลื่นไหลสำหรับ Windows PC",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การตั้งค่า Skillshot assist ที่ลื่นไหลสำหรับ Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> and <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a> overlays.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — สถานะและอัปเดต",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">สถานะแพตช์</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">ร้านค้า</a>.",
-								"Activation help: <a href=\"/setup/\">คู่มือติดตั้ง</a> · status questions: <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การตั้งค่า Skillshot assist ที่ลื่นไหลสำหรับ Windows PC ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/setup/\">คู่มือติดตั้ง</a> · <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
 							],
 						},
 					],
@@ -20411,23 +20411,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Cheat Dota 2 ที่ดีที่สุด — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ dota 2 cheats",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">สถานะแพตช์</a> note before you judge any package “best.”",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a> · <a href=\"/updates/\">สถานะแพตช์</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Cheat Dota 2 ที่ดีที่สุด — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ dota 2 cheats",
-								"Review <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a>, <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>, <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Cheat Dota 2 ที่ดีที่สุด — สถานะและอัปเดต",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ dota 2 cheats",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
@@ -20435,11 +20435,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Cheat Dota 2 ที่ดีที่สุด — เริ่มต้น",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">สถานะแพตช์</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ร้านค้า</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC สิ่งที่ควรเปรียบเทียบก่อนซื้อ dota 2 cheats ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">เปรียบเทียบ</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">ร้านค้า</a>.",
 							],
 						},
 					],
@@ -20457,27 +20457,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack Aimbot Dota 2 — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC assistencia de hack Aimbot สำหรับ Dota 2",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot และ Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack Aimbot Dota 2 — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC assistencia de hack Aimbot สำหรับ Dota 2",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack Aimbot Dota 2 — สถานะและอัปเดต",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">สถานะแพตช์</a> and <a href=\"/vac-bypass/\">การดูแล VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">ร้านค้า</a>.",
-								"Pair with <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC assistencia de hack Aimbot สำหรับ Dota 2 ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a> · <a href=\"/vac-bypass/\">การดูแล VAC</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>.",
 							],
 						},
 					],
@@ -20495,27 +20495,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC กล่อง ESP hack, pin ศัตรู และระยะทาง",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC กล่อง ESP hack, pin ศัตรู และระยะทาง",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — สถานะและอัปเดต",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">สถานะแพตช์</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">ร้านค้า</a>.",
-								"Install steps: <a href=\"/setup/\">คู่มือติดตั้ง</a>. Status questions: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC กล่อง ESP hack, pin ศัตรู และระยะทาง ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a> · <a href=\"/dota2-radar-hack/\">โอเวอร์เลย์เรดาร์ 2D</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/setup/\">คู่มือติดตั้ง</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -20533,27 +20533,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — ภาพรวม",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง",
 								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 บน PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — ฟีเจอร์",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> and <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-esp/\">คู่มือ ESP และ wallhack</a> · <a href=\"/features/\">ฟีเจอร์ทั้งหมด</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">ภาพรวม Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — สถานะและอัปเดต",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">ร้านค้า</a> and read the <a href=\"/setup/\">คู่มือติดตั้ง</a> before checkout.",
-								"Check the <a href=\"/updates/\">สถานะแพตช์</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">ฝ่ายสนับสนุน</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC การค้นหา unlock-all vs เครื่องมือ ESP และ Aimbot จริง ลิงก์ที่เกี่ยวข้อง: <a href=\"/pricing/\">ร้านค้า</a> · <a href=\"/setup/\">คู่มือติดตั้ง</a>.",
+								"จัดส่งดิจิทัลทันที ผ่าน checkout checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC ลิงก์ที่เกี่ยวข้อง: <a href=\"/updates/\">สถานะแพตช์</a>.",
+								"ตรวจ Updates หลังแพตช์ VAC ไม่มี cheat รับประกัน reliable ถาวร ลิงก์ที่เกี่ยวข้อง: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">ฝ่ายสนับสนุน</a>.",
 							],
 						},
 					],
@@ -21212,35 +21212,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Cheat Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. bảo trì VAC sau patch VAC",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Cheat Dota 2 — Tính năng",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Trạng thái bản vá</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Bảo trì VAC</a>. Feature stack: <a href=\"/features/\">Tất cả tính năng</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. bảo trì VAC sau patch VAC Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/vac-bypass/\">Bảo trì VAC</a> · <a href=\"/features/\">Tất cả tính năng</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Cheat Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Cửa hàng</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Hướng dẫn cài đặt</a> after delivery.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. bảo trì VAC sau patch VAC Liên kết liên quan: <a href=\"/faq/\">FAQ</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-cheats-2026/\">cheat Dota 2 2026</a> · <a href=\"/setup/\">Hướng dẫn cài đặt</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Cheat Dota 2 — Bắt đầu",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Trạng thái bản vá</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Bảo trì VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. bảo trì VAC sau patch VAC Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a> · <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/compare/\">So sánh</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">hướng dẫn người mua</a>.",
 							],
 						},
 					],
@@ -21258,27 +21258,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. wallhack ESP cho người chơi, kẻ địch và khoảng cách",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. wallhack ESP cho người chơi, kẻ địch và khoảng cách",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Trạng thái & cập nhật",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Trạng thái bản vá</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Cửa hàng</a> or continue to the <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. wallhack ESP cho người chơi, kẻ địch và khoảng cách Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a> · <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>.",
 							],
 						},
 					],
@@ -21334,43 +21334,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Tổng quan",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cách xử lý cập nhật VAC cho Dota 2 cheats Liên kết liên quan: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Tính năng",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Trạng thái bản vá</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cách xử lý cập nhật VAC cho Dota 2 cheats Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Trạng thái & cập nhật",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Hỗ trợ</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Cửa hàng</a> and finish <a href=\"/setup/\">Hướng dẫn cài đặt</a> only after <a href=\"/updates/\">Trạng thái bản vá</a> shows a live build.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cách xử lý cập nhật VAC cho Dota 2 cheats Liên kết liên quan: <a href=\"/faq/\">FAQ</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/support/\">Hỗ trợ</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a> · <a href=\"/setup/\">Hướng dẫn cài đặt</a> · <a href=\"/updates/\">Trạng thái bản vá</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Bắt đầu",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cách xử lý cập nhật VAC cho Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cách xử lý cập nhật VAC cho Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Trạng thái bản vá</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Bảo trì VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a> · <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -21388,35 +21388,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheat Dota 2 2026 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. checklist dota 2 cheats 2026 trước checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Trạng thái bản vá</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Cửa hàng</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a> · <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheat Dota 2 2026 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. checklist dota 2 cheats 2026 trước checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheat Dota 2 2026 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Hỗ trợ</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. checklist dota 2 cheats 2026 trước checkout Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Hướng dẫn diễn đàn 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/support/\">Hỗ trợ</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheat Dota 2 2026 — Bắt đầu",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Sản phẩm đầy đủ</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. checklist dota 2 cheats 2026 trước checkout Liên kết liên quan: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/\">Sản phẩm đầy đủ</a> · <a href=\"/premium-dota2-cheats/\">cheat Dota 2</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Hướng dẫn diễn đàn 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">hướng dẫn đầy đủ 2026</a>.",
 							],
 						},
 					],
@@ -21507,27 +21507,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Tải Cheat Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tải giấy phép kỹ thuật số sau thanh toán",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Hướng dẫn cài đặt</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/setup/\">Hướng dẫn cài đặt</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Tải Cheat Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tải giấy phép kỹ thuật số sau thanh toán",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Cửa hàng</a>.",
-								"Feature detail: <a href=\"/features/\">Tất cả tính năng</a>. Module pages: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/features/\">Tất cả tính năng</a> · <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Tải Cheat Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Trạng thái bản vá</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Hỗ trợ</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tải giấy phép kỹ thuật số sau thanh toán Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/support/\">Hỗ trợ</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -21545,27 +21545,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Mod menu Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. công tắc ESP và Skillshot assist trong client",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Mod menu Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. công tắc ESP và Skillshot assist trong client",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> profiles before aggressive FOV.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Mod menu Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Trạng thái bản vá</a> and <a href=\"/vac-bypass/\">Bảo trì VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Cửa hàng</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Hướng dẫn cài đặt</a> after your license email arrives.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. công tắc ESP và Skillshot assist trong client Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a> · <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/setup/\">Hướng dẫn cài đặt</a>.",
 							],
 						},
 					],
@@ -21583,27 +21583,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cài đặt Skillshot assist mượt cho Windows PC",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cài đặt Skillshot assist mượt cho Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Trạng thái bản vá</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Cửa hàng</a>.",
-								"Activation help: <a href=\"/setup/\">Hướng dẫn cài đặt</a> · status questions: <a href=\"/support/\">Hỗ trợ</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. cài đặt Skillshot assist mượt cho Windows PC Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/setup/\">Hướng dẫn cài đặt</a> · <a href=\"/support/\">Hỗ trợ</a>.",
 							],
 						},
 					],
@@ -21621,23 +21621,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Cheat Dota 2 tốt nhất — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. nên so sánh gì trước khi mua dota 2 cheats",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Trạng thái bản vá</a> note before you judge any package “best.”",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a> · <a href=\"/updates/\">Trạng thái bản vá</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Cheat Dota 2 tốt nhất — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. nên so sánh gì trước khi mua dota 2 cheats",
-								"Review <a href=\"/features/\">Tất cả tính năng</a>, <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>, <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/features/\">Tất cả tính năng</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Cheat Dota 2 tốt nhất — Trạng thái & cập nhật",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. nên so sánh gì trước khi mua dota 2 cheats",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
@@ -21645,11 +21645,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Cheat Dota 2 tốt nhất — Bắt đầu",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Trạng thái bản vá</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. nên so sánh gì trước khi mua dota 2 cheats Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">So sánh</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Cửa hàng</a>.",
 							],
 						},
 					],
@@ -21667,27 +21667,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hỗ trợ hack Aimbot cho Dota 2",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot & Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hỗ trợ hack Aimbot cho Dota 2",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Trạng thái bản vá</a> and <a href=\"/vac-bypass/\">Bảo trì VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Cửa hàng</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hỗ trợ hack Aimbot cho Dota 2 Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a> · <a href=\"/vac-bypass/\">Bảo trì VAC</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>.",
 							],
 						},
 					],
@@ -21705,27 +21705,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hộp ESP hack, pin kẻ địch và khoảng cách",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hộp ESP hack, pin kẻ địch và khoảng cách",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Trạng thái bản vá</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Cửa hàng</a>.",
-								"Install steps: <a href=\"/setup/\">Hướng dẫn cài đặt</a>. Status questions: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. hộp ESP hack, pin kẻ địch và khoảng cách Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/setup/\">Hướng dẫn cài đặt</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -21743,27 +21743,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Tổng quan",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật",
 								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 trên PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Tính năng",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> and <a href=\"/features/\">Tất cả tính năng</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/dota2-esp/\">Hướng dẫn ESP & wallhack</a> · <a href=\"/features/\">Tất cả tính năng</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Tổng quan Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Trạng thái & cập nhật",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Cửa hàng</a> and read the <a href=\"/setup/\">Hướng dẫn cài đặt</a> before checkout.",
-								"Check the <a href=\"/updates/\">Trạng thái bản vá</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Hỗ trợ</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. tìm kiếm unlock-all vs công cụ ESP và Aimbot thật Liên kết liên quan: <a href=\"/pricing/\">Cửa hàng</a> · <a href=\"/setup/\">Hướng dẫn cài đặt</a>.",
+								"giao hàng kỹ thuật số tức thì qua checkout checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC. Liên kết liên quan: <a href=\"/updates/\">Trạng thái bản vá</a>.",
+								"Kiểm tra Updates sau bản vá VAC. Không cheat nào đảm bảo reliable vĩnh viễn. Liên kết liên quan: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Hỗ trợ</a>.",
 							],
 						},
 					],
@@ -22422,35 +22422,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "чіти Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. reliable обслуговування після патчів VAC",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "чіти Dota 2 — Функції",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Статус патчу</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Обслуговування VAC</a>. Feature stack: <a href=\"/features/\">Усі функції</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. reliable обслуговування після патчів VAC Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/vac-bypass/\">Обслуговування VAC</a> · <a href=\"/features/\">Усі функції</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "чіти Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Магазин</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Гайд з встановлення</a> after delivery.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. reliable обслуговування після патчів VAC Пов'язані посилання: <a href=\"/faq/\">FAQ</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-cheats-2026/\">чити Dota 2 2026</a> · <a href=\"/setup/\">Гайд з встановлення</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "чіти Dota 2 — Початок",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Статус патчу</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Обслуговування VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. reliable обслуговування після патчів VAC Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a> · <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/compare/\">Порівняти</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">преміум у 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ обходу VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">гайд покупця</a>.",
 							],
 						},
 					],
@@ -22468,27 +22468,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. wallhack ESP для гравців, героев і дистанції",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. wallhack ESP для гравців, героев і дистанції",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D радар overlay</a> cues for flanks during arena corners and vertical fights.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Статус і оновлення",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Статус патчу</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Магазин</a> or continue to the <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. wallhack ESP для гравців, героев і дистанції Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/premium-dota2-cheats/\">чити Dota 2</a> · <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a> · <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>.",
 							],
 						},
 					],
@@ -22544,43 +22544,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Огляд",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. як обробляються оновлення VAC для Dota 2 cheats Пов'язані посилання: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Функції",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Статус патчу</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. як обробляються оновлення VAC для Dota 2 cheats Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Статус і оновлення",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Підтримка</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Магазин</a> and finish <a href=\"/setup/\">Гайд з встановлення</a> only after <a href=\"/updates/\">Статус патчу</a> shows a live build.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. як обробляються оновлення VAC для Dota 2 cheats Пов'язані посилання: <a href=\"/faq/\">FAQ</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/support/\">Підтримка</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a> · <a href=\"/setup/\">Гайд з встановлення</a> · <a href=\"/updates/\">Статус патчу</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Початок",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. як обробляються оновлення VAC для Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/faq/dota2-vac-bypass/\">FAQ обходу VAC</a>.",
 								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. як обробляються оновлення VAC для Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Статус патчу</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Обслуговування VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a> · <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/premium-dota2-cheats/\">чити Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -22598,35 +22598,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Чіти Dota 2 2026 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Статус патчу</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Магазин</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a> · <a href=\"/updates/\">Статус патчу</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Чіти Dota 2 2026 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>, <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>, <a href=\"/dota2-radar-hack/\">2D радар overlay</a>, <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> · <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Чіти Dota 2 2026 — Статус і оновлення",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Підтримка</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Гайд форуму 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/support/\">Підтримка</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Чіти Dota 2 2026 — Початок",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Повний продукт</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. чеклист dota 2 cheats 2026 перед checkout Пов'язані посилання: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/\">Повний продукт</a> · <a href=\"/premium-dota2-cheats/\">чити Dota 2</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Гайд форуму 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">повний гайд 2026</a>.",
 							],
 						},
 					],
@@ -22717,27 +22717,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Завантаження Dota 2 Cheats — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. цифрове завантаження ліцензії після оплати",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Гайд з встановлення</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/setup/\">Гайд з встановлення</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Завантаження Dota 2 Cheats — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. цифрове завантаження ліцензії після оплати",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Магазин</a>.",
-								"Feature detail: <a href=\"/features/\">Усі функції</a>. Module pages: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/features/\">Усі функції</a> · <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Завантаження Dota 2 Cheats — Статус і оновлення",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Статус патчу</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Підтримка</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. цифрове завантаження ліцензії після оплати Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/support/\">Підтримка</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -22755,27 +22755,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Мод-меню Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. перемикачі ESP і Skillshot assist у клієнті",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Мод-меню Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. перемикачі ESP і Skillshot assist у клієнті",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> profiles before aggressive FOV.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Мод-меню Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Статус патчу</a> and <a href=\"/vac-bypass/\">Обслуговування VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Магазин</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Гайд з встановлення</a> after your license email arrives.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. перемикачі ESP і Skillshot assist у клієнті Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a> · <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/setup/\">Гайд з встановлення</a>.",
 							],
 						},
 					],
@@ -22793,27 +22793,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. плавні налаштування Skillshot assist для Windows PC",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. плавні налаштування Skillshot assist для Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> and <a href=\"/dota2-radar-hack/\">2D радар overlay</a> overlays.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Статус патчу</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Магазин</a>.",
-								"Activation help: <a href=\"/setup/\">Гайд з встановлення</a> · status questions: <a href=\"/support/\">Підтримка</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. плавні налаштування Skillshot assist для Windows PC Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/setup/\">Гайд з встановлення</a> · <a href=\"/support/\">Підтримка</a>.",
 							],
 						},
 					],
@@ -22831,23 +22831,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Найкращі чіти Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. що порівняти перед покупкою dota 2 cheats",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Статус патчу</a> note before you judge any package “best.”",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a> · <a href=\"/updates/\">Статус патчу</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Найкращі чіти Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. що порівняти перед покупкою dota 2 cheats",
-								"Review <a href=\"/features/\">Усі функції</a>, <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>, <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/features/\">Усі функції</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Найкращі чіти Dota 2 — Статус і оновлення",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. що порівняти перед покупкою dota 2 cheats",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
@@ -22855,11 +22855,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Найкращі чіти Dota 2 — Початок",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Статус патчу</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. що порівняти перед покупкою dota 2 cheats Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Порівняти</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Магазин</a>.",
 							],
 						},
 					],
@@ -22877,27 +22877,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Хак aimbot Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Aimbot hack assist для Dota 2",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot і Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Хак aimbot Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Aimbot hack assist для Dota 2",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Хак aimbot Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Статус патчу</a> and <a href=\"/vac-bypass/\">Обслуговування VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Магазин</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Aimbot hack assist для Dota 2 Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a> · <a href=\"/vac-bypass/\">Обслуговування VAC</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>.",
 							],
 						},
 					],
@@ -22915,27 +22915,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Хак ESP Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. ESP hack бокси, pins героев і дистанція",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Хак ESP Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. ESP hack бокси, pins героев і дистанція",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Хак ESP Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Статус патчу</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D радар overlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Магазин</a>.",
-								"Install steps: <a href=\"/setup/\">Гайд з встановлення</a>. Status questions: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. ESP hack бокси, pins героев і дистанція Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a> · <a href=\"/dota2-radar-hack/\">2D радар overlay</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/pricing/\">Магазин</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/setup/\">Гайд з встановлення</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -22953,27 +22953,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Огляд",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. пошуки unlock-all vs справжні ESP і Aimbot інструменти",
 								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 на PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Функції",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. пошуки unlock-all vs справжні ESP і Aimbot інструменти",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> and <a href=\"/features/\">Усі функції</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/dota2-esp/\">Гайд ESP і wallhack</a> · <a href=\"/features/\">Усі функції</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Огляд Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Статус і оновлення",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Магазин</a> and read the <a href=\"/setup/\">Гайд з встановлення</a> before checkout.",
-								"Check the <a href=\"/updates/\">Статус патчу</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Підтримка</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. пошуки unlock-all vs справжні ESP і Aimbot інструменти Пов'язані посилання: <a href=\"/pricing/\">Магазин</a> · <a href=\"/setup/\">Гайд з встановлення</a>.",
+								"Ліцензії з миттєва цифрова доставка через checkout checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC. Пов'язані посилання: <a href=\"/updates/\">Статус патчу</a>.",
+								"Перевіряйте Updates після патчів VAC. Жоден чит не гарантує постійний reliable статус. Пов'язані посилання: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Підтримка</a>.",
 							],
 						},
 					],
@@ -23632,35 +23632,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "cheaty Dota 2 — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. údržba VAC po patchech VAC",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "cheaty Dota 2 — Funkce",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Stav patchi</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Údržba VAC</a>. Feature stack: <a href=\"/features/\">Všechny funkce</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. údržba VAC po patchech VAC Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/vac-bypass/\">Údržba VAC</a> · <a href=\"/features/\">Všechny funkce</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "cheaty Dota 2 — Stav a aktualizace",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Obchod</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Průvodce instalací</a> after delivery.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. údržba VAC po patchech VAC Související odkazy: <a href=\"/faq/\">FAQ</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-cheats-2026/\">cheaty Dota 2 2026</a> · <a href=\"/setup/\">Průvodce instalací</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "cheaty Dota 2 — Začínáme",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Stav patchi</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Údržba VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. údržba VAC po patchech VAC Související odkazy: <a href=\"/updates/\">Stav patchi</a> · <a href=\"/vac-bypass/\">Údržba VAC</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/compare/\">Porovnat</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">průvodce kupujícího</a>.",
 							],
 						},
 					],
@@ -23678,27 +23678,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. wallhack ESP pro hráče, kadávery a vzdálenost",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. wallhack ESP pro hráče, kadávery a vzdálenost",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D radar overlay</a> cues for flanks during arena corners and vertical fights.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Stav a aktualizace",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Stav patchi</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Údržba VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Obchod</a> or continue to the <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. wallhack ESP pro hráče, kadávery a vzdálenost Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a> · <a href=\"/vac-bypass/\">Údržba VAC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/pricing/\">Obchod</a> · <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>.",
 							],
 						},
 					],
@@ -23754,43 +23754,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — Přehled",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. jak se řeší aktualizace VAC pro Dota 2 cheats Související odkazy: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — Funkce",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Stav patchi</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. jak se řeší aktualizace VAC pro Dota 2 cheats Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — Stav a aktualizace",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Podpora</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Obchod</a> and finish <a href=\"/setup/\">Průvodce instalací</a> only after <a href=\"/updates/\">Stav patchi</a> shows a live build.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. jak se řeší aktualizace VAC pro Dota 2 cheats Související odkazy: <a href=\"/faq/\">FAQ</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/support/\">Podpora</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/pricing/\">Obchod</a> · <a href=\"/setup/\">Průvodce instalací</a> · <a href=\"/updates/\">Stav patchi</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — Začínáme",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. jak se řeší aktualizace VAC pro Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. jak se řeší aktualizace VAC pro Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Stav patchi</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Údržba VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/updates/\">Stav patchi</a> · <a href=\"/vac-bypass/\">Údržba VAC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -23808,35 +23808,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "dota 2 cheaty 2026 — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. checklist dota 2 cheats 2026 před checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Stav patchi</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Obchod</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a> · <a href=\"/updates/\">Stav patchi</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "dota 2 cheaty 2026 — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. checklist dota 2 cheats 2026 před checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>, <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/dota2-radar-hack/\">2D radar overlay</a>, <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> · <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "dota 2 cheaty 2026 — Stav a aktualizace",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Podpora</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. checklist dota 2 cheats 2026 před checkout Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Průvodce fóra 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/support/\">Podpora</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "dota 2 cheaty 2026 — Začínáme",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Kompletní produkt</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. checklist dota 2 cheats 2026 před checkout Související odkazy: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/\">Kompletní produkt</a> · <a href=\"/premium-dota2-cheats/\">cheaty Dota 2</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Průvodce fóra 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">úplný průvodce 2026</a>.",
 							],
 						},
 					],
@@ -23927,27 +23927,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Stáhnout Dota 2 Cheats — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. digitální stažení licence po platbě",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Průvodce instalací</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/setup/\">Průvodce instalací</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Stáhnout Dota 2 Cheats — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. digitální stažení licence po platbě",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Obchod</a>.",
-								"Feature detail: <a href=\"/features/\">Všechny funkce</a>. Module pages: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/features/\">Všechny funkce</a> · <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Stáhnout Dota 2 Cheats — Stav a aktualizace",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Stav patchi</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Podpora</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. digitální stažení licence po platbě Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/support/\">Podpora</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -23965,27 +23965,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 mod menu — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. přepínače ESP a Skillshot assist v klientu",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 mod menu — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. přepínače ESP a Skillshot assist v klientu",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> profiles before aggressive FOV.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 mod menu — Stav a aktualizace",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Stav patchi</a> and <a href=\"/vac-bypass/\">Údržba VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Obchod</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Průvodce instalací</a> after your license email arrives.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. přepínače ESP a Skillshot assist v klientu Související odkazy: <a href=\"/updates/\">Stav patchi</a> · <a href=\"/vac-bypass/\">Údržba VAC</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/setup/\">Průvodce instalací</a>.",
 							],
 						},
 					],
@@ -24003,27 +24003,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. plynulé nastavení Skillshot assist pro Windows PC",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. plynulé nastavení Skillshot assist pro Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> and <a href=\"/dota2-radar-hack/\">2D radar overlay</a> overlays.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — Stav a aktualizace",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Stav patchi</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Obchod</a>.",
-								"Activation help: <a href=\"/setup/\">Průvodce instalací</a> · status questions: <a href=\"/support/\">Podpora</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. plynulé nastavení Skillshot assist pro Windows PC Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/setup/\">Průvodce instalací</a> · <a href=\"/support/\">Podpora</a>.",
 							],
 						},
 					],
@@ -24041,23 +24041,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Nejlepší dota 2 cheaty — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. co porovnat před nákupem dota 2 cheats",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Stav patchi</a> note before you judge any package “best.”",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a> · <a href=\"/updates/\">Stav patchi</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Nejlepší dota 2 cheaty — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. co porovnat před nákupem dota 2 cheats",
-								"Review <a href=\"/features/\">Všechny funkce</a>, <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>, <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/features/\">Všechny funkce</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Nejlepší dota 2 cheaty — Stav a aktualizace",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. co porovnat před nákupem dota 2 cheats",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
@@ -24065,11 +24065,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Nejlepší dota 2 cheaty — Začínáme",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Stav patchi</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Obchod</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. co porovnat před nákupem dota 2 cheats Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Porovnat</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Obchod</a>.",
 							],
 						},
 					],
@@ -24087,27 +24087,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot hack — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Aimbot hack assist pro Dota 2",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot a Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot hack — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Aimbot hack assist pro Dota 2",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot hack — Stav a aktualizace",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Stav patchi</a> and <a href=\"/vac-bypass/\">Údržba VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Obchod</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Aimbot hack assist pro Dota 2 Související odkazy: <a href=\"/updates/\">Stav patchi</a> · <a href=\"/vac-bypass/\">Údržba VAC</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>.",
 							],
 						},
 					],
@@ -24125,27 +24125,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP hack — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. ESP hack boxy, piny kadáverů a vzdálenost",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP hack — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. ESP hack boxy, piny kadáverů a vzdálenost",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP hack — Stav a aktualizace",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Stav patchi</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D radar overlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Obchod</a>.",
-								"Install steps: <a href=\"/setup/\">Průvodce instalací</a>. Status questions: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. ESP hack boxy, piny kadáverů a vzdálenost Související odkazy: <a href=\"/updates/\">Stav patchi</a> · <a href=\"/dota2-radar-hack/\">2D radar overlay</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/pricing/\">Obchod</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/setup/\">Průvodce instalací</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -24163,27 +24163,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — Přehled",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje",
 								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 na PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — Funkce",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> and <a href=\"/features/\">Všechny funkce</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/dota2-esp/\">Průvodce ESP a wallhack</a> · <a href=\"/features/\">Všechny funkce</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Přehled Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — Stav a aktualizace",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Obchod</a> and read the <a href=\"/setup/\">Průvodce instalací</a> before checkout.",
-								"Check the <a href=\"/updates/\">Stav patchi</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Podpora</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. vyhledávání unlock-all vs skutečné ESP a Aimbot nástroje Související odkazy: <a href=\"/pricing/\">Obchod</a> · <a href=\"/setup/\">Průvodce instalací</a>.",
+								"Licence s okamžité digitální doručení přes checkout checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC. Související odkazy: <a href=\"/updates/\">Stav patchi</a>.",
+								"Po patchích VAC zkontrolujte Updates. Žádný cheat negarantuje trvalý reliable stav. Související odkazy: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Podpora</a>.",
 							],
 						},
 					],
@@ -24842,35 +24842,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "Cheats Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. mentenanță VAC după patch-uri VAC",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "Cheats Dota 2 — Funcții",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Status patch</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">Mentenanță VAC</a>. Feature stack: <a href=\"/features/\">Toate funcțiile</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. mentenanță VAC după patch-uri VAC Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/vac-bypass/\">Mentenanță VAC</a> · <a href=\"/features/\">Toate funcțiile</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "Cheats Dota 2 — Status și actualizări",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Magazin</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Ghid de instalare</a> after delivery.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. mentenanță VAC după patch-uri VAC Linkuri utile: <a href=\"/faq/\">FAQ</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-cheats-2026/\">cheat-uri Dota 2 2026</a> · <a href=\"/setup/\">Ghid de instalare</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "Cheats Dota 2 — Primii pași",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">Status patch</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">Mentenanță VAC</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. mentenanță VAC după patch-uri VAC Linkuri utile: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/compare/\">Compară</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">ghid cumpărători</a>.",
 							],
 						},
 					],
@@ -24888,27 +24888,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. wallhack ESP pentru jucători, carcase și distanță",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. wallhack ESP pentru jucători, carcase și distanță",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> cues for flanks during arena corners and vertical fights.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status și actualizări",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">Status patch</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Magazin</a> or continue to the <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> landing for alternate search wording.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. wallhack ESP pentru jucători, carcase și distanță Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/premium-dota2-cheats/\">cheat-uri Dota 2</a> · <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/pricing/\">Magazin</a> · <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>.",
 							],
 						},
 					],
@@ -24964,43 +24964,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "Bypass VAC — Prezentare",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. cum sunt gestionate actualizările VAC pentru Dota 2 cheats Linkuri utile: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "Bypass VAC — Funcții",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">Status patch</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. cum sunt gestionate actualizările VAC pentru Dota 2 cheats Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "Bypass VAC — Status și actualizări",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Suport</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Magazin</a> and finish <a href=\"/setup/\">Ghid de instalare</a> only after <a href=\"/updates/\">Status patch</a> shows a live build.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. cum sunt gestionate actualizările VAC pentru Dota 2 cheats Linkuri utile: <a href=\"/faq/\">FAQ</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/support/\">Suport</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/pricing/\">Magazin</a> · <a href=\"/setup/\">Ghid de instalare</a> · <a href=\"/updates/\">Status patch</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "Bypass VAC — Primii pași",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. cum sunt gestionate actualizările VAC pentru Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/faq/dota2-vac-bypass/\">FAQ bypass VAC</a>.",
 								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "Bypass VAC — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. cum sunt gestionate actualizările VAC pentru Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">Status patch</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">Mentenanță VAC</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/premium-dota2-cheats/\">cheat-uri Dota 2</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -25018,35 +25018,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Cheats Dota 2 2026 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. checklist dota 2 cheats 2026 înainte de checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">Status patch</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Magazin</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a> · <a href=\"/updates/\">Status patch</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Cheats Dota 2 2026 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. checklist dota 2 cheats 2026 înainte de checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>, <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>, <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>, <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> · <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Cheats Dota 2 2026 — Status și actualizări",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Suport</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. checklist dota 2 cheats 2026 înainte de checkout Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Ghid forum 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/support/\">Suport</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Cheats Dota 2 2026 — Primii pași",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Produs complet</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. checklist dota 2 cheats 2026 înainte de checkout Linkuri utile: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/\">Produs complet</a> · <a href=\"/premium-dota2-cheats/\">cheat-uri Dota 2</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Ghid forum 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">ghid complet 2026</a>.",
 							],
 						},
 					],
@@ -25137,27 +25137,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Descărcare Dota 2 Cheats — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. descărcare licență digitală după plată",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Ghid de instalare</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/setup/\">Ghid de instalare</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Descărcare Dota 2 Cheats — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. descărcare licență digitală după plată",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Magazin</a>.",
-								"Feature detail: <a href=\"/features/\">Toate funcțiile</a>. Module pages: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/features/\">Toate funcțiile</a> · <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Descărcare Dota 2 Cheats — Status și actualizări",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">Status patch</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Suport</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. descărcare licență digitală după plată Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/support/\">Suport</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -25175,27 +25175,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Meniu mod Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. toggle-uri ESP și Skillshot assist in-client",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Meniu mod Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. toggle-uri ESP și Skillshot assist in-client",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> profiles before aggressive FOV.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Meniu mod Dota 2 — Status și actualizări",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">Status patch</a> and <a href=\"/vac-bypass/\">Mentenanță VAC</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Magazin</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Ghid de instalare</a> after your license email arrives.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. toggle-uri ESP și Skillshot assist in-client Linkuri utile: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/setup/\">Ghid de instalare</a>.",
 							],
 						},
 					],
@@ -25213,27 +25213,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Skillshot assist Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. setări Skillshot assist fluide pentru Windows PC",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Skillshot assist Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. setări Skillshot assist fluide pentru Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> and <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> overlays.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Skillshot assist Dota 2 — Status și actualizări",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">Status patch</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Magazin</a>.",
-								"Activation help: <a href=\"/setup/\">Ghid de instalare</a> · status questions: <a href=\"/support/\">Suport</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. setări Skillshot assist fluide pentru Windows PC Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/setup/\">Ghid de instalare</a> · <a href=\"/support/\">Suport</a>.",
 							],
 						},
 					],
@@ -25251,23 +25251,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Cele mai bune cheats Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. ce să compari înainte de a cumpăra dota 2 cheats",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">Status patch</a> note before you judge any package “best.”",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a> · <a href=\"/updates/\">Status patch</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Cele mai bune cheats Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. ce să compari înainte de a cumpăra dota 2 cheats",
-								"Review <a href=\"/features/\">Toate funcțiile</a>, <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>, and <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>, <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>, <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/features/\">Toate funcțiile</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Cele mai bune cheats Dota 2 — Status și actualizări",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. ce să compari înainte de a cumpăra dota 2 cheats",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
@@ -25275,11 +25275,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Cele mai bune cheats Dota 2 — Primii pași",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">Status patch</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Magazin</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. ce să compari înainte de a cumpăra dota 2 cheats Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Compară</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Magazin</a>.",
 							],
 						},
 					],
@@ -25297,27 +25297,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Hack aimbot Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. assistencia de hack Aimbot pentru Dota 2",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot și Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Hack aimbot Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. assistencia de hack Aimbot pentru Dota 2",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Hack aimbot Dota 2 — Status și actualizări",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">Status patch</a> and <a href=\"/vac-bypass/\">Mentenanță VAC</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Magazin</a>.",
-								"Pair with <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> for the full information + assist loop.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. assistencia de hack Aimbot pentru Dota 2 Linkuri utile: <a href=\"/updates/\">Status patch</a> · <a href=\"/vac-bypass/\">Mentenanță VAC</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>.",
 							],
 						},
 					],
@@ -25335,27 +25335,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Hack ESP Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. casete ESP hack, pin-uri carcase și distanță",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>. Wallhack wording: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Hack ESP Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. casete ESP hack, pin-uri carcase și distanță",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Hack ESP Dota 2 — Status și actualizări",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">Status patch</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Magazin</a>.",
-								"Install steps: <a href=\"/setup/\">Ghid de instalare</a>. Status questions: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. casete ESP hack, pin-uri carcase și distanță Linkuri utile: <a href=\"/updates/\">Status patch</a> · <a href=\"/dota2-radar-hack/\">Overlay radar 2D</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/pricing/\">Magazin</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/setup/\">Ghid de instalare</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 					],
@@ -25373,27 +25373,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Unlock all Dota 2 — Prezentare",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. căutări unlock-all vs instrumente reale ESP și Aimbot",
 								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 pe PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Unlock all Dota 2 — Funcții",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. căutări unlock-all vs instrumente reale ESP și Aimbot",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> and <a href=\"/features/\">Toate funcțiile</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> and <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/dota2-esp/\">Ghid ESP și wallhack</a> · <a href=\"/features/\">Toate funcțiile</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a> · <a href=\"/dota2-cheats/\">Prezentare Dota 2 Cheats</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Unlock all Dota 2 — Status și actualizări",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Magazin</a> and read the <a href=\"/setup/\">Ghid de instalare</a> before checkout.",
-								"Check the <a href=\"/updates/\">Status patch</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Suport</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. căutări unlock-all vs instrumente reale ESP și Aimbot Linkuri utile: <a href=\"/pricing/\">Magazin</a> · <a href=\"/setup/\">Ghid de instalare</a>.",
+								"Licențe cu livrare digitală instantă via checkout checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC. Linkuri utile: <a href=\"/updates/\">Status patch</a>.",
+								"Verificați Updates după patch-uri VAC. Niciun cheat nu garantează reliable permanent. Linkuri utile: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Suport</a>.",
 							],
 						},
 					],
@@ -26052,35 +26052,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "What patch maintenance means for Dota 2 Cheats",
+							h2: "dota 2 cheats — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. VAC-underhåll efter VAC patchar",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Anti-cheat technology is documented by <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>; Dota 2 client updates ship through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. patch status is an ongoing process tied to those releases.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a> · <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 							],
 						},
 						{
-							h2: "VAC maintenance workflow",
+							h2: "dota 2 cheats — Funktioner",
 							paragraphs: [
-								"When VAC or Dota 2 updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">dota 2 cheats-guide</a>, and delivers rebuilt builds to active licenses.",
-								"On patch mornings, also check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> for launcher outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/vac-bypass/\">VAC-underhåll</a>. Feature stack: <a href=\"/features/\">Alla funktioner</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. VAC-underhåll efter VAC patchar Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/vac-bypass/\">VAC-underhåll</a> · <a href=\"/features/\">Alla funktioner</a>.",
 							],
 						},
 						{
-							h2: "Responsible use and next steps",
+							h2: "dota 2 cheats — Status och uppdateringar",
 							paragraphs: [
-								"Combine maintenance with conservative in-game settings. Read the <a href=\"/faq/\">FAQ</a> and Updates log regularly — patch status is not a one-time promise.",
-								"Lifetime and monthly plans include rebuild access during active terms — see <a href=\"/pricing/\">Butik</a>.",
-								"New buyers should also read <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> and complete <a href=\"/setup/\">Installationsguide</a> after delivery.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. VAC-underhåll efter VAC patchar Relaterade länkar: <a href=\"/faq/\">FAQ</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-cheats-2026/\">dota 2 cheats 2026</a> · <a href=\"/setup/\">Installationsguide</a>.",
 							],
 						},
 						{
-							h2: "How to verify patch status before you queue",
+							h2: "dota 2 cheats — Kom igång",
 							paragraphs: [
-								"Step one: open <a href=\"/updates/\">dota 2 cheats-guide</a> for the latest build date. Step two: read <a href=\"/vac-bypass/\">VAC-underhåll</a> notes if a patch dropped in the last 72 hours. Step three: tune Skillshot assist and ESP toggles conservatively for ranked matches.",
-								"Discord-only status shops hide rebuild timing. We publish on-site so you can compare against <a href=\"/compare/\">budget competitors</a> fairly.",
-								"FAQ shortcuts: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">in 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">vac bypass</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">buyers guide</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. VAC-underhåll efter VAC patchar Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a> · <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/compare/\">Jämför</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/faq/are-dota2-cheats-premium-in-2026/\">premium 2026</a> · <a href=\"/faq/dota2-vac-bypass/\">VAC-bypass FAQ</a> · <a href=\"/forums/dota2-cheats-buyers-guide/\">köpar guide</a>.",
 							],
 						},
 					],
@@ -26098,27 +26098,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "Wallhack ESP vs raw aim tools",
+							h2: "Dota 2 Wallhack — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. wallhack ESP för spelare, kadaver och avstånd",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"For the broader ESP keyword page see <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>; for combat assist see <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Map coverage for wallhack ESP",
+							h2: "Dota 2 Wallhack — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. wallhack ESP för spelare, kadaver och avstånd",
-								"Season maps and POI changes are announced via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Wallhack remains useful because it tracks entities, not fixed landmarks alone.",
-								"Pair wallhack awareness with <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> cues for flanks during arena corners and vertical fights.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "wallhack maintenance",
+							h2: "Dota 2 Wallhack — Status och uppdateringar",
 							paragraphs: [
-								"ESP wallhack modules rebuild after VAC patches. Follow the <a href=\"/updates/\">dota 2 cheats-guide</a> and complete checkout for instant license delivery on Windows PC.",
-								"Learn the full maintenance story on <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> and <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
-								"Ready to buy? Compare <a href=\"/pricing/\">Butik</a> or continue to the <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> landing for alternate search wording.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. wallhack ESP för spelare, kadaver och avstånd Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/pricing/\">Butik</a> · <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>.",
 							],
 						},
 					],
@@ -26174,43 +26174,43 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/updates/",
 					sections: [
 						{
-							h2: "VAC overview",
+							h2: "VAC Bypass — Översikt",
 							paragraphs: [
-								"VAC is Valve' anti-cheat for Dota 2 on PC (see <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>). Security updates can affect ESP wallhack, radar, and Aimbot behavior — requiring maintenance rebuilds for packages.",
-								"Dota 2 Cheats monitors VAC patch notes and Dota 2 seasonal updates from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> to schedule module reviews.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. hur VAC-uppdateringar hanteras för Dota 2 cheats Relaterade länkar: <a href=\"https://www.dota2.com/dota2/news\" target=\"_blank\" rel=\"noopener noreferrer\">VAC anti-cheat</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status.",
 							],
 						},
 						{
-							h2: "What happens after a VAC patch",
+							h2: "VAC Bypass — Funktioner",
 							paragraphs: [
-								"The team tests ESP overlays, radar signatures, and Aimbot profiles against the new build, publishes status on <a href=\"/updates/\">dota 2 cheats-guide</a>, and ships rebuilt packages to active licenses.",
-								"Confirm Dota 2 server status on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> if the launcher or matchmaking fails during the same window.",
-								"Avoid loading in on old builds after major patch days until maintenance notes confirm a new release. Related reading: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. hur VAC-uppdateringar hanteras för Dota 2 cheats Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 						{
-							h2: "No permanent bypass guarantee",
+							h2: "VAC Bypass — Status och uppdateringar",
 							paragraphs: [
-								"VAC bypass in practice means timely maintenance. Read the guide, <a href=\"/faq/\">FAQ</a>, and Updates log before every match.",
-								"Contact <a href=\"/support/\">Support</a> if activation fails immediately after a posted rebuild.",
-								"Buying for the first time? Compare <a href=\"/pricing/\">Butik</a> and finish <a href=\"/setup/\">Installationsguide</a> only after <a href=\"/updates/\">dota 2 cheats-guide</a> shows a live build.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. hur VAC-uppdateringar hanteras för Dota 2 cheats Relaterade länkar: <a href=\"/faq/\">FAQ</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/support/\">Support</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/pricing/\">Butik</a> · <a href=\"/setup/\">Installationsguide</a> · <a href=\"/updates/\">dota 2 cheats-guide</a>.",
 							],
 						},
 						{
-							h2: "HWID bans, spoofers, and what we do not sell",
+							h2: "VAC Bypass — Kom igång",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. hur VAC-uppdateringar hanteras för Dota 2 cheats",
-								"If you have a prior HWID ban, no cheat package magically resets Riot’s hardware flags. Treat spoofer claims skeptically and read <a href=\"/faq/dota2-vac-bypass/\">VAC FAQ</a> before buying anywhere.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/faq/dota2-vac-bypass/\">VAC-bypass FAQ</a>.",
 								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status.",
 							],
 						},
 						{
-							h2: "External architecture, stream proofing, and patch-day checklist",
+							h2: "VAC Bypass — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. hur VAC-uppdateringar hanteras för Dota 2 cheats",
-								"Patch-day checklist: (1) read <a href=\"/updates/\">dota 2 cheats-guide</a>, (2) confirm VAC notes on <a href=\"/vac-bypass/\">VAC-underhåll</a>, (3) verify Steam launcher health, (4) load only after rebuild is posted, (5) retune Skillshot assist FOV if weapon balance changed.",
-								"Deep dives: <a href=\"/premium-dota2-cheats/\">guide</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a> · <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a> · <a href=\"/forums/premium-dota2-cheats-eac/\">VAC reality blog</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 					],
@@ -26228,35 +26228,35 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-cheats/",
 					sections: [
 						{
-							h2: "Why dota 2 cheats buyers choose Dota 2 Cheats in 2026",
+							h2: "Dota 2 Cheats 2026 — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. 2026 dota 2 cheats checklist före checkout",
-								"Track official season messaging on <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>, then use our <a href=\"/updates/\">dota 2 cheats-guide</a> for product rebuild timing.",
-								"Monthly ($35) and lifetime ($150) plans cover ranked and casual matches match loops — see <a href=\"/pricing/\">Butik</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a> · <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
 							],
 						},
 						{
-							h2: "Full feature stack for 2026 buyers",
+							h2: "Dota 2 Cheats 2026 — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. 2026 dota 2 cheats checklist före checkout",
-								"Deep links: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>, <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>, <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>, <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>, <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> · <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status.",
 							],
 						},
 						{
-							h2: "Before you buy in 2026",
+							h2: "Dota 2 Cheats 2026 — Status och uppdateringar",
 							paragraphs: [
-								"Read the <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
-								"Also compare the <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. 2026 dota 2 cheats checklist före checkout Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forumguide 2026</a> · <a href=\"/faq/\">FAQ</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/support/\">Support</a>.",
 							],
 						},
 						{
-							h2: "Episode 10+ and ranked matches meta in 2026",
+							h2: "Dota 2 Cheats 2026 — Kom igång",
 							paragraphs: [
-								"2026 ranked matches play rewards information speed — ESP hero markers, radar flank cues, and Skillshot assist tuned for assault rifle/SMG TTK windows. After each Act, revisit <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> and ESP toggles.",
-								"Compare against <a href=\"/\">Fullständig produkt</a> criteria and <a href=\"/premium-dota2-cheats/\">maintenance</a> before switching shops mid-season.",
-								"Blog: <a href=\"/forums/dota2-cheats-2026-whats-new/\">what changed in 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">complete guide</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. 2026 dota 2 cheats checklist före checkout Relaterade länkar: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/\">Fullständig produkt</a> · <a href=\"/premium-dota2-cheats/\">dota 2 cheats</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/forums/dota2-cheats-2026-whats-new/\">Forumguide 2026</a> · <a href=\"/forums/dota2-cheats-complete-guide-2026/\">komplett guide 2026</a>.",
 							],
 						},
 					],
@@ -26347,27 +26347,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/setup/",
 					sections: [
 						{
-							h2: "How dota 2 cheat download delivery works",
+							h2: "Dota 2 Cheat Download — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. digital licensnedladdning efter betalning",
-								"Keep your order confirmation and license email ready for the <a href=\"/setup/\">Installationsguide</a> and Support requests.",
-								"If Valve services are down, check <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a> before assuming a download failure.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/setup/\">Installationsguide</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 							],
 						},
 						{
-							h2: "What your download unlocks",
+							h2: "Dota 2 Cheat Download — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. digital licensnedladdning efter betalning",
-								"Monthly ($35) and lifetime ($150) plans share the same feature stack — compare options on the <a href=\"/pricing/\">Butik</a>.",
-								"Feature detail: <a href=\"/features/\">Alla funktioner</a>. Module pages: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>, <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/features/\">Alla funktioner</a> · <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "After purchase — setup and updates",
+							h2: "Dota 2 Cheat Download — Status och uppdateringar",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Dota 2 or VAC patches ship, check the <a href=\"/updates/\">dota 2 cheats-guide</a> for maintenance rebuilds.",
-								"Contact <a href=\"/support/\">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
-								"Also read <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> so you know what “download ready” means after a patch.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. digital licensnedladdning efter betalning Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/support/\">Support</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 					],
@@ -26385,27 +26385,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Dota 2 mod menu controls",
+							h2: "Dota 2 Mod-meny — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. in-client ESP och Skillshot assist-växlar",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Control deep-dives: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>, <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>, <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "Mod menu categories for ranked and casual matches",
+							h2: "Dota 2 Mod-meny — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. in-client ESP och Skillshot assist-växlar",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> seasons change fight distances and mobility.",
-								"Soft tracking players should start with <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> profiles before aggressive FOV.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Maintained mod menu after VAC patches",
+							h2: "Dota 2 Mod-meny — Status och uppdateringar",
 							paragraphs: [
-								"Dota 2 mod menu behavior is rebuilt when VAC or major Dota 2 updates land. Follow the <a href=\"/updates/\">dota 2 cheats-guide</a> and <a href=\"/vac-bypass/\">VAC-underhåll</a> before loading in on patch days.",
-								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Butik</a>.",
-								"Need install steps? Open <a href=\"/setup/\">Installationsguide</a> after your license email arrives.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. in-client ESP och Skillshot assist-växlar Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a> · <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/setup/\">Installationsguide</a>.",
 							],
 						},
 					],
@@ -26423,27 +26423,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "What Dota 2 Skillshot assist means",
+							h2: "Dota 2 Skillshot assist — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. mjuka Skillshot assist-inställningar för Windows PC",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Full Aimbot documentation: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>. Alternate wording: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist profiles per weapon",
+							h2: "Dota 2 Skillshot assist — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. mjuka Skillshot assist-inställningar för Windows PC",
-								"Weapon TTKs shift with <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> balance patches — retune smoothness after major combat updates.",
-								"Skillshot assist ships alongside <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> and <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> overlays.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
 							],
 						},
 						{
-							h2: "Skillshot assist with VAC maintenance",
+							h2: "Dota 2 Skillshot assist — Status och uppdateringar",
 							paragraphs: [
-								"Aimbot modules rebuild after VAC patches. Check the <a href=\"/updates/\">dota 2 cheats-guide</a> before loading in — responsible settings and maintenance awareness matter for play.",
-								"Monthly and lifetime licenses checkout with digital delivery on Windows PC — <a href=\"/pricing/\">Butik</a>.",
-								"Activation help: <a href=\"/setup/\">Installationsguide</a> · status questions: <a href=\"/support/\">Support</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. mjuka Skillshot assist-inställningar för Windows PC Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/setup/\">Installationsguide</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],
@@ -26461,23 +26461,23 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/pricing/",
 					sections: [
 						{
-							h2: "What makes dota 2 cheats in 2026",
+							h2: "Bästa Dota 2 Cheats — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. vad du ska jämföra innan du köper dota 2 cheats",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Verify the live game is healthy via <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 on PC</a>, then confirm our <a href=\"/updates/\">dota 2 cheats-guide</a> note before you judge any package “best.”",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a> · <a href=\"/updates/\">dota 2 cheats-guide</a>.",
 							],
 						},
 						{
-							h2: "Best dota 2 cheats feature checklist",
+							h2: "Bästa Dota 2 Cheats — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. vad du ska jämföra innan du köper dota 2 cheats",
-								"Review <a href=\"/features/\">Alla funktioner</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>, and <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> before checkout — monthly ($35) and lifetime ($150) plans available.",
-								"Module pages worth opening: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>, <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>, <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/features/\">Alla funktioner</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 						{
-							h2: "Buying dota 2 cheats safely",
+							h2: "Bästa Dota 2 Cheats — Status och uppdateringar",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. vad du ska jämföra innan du köper dota 2 cheats",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
@@ -26485,11 +26485,11 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "Compare Dota 2 Cheats vs typical budget shops",
+							h2: "Bästa Dota 2 Cheats — Kom igång",
 							paragraphs: [
-								"Budget stores often advertise $7 day keys with Discord-only status. Dota 2 Cheats ships ESP + radar + Skillshot assist together with public <a href=\"/updates/\">dota 2 cheats-guide</a> and email support.",
-								"Read named comparisons: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · hub <a href=\"/compare/\">Compare table</a>.",
-								"Still deciding? <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Butik</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. vad du ska jämföra innan du köper dota 2 cheats Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/forums/dota2-cheats-vs-cheatspike-comparison/\">vs budget ESP shops</a> · <a href=\"/forums/dota2-cheats-vs-ghostware-features-pricing/\">vs minimal ESP tools</a> · <a href=\"/compare/\">Jämför</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/reviews/\">reviews</a> · <a href=\"/pricing/\">Butik</a>.",
 							],
 						},
 					],
@@ -26507,27 +26507,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-aimbot/",
 					sections: [
 						{
-							h2: "Dota 2 Aimbot hack vs visibility tools",
+							h2: "Dota 2 Aimbot Hack — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Aimbot hack assist för Dota 2",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Prefer softer tracking language? See <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>. Full settings: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a> · <a href=\"/dota2-aimbot/\">Aimbot och Skillshot assist</a>.",
 							],
 						},
 						{
-							h2: "Aimbot hack controls and hotkeys",
+							h2: "Dota 2 Aimbot Hack — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Aimbot hack assist för Dota 2",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Balance patches from <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> can change ideal FOV — retune after major weapon balance updates.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 							],
 						},
 						{
-							h2: "aimbot hack maintenance",
+							h2: "Dota 2 Aimbot Hack — Status och uppdateringar",
 							paragraphs: [
-								"Aimbot hack signatures rebuild after VAC updates. Follow the <a href=\"/updates/\">dota 2 cheats-guide</a> and <a href=\"/vac-bypass/\">VAC-underhåll</a> before loading in after patch days.",
-								"Checkout with instant digital delivery for Windows 10 and 11 — <a href=\"/pricing/\">Butik</a>.",
-								"Pair with <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> for the full information + assist loop.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Aimbot hack assist för Dota 2 Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a> · <a href=\"/vac-bypass/\">VAC-underhåll</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>.",
 							],
 						},
 					],
@@ -26545,27 +26545,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/dota2-esp/",
 					sections: [
 						{
-							h2: "What a Dota 2 ESP hack shows",
+							h2: "Dota 2 ESP Hack — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. ESP hack-boxar, kadaver-pins och avstånd",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Canonical visibility guide: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>. Wallhack wording: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a>.",
 							],
 						},
 						{
-							h2: "ESP hack categories for matches",
+							h2: "Dota 2 ESP Hack — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. ESP hack-boxar, kadaver-pins och avstånd",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"POI and wards and runes changes publish through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a> — keep categories toggled to what the current map rewards.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 							],
 						},
 						{
-							h2: "ESP hack with VAC maintenance",
+							h2: "Dota 2 ESP Hack — Status och uppdateringar",
 							paragraphs: [
-								"ESP hack modules rebuild after VAC and Dota 2 patches. Check the <a href=\"/updates/\">dota 2 cheats-guide</a> before loading in — pair ESP hack awareness with <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a> for flank reads.",
-								"Licenses deliver digitally after checkout on Windows PC — see <a href=\"/pricing/\">Butik</a>.",
-								"Install steps: <a href=\"/setup/\">Installationsguide</a>. Status questions: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. ESP hack-boxar, kadaver-pins och avstånd Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a> · <a href=\"/dota2-radar-hack/\">2D-radaroverlay</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/pricing/\">Butik</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/setup/\">Installationsguide</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 					],
@@ -26583,27 +26583,27 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What Dota 2 unlock-all usually means",
+							h2: "Dota 2 Unlock All — Översikt",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg",
 								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
-								"Cosmetics and patch cycle progression items are sold through <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2</a>. Be wary of unlock-all downloads that promise free skins — they are often scams.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"https://www.dota2.com/dota2\" target=\"_blank\" rel=\"noopener noreferrer\">Dota 2 på PC</a>.",
 							],
 						},
 						{
-							h2: "Visibility tools vs unlock-all claims",
+							h2: "Dota 2 Unlock All — Funktioner",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg",
-								"For loadout planning during a match, wards and runes and hero markers speed map rotations — see the <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> and <a href=\"/features/\">Alla funktioner</a> pages for the full tool list.",
-								"Related: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> and <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/dota2-esp/\">ESP- och wallhack-guide</a> · <a href=\"/features/\">Alla funktioner</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a> · <a href=\"/dota2-cheats/\">Dota 2 Cheats-översikt</a>.",
 							],
 						},
 						{
-							h2: "Buying Dota 2 Cheats for the right reasons",
+							h2: "Dota 2 Unlock All — Status och uppdateringar",
 							paragraphs: [
-								"If you need ESP wallhack, radar hack, and Aimbot for Dota 2 on Windows PC, compare <a href=\"/pricing/\">Butik</a> and read the <a href=\"/setup/\">Installationsguide</a> before checkout.",
-								"Check the <a href=\"/updates/\">dota 2 cheats-guide</a> after VAC patches — maintenance rebuilds publish for active licenses.",
-								"Questions? <a href=\"/faq/\">FAQ</a> and <a href=\"/support/\">Support</a> cover delivery and configuration — not cosmetic unlocks.",
+								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. unlock-all-sökningar vs riktiga ESP- och Aimbot-verktyg Relaterade länkar: <a href=\"/pricing/\">Butik</a> · <a href=\"/setup/\">Installationsguide</a>.",
+								"Licenser med omedelbar digital leverans via checkout checkout. $35/mån och $150 lifetime inkl. VAC-underhåll. Relaterade länkar: <a href=\"/updates/\">dota 2 cheats-guide</a>.",
+								"Kontrollera Updates ruster VAC-patchar. Ingen cheat garanterar permanent patch status. Relaterade länkar: <a href=\"/faq/\">FAQ</a> · <a href=\"/support/\">Support</a>.",
 							],
 						},
 					],

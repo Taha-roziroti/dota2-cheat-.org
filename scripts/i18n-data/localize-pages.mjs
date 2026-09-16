@@ -9,7 +9,7 @@ import { PAGE_META_HOME, SUFFIX_I18N, TOPIC_NAMES, CTA2_HREF, buildHome, buildLe
 import { getCanonicalEnPages } from './canonical-en-pages.mjs';
 import { SIMPLE_PAGE_IDS } from './simple-pages-en.mjs';
 import { buildSimplePagesForLocale } from './simple-pages-i18n.mjs';
-import { localizeHtmlLinks, localizeLinkListItem } from './link-labels.mjs';
+import { localizeHtmlLinks, localizeLinkListItem, localizeLinkParagraph } from './link-labels.mjs';
 import { PAGE_IMAGE_ALTS } from './image-alts.mjs';
 
 const PARA_GENERATORS = [
@@ -24,13 +24,11 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 	const p = phrases[locale];
 	const focus = FOCUS_I18N[locale]?.[pageKey] ?? pageKey;
 
-	const paragraphs = enSection.paragraphs.map((_, pi) => {
+	const paragraphs = enSection.paragraphs.map((enPara, pi) => {
 		const gen = PARA_GENERATORS[pi % PARA_GENERATORS.length];
 		const text = gen(p, focus);
-		// Preserve inline links from EN when present
-		const enPara = enSection.paragraphs[pi];
 		if (enPara.includes('<a ')) {
-			return localizeHtmlLinks(enPara, locale);
+			return localizeLinkParagraph(enPara, locale, text);
 		}
 		return text;
 	});
@@ -40,8 +38,13 @@ function localizeSection(enSection, locale, pageKey, sectionIndex) {
 		return item;
 	});
 
+	const topicName = TOPIC_NAMES[pageKey]?.[locale] ?? TOPIC_NAMES[pageKey]?.en ?? pageKey;
+	const sectionSuffix =
+		SECTION_SUFFIX_I18N[locale]?.[sectionIndex % 4] ?? SECTION_SUFFIX_I18N.en[sectionIndex % 4];
+	const h2Map = RICH_SECTION_H2[locale]?.[pageKey]?.[sectionIndex];
+
 	return {
-		h2: enSection.h2,
+		h2: h2Map ?? `${topicName} — ${sectionSuffix}`,
 		paragraphs,
 		...(list ? { list } : {}),
 	};
@@ -94,6 +97,31 @@ function localizeRichPage(enPage, locale, pageKey) {
 		sections,
 	};
 }
+
+const SECTION_SUFFIX_I18N = {
+	en: ['Overview', 'Features', 'Status & updates', 'Getting started'],
+	es: ['Resumen', 'Funciones', 'Estado y actualizaciones', 'Primeros pasos'],
+	fr: ['Aperçu', 'Fonctions', 'Statut et mises à jour', 'Premiers pas'],
+	de: ['Überblick', 'Features', 'Status & Updates', 'Erste Schritte'],
+	pt: ['Visão geral', 'Recursos', 'Status e atualizações', 'Primeiros passos'],
+	it: ['Panoramica', 'Funzioni', 'Stato e aggiornamenti', 'Primi passi'],
+	nl: ['Overzicht', 'Functies', 'Status en updates', 'Aan de slag'],
+	pl: ['Przegląd', 'Funkcje', 'Status i aktualizacje', 'Pierwsze kroki'],
+	ru: ['Обзор', 'Функции', 'Статус и обновления', 'С чего начать'],
+	tr: ['Genel bakış', 'Özellikler', 'Durum ve güncellemeler', 'İlk adımlar'],
+	ar: ['نظرة عامة', 'الميزات', 'الحالة والتحديثات', 'البدء'],
+	ja: ['概要', '機能', 'ステータスと更新', 'はじめに'],
+	ko: ['개요', '기능', '상태 및 업데이트', '시작하기'],
+	zh: ['概览', '功能', '状态与更新', '入门'],
+	hi: ['अवलोकन', 'फ़ीचर', 'स्थिति और अपडेट', 'शुरुआत'],
+	id: ['Ringkasan', 'Fitur', 'Status & pembaruan', 'Memulai'],
+	th: ['ภาพรวม', 'ฟีเจอร์', 'สถานะและอัปเดต', 'เริ่มต้น'],
+	vi: ['Tổng quan', 'Tính năng', 'Trạng thái & cập nhật', 'Bắt đầu'],
+	uk: ['Огляд', 'Функції', 'Статус і оновлення', 'Початок'],
+	cs: ['Přehled', 'Funkce', 'Stav a aktualizace', 'Začínáme'],
+	ro: ['Prezentare', 'Funcții', 'Status și actualizări', 'Primii pași'],
+	sv: ['Översikt', 'Funktioner', 'Status och uppdateringar', 'Kom igång'],
+};
 
 /** Optional native h2 overrides for rich pages. */
 const RICH_SECTION_H2 = {

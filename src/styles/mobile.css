@@ -17,7 +17,7 @@
 		-webkit-overflow-scrolling: touch;
 	}
 
-	.blog__grid,
+	.blog__list,
 	.blog__featured {
 		grid-template-columns: 1fr;
 	}
@@ -32,7 +32,7 @@
 		align-items: stretch;
 	}
 
-	.hero__actions .btn {
+	.hero__buy {
 		width: 100%;
 		justify-content: center;
 		min-height: var(--touch-min, 2.75rem);
@@ -41,8 +41,26 @@
 	.post__comments,
 	.post__comment,
 	.blog__card,
-	.blog__featured-card {
+	.blog__feature-card {
 		max-width: 100%;
+	}
+
+	.reviews__3d-controls {
+		padding-inline: var(--page-gutter);
+	}
+
+	.reviews__3d-btn {
+		min-width: var(--touch-min, 2.75rem);
+		min-height: var(--touch-min, 2.75rem);
+	}
+
+	.reviews__3d-viewport:focus-visible {
+		outline: 2px solid var(--magenta-soft);
+		outline-offset: 3px;
+	}
+
+	.reviews__3d-viewport {
+		padding-inline: 0.25rem;
 	}
 
 	.post__comment p,

@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Prețuri",
     "status": "Actualizări",
-    "reviews": "Ce spun jucătorii",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Recenzii",
+    "primaryAria": "Navigare principală",
+    "mobileAria": "Navigare mobilă",
+    "openMenu": "Deschide meniul",
+    "closeMenu": "Închide meniul"
   },
   "hero": {
     "accent": "Dota 2 Cheats",
@@ -28,11 +28,11 @@
     "buyNow": "Cumpără acum",
     "seeFeatures": "Vezi funcții",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — overlay ESP și aimbot Dota 2",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Asistență skillshot",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Actualizări"
+    "chipRadar": "Overlay radar",
+    "chipUpdates": "Actualizări patch"
   },
   "cta": {
     "buy": "Cumpără acum",
@@ -70,11 +70,90 @@
     "outOf": "din 5",
     "countLabel": "recenzii",
     "eyebrow": "Ce spun jucătorii",
-    "homeTitle": "Dota 2 Cheats Ce spun jucătorii",
-    "buyerReviews": "recenzii",
-    "averageAria": "Ce spun jucătorii",
-    "outOfFiveAria": "din 5",
-    "readAll": "→"
+    "homeTitle": "Recenzii Dota 2 Cheats",
+    "buyerReviews": "{{count}} recenzii de la cumpărători",
+    "averageAria": "Medie {{rating}} din {{count}} recenzii",
+    "outOfFiveAria": "{{rating}} din 5",
+    "readAll": "Vezi toate recenziile →",
+    "scrollHint": "Derulați sau trageți pentru a vedea recenziile",
+    "prev": "Recenzie anterioară",
+    "next": "Recenzie următoare",
+    "verifiedBuyer": "Cumpărător verificat",
+    "carouselAria": "Carusel recenzii cumpărători",
+    "indexTitle": "Recenzii cheat-uri Dota 2 — hack-uri și cheat-uri",
+    "indexAverageAria": "Medie {{rating}} din 5",
+    "indexCount": "{{count}} recenzii de la cumpărători · din 5",
+    "starsAria": "{{rating}} din 5 stele",
+    "readFull": "Citește recenzia completă",
+    "ctaAria": "Cumpără {{brand}}",
+    "ctaTitle": "Gata să încerci cheat-uri Dota 2?",
+    "ctaBody": "Hack-uri și cheat-uri Dota 2 într-un pachet — ESP, asistență skillshot și radar pentru PC Windows, cu mentenanță patch {{game}}.",
+    "ctaBuy": "Cumpără acum — ${{price}}",
+    "comparePricing": "Compară prețurile",
+    "reviewBy": "Recenzie {{brand}} de @{{handle}}",
+    "reviewImageAlt": "Recenzie {{brand}} de @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Am încercat 3 cheat-uri Dota 2 înainte. Dota 2 Cheats par naturale în ranked după reglarea soft aim.",
+        "text": "Am testat trei hack-uri Dota 2 diferite și toate păreau prea bruște în ranked. Dota 2 Cheats îți permite să reglezi soft aim ca să nu fie evident la MMR mare. O săptămână de grind; instalarea a durat ~12 minute după whitelist la loader. Fără probleme deocamdată.",
+        "seoTitle": "Recenzie Soft Aim de @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 evaluează soft aim la Dota 2 Cheats cu 5/5 după teste în ranked pe PC Windows."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Cumpărat pentru ESP, nu aimbot. Wallhack-ul Dota 2 Cheats arată rotațiile înainte de gank — enorm în ranked.",
+        "text": "Nu folosesc mult aimbot; am cumpărat pentru ESP. Să vezi ce eroi au rotat lane înainte de gank e informație incredibilă. Câteva săptămâni pe plan lunar, merită. Meniul ar putea fi mai curat, dar pachetul e solid.",
+        "seoTitle": "Recenzie ESP de @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K evaluează ESP wallhack la Dota 2 Cheats cu 4/5 pentru info ranked pe PC Windows."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Hack-ul vechi a murit la patch VAC. Dota 2 Cheats reconstruit în aceeași noapte, fiabil 2 săptămâni pe hartă.",
+        "text": "Ultimul meu cheat a murit a doua zi după update VAC. Am trecut la Dota 2 Cheats și loaderul a revenit în aceeași noapte după rebuild. Folosesc ESP și radar pe hartă, curat după două săptămâni. Am luat lifetime — nu mai plătesc lunar pentru hack-uri moarte.",
+        "seoTitle": "Recenzie actualizare de @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard evaluează Dota 2 Cheats cu 5/5 după update VAC — rebuild rapid pe PC Windows."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Nu sunt tehnic dar meniul Dota 2 Cheats e ușor. Soft aim pare natural după reglarea FOV și smoothing în ranked.",
+        "text": "Nu sunt deloc tehnic. Meniul e simplu — am scăzut FOV la soft aim, am crescut smoothing-ul, am eliminat snap-ul. Acum pare memorie musculară în solo și ranked. Doar 4 stele pentru că suportul la primul login a durat o oră, dar au reparat cheia rapid.",
+        "seoTitle": "Recenzie Soft Aim de @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 evaluează soft aim la Dota 2 Cheats cu 4/5 după reglarea FOV în ranked pe PC Windows."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender a blocat loaderul la început dar suportul a rezolvat în două ore. ESP-ul Dota 2 Cheats arată curat în lobby-uri custom.",
+        "text": "Dota 2 Cheats funcționează bine odată în joc. Windows Defender a blocat loaderul la prima încercare și am intrat în panică. Am scris suportului cu ID comandă, răspuns în două ore cu pași. ESP curat în custom; nu am mers full ranked încă. Trei stele pentru stresul instalării, dar cheat-urile par OK.",
+        "seoTitle": "Recenzie instalare de @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 evaluează instalarea Dota 2 Cheats cu 3/5 — ESP solid după ajutor suport pe PC Windows."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP eroi la Dota 2 Cheats prinde flancuri și ward-uri devreme. Mult mai bine decât cheat-uri gratuite dubioase.",
+        "text": "Voiam în principal ESP eroi și urmărire ward-uri pentru Dota 2. Dota 2 Cheats arată eroi inamici și gank-uri mai devreme decât creierul meu. Party cu prietenii e mai puțin haotic când știi cine flankează. Mult mai bine decât hack-uri gratuite aleatorii care par dubioase.",
+        "seoTitle": "Recenzie ESP eroi de @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx evaluează ESP eroi la Dota 2 Cheats cu 5/5 pentru urmărire ward-uri și eroi pe PC Windows."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Profilele aim per erou la Dota 2 Cheats ajută în ranked. Înapoi a doua zi după patch VAC.",
+        "text": "Folosesc Dota 2 Cheats de la sezonul nou. Profilele aim per erou ajută la skillshot-uri pe distanță — carry ranged vs melee se simt diferit, frumos. Pagina de status a fost lentă după patch VAC, dar build-ul a revenit a doua dimineață. Solid pentru sesiuni lungi de grind în ranked.",
+        "seoTitle": "Ranked Soft Aim de @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 evaluează soft aim la Dota 2 Cheats cu 4/5 pentru skillshot-uri eroi în ranked pe PC Windows."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Radarul 2D la Dota 2 Cheats a prins flancuri pe hartă de două ori. Combo ESP și radar pare cheat real.",
+        "text": "Toată lumea vorbește de ESP, dar radarul 2D la Dota 2 Cheats e incredibil. Am prins un flanc pe hartă de două ori într-un meci fără să mă uit la cutiile wallhack. Combo ESP și radar pare cheat de primă clasă. Opacitate scăzută ca să nu strige cheat în clipuri.",
+        "seoTitle": "Recenzie radar de @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 evaluează radarul la Dota 2 Cheats cu 5/5 pentru detectarea flancurilor pe harta Dota 2 pe PC Windows."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Ziua de patch ucide de obicei hack-urile Dota 2. Dota 2 Cheats a revenit a doua dimineață; vechiul furnizor a durat patru zile.",
+        "text": "Ziua de patch Dota 2 e când jumătate din discord-urile de cheat tac. Echipa Dota 2 Cheats a postat pe status în ~3 ore și am revenit în coada ranked a doua dimineață. Vechiul furnizor m-a lăsat să aștept patru zile fără loader. Nu perfect, dar suportul e mult mai bun decât sunt obișnuit.",
+        "seoTitle": "Recenzie status de @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike evaluează actualizările de status Dota 2 Cheats cu 4/5 după patch-uri VAC pe Dota 2 pentru PC Windows."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Main carry. Soft aim plus ESP la Dota 2 Cheats lovește diferit pe hartă dacă păstrezi setările subtile.",
+        "text": "Sunt main carry. Soft aim pe distanță la Dota 2 Cheats cu callout-uri ESP e foarte puternic dacă setările rămân discrete. Loader fără bloat, instalare simplă pe Windows 11. Cele mai bune hack-uri Dota 2 pentru sesiuni ranked pe hartă — doar nu crește FOV ca un idiot.",
+        "seoTitle": "Carry Soft Aim de @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ evaluează carry soft aim la Dota 2 Cheats cu 5/5 cu ESP pe Dota 2 pentru PC Windows."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Limbă",
-    "englishOfficial": "Engleza este limba oficială",
-    "englishIsOfficial": "Engleza este limba oficială. Alte limbi sunt traduse pentru SEO global.",
-    "languageSuggestion": "Limbă",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Selectează limba",
+    "englishOfficial": "Engleza — limba oficială",
+    "englishIsOfficial": "Engleza este limba oficială",
+    "languageSuggestion": "Sugestie limbă",
+    "dismiss": "Închide",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Navigare",
+    "gallery": "Galerie",
+    "inGameLook": "În joc",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "Citește ghidul",
-    "packageStatus": "Actualizări",
-    "productDetails": "Funcții",
-    "browse": "Pagini related",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Deschide întrebarea pentru răspunsul complet.",
+    "packageStatus": "Starea pachetului",
+    "productDetails": "Detalii produs",
+    "browse": "Răsfoiește",
+    "featured": "Recomandat",
+    "share": "Distribuie",
+    "shareX": "Distribuie pe X",
+    "shareReddit": "Distribuie pe Reddit",
+    "shareFacebook": "Distribuie pe Facebook",
     "blog": "Forumuri",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Funcții",
-    "pricingPlans": "Prețuri",
-    "buyerReviewsNav": "Ce spun jucătorii",
+    "home": "Acasă",
+    "support": "Suport",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "featureList": "Listă funcții",
+    "pricingPlans": "Planuri de preț",
+    "buyerReviewsNav": "Recenzii cumpărători",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "Rambursări",
     "forums": "Forumuri"
   },
   "footer": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Instalare",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Funcții",
+      "Maphack": "Maphack",
+      "Scripts": "Scripturi",
+      "Camera": "Cameră",
+      "Troubleshooting": "Depanare",
+      "Pricing": "Prețuri",
+      "Radar": "Radar",
+      "Combo Scripts": "Scripturi combo",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "metaTitle": "Pagina nu a fost găsită | {{brand}}",
+    "metaDescription": "Această pagină {{brand}} lipsește. Întoarce-te acasă sau explorează funcții, magazin, instalare, recenzii și forumuri.",
+    "body": "URL-ul deschis nu este pe {{brand}}. Folosește linkurile pentru ESP, aimbot, magazin și instalare {{game}} pe PC Windows.",
+    "backHome": "Înapoi la {{brand}}",
+    "gamePreview": "Previzualizare {{game}}",
+    "store": "Magazin",
+    "reviews": "Recenzii",
+    "forums": "Forumuri",
+    "support": "Suport"
   }
 }

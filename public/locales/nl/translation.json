@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Prijzen",
     "status": "Updates",
-    "reviews": "Wat spelers zeggen",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Beoordelingen",
+    "primaryAria": "Hoofdnavigatie",
+    "mobileAria": "Mobiele navigatie",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
   },
   "hero": {
     "accent": "dota 2 cheats",
@@ -28,11 +28,11 @@
     "buyNow": "Nu kopen",
     "seeFeatures": "Bekijk functies",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Dota 2 ESP- en aimbot-overlay",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Skillshot-assist",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Updates"
+    "chipRadar": "Radar-overlay",
+    "chipUpdates": "Patch-updates"
   },
   "cta": {
     "buy": "Nu kopen",
@@ -70,11 +70,90 @@
     "outOf": "van 5",
     "countLabel": "reviews",
     "eyebrow": "Wat spelers zeggen",
-    "homeTitle": "Dota 2 Cheats Wat spelers zeggen",
-    "buyerReviews": "reviews",
-    "averageAria": "Wat spelers zeggen",
-    "outOfFiveAria": "van 5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats beoordelingen",
+    "buyerReviews": "{{count}} kopersbeoordelingen",
+    "averageAria": "Gemiddeld {{rating}} uit {{count}} beoordelingen",
+    "outOfFiveAria": "{{rating}} van 5",
+    "readAll": "Alle beoordelingen lezen →",
+    "scrollHint": "Scroll of sleep om beoordelingen te bekijken",
+    "prev": "Vorige beoordeling",
+    "next": "Volgende beoordeling",
+    "verifiedBuyer": "Geverifieerde koper",
+    "carouselAria": "Kopersbeoordelingen-carousel",
+    "indexTitle": "Dota 2 cheats beoordelingen — hacks & cheats",
+    "indexAverageAria": "Gemiddeld {{rating}} van 5",
+    "indexCount": "{{count}} kopersbeoordelingen · van 5",
+    "starsAria": "{{rating}} van 5 sterren",
+    "readFull": "Volledige beoordeling lezen",
+    "ctaAria": "{{brand}} kopen",
+    "ctaTitle": "Klaar om Dota 2 cheats te proberen?",
+    "ctaBody": "Dota 2 hacks en cheats in één pakket — ESP, skillshot-assist en radar voor Windows-pc, met {{game}}-patchonderhoud.",
+    "ctaBuy": "Nu kopen — ${{price}}",
+    "comparePricing": "Prijzen vergelijken",
+    "reviewBy": "{{brand}}-beoordeling door @{{handle}}",
+    "reviewImageAlt": "{{brand}}-beoordeling door @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Eerder 3 Dota 2-cheats geprobeerd. Dota 2 Cheats voelen menselijk in ranked na soft-aim-tuning.",
+        "text": "Ik heb drie verschillende Dota 2-hacks geprobeerd en ze voelden allemaal te scherp in ranked. Dota 2 Cheats laat je soft aim afstellen zodat het niet opvalt in hoog MMR. Een week grinden; setup duurde ongeveer 12 minuten na whitelisting van de loader. Nog geen drama.",
+        "seoTitle": "Soft Aim-review door @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 beoordeelt soft aim van Dota 2 Cheats met 5/5 na ranked-tests op Windows-pc."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Gekocht voor ESP, niet aimbot. Dota 2 Cheats wallhack toont rotaties vóór de gank — enorm in ranked.",
+        "text": "Ik gebruik weinig aimbot; gekocht voor ESP. Zien welke helden van lane roteerden vóór je gankt is waanzinnige info. Weken op maandabonnement, het waard. Menu kan schoner, maar het pakket is solide.",
+        "seoTitle": "ESP-review door @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K beoordeelt ESP-wallhack van Dota 2 Cheats met 4/5 voor ranked-info op Windows-pc."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Oude hack stierf bij VAC-patch. Dota 2 Cheats rebuild dezelfde nacht, 2 weken betrouwbaar op de map.",
+        "text": "Mijn vorige cheat was de dag na een VAC-update dood. Overgestapt naar Dota 2 Cheats en de loader was dezelfde avond terug. ESP plus radar op de map, na twee weken nog clean. Lifetime gekocht — geen maandelijks meer betalen voor dode hacks.",
+        "seoTitle": "Update-review door @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard beoordeelt Dota 2 Cheats met 5/5 na VAC-update — snelle rebuild op Windows-pc."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Niet technisch maar het Dota 2 Cheats-menu is makkelijk. Soft aim voelt natuurlijk na FOV- en smoothing-tuning in ranked.",
+        "text": "Ik ben helemaal niet technisch. Het menu is simpel — FOV op soft aim verlaagd, smoothing omhoog, snap weg. Voelt nu als spiergeheugen in solo en ranked. Alleen 4 sterren omdat support bij eerste login een uur duurde, maar licentiesleutel snel gefixt.",
+        "seoTitle": "Soft Aim-review door @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 beoordeelt soft aim van Dota 2 Cheats met 4/5 na FOV-tuning in ranked op Windows-pc."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender blokkeerde de loader eerst maar support loste het in twee uur op. Dota 2 Cheats ESP ziet clean in custom-lobbys.",
+        "text": "Dota 2 Cheats werkt prima zodra je in het spel bent. Windows Defender blokkeerde de loader bij de eerste poging en ik raakte in paniek. Support gemaild met order-ID, antwoord binnen twee uur met stappen. ESP ziet clean in customs; nog geen volledig ranked. Drie sterren door setup-stress, maar de cheats lijken OK.",
+        "seoTitle": "Setup-review door @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 beoordeelt Dota 2 Cheats setup met 3/5 — ESP solide na support-hulp op Windows-pc."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Helden-ESP in Dota 2 Cheats vangt flanks en wards vroeg. Veel beter dan sketchy gratis cheats.",
+        "text": "Wilde vooral helden-ESP en ward-tracking voor Dota 2. Dota 2 Cheats toont vijandelijke helden en ganks eerder dan mijn brein. Party-games met vrienden zijn minder chaos als je weet wie flankt. Veel beter dan willekeurige gratis hacks die shady lijken.",
+        "seoTitle": "Helden-ESP-review door @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx beoordeelt helden-ESP van Dota 2 Cheats met 5/5 voor ward- en helden-tracking op Windows-pc."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Per-held aim-profielen van Dota 2 Cheats helpen in ranked. Volgende dag terug na VAC-patch.",
+        "text": "Gebruik Dota 2 Cheats sinds het nieuwe seizoen. Per-held aim-profielen helpen bij langeafstand skillshots — ranged carries vs melee voelen anders, nice. Statuspagina was traag na VAC-patch, maar build was de volgende ochtend terug. Solide voor lange ranked-grind-sessies.",
+        "seoTitle": "Ranked Soft Aim door @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 beoordeelt soft aim van Dota 2 Cheats met 4/5 voor helden-skillshots in ranked op Windows-pc."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "2D-radar in Dota 2 Cheats pakte flanks op de map twee keer. ESP plus radar voelt als echte cheats.",
+        "text": "Iedereen praat over ESP, maar de 2D-radar in Dota 2 Cheats is insane. Ving een flank op de map twee keer in één match zonder naar wallhack-boxen te staren. ESP plus radar voelt als tier-1 cheats. Lage opacity zodat het niet schreeuwt cheat in clips.",
+        "seoTitle": "Radar-review door @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 beoordeelt radar van Dota 2 Cheats met 5/5 voor flankdetectie op de Dota 2-map op Windows-pc."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Patchdag doodt vaak Dota 2-hacks. Dota 2 Cheats was de volgende ochtend terug; oude provider deed vier dagen.",
+        "text": "Op Dota 2-patchdag zwijgen de helft van de cheat-discords. Het Dota 2 Cheats-team postte binnen ~3 uur op status en ik was de volgende ochtend terug in de ranked-queue. Mijn oude provider liet me vier dagen wachten zonder loader. Niet perfect, maar support is veel beter dan ik gewend ben.",
+        "seoTitle": "Status-review door @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike beoordeelt Dota 2 Cheats statusupdates met 4/5 na VAC-patches op Dota 2 voor Windows-pc."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Carry-main. Soft aim plus ESP in Dota 2 Cheats slaat anders op de map als je instellingen subtiel houdt.",
+        "text": "Carry-main hier. Langafstand soft aim in Dota 2 Cheats met ESP-callouts is sterk als je instellingen discreet houdt. Geen opgeblazen loader, simpele installatie op Windows 11. Beste Dota 2-hacks die ik voor ranked-sessies op de map heb gebruikt — crank de FOV niet als een idioot.",
+        "seoTitle": "Carry Soft Aim door @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ beoordeelt carry soft aim van Dota 2 Cheats met 5/5 met ESP op Dota 2 voor Windows-pc."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Taal",
-    "englishOfficial": "Engels is de officiële taal",
-    "englishIsOfficial": "Engels is de officiële taal. Andere talen zijn vertaald voor wereldwijde SEO.",
-    "languageSuggestion": "Taal",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Taal selecteren",
+    "englishOfficial": "Engels — officiële taal",
+    "englishIsOfficial": "Engels is de officiële taal",
+    "languageSuggestion": "Taalsuggestie",
+    "dismiss": "Sluiten",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Broodkruimel",
+    "gallery": "Galerij",
+    "inGameLook": "In-game weergave",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "Lees gids",
-    "packageStatus": "Updates",
-    "productDetails": "Functies",
-    "browse": "Gerelateerde pagina's",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Open een vraag voor het volledige antwoord.",
+    "packageStatus": "Pakketstatus",
+    "productDetails": "Productdetails",
+    "browse": "Bladeren",
+    "featured": "Uitgelicht",
+    "share": "Delen",
+    "shareX": "Delen op X",
+    "shareReddit": "Delen op Reddit",
+    "shareFacebook": "Delen op Facebook",
     "blog": "Forums",
     "home": "Home",
     "support": "Support",
     "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Functies",
-    "pricingPlans": "Prijzen",
-    "buyerReviewsNav": "Wat spelers zeggen",
+    "terms": "Voorwaarden",
+    "featureList": "Functielijst",
+    "pricingPlans": "Prijsplannen",
+    "buyerReviewsNav": "Kopersbeoordelingen",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "Terugbetaling",
     "forums": "Forums"
   },
   "footer": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Installatie",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Functies",
+      "Maphack": "Maphack",
+      "Scripts": "Scripts",
+      "Camera": "Camera",
+      "Troubleshooting": "Problemen",
+      "Pricing": "Prijzen",
+      "Radar": "Radar",
+      "Combo Scripts": "Combo-scripts",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "metaTitle": "Pagina niet gevonden | {{brand}}",
+    "metaDescription": "Die {{brand}}-pagina ontbreekt. Ga terug naar home of bekijk functies, winkel, setup, beoordelingen en forums.",
+    "body": "De geopende URL staat niet op {{brand}}. Gebruik de links voor ESP, aimbot, winkel en setup voor {{game}} op Windows-pc.",
+    "backHome": "Terug naar {{brand}} home",
+    "gamePreview": "{{game}}-preview",
+    "store": "Winkel",
+    "reviews": "Beoordelingen",
+    "forums": "Forums",
+    "support": "Support"
   }
 }

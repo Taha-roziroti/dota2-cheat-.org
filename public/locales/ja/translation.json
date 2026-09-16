@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "料金",
     "status": "更新",
-    "reviews": "プレイヤーの声",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "レビュー",
+    "primaryAria": "メインナビゲーション",
+    "mobileAria": "モバイルナビゲーション",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる"
   },
   "hero": {
     "accent": "Dota 2チート",
@@ -28,11 +28,11 @@
     "buyNow": "今すぐ購入",
     "seeFeatures": "機能を見る",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
-    "chipEsp": "ESP / wallhack",
+    "imageAlt": "{{brand}} — Dota 2 ESP・エイムボットオーバーレイ",
+    "chipEsp": "ESP / ウォールハック",
     "chipAim": "スキルショット支援",
-    "chipRadar": "2D radar",
-    "chipUpdates": "更新"
+    "chipRadar": "レーダーオーバーレイ",
+    "chipUpdates": "パッチ更新"
   },
   "cta": {
     "buy": "今すぐ購入",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "件のレビュー",
     "eyebrow": "プレイヤーの声",
-    "homeTitle": "Dota 2 Cheats プレイヤーの声",
-    "buyerReviews": "件のレビュー",
-    "averageAria": "プレイヤーの声",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats レビュー",
+    "buyerReviews": "購入者レビュー {{count}}件",
+    "averageAria": "{{count}}件のレビューで平均{{rating}}",
+    "outOfFiveAria": "5点中{{rating}}",
+    "readAll": "すべてのレビューを見る →",
+    "scrollHint": "スクロールまたはドラッグでレビューを表示",
+    "prev": "前のレビュー",
+    "next": "次のレビュー",
+    "verifiedBuyer": "認証済み購入者",
+    "carouselAria": "購入者レビューカルーセル",
+    "indexTitle": "Dota 2チートレビュー — ハック＆チート",
+    "indexAverageAria": "5点中平均{{rating}}",
+    "indexCount": "購入者レビュー {{count}}件 · 5点満点",
+    "starsAria": "5点中{{rating}}",
+    "readFull": "レビュー全文を読む",
+    "ctaAria": "{{brand}}を購入",
+    "ctaTitle": "Dota 2チートを試す準備はできましたか？",
+    "ctaBody": "ESP・スキルショット支援・レーダーをWindows PC向けに1パッケージ。{{game}}パッチメンテナンス付き。",
+    "ctaBuy": "今すぐ購入 — ${{price}}",
+    "comparePricing": "料金を比較",
+    "reviewBy": "{{brand}}のレビュー @{{handle}}",
+    "reviewImageAlt": "{{brand}}のレビュー @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "以前3つのDota 2チートを試した。soft aimを調整すればDota 2 Cheatsはランクで自然に感じる。",
+        "text": "3つの異なるDota 2ハックを試しましたが、ランクマッチではどれもキレすぎました。Dota 2 Cheatsはsoft aimを微調整でき、高MMRでも目立ちません。1週間プレイ中。ローダーをホワイトリスト化後、セットアップは約12分。今のところ問題なし。",
+        "seoTitle": "@xKrypt0_Dota 2 のSoft Aimレビュー — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2がWindows PCのランクマッチでDota 2 Cheatsのsoft aimを5/5と評価。"
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "aimbotではなくESP目的で購入。Dota 2 Cheatsのwallhackはガンク前のローテを表示 — ランクで威力大。",
+        "text": "aimbotはほとんど使わずESPのために購入。ガンク前にどのヒーローがレーンを回ったか見えるのは強力な情報。数週間月額利用中で価値あり。メニューはもう少しきれいでもいいがパッケージは堅実。",
+        "seoTitle": "@buildsR4K のESPレビュー — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4KがWindows PCのランク情報でDota 2 Cheats ESP wallhackを4/5と評価。"
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "前のハックはVACパッチで停止。Dota 2 Cheatsは同日夜にリビルド、マップで2週間安定。",
+        "text": "前のチートはVAC更新の翌日に使えなくなりました。Dota 2 Cheatsに切り替え、リビルド当日の夜にローダーが復帰。マップでESPとレーダーを使用中、2週間クリーン。lifetimeを購入 — 死んだハックに月額は払わない。",
+        "seoTitle": "@dma_wizard の更新レビュー — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizardがVAC更新後Dota 2 Cheatsを5/5と評価 — Windows PCで迅速なリビルド。"
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "技術に詳しくないがDota 2 Cheatsのメニューは簡単。FOVとスムージング調整後、ランクでsoft aimが自然。",
+        "text": "全く技術に詳しくない。メニューはシンプル — soft aimのFOVを下げ、スムージングを上げ、スナップを止めた。ソロとランクで筋肉記憶のように感じる。初回ログインのサポートが1時間かかったので4つ星だが、ライセンスキーはすぐ修正された。",
+        "seoTitle": "@ctrl_player99 のSoft Aimレビュー — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99がWindows PCのランクでFOV調整後Dota 2 Cheats soft aimを4/5と評価。"
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defenderが最初にローダーをブロックしたがサポートが2時間で修正。Dota 2 CheatsのESPはカスタムロビーでクリーン。",
+        "text": "ゲームに入ればDota 2 Cheatsは問題なく動く。Windows Defenderが初回でローダーをブロックして焦った。注文IDでサポートに連絡、2時間で手順の返信。カスタムでESPはクリーン；まだフルランクは未挑戦。インストールのストレスで3つ星だがチート自体はOKそう。",
+        "seoTitle": "@stormChaser_07 のセットアップレビュー — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07がWindows PCでサポート支援後Dota 2 Cheatsセットアップを3/5と評価。"
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Dota 2 CheatsのヒーローESPはフランクとワードを早期発見。怪しい無料チートより断然良い。",
+        "text": "主にヒーローESPとワード追跡が欲しかった。Dota 2 Cheatsは敵ヒーローとガンクを頭より早く表示。フレンドとのパーティは誰がフランクするか分かると混乱が減る。怪しげな無料ハックより断然マシ。",
+        "seoTitle": "@weaponDropsGoblinx のヒーローESPレビュー — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinxがWindows PCでワード・ヒーロー追跡のDota 2 CheatsヒーローESPを5/5と評価。"
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Dota 2 Cheatsのヒーロー別aimプロファイルはランクで役立つ。VACパッチ翌日に復帰。",
+        "text": "新シーズンからDota 2 Cheatsを使用。ヒーロー別aimプロファイルは長距離スキルショットで役立つ — 遠距離キャリーと近接で違う感じがする。VACパッチ後ステータスページは遅かったが翌朝ビルド復帰。ランクの長時間グラインドに堅実。",
+        "seoTitle": "@rankedGrind42 のランクSoft Aimレビュー — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42がWindows PCのランクヒーロースキルショットでDota 2 Cheats soft aimを4/5と評価。"
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Dota 2 Cheatsの2Dレーダーがマップのフランクを2回捕捉。ESPとレーダーのコンボは本物のチート感。",
+        "text": "みんなESPの話だがDota 2 Cheatsの2Dレーダーは凄い。1試合でwallhackボックスを見ずにマップのフランクを2回捕捉。ESPとレーダーのコンボは一流チート感。クリップで目立たないよう低不透明度で使用。",
+        "seoTitle": "@vanLifeDota 2 のレーダーレビュー — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2がWindows PCのDota 2マップでのフランク検出でDota 2 Cheatsレーダーを5/5と評価。"
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "パッチ当日はDota 2ハックが死ぬことが多い。Dota 2 Cheatsは翌朝復帰、旧プロバイダーは4日かかった。",
+        "text": "Dota 2パッチ当日はチートDiscordの半分が沈黙する。Dota 2 Cheatsチームは約3時間でステータス投稿、翌朝ランクキューに復帰。旧プロバイダーは4日間ローダーなしで待たせた。完璧ではないがサポートは慣れよりずっと良い。",
+        "seoTitle": "@patchDayMike のステータスレビュー — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMikeがWindows PCのDota 2 VACパッチ後Dota 2 Cheatsステータス更新を4/5と評価。"
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "キャリーメイン。設定を控えめにすればDota 2 Cheatsのsoft aimとESPはマップで別物。",
+        "text": "キャリーメインです。Dota 2 Cheatsの長距離soft aimとESPコールアウトは設定を控えめにすれば非常に強力。肥大化しないローダー、Windows 11で簡単インストール。マップのランクセッションで使った最高のDota 2ハック — FOVを馬鹿みたいに上げないで。",
+        "seoTitle": "@snipezOnly_ のキャリーSoft Aimレビュー — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_がWindows PCのDota 2 ESP付きDota 2 Cheatsキャリーsoft aimを5/5と評価。"
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "言語",
-    "englishOfficial": "英語が公式言語です。他言語はグローバルSEO向けに翻訳されています。",
-    "englishIsOfficial": "英語が公式言語です。他言語はグローバルSEO向けに翻訳されています。",
-    "languageSuggestion": "言語",
-    "dismiss": "Dismiss",
+    "selectLanguage": "言語を選択",
+    "englishOfficial": "英語 — 公式言語",
+    "englishIsOfficial": "英語が公式言語です",
+    "languageSuggestion": "言語の提案",
+    "dismiss": "閉じる",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "パンくず",
+    "gallery": "ギャラリー",
+    "inGameLook": "ゲーム内表示",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "ガイドを読む",
-    "packageStatus": "更新",
-    "productDetails": "機能",
-    "browse": "関連ページ",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "質問を開いて全文を表示。",
+    "packageStatus": "パッケージ状況",
+    "productDetails": "製品詳細",
+    "browse": "閲覧",
+    "featured": "注目",
+    "share": "共有",
+    "shareX": "Xで共有",
+    "shareReddit": "Redditで共有",
+    "shareFacebook": "Facebookで共有",
     "blog": "フォーラム",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "機能",
-    "pricingPlans": "料金",
-    "buyerReviewsNav": "プレイヤーの声",
+    "home": "ホーム",
+    "support": "サポート",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "featureList": "機能一覧",
+    "pricingPlans": "料金プラン",
+    "buyerReviewsNav": "購入者レビュー",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "返金",
     "forums": "フォーラム"
   },
   "footer": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "セットアップ",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "機能",
+      "Maphack": "Maphack",
+      "Scripts": "スクリプト",
+      "Camera": "カメラ",
+      "Troubleshooting": "トラブル",
+      "Pricing": "料金",
+      "Radar": "レーダー",
+      "Combo Scripts": "コンボスクリプト",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "metaTitle": "ページが見つかりません | {{brand}}",
+    "metaDescription": "{{brand}}のこのページはありません。ホーム、機能、ストア、セットアップ、レビュー、フォーラムへ。",
+    "body": "開いたURLは{{brand}}にありません。Windows PC向け{{game}}のESP・エイムボット・ストア・セットアップは下のリンクから。",
+    "backHome": "{{brand}}ホームに戻る",
+    "gamePreview": "{{game}}プレビュー",
+    "store": "ストア",
+    "reviews": "レビュー",
+    "forums": "フォーラム",
+    "support": "サポート"
   }
 }

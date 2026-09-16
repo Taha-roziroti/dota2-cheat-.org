@@ -431,21 +431,326 @@ export const EXTERNAL_LINK_LABELS = {
 	},
 };
 
-export function localizeHtmlLinks(html, locale) {
+/** Extra paths shared across locales — merged at lookup time. */
+const SHARED_PATH_LABELS = {
+	'/dota2-aimbot/': {
+		en: 'Aimbot & skillshot assist',
+		es: 'Aimbot y asistencia de skillshot',
+		fr: 'Aimbot et assistance skillshot',
+		de: 'Aimbot & Skillshot-Assist',
+		pt: 'Aimbot e assistência de skillshot',
+		it: 'Aimbot e assist skillshot',
+		nl: 'Aimbot & skillshot-assist',
+		pl: 'Aimbot i asysta skillshot',
+		ru: 'Aimbot и помощь в скиллшотах',
+		tr: 'Aimbot ve skillshot yardımı',
+		ar: 'Aimbot ومساعدة المهارة',
+		ja: 'Aimbot・スキルショット支援',
+		ko: 'Aimbot 및 스킬샷 어시스트',
+		zh: '自瞄与技能辅助',
+		hi: 'Aimbot और स्किलशॉट सहायता',
+		id: 'Aimbot & bantuan skillshot',
+		th: 'Aimbot และช่วยสกิลช็อต',
+		vi: 'Aimbot & hỗ trợ skillshot',
+		uk: 'Aimbot і допомога скиллшоту',
+		cs: 'Aimbot a skillshot asistence',
+		ro: 'Aimbot și asistență skillshot',
+		sv: 'Aimbot & skillshot-assistans',
+	},
+	'/dota2-cheats-2026/': {
+		en: 'dota 2 cheats 2026',
+		es: 'trucos Dota 2 2026',
+		fr: 'triches Dota 2 2026',
+		de: 'dota 2 cheats 2026',
+		pt: 'cheats Dota 2 2026',
+		it: 'cheat Dota 2 2026',
+		nl: 'dota 2 cheats 2026',
+		pl: 'cheaty Dota 2 2026',
+		ru: 'читы Dota 2 2026',
+		tr: 'dota 2 hileleri 2026',
+		ar: 'غش Dota 2 2026',
+		ja: 'Dota 2チート 2026',
+		ko: 'Dota 2 치트 2026',
+		zh: 'Dota 2 作弊 2026',
+		hi: 'dota 2 cheats 2026',
+		id: 'cheat Dota 2 2026',
+		th: 'สูตร Dota 2 2026',
+		vi: 'cheat Dota 2 2026',
+		uk: 'чити Dota 2 2026',
+		cs: 'cheaty Dota 2 2026',
+		ro: 'cheat-uri Dota 2 2026',
+		sv: 'dota 2 cheats 2026',
+	},
+	'/compare/': {
+		en: 'Compare',
+		es: 'Comparar',
+		fr: 'Comparer',
+		de: 'Vergleichen',
+		pt: 'Comparar',
+		it: 'Confronta',
+		nl: 'Vergelijken',
+		pl: 'Porównaj',
+		ru: 'Сравнение',
+		tr: 'Karşılaştır',
+		ar: 'مقارنة',
+		ja: '比較',
+		ko: '비교',
+		zh: '对比',
+		hi: 'तुलना',
+		id: 'Bandingkan',
+		th: 'เปรียบเทียบ',
+		vi: 'So sánh',
+		uk: 'Порівняти',
+		cs: 'Porovnat',
+		ro: 'Compară',
+		sv: 'Jämför',
+	},
+	'/vac-bypass/': {
+		en: 'VAC bypass guide',
+		es: 'Guía bypass VAC',
+		fr: 'Guide bypass VAC',
+		de: 'VAC-Bypass-Anleitung',
+		pt: 'Guia bypass VAC',
+		it: 'Guida bypass VAC',
+		nl: 'VAC-bypassgids',
+		pl: 'Przewodnik bypass VAC',
+		ru: 'Гайд по обходу VAC',
+		tr: 'VAC bypass rehberi',
+		ar: 'دليل تجاوز VAC',
+		ja: 'VACバイパスガイド',
+		ko: 'VAC 우회 가이드',
+		zh: 'VAC绕过指南',
+		hi: 'VAC बायपास गाइड',
+		id: 'Panduan bypass VAC',
+		th: 'คู่มือ bypass VAC',
+		vi: 'Hướng dẫn bypass VAC',
+		uk: 'Гайд обходу VAC',
+		cs: 'Průvodce bypass VAC',
+		ro: 'Ghid bypass VAC',
+		sv: 'VAC-bypass-guide',
+	},
+	'/premium-dota2-cheats/': {
+		en: 'dota 2 cheats',
+		es: 'trucos Dota 2',
+		fr: 'triches Dota 2',
+		de: 'dota 2 cheats',
+		pt: 'cheats Dota 2',
+		it: 'cheat Dota 2',
+		nl: 'dota 2 cheats',
+		pl: 'cheaty Dota 2',
+		ru: 'читы Dota 2',
+		tr: 'dota 2 hileleri',
+		ar: 'غش Dota 2',
+		ja: 'Dota 2チート',
+		ko: 'Dota 2 치트',
+		zh: 'Dota 2 作弊',
+		hi: 'dota 2 cheats',
+		id: 'cheat Dota 2',
+		th: 'สูตร Dota 2',
+		vi: 'cheat Dota 2',
+		uk: 'чити Dota 2',
+		cs: 'cheaty Dota 2',
+		ro: 'cheat-uri Dota 2',
+		sv: 'dota 2 cheats',
+	},
+	'/forums/dota2-cheats-2026-whats-new/': {
+		en: '2026 forum guide',
+		es: 'Guía del foro 2026',
+		fr: 'Guide forum 2026',
+		de: 'Forum-Guide 2026',
+		pt: 'Guia do fórum 2026',
+		it: 'Guida forum 2026',
+		nl: 'Forumgids 2026',
+		pl: 'Przewodnik forum 2026',
+		ru: 'Гайд форума 2026',
+		tr: '2026 forum rehberi',
+		ar: 'دليل المنتدى 2026',
+		ja: '2026フォーラムガイド',
+		ko: '2026 포럼 가이드',
+		zh: '2026论坛指南',
+		hi: '2026 फ़ोरम गाइड',
+		id: 'Panduan forum 2026',
+		th: 'คู่มือฟอรั่ม 2026',
+		vi: 'Hướng dẫn diễn đàn 2026',
+		uk: 'Гайд форуму 2026',
+		cs: 'Průvodce fóra 2026',
+		ro: 'Ghid forum 2026',
+		sv: 'Forumguide 2026',
+	},
+	'/forums/dota2-cheats-complete-guide-2026/': {
+		en: 'complete 2026 guide',
+		es: 'guía completa 2026',
+		fr: 'guide complet 2026',
+		de: 'kompletter 2026-Guide',
+		pt: 'guia completo 2026',
+		it: 'guida completa 2026',
+		nl: 'volledige gids 2026',
+		pl: 'pełny przewodnik 2026',
+		ru: 'полный гайд 2026',
+		tr: 'eksiksiz 2026 rehberi',
+		ar: 'الدليل الكامل 2026',
+		ja: '完全版2026ガイド',
+		ko: '완전 가이드 2026',
+		zh: '完整2026指南',
+		hi: 'पूर्ण 2026 गाइड',
+		id: 'panduan lengkap 2026',
+		th: 'คู่มือฉบับสมบูรณ์ 2026',
+		vi: 'hướng dẫn đầy đủ 2026',
+		uk: 'повний гайд 2026',
+		cs: 'úplný průvodce 2026',
+		ro: 'ghid complet 2026',
+		sv: 'komplett guide 2026',
+	},
+	'/forums/dota2-cheats-buyers-guide/': {
+		en: 'buyers guide',
+		es: 'guía del comprador',
+		fr: 'guide acheteur',
+		de: 'Käuferguide',
+		pt: 'guia do comprador',
+		it: 'guida acquirenti',
+		nl: 'kopersgids',
+		pl: 'przewodnik kupującego',
+		ru: 'гайд покупателя',
+		tr: 'alıcı rehberi',
+		ar: 'دليل المشتري',
+		ja: '購入者ガイド',
+		ko: '구매자 가이드',
+		zh: '买家指南',
+		hi: 'खरीदार गाइड',
+		id: 'panduan pembeli',
+		th: 'คู่มือผู้ซื้อ',
+		vi: 'hướng dẫn người mua',
+		uk: 'гайд покупця',
+		cs: 'průvodce kupujícího',
+		ro: 'ghid cumpărători',
+		sv: 'köpar guide',
+	},
+	'/faq/are-dota2-cheats-premium-in-2026/': {
+		en: 'premium in 2026',
+		es: 'premium en 2026',
+		fr: 'premium en 2026',
+		de: 'Premium 2026',
+		pt: 'premium em 2026',
+		it: 'premium nel 2026',
+		nl: 'premium in 2026',
+		pl: 'premium w 2026',
+		ru: 'премиум в 2026',
+		tr: '2026 premium',
+		ar: 'بريميوم 2026',
+		ja: '2026年プレミアム',
+		ko: '2026 프리미엄',
+		zh: '2026高级版',
+		hi: '2026 में प्रीमियम',
+		id: 'premium 2026',
+		th: 'พรีเมียม 2026',
+		vi: 'premium 2026',
+		uk: 'преміум у 2026',
+		cs: 'premium 2026',
+		ro: 'premium 2026',
+		sv: 'premium 2026',
+	},
+	'/faq/dota2-vac-bypass/': {
+		en: 'VAC bypass FAQ',
+		es: 'FAQ bypass VAC',
+		fr: 'FAQ bypass VAC',
+		de: 'VAC-Bypass FAQ',
+		pt: 'FAQ bypass VAC',
+		it: 'FAQ bypass VAC',
+		nl: 'VAC-bypass FAQ',
+		pl: 'FAQ bypass VAC',
+		ru: 'FAQ обхода VAC',
+		tr: 'VAC bypass SSS',
+		ar: 'أسئلة تجاوز VAC',
+		ja: 'VACバイパスFAQ',
+		ko: 'VAC 우회 FAQ',
+		zh: 'VAC绕过常见问题',
+		hi: 'VAC बायपास FAQ',
+		id: 'FAQ bypass VAC',
+		th: 'FAQ bypass VAC',
+		vi: 'FAQ bypass VAC',
+		uk: 'FAQ обходу VAC',
+		cs: 'FAQ bypass VAC',
+		ro: 'FAQ bypass VAC',
+		sv: 'VAC-bypass FAQ',
+	},
+};
+
+// Alias /2026/ to same labels as /dota2-cheats-2026/
+SHARED_PATH_LABELS['/2026/'] = SHARED_PATH_LABELS['/dota2-cheats-2026/'];
+
+const DOTA2_PC_LABEL = {
+	en: 'Dota 2 on PC',
+	es: 'Dota 2 en PC',
+	fr: 'Dota 2 sur PC',
+	de: 'Dota 2 auf PC',
+	pt: 'Dota 2 no PC',
+	it: 'Dota 2 su PC',
+	nl: 'Dota 2 op PC',
+	pl: 'Dota 2 na PC',
+	ru: 'Dota 2 на PC',
+	tr: 'PC\'de Dota 2',
+	ar: 'Dota 2 على PC',
+	ja: 'PC版Dota 2',
+	ko: 'PC Dota 2',
+	zh: 'PC版Dota 2',
+	hi: 'PC पर Dota 2',
+	id: 'Dota 2 di PC',
+	th: 'Dota 2 บน PC',
+	vi: 'Dota 2 trên PC',
+	uk: 'Dota 2 на PC',
+	cs: 'Dota 2 na PC',
+	ro: 'Dota 2 pe PC',
+	sv: 'Dota 2 på PC',
+};
+
+const RELATED_LABEL = {
+	en: 'Related links',
+	es: 'Enlaces relacionados',
+	fr: 'Liens utiles',
+	de: 'Weiterführende Links',
+	pt: 'Links relacionados',
+	it: 'Link correlati',
+	nl: 'Gerelateerde links',
+	pl: 'Powiązane linki',
+	ru: 'Полезные ссылки',
+	tr: 'İlgili bağlantılar',
+	ar: 'روابط ذات صلة',
+	ja: '関連リンク',
+	ko: '관련 링크',
+	zh: '相关链接',
+	hi: 'संबंधित लिंक',
+	id: 'Tautan terkait',
+	th: 'ลิงก์ที่เกี่ยวข้อง',
+	vi: 'Liên kết liên quan',
+	uk: "Пов'язані посилання",
+	cs: 'Související odkazy',
+	ro: 'Linkuri utile',
+	sv: 'Relaterade länkar',
+};
+
+function lookupPathLabel(href, locale, fallbackText) {
 	const labels = LINK_LABELS[locale] ?? LINK_LABELS.en;
+	if (labels[href]) return labels[href];
+	const shared = SHARED_PATH_LABELS[href];
+	if (shared?.[locale]) return shared[locale];
+	if (href.includes('dota2.com/dota2') && !href.includes('news')) {
+		return DOTA2_PC_LABEL[locale] ?? DOTA2_PC_LABEL.en;
+	}
+	return fallbackText;
+}
+
+export function localizeHtmlLinks(html, locale) {
 	const ext = EXTERNAL_LINK_LABELS;
 	return html.replace(/<a\s+([^>]*?)>([^<]*)<\/a>/gi, (match, attrs, text) => {
 		const hrefMatch = attrs.match(/href="([^"]+)"/);
 		if (!hrefMatch) return match;
 		const href = hrefMatch[1];
-		let label = labels[href];
-		if (!label) {
+		let label = lookupPathLabel(href, locale, text);
+		if (label === text) {
 			if (href.includes('steampowered.com') && href.includes('news')) {
 				label = ext.steamPatch[locale] ?? ext.steamPatch.en;
 			} else if (href.includes('fandom.com')) {
 				label = ext.rustWiki[locale] ?? ext.rustWiki.en;
-			} else {
-				label = text;
 			}
 		}
 		return `<a ${attrs}>${label}</a>`;
@@ -455,4 +760,13 @@ export function localizeHtmlLinks(html, locale) {
 export function localizeLinkListItem(html, locale) {
 	if (!html.includes('<a ')) return html;
 	return localizeHtmlLinks(html, locale);
+}
+
+/** Localize a paragraph that contains internal links — native prose + localized link list. */
+export function localizeLinkParagraph(enPara, locale, fallbackText) {
+	if (locale === 'en') return enPara;
+	const localized = localizeHtmlLinks(enPara, locale);
+	const links = [...localized.matchAll(/<a\s+[^>]*>[^<]*<\/a>/gi)].map((m) => m[0]);
+	if (!links.length) return fallbackText;
+	return `${fallbackText} ${RELATED_LABEL[locale] ?? RELATED_LABEL.en}: ${links.join(' · ')}.`;
 }

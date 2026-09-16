@@ -14,8 +14,8 @@
     "store": "Pricing",
     "status": "Updates",
     "reviews": "Reviews",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
+    "primaryAria": "Primary navigation",
+    "mobileAria": "Mobile navigation",
     "openMenu": "Open menu",
     "closeMenu": "Close menu"
   },
@@ -72,9 +72,27 @@
     "eyebrow": "Dota 2 Cheats",
     "homeTitle": "Dota 2 Cheats reviews",
     "buyerReviews": "{{count}} Dota 2 Cheats buyer reviews",
-    "averageAria": "{{rating}} average from {{count}} Dota 2 Cheats buyer reviews",
+    "averageAria": "{{rating}} average from {{count}} buyer reviews",
     "outOfFiveAria": "{{rating}} out of 5",
-    "readAll": "Read all Dota 2 Cheats reviews →"
+    "readAll": "Read all Dota 2 Cheats reviews →",
+    "scrollHint": "Scroll or drag to browse reviews",
+    "prev": "Previous review",
+    "next": "Next review",
+    "verifiedBuyer": "Verified buyer",
+    "carouselAria": "Buyer reviews carousel",
+    "indexTitle": "Dota 2 cheats reviews — Dota 2 hacks & cheats",
+    "indexAverageAria": "{{rating}} out of 5 average rating",
+    "indexCount": "{{count}} buyer reviews · out of 5",
+    "starsAria": "{{rating}} out of 5 stars",
+    "readFull": "Read full review",
+    "ctaAria": "Buy {{brand}}",
+    "ctaTitle": "Ready to try Dota 2 cheats?",
+    "ctaBody": "Dota 2 hacks and cheats in one package — ESP, skillshot assist, and radar for Windows PC, with {{game}} patch maintenance after updates.",
+    "ctaBuy": "Buy Now — ${{price}}",
+    "comparePricing": "Compare pricing",
+    "reviewBy": "{{brand}} review by @{{handle}}",
+    "reviewImageAlt": "{{brand}} review by @{{handle}}",
+    "items": {}
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -270,7 +288,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Setup",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Features",
+      "Maphack": "Maphack",
+      "Scripts": "Scripts",
+      "Camera": "Camera",
+      "Troubleshooting": "Troubleshooting",
+      "Pricing": "Pricing",
+      "Radar": "Radar",
+      "Combo Scripts": "Combo Scripts",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -412,5 +444,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "metaTitle": "Page Not Found | {{brand}}",
+    "metaDescription": "That {{brand}} page is missing. Return home or browse features, store, setup, reviews, and forums.",
+    "body": "The URL you opened is not on {{brand}}. Use the links below for ESP, aimbot, store, and setup for {{game}} on Windows PC.",
+    "backHome": "Back to {{brand}} home",
+    "gamePreview": "{{game}} preview",
+    "store": "Store",
+    "reviews": "Reviews",
+    "forums": "Forums",
+    "support": "Support"
   }
 }

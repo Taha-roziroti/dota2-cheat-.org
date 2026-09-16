@@ -11,7 +11,7 @@ import {
 	getBlogListPosts,
 	getBlogIndexHreflangAlternates,
 } from '../data/blog/helpers';
-import { blogLabel, siteConfig } from '../data/site';
+import { siteConfig } from '../data/site';
 import { brandSeo, seoPageTitle } from '../data/site-core';
 import { seoDescription } from '../data/brand';
 import { getLocalizedPath } from '../data/i18n/routing';
@@ -39,6 +39,12 @@ const homeHref = getLocalizedPath('home', locale);
 const pageTitle = locale === defaultLocale ? seoPageTitle(brandSeo.blogTitle) : ui.blogTitle;
 const pageDescription =
 	locale === defaultLocale ? seoDescription(brandSeo.blogDescription) : ui.blogDescription;
+
+function categoryLabel(category: string) {
+	const key = `blog.categories.${category}`;
+	const translated = t(key);
+	return translated === key ? category : translated;
+}
 
 const articleListSchema = {
 	'@type': 'CollectionPage',
@@ -75,7 +81,7 @@ const articleListSchema = {
 	<main id="main-content" class="blog">
 		<div class="shell blog__inner">
 		<header class="blog__hero">
-			<p class="blog__eyebrow" data-edit="blogLabel">{blogLabel}</p>
+			<p class="blog__eyebrow" data-edit="blogLabel">{ui.blogH1}</p>
 			<h1>{ui.blogH1}</h1>
 			<p class="blog__intro">{ui.blogIntro}</p>
 		</header>
@@ -91,7 +97,7 @@ const articleListSchema = {
 						featured.map((post) => (
 							<a class="blog__feature-card" href={post.canonicalPath}>
 								<div>
-									<span class="blog__cat">{post.category}</span>
+									<span class="blog__cat">{categoryLabel(post.category)}</span>
 									<h2>{post.translation.title}</h2>
 									<p>{post.translation.intro}</p>
 									<span class="blog__more">{ui.readMore}</span>
@@ -108,7 +114,7 @@ const articleListSchema = {
 				posts.map((post) => (
 					<article class="blog__card">
 						<a href={post.canonicalPath}>
-							<span class="blog__cat">{post.category}</span>
+							<span class="blog__cat">{categoryLabel(post.category)}</span>
 							<h2>{post.translation.title}</h2>
 							<p>{post.translation.intro}</p>
 							<span class="blog__meta">

@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "价格",
     "status": "更新",
-    "reviews": "玩家评价",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "评价",
+    "primaryAria": "主导航",
+    "mobileAria": "移动导航",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
   },
   "hero": {
     "accent": "Dota 2作弊",
@@ -28,11 +28,11 @@
     "buyNow": "立即购买",
     "seeFeatures": "查看功能",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
-    "chipEsp": "ESP / wallhack",
+    "imageAlt": "{{brand}} — Dota 2 ESP 与自瞄叠加",
+    "chipEsp": "ESP / 透视",
     "chipAim": "技能辅助",
-    "chipRadar": "2D radar",
-    "chipUpdates": "更新"
+    "chipRadar": "雷达叠加",
+    "chipUpdates": "补丁更新"
   },
   "cta": {
     "buy": "立即购买",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "条评价",
     "eyebrow": "玩家评价",
-    "homeTitle": "Dota 2 Cheats 玩家评价",
-    "buyerReviews": "条评价",
-    "averageAria": "玩家评价",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats 评价",
+    "buyerReviews": "{{count}} 条买家评价",
+    "averageAria": "{{count}} 条评价平均 {{rating}}",
+    "outOfFiveAria": "{{rating}} / 5",
+    "readAll": "查看全部评价 →",
+    "scrollHint": "滚动或拖动浏览评价",
+    "prev": "上一条评价",
+    "next": "下一条评价",
+    "verifiedBuyer": "已验证买家",
+    "carouselAria": "买家评价轮播",
+    "indexTitle": "Dota 2 作弊评价 — 外挂与作弊",
+    "indexAverageAria": "平均 {{rating}} / 5",
+    "indexCount": "{{count}} 条买家评价 · 满分 5",
+    "starsAria": "{{rating}} / 5 星",
+    "readFull": "阅读完整评价",
+    "ctaAria": "购买 {{brand}}",
+    "ctaTitle": "准备好试用 Dota 2 作弊了吗？",
+    "ctaBody": "一套 Dota 2 外挂与作弊 — ESP、技能辅助与雷达，适用于 Windows PC，含 {{game}} 补丁维护。",
+    "ctaBuy": "立即购买 — ${{price}}",
+    "comparePricing": "比较价格",
+    "reviewBy": "{{brand}} 评价 @{{handle}}",
+    "reviewImageAlt": "{{brand}} 评价 @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "之前试过 3 个 Dota 2 作弊。调好 soft aim 后，Dota 2 Cheats 在排位里感觉很自然。",
+        "text": "我试过三个不同的 Dota 2 外挂，在排位里都太生硬。Dota 2 Cheats 可以微调 soft aim，高 MMR 也不显眼。已玩一周；白名单加载器后安装约 12 分钟。目前没问题。",
+        "seoTitle": "@xKrypt0_Dota 2 的 Soft Aim 评测 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 在 Windows PC 排位测试后给 Dota 2 Cheats soft aim 评 5/5。"
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "为 ESP 而非 aimbot 购买。Dota 2 Cheats 透视显示 gank 前的游走 — 排位里很关键。",
+        "text": "我几乎不用 aimbot，买它是为了 ESP。gank 前看到哪些英雄换线是无价信息。月付已用几周，值得。菜单可以更简洁，但整体很扎实。",
+        "seoTitle": "@buildsR4K 的 ESP 评测 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K 为 Windows PC 排位信息给 Dota 2 Cheats ESP 透视评 4/5。"
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "旧外挂死在 VAC 补丁。Dota 2 Cheats 当晚重建，地图上稳定两周。",
+        "text": "上一个作弊在 VAC 更新次日失效。换到 Dota 2 Cheats，重建当晚 loader 就回来了。地图上用 ESP 和雷达，两周仍干净。买了终身版，不再为死掉的外挂月付。",
+        "seoTitle": "@dma_wizard 的更新评测 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard 在 VAC 更新后给 Dota 2 Cheats 评 5/5 — Windows PC 快速重建。"
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "不懂技术但 Dota 2 Cheats 菜单很简单。调好 FOV 和平滑后，排位里 soft aim 很自然。",
+        "text": "我完全不懂技术。菜单很简单 — 降低 soft aim 的 FOV，提高平滑，去掉 snap。现在在单排和排位里像肌肉记忆。首登支持等了一小时所以 4 星，但许可证密钥很快修好。",
+        "seoTitle": "@ctrl_player99 的 Soft Aim 评测 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 在 Windows PC 排位 FOV 调整后给 Dota 2 Cheats soft aim 评 4/5。"
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender 起初拦截了加载器，但支持两小时内修好。Dota 2 Cheats 的 ESP 在自定义房间很干净。",
+        "text": "进游戏后 Dota 2 Cheats 运行正常。Windows Defender 第一次就拦截了加载器，我很慌。用订单 ID 联系支持，两小时内回复步骤。自定义里 ESP 很干净；还没打满排位。安装折腾所以 3 星，但作弊本身似乎 OK。",
+        "seoTitle": "@stormChaser_07 的安装评测 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 在 Windows PC 支持帮助后给 Dota 2 Cheats 安装评 3/5。"
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Dota 2 Cheats 的英雄 ESP 提前发现绕后和眼位。比可疑的免费作弊好太多。",
+        "text": "主要想要英雄 ESP 和眼位追踪。Dota 2 Cheats 比大脑更早显示敌方英雄和 gank。知道谁绕后后，和朋友开黑没那么乱。比随机免费外挂好太多。",
+        "seoTitle": "@weaponDropsGoblinx 的英雄 ESP 评测 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx 为 Windows PC 眼位和英雄追踪给 Dota 2 Cheats 英雄 ESP 评 5/5。"
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Dota 2 Cheats 按英雄 aim 配置在排位很有用。VAC 补丁次日恢复。",
+        "text": "新赛季起用 Dota 2 Cheats。按英雄的 aim 配置对远程技能很有帮助 — 远程 carry 和近战手感不同，不错。VAC 补丁后状态页慢，但次日早上 build 就回来了。适合排位长时间刷分。",
+        "seoTitle": "@rankedGrind42 的排位 Soft Aim 评测 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 为 Windows PC 排位英雄技能给 Dota 2 Cheats soft aim 评 4/5。"
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Dota 2 Cheats 的 2D 雷达在地图上两次抓到绕后。ESP 加雷达组合像真外挂。",
+        "text": "大家都在说 ESP，但 Dota 2 Cheats 的 2D 雷达太强了。一局里不用盯着透视框就在地图上两次抓到绕后。ESP 加雷达像一线外挂。用低透明度，剪辑里不那么显眼。",
+        "seoTitle": "@vanLifeDota 2 的雷达评测 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 为 Dota 2 地图绕后检测给 Dota 2 Cheats 雷达评 5/5，Windows PC。"
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "补丁日通常会搞死 Dota 2 外挂。Dota 2 Cheats 次日早上恢复；旧提供商花了四天。",
+        "text": "Dota 2 补丁日一半作弊 Discord 都沉默了。Dota 2 Cheats 团队约三小时更新状态，次日早上回到排位队列。旧提供商让我等了四天没有加载器。不完美，但支持比我习惯的好太多。",
+        "seoTitle": "@patchDayMike 的状态评测 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike 在 Dota 2 VAC 补丁后给 Dota 2 Cheats 状态更新评 4/5，Windows PC。"
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "主玩 carry。设置低调时，Dota 2 Cheats 的 soft aim 加 ESP 在地图上效果不同。",
+        "text": "我是 carry 主玩。Dota 2 Cheats 远程 soft aim 配合 ESP 报点，设置低调时非常强。加载器不臃肿，Windows 11 安装简单。地图上排位用过最好的 Dota 2 外挂 — 别像傻子一样把 FOV 拉满。",
+        "seoTitle": "@snipezOnly_ 的 Carry Soft Aim 评测 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ 为 Windows PC Dota 2 ESP 配套 Dota 2 Cheats carry soft aim 评 5/5。"
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "语言",
-    "englishOfficial": "英语为官方语言。其他语言为全球SEO翻译版本。",
-    "englishIsOfficial": "英语为官方语言。其他语言为全球SEO翻译版本。",
-    "languageSuggestion": "语言",
-    "dismiss": "Dismiss",
+    "selectLanguage": "选择语言",
+    "englishOfficial": "英语 — 官方语言",
+    "englishIsOfficial": "英语为官方语言",
+    "languageSuggestion": "语言建议",
+    "dismiss": "关闭",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "导航路径",
+    "gallery": "图库",
+    "inGameLook": "游戏内效果",
     "allQuestions": "常见问题",
-    "openAnyQuestion": "阅读指南",
-    "packageStatus": "更新",
-    "productDetails": "功能",
-    "browse": "相关页面",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "打开问题查看完整答案。",
+    "packageStatus": "套餐状态",
+    "productDetails": "产品详情",
+    "browse": "浏览",
+    "featured": "精选",
+    "share": "分享",
+    "shareX": "分享到 X",
+    "shareReddit": "分享到 Reddit",
+    "shareFacebook": "分享到 Facebook",
     "blog": "论坛",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "功能",
-    "pricingPlans": "价格",
-    "buyerReviewsNav": "玩家评价",
+    "home": "首页",
+    "support": "支持",
+    "privacy": "隐私",
+    "terms": "条款",
+    "featureList": "功能列表",
+    "pricingPlans": "价格方案",
+    "buyerReviewsNav": "买家评价",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "退款",
     "forums": "论坛"
   },
   "footer": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "安装",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "功能",
+      "Maphack": "Maphack",
+      "Scripts": "脚本",
+      "Camera": "镜头",
+      "Troubleshooting": "故障排除",
+      "Pricing": "价格",
+      "Radar": "雷达",
+      "Combo Scripts": "连招脚本",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "metaTitle": "页面未找到 | {{brand}}",
+    "metaDescription": "{{brand}} 页面不存在。返回首页或浏览功能、商店、安装、评价和论坛。",
+    "body": "您打开的 URL 不在 {{brand}} 上。请使用下方链接查看 {{game}} 的 ESP、自瞄、商店和安装（Windows PC）。",
+    "backHome": "返回 {{brand}} 首页",
+    "gamePreview": "{{game}} 预览",
+    "store": "商店",
+    "reviews": "评价",
+    "forums": "论坛",
+    "support": "支持"
   }
 }
