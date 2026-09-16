@@ -10,7 +10,6 @@ import {
 	getFeaturedPosts,
 	getBlogListPosts,
 	getBlogIndexHreflangAlternates,
-	getBlogCardImageSrc,
 } from '../data/blog/helpers';
 import { blogLabel, siteConfig } from '../data/site';
 import { brandSeo, seoPageTitle } from '../data/site-core';
@@ -89,17 +88,8 @@ const articleListSchema = {
 			featured.length > 0 && (
 				<section class="blog__featured" aria-label={t('common.featured')}>
 					{
-						featured.map((post, index) => (
+						featured.map((post) => (
 							<a class="blog__feature-card" href={post.canonicalPath}>
-								<img
-									src={getBlogCardImageSrc(index)}
-									alt={post.translation.imageAlt}
-									width="640"
-									height="360"
-									loading={index === 0 ? 'eager' : 'lazy'}
-									decoding="async"
-									fetchpriority={index === 0 ? 'high' : undefined}
-								/>
 								<div>
 									<span class="blog__cat">{post.category}</span>
 									<h2>{post.translation.title}</h2>
@@ -115,17 +105,9 @@ const articleListSchema = {
 
 		<section class="blog__list" aria-label={ui.allPosts}>
 			{
-				posts.map((post, index) => (
+				posts.map((post) => (
 					<article class="blog__card">
 						<a href={post.canonicalPath}>
-							<img
-								src={getBlogCardImageSrc(featured.length + index)}
-								alt={post.translation.imageAlt}
-								width="480"
-								height="270"
-								loading="lazy"
-								decoding="async"
-							/>
 							<span class="blog__cat">{post.category}</span>
 							<h2>{post.translation.title}</h2>
 							<p>{post.translation.intro}</p>
@@ -221,15 +203,6 @@ const articleListSchema = {
 		box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
 	}
 
-	.blog__feature-card img {
-		width: 100%;
-		aspect-ratio: 16 / 9;
-		object-fit: cover;
-		margin-bottom: 0.8rem;
-		border-radius: calc(var(--radius-md, 0.75rem) - 4px);
-		border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
-	}
-
 	.blog__feature-card h2 {
 		margin: 0.35rem 0 0.5rem;
 		font-family: var(--font-display);
@@ -281,15 +254,6 @@ const articleListSchema = {
 		border-color: color-mix(in srgb, var(--magenta) 30%, var(--line));
 		background: color-mix(in srgb, var(--magenta) 4%, var(--bg-panel));
 		box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
-	}
-
-	.blog__card img {
-		width: 100%;
-		aspect-ratio: 16 / 9;
-		object-fit: cover;
-		margin-bottom: 0.8rem;
-		border-radius: calc(var(--radius-md, 0.75rem) - 4px);
-		border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
 	}
 
 	.blog__card h2 {
@@ -428,10 +392,6 @@ const articleListSchema = {
 			-webkit-line-clamp: 2;
 		}
 
-		.blog__feature-card img,
-		.blog__card img {
-			margin-bottom: 0.65rem;
-		}
 	}
 
 	@media (hover: hover) and (pointer: fine) {

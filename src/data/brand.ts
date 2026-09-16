@@ -54,11 +54,11 @@ export const brand = {
 
 	/** Dota 2 dark purple canvas */
 	theme: {
-		accent: '#E8B923',
+		accent: '#8B5CF6',
 		bg: '#0D0A14',
-		soft: '#F0C94A',
-		deep: '#B8941F',
-		hover: '#F5D547',
+		soft: '#A78BFA',
+		deep: '#6D28D9',
+		hover: '#C4B5FD',
 		panel: '#0F0C18',
 		elevated: '#0F0C19',
 		line: '#1A1525',
@@ -66,7 +66,7 @@ export const brand = {
 		inkHeading: '#FFFFFF',
 		inkSecondary: '#D4D4D8',
 		inkMuted: '#A1A1AA',
-		link: '#E8B923',
+		link: '#A78BFA',
 	},
 
 	keywords: {

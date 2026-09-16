@@ -26,39 +26,39 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'Dota 2 ESP box overlay at Train Wreck with Peacekeeper Mk2 and 36m distance tag',
-		title: 'Dota 2 ESP box and distance at Train Wreck',
-		caption: 'Dota 2 ESP wallhack with player box, distance readout and aimbot FOV indicator on PC',
+		alt: 'Dota 2 Juggernaut Bladeform Legacy hero art with purple arcane glow',
+		title: 'Dota 2 cheats hero showcase — Juggernaut arcana',
+		caption: 'Dota 2 cheats cinematic hero preview with ESP and maphack overlays on PC',
 	},
 	2: {
-		alt: 'Dota 2 player ESP skeleton overlay at Coal Depot with multiple distance markers in gas zone',
-		title: 'Dota 2 skeleton ESP at Coal Depot',
-		caption: 'Dota 2 wallhack showing enemy skeletons, red boxes and distance ESP through gas',
+		alt: 'Dota 2 hero ESP overlay with health bars and team colour tags in lane',
+		title: 'Dota 2 hero ESP in ranked match',
+		caption: 'Dota 2 wallhack showing enemy heroes, distance readouts and ward vision on PC',
 	},
 	3: {
-		alt: 'Dota 2 aimbot box ESP on Main Street rooftop with AR-27 and 23m distance tag',
-		title: 'Dota 2 aimbot and box ESP on Main Street',
-		caption: 'Dota 2 cheats box ESP with aimbot lock, visibility check and distance tags on PC',
+		alt: 'Dota 2 skillshot assist targeting enemy mid with trajectory preview',
+		title: 'Dota 2 skillshot assist and aimbot lock',
+		caption: 'Dota 2 cheats skillshot assist with visibility check during ranked combat',
 	},
 	4: {
-		alt: 'Dota 2 ESP distance markers through scope on Main Street with AK-27 33 rounds',
-		title: 'Dota 2 scope ESP and distance tags',
-		caption: 'Dota 2 ESP distance markers and aimbot target box during ranked matches combat',
+		alt: 'Dota 2 maphack minimap overlay with enemy positions and rune timers',
+		title: 'Dota 2 maphack and radar overlay',
+		caption: 'Dota 2 radar hack with hero positions, ward spots and bounty rune tags',
 	},
 	5: {
-		alt: 'Dota 2 wallhack box ESP through scope with red hitmarker on Main Street 24m',
-		title: 'Dota 2 wallhack scope targeting',
-		caption: 'Dota 2 wallhack player box ESP and aimbot crosshair overlay on rooftop fight',
+		alt: 'Dota 2 ward vision ESP through trees and fog of war',
+		title: 'Dota 2 ward vision through fog',
+		caption: 'Dota 2 maphack ward vision and hero ESP overlay in jungle skirmish',
 	},
 	6: {
-		alt: 'Dota 2 ESP box overlay on Fast Forward alley with D520 Mirage and 113m tag',
-		title: 'Dota 2 ESP box on Fast Forward',
-		caption: 'Dota 2 player ESP with distance tags and visible/invisible counter in gas zone',
+		alt: 'Dota 2 Roshan pit ESP with timer and enemy hero boxes',
+		title: 'Dota 2 Roshan pit ESP overlay',
+		caption: 'Dota 2 player ESP with distance tags and Roshan timer in ranked',
 	},
 	7: {
-		alt: 'Dota 2 item ESP showing cash armor plates and loot tags inside bank vault',
-		title: 'Dota 2 item ESP and loot tags',
-		caption: 'Dota 2 item ESP showing cash, armor plates, beacons and loot through walls on PC',
+		alt: 'Dota 2 item ESP showing bounty runes, wards and courier through fog',
+		title: 'Dota 2 item ESP and rune tags',
+		caption: 'Dota 2 item ESP showing bounty runes, wards and courier through fog on PC',
 	},
 };
 
