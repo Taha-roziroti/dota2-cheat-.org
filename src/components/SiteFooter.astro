@@ -3,6 +3,7 @@ import SiteFooterApp from './react/SiteFooter';
 import { getLocalizedPath } from '../data/i18n/routing';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { getBlogBasePath } from '../data/blog/helpers';
+import { getReviewsBasePath } from '../data/reviews';
 import { siteConfig } from '../data/site';
 
 interface Props {
@@ -24,7 +25,7 @@ const explore = [
 const help = [
 	{ labelKey: 'nav.setup', href: getLocalizedPath('setup', locale) },
 	{ labelKey: 'nav.updates', href: getLocalizedPath('updates', locale) },
-	{ labelKey: 'common.buyerReviewsNav', href: '/reviews/' },
+	{ labelKey: 'common.buyerReviewsNav', href: getReviewsBasePath(locale) },
 	{ labelKey: 'common.support', href: getLocalizedPath('support', locale) },
 	{ labelKey: 'common.refundPolicy', href: getLocalizedPath('refund', locale) },
 	{ labelKey: 'common.privacy', href: getLocalizedPath('privacy', locale) },

@@ -29,7 +29,7 @@ export const LEGAL_I18N = {
 		descFor: 'pour Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informations collectées', 'Utilisation des données', 'Vos droits'],
-			sec1p2: 'Les détails de paiement sont traités par le checkout checkout — non stockés sur dota2cheat.com.',
+			sec1p2: 'Les détails de paiement sont traités par le secure checkout — non stockés sur dota2cheat.com.',
 			sec2p1: 'Réponses du support, résolution des commandes et conformité légale si requis.',
 		},
 		refund: {
@@ -71,7 +71,7 @@ export const LEGAL_I18N = {
 		descFor: 'para Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informações que coletamos', 'Como usamos os dados', 'Seus direitos'],
-			sec1p2: 'Detalhes de pagamento são processados pelo checkout checkout — não armazenados em dota2cheat.com.',
+			sec1p2: 'Detalhes de pagamento são processados pelo secure checkout — não armazenados em dota2cheat.com.',
 			sec2p1: 'Respostas de suporte, resolução de pedidos e conformidade legal quando necessário.',
 		},
 		refund: {
@@ -92,7 +92,7 @@ export const LEGAL_I18N = {
 		descFor: 'per Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informazioni raccolte', 'Uso dei dati', 'I tuoi diritti'],
-			sec1p2: 'I dati di pagamento sono elaborati dal checkout checkout — non meBindzzati su dota2cheat.com.',
+			sec1p2: 'I dati di pagamento sono elaborati dal secure checkout — non memorizzati su dota2cheat.com.',
 			sec2p1: 'Risposte di supporto, risoluzione ordini e conformità legale quando richiesto.',
 		},
 		refund: {
@@ -134,7 +134,7 @@ export const LEGAL_I18N = {
 		descFor: 'dla Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informacje, które zbieramy', 'Jak wykorzystujemy dane', 'Twoje prawa'],
-			sec1p2: 'Dane płatności są przetwarzane przez checkout checkout — nie przechowywane na dota2cheat.com.',
+			sec1p2: 'Dane płatności są przetwarzane przez secure checkout — nie przechowywane na dota2cheat.com.',
 			sec2p1: 'Odpowiedzi wsparcia, rozwiązywanie zamówień i zgodność prawna w razie potrzeby.',
 		},
 		refund: {
@@ -155,7 +155,7 @@ export const LEGAL_I18N = {
 		descFor: 'для Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Информация, которую мы собираем', 'Как мы используем данные', 'Ваши права'],
-			sec1p2: 'Платёжные данные обрабатываются через checkout checkout — не хранятся на dota2cheat.com.',
+			sec1p2: 'Платёжные данные обрабатываются через secure checkout — не хранятся на dota2cheat.com.',
 			sec2p1: 'Ответы поддержки, решение заказов и соблюдение законодательства при необходимости.',
 		},
 		refund: {
@@ -197,7 +197,7 @@ export const LEGAL_I18N = {
 		descFor: 'لـ Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['المعلومات التي نجمعها', 'كيف نستخدم البيانات', 'حقوقك'],
-			sec1p2: 'تُعالَج تفاصيل الدفع عبر checkout checkout — ولا تُخزَّن على dota2cheat.com.',
+			sec1p2: 'تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على dota2cheat.com.',
 			sec2p1: 'ردود الدعم وحل الطلبات والامتثال القانوني عند الحاجة.',
 		},
 		refund: {
@@ -302,7 +302,7 @@ export const LEGAL_I18N = {
 		descFor: 'untuk Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informasi yang kami kumpulkan', 'Cara kami menggunakan data', 'Hak Anda'],
-			sec1p2: 'Detail pembayaran diproses oleh checkout checkout — tidak disimpan di dota2cheat.com.',
+			sec1p2: 'Detail pembayaran diproses oleh secure checkout — tidak disimpan di dota2cheat.com.',
 			sec2p1: 'Respons dukungan, penyelesaian pesanan, dan kepatuhan hukum jika diperlukan.',
 		},
 		refund: {
@@ -323,7 +323,7 @@ export const LEGAL_I18N = {
 		descFor: 'สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['ข้อมูลที่เราเก็บ', 'การใช้ข้อมูล', 'สิทธิของคุณ'],
-			sec1p2: 'รายละเอียดการชำระเงินประมวลผลผ่าน checkout checkout — ไม่เก็บบน dota2cheat.com',
+			sec1p2: 'รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน dota2cheat.com',
 			sec2p1: 'การตอบกลับฝ่ายสนับสนุน การแก้ไขคำสั่งซื้อ และการปฏิบัติตามกฎหมายเมื่อจำเป็น',
 		},
 		refund: {
@@ -344,7 +344,7 @@ export const LEGAL_I18N = {
 		descFor: 'cho Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Thông tin chúng tôi thu thập', 'Cách chúng tôi sử dụng dữ liệu', 'Quyền của bạn'],
-			sec1p2: 'Chi tiết thanh toán được xử lý qua checkout checkout — không lưu trên dota2cheat.com.',
+			sec1p2: 'Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên dota2cheat.com.',
 			sec2p1: 'Phản hồi hỗ trợ, giải quyết đơn hàng và tuân thủ pháp lý khi cần.',
 		},
 		refund: {
@@ -365,7 +365,7 @@ export const LEGAL_I18N = {
 		descFor: 'для Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Інформація, яку ми збираємо', 'Як ми використовуємо дані', 'Ваші права'],
-			sec1p2: 'Платіжні дані обробляються через checkout checkout — не зберігаються на dota2cheat.com.',
+			sec1p2: 'Платіжні дані обробляються через secure checkout — не зберігаються на dota2cheat.com.',
 			sec2p1: 'Відповіді підтримки, вирішення замовлень та правова відповідність за потреби.',
 		},
 		refund: {
@@ -386,7 +386,7 @@ export const LEGAL_I18N = {
 		descFor: 'pro Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informace, které shromažďujeme', 'Jak používáme data', 'Vaše práva'],
-			sec1p2: 'Platební údaje zpracovává checkout checkout — neukládají se na dota2cheat.com.',
+			sec1p2: 'Platební údaje zpracovává secure checkout — neukládají se na dota2cheat.com.',
 			sec2p1: 'Odpovědi podpory, vyřizování objednávek a právní soulad v případě potřeby.',
 		},
 		refund: {
@@ -407,7 +407,7 @@ export const LEGAL_I18N = {
 		descFor: 'pentru Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informații pe care le colectăm', 'Cum folosim datele', 'Drepturile tale'],
-			sec1p2: 'Detaliile de plată sunt procesate prin checkout checkout — nu sunt stocate pe dota2cheat.com.',
+			sec1p2: 'Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe dota2cheat.com.',
 			sec2p1: 'Răspunsuri suport, rezolvarea comenzilor și conformitate legală când este necesar.',
 		},
 		refund: {

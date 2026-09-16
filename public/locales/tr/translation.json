@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Fiyatlar",
     "status": "Güncellemeler",
-    "reviews": "Oyuncular ne diyor",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Yorumlar",
+    "primaryAria": "Ana gezinme",
+    "mobileAria": "Mobil gezinme",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat"
   },
   "hero": {
     "accent": "Dota 2 hileleri",
@@ -28,11 +28,11 @@
     "buyNow": "Satın al",
     "seeFeatures": "Özellikleri gör",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Dota 2 ESP ve aimbot katmanı",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Skillshot yardımı",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Güncellemeler"
+    "chipRadar": "Radar katmanı",
+    "chipUpdates": "Yama güncellemeleri"
   },
   "cta": {
     "buy": "Satın al",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "yorum",
     "eyebrow": "Oyuncular ne diyor",
-    "homeTitle": "Dota 2 Cheats Oyuncular ne diyor",
-    "buyerReviews": "yorum",
-    "averageAria": "Oyuncular ne diyor",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats yorumları",
+    "buyerReviews": "{{count}} alıcı yorumu",
+    "averageAria": "{{count}} yorumdan ortalama {{rating}}",
+    "outOfFiveAria": "5 üzerinden {{rating}}",
+    "readAll": "Tüm yorumları oku →",
+    "scrollHint": "İncelemeleri görmek için kaydırın veya sürükleyin",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "verifiedBuyer": "Doğrulanmış alıcı",
+    "carouselAria": "Alıcı yorumları döngüsü",
+    "indexTitle": "Dota 2 hile yorumları — hack ve hileler",
+    "indexAverageAria": "5 üzerinden ortalama {{rating}}",
+    "indexCount": "{{count}} alıcı yorumu · 5 üzerinden",
+    "starsAria": "5 üzerinden {{rating}} yıldız",
+    "readFull": "Tam yorumu oku",
+    "ctaAria": "{{brand}} satın al",
+    "ctaTitle": "Dota 2 hilelerini denemeye hazır mısın?",
+    "ctaBody": "Tek pakette Dota 2 hack ve hileleri — ESP, skillshot yardımı ve radar, Windows PC için {{game}} yama bakımıyla.",
+    "ctaBuy": "Şimdi al — ${{price}}",
+    "comparePricing": "Fiyatları karşılaştır",
+    "reviewBy": "{{brand}} yorumu — @{{handle}}",
+    "reviewImageAlt": "{{brand}} yorumu — @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Önce 3 Dota 2 cheat denedim. Soft aim ayarladıktan sonra Dota 2 Cheats ranked'de doğal hissediyor.",
+        "text": "Üç farklı Dota 2 hack denedim ve ranked maçlarda hepsi fazla sert geldi. Dota 2 Cheats soft aim'i yüksek MMR'da belli etmeyecek şekilde ayarlamanı sağlıyor. Bir haftadır grind yapıyorum; loader whitelist sonrası kurulum yaklaşık 12 dakika sürdü. Şimdilik sorun yok.",
+        "seoTitle": "@xKrypt0_Dota 2 Soft Aim İncelemesi — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2, Windows PC'de ranked testlerinden sonra Dota 2 Cheats soft aim'e 5/5 veriyor."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Aimbot için değil ESP için aldım. Dota 2 Cheats wallhack gank öncesi rotasyonları gösteriyor — ranked'de büyük fark.",
+        "text": "Aimbot'u az kullanıyorum; ESP için aldım. Gank öncesi hangi kahramanların lane değiştirdiğini görmek inanılmaz bilgi. Birkaç haftadır aylık plandayım, değer. Menü daha temiz olabilir ama paket sağlam.",
+        "seoTitle": "@buildsR4K ESP İncelemesi — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K, Windows PC'de ranked bilgisi için Dota 2 Cheats ESP wallhack'e 4/5 veriyor."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Eski hack VAC yamasında öldü. Dota 2 Cheats aynı gece rebuild edildi, 2 haftadır haritada güvenilir.",
+        "text": "Son cheat'im VAC güncellemesinden bir gün sonra çöktü. Dota 2 Cheats'e geçtim ve loader rebuild gecesi geri geldi. Haritada ESP ve radar kullanıyorum, iki hafta sonra hâlâ temiz. Lifetime aldım — ölü hackler için aylık ödeme yok.",
+        "seoTitle": "@dma_wizard Güncelleme İncelemesi — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard, VAC güncellemesi sonrası Dota 2 Cheats'e 5/5 veriyor — Windows PC'de hızlı rebuild."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Teknik değilim ama Dota 2 Cheats menüsü kolay. FOV ve yumuşatma ayarından sonra soft aim ranked'de doğal.",
+        "text": "Hiç teknik değilim. Menü basit — soft aim FOV düşürdüm, yumuşatmayı artırdım, snap gitti. Artık solo ve ranked'de kas hafızası gibi. Sadece 4 yıldız çünkü ilk girişte destek bir saat sürdü ama lisans anahtarını hızlı düzelttiler.",
+        "seoTitle": "@ctrl_player99 Soft Aim İncelemesi — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99, Windows PC'de ranked'de FOV ayarından sonra Dota 2 Cheats soft aim'e 4/5 veriyor."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender başta loader'ı engelledi ama destek iki saatte düzeltti. Dota 2 Cheats ESP custom lobilerde temiz görünüyor.",
+        "text": "Dota 2 Cheats oyuna girdikten sonra iyi çalışıyor. Windows Defender ilk denemede loader'ı engelledi ve panikledim. Sipariş ID ile desteğe yazdım, iki saatte adımlarla yanıt geldi. ESP custom'da temiz; henüz full ranked'e girmedim. Kurulum stresi için 3 yıldız ama cheatler iyi görünüyor.",
+        "seoTitle": "@stormChaser_07 Kurulum İncelemesi — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07, Windows PC'de destek yardımından sonra Dota 2 Cheats kurulumuna 3/5 veriyor."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Dota 2 Cheats kahraman ESP'si flank ve ward'ları erken yakalar. Şüpheli ücretsiz cheatlerden çok daha iyi.",
+        "text": "Öncelikle kahraman ESP ve ward takibi istedim Dota 2 için. Dota 2 Cheats düşman kahramanları ve gankları beynimden önce gösteriyor. Arkadaşlarla parti oyunları flank bilince daha az kaotik. Rastgele ücretsiz şüpheli hacklerden çok daha iyi.",
+        "seoTitle": "@weaponDropsGoblinx Kahraman ESP İncelemesi — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx, Windows PC'de ward ve kahraman takibi için Dota 2 Cheats kahraman ESP'sine 5/5 veriyor."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Dota 2 Cheats kahraman bazlı aim profilleri ranked'de yardımcı. VAC yamasından ertesi gün geri geldi.",
+        "text": "Yeni sezondan beri Dota 2 Cheats kullanıyorum. Kahraman bazlı aim profilleri uzun menzil skillshot'larda yardımcı — uzak carry vs melee gerçekten farklı hissediyor, güzel. VAC yamasından sonra durum sayfası yavaştı ama build ertesi sabah geri geldi. Ranked'de uzun grind seansları için sağlam.",
+        "seoTitle": "@rankedGrind42 Ranked Soft Aim İncelemesi — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42, Windows PC'de ranked kahraman skillshot'ları için Dota 2 Cheats soft aim'e 4/5 veriyor."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Dota 2 Cheats 2D radar haritada flank'ları iki kez yakaladı. ESP ve radar kombosu gerçek cheat gibi.",
+        "text": "Herkes ESP konuşuyor ama Dota 2 Cheats 2D radar harika. Bir maçta wallhack kutularına bakmadan haritada flank'ı iki kez yakaladım. ESP ve radar kombosu birinci sınıf cheat gibi. Kliplerde belli etmesin diye düşük opaklık kullanıyorum.",
+        "seoTitle": "@vanLifeDota 2 Radar İncelemesi — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2, Windows PC'de Dota 2 haritasında flank tespiti için Dota 2 Cheats radar'a 5/5 veriyor."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Patch günü genelde Dota 2 hacklerini öldürür. Dota 2 Cheats ertesi sabah geri geldi; eski sağlayıcı dört gün sürdü.",
+        "text": "Dota 2 patch günü cheat discordlarının yarısı susar. Dota 2 Cheats ekibi yaklaşık 3 saatte durum paylaştı ve ertesi sabah ranked kuyruğuna döndüm. Eski sağlayıcı dört gün loader olmadan bekletti. Mükemmel değil ama destek alıştığımdan çok daha iyi.",
+        "seoTitle": "@patchDayMike Durum İncelemesi — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike, Windows PC'de Dota 2 VAC yamalarından sonra Dota 2 Cheats durum güncellemelerine 4/5 veriyor."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Carry main. Dota 2 Cheats soft aim ve ESP ayarları sakin tutulduğunda haritada farklı vuruyor.",
+        "text": "Carry main burada. Dota 2 Cheats uzun menzil soft aim ve ESP callout'ları ayarları düşük tutulduğunda çok güçlü. Şişkin loader yok, Windows 11'de basit kurulum. Haritada ranked seansları için kullandığım en iyi Dota 2 hackleri — FOV'u aptal gibi yükseltme.",
+        "seoTitle": "@snipezOnly_ Carry Soft Aim İncelemesi — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_, Windows PC'de Dota 2 ESP ile Dota 2 Cheats carry soft aim'e 5/5 veriyor."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Dil",
-    "englishOfficial": "Resmi dil İngilizcedir",
-    "englishIsOfficial": "Resmi dil İngilizcedir. Diğer diller küresel SEO için çevrilmiştir.",
-    "languageSuggestion": "Dil",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Dil seç",
+    "englishOfficial": "İngilizce — resmi dil",
+    "englishIsOfficial": "İngilizce resmi dildir",
+    "languageSuggestion": "Dil önerisi",
+    "dismiss": "Kapat",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Gezinme",
+    "gallery": "Galeri",
+    "inGameLook": "Oyun içi görünüm",
     "allQuestions": "SSS",
-    "openAnyQuestion": "Rehberi oku",
-    "packageStatus": "Güncellemeler",
-    "productDetails": "Özellikler",
-    "browse": "İlgili sayfalar",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Tam cevap için soruyu açın.",
+    "packageStatus": "Paket durumu",
+    "productDetails": "Ürün detayları",
+    "browse": "Göz at",
+    "featured": "Öne çıkan",
+    "share": "Paylaş",
+    "shareX": "X'te paylaş",
+    "shareReddit": "Reddit'te paylaş",
+    "shareFacebook": "Facebook'ta paylaş",
     "blog": "Forumlar",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Özellikler",
-    "pricingPlans": "Fiyatlar",
-    "buyerReviewsNav": "Oyuncular ne diyor",
+    "home": "Ana sayfa",
+    "support": "Destek",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "featureList": "Özellik listesi",
+    "pricingPlans": "Fiyat planları",
+    "buyerReviewsNav": "Alıcı yorumları",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "İade",
     "forums": "Forumlar"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Kurulum",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Özellikler",
+      "Maphack": "Maphack",
+      "Scripts": "Scriptler",
+      "Camera": "Kamera",
+      "Troubleshooting": "Sorun giderme",
+      "Pricing": "Fiyatlar",
+      "Radar": "Radar",
+      "Combo Scripts": "Kombo scriptler",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "metaTitle": "Sayfa bulunamadı | {{brand}}",
+    "metaDescription": "Bu {{brand}} sayfası yok. Ana sayfaya dönün veya özellikler, mağaza, kurulum, yorumlar ve forumlara bakın.",
+    "body": "Açtığınız URL {{brand}} üzerinde değil. Windows PC için ESP, aimbot, mağaza ve kurulum bağlantılarını kullanın.",
+    "backHome": "{{brand}} ana sayfasına dön",
+    "gamePreview": "{{game}} önizleme",
+    "store": "Mağaza",
+    "reviews": "Yorumlar",
+    "forums": "Forumlar",
+    "support": "Destek"
   }
 }

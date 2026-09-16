@@ -91,11 +91,12 @@ function HeroInner({
 	const priceFrom = t('hero.priceFrom');
 	const priceLabel = priceFrom ? `${priceFrom} $${monthlyPrice}` : `$${monthlyPrice}`;
 	const imageAlt = t('hero.imageAlt', { brand: siteName });
+	const hasHeroVideo = Boolean(heroVideoUrl || heroVideoMp4);
 
 	return (
 		<section className="hero" aria-label={title}>
 			<div className="hero__media">
-				{heroVideoUrl ? (
+				{hasHeroVideo ? (
 					<video
 						className="hero__video"
 						autoPlay
@@ -105,7 +106,7 @@ function HeroInner({
 						preload="auto"
 						poster={heroVideoPoster ?? heroSrc}
 					>
-						<source src={heroVideoUrl} type="video/webm" />
+						{heroVideoUrl ? <source src={heroVideoUrl} type="video/webm" /> : null}
 						{heroVideoMp4 ? <source src={heroVideoMp4} type="video/mp4" /> : null}
 					</video>
 				) : null}
@@ -119,7 +120,7 @@ function HeroInner({
 					fetchPriority="high"
 					loading="eager"
 					decoding="async"
-					className={heroVideoUrl ? 'hero__poster-fallback' : undefined}
+					className={hasHeroVideo ? 'hero__poster-fallback' : undefined}
 				/>
 			</div>
 			<div className="hero__veil" aria-hidden="true" />

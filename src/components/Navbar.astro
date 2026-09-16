@@ -7,7 +7,7 @@ import {
 	type PageId,
 } from '../data/i18n/routing';
 import { defaultLocale, locales, type LocaleCode } from '../data/i18n/locales';
-import { reviewsBasePath } from '../data/reviews';
+import { getReviewsBasePath } from '../data/reviews';
 import { siteConfig } from '../data/site';
 import { getBlogLocaleSwitchHref, isBlogPath } from '../data/blog/helpers';
 
@@ -52,7 +52,7 @@ const links = [
 	{ id: 'esp', labelKey: 'nav.features', edit: 'navFeatures', href: getLocalizedPath('features', locale) },
 	{ id: 'pricing', labelKey: 'nav.store', edit: 'navStore', href: getLocalizedPath('pricing', locale) },
 	{ id: 'updates', labelKey: 'nav.status', edit: 'navStatus', href: getLocalizedPath('updates', locale) },
-	{ id: 'reviews', labelKey: 'nav.reviews', edit: 'navReviews', href: reviewsBasePath },
+	{ id: 'reviews', labelKey: 'nav.reviews', edit: 'navReviews', href: getReviewsBasePath(locale) },
 ];
 ---
 
@@ -63,7 +63,7 @@ const links = [
 	homeHref={getLocalizedPath('home', locale)}
 	logoAlt={siteConfig.logoAlt}
 	currentPath={current}
-	reviewsBasePath={reviewsBasePath}
+	reviewsBasePath={getReviewsBasePath(locale)}
 	locales={localeMetas}
 	hrefForLocale={hrefForLocale}
 	links={links}

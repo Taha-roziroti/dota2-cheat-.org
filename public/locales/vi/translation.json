@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Giá",
     "status": "Cập nhật",
-    "reviews": "Người chơi nói gì",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Đánh giá",
+    "primaryAria": "Điều hướng chính",
+    "mobileAria": "Điều hướng di động",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu"
   },
   "hero": {
     "accent": "Dota 2 Cheats",
@@ -28,11 +28,11 @@
     "buyNow": "Mua ngay",
     "seeFeatures": "Xem tính năng",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — lớp ESP và aimbot Dota 2",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Hỗ trợ skillshot",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Cập nhật"
+    "chipRadar": "Lớp radar",
+    "chipUpdates": "Cập nhật bản vá"
   },
   "cta": {
     "buy": "Mua ngay",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "đánh giá",
     "eyebrow": "Người chơi nói gì",
-    "homeTitle": "Dota 2 Cheats Người chơi nói gì",
-    "buyerReviews": "đánh giá",
-    "averageAria": "Người chơi nói gì",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Đánh giá Dota 2 Cheats",
+    "buyerReviews": "{{count}} đánh giá từ người mua",
+    "averageAria": "Trung bình {{rating}} từ {{count}} đánh giá",
+    "outOfFiveAria": "{{rating}} trên 5",
+    "readAll": "Xem tất cả đánh giá →",
+    "scrollHint": "Cuộn hoặc kéo để xem đánh giá",
+    "prev": "Đánh giá trước",
+    "next": "Đánh giá tiếp theo",
+    "verifiedBuyer": "Người mua đã xác minh",
+    "carouselAria": "Băng chuyền đánh giá người mua",
+    "indexTitle": "Đánh giá cheat Dota 2 — hack & cheat",
+    "indexAverageAria": "Trung bình {{rating}} trên 5",
+    "indexCount": "{{count}} đánh giá từ người mua · trên 5",
+    "starsAria": "{{rating}} trên 5 sao",
+    "readFull": "Đọc đánh giá đầy đủ",
+    "ctaAria": "Mua {{brand}}",
+    "ctaTitle": "Sẵn sàng thử cheat Dota 2?",
+    "ctaBody": "Hack và cheat Dota 2 trong một gói — ESP, hỗ trợ skillshot và radar cho PC Windows, kèm bảo trì bản vá {{game}}.",
+    "ctaBuy": "Mua ngay — ${{price}}",
+    "comparePricing": "So sánh giá",
+    "reviewBy": "Đánh giá {{brand}} bởi @{{handle}}",
+    "reviewImageAlt": "Đánh giá {{brand}} bởi @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Đã thử 3 cheat Dota 2 trước đó. Dota 2 Cheats cảm giác tự nhiên ở ranked sau khi chỉnh soft aim.",
+        "text": "Tôi thử ba hack Dota 2 khác nhau và tất cả đều quá gắt trong ranked. Dota 2 Cheats cho bạn tinh chỉnh soft aim để không lộ ở MMR cao. Chơi một tuần; cài đặt mất khoảng 12 phút sau khi whitelist loader. Chưa có vấn đề.",
+        "seoTitle": "Đánh giá Soft Aim bởi @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 chấm soft aim của Dota 2 Cheats 5/5 sau khi test trong ranked trên PC Windows."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Mua vì ESP, không phải aimbot. Wallhack Dota 2 Cheats hiện rotation trước gank — cực hữu ích ở ranked.",
+        "text": "Tôi ít dùng aimbot; mua vì ESP. Biết tướng nào đổi lane trước khi gank là thông tin cực mạnh. Dùng gói tháng vài tuần, đáng tiền. Menu có thể gọn hơn nhưng gói rất ổn.",
+        "seoTitle": "Đánh giá ESP bởi @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K chấm ESP wallhack của Dota 2 Cheats 4/5 cho thông tin ranked trên PC Windows."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Hack cũ chết khi patch VAC. Dota 2 Cheats rebuild cùng đêm, ổn định 2 tuần trên bản đồ.",
+        "text": "Cheat trước hỏng ngày sau cập nhật VAC. Chuyển sang Dota 2 Cheats và loader trở lại đêm rebuild. Dùng ESP và radar trên bản đồ, sạch sau hai tuần. Mua lifetime — không trả hàng tháng cho hack chết.",
+        "seoTitle": "Đánh giá cập nhật bởi @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard chấm Dota 2 Cheats 5/5 sau cập nhật VAC — rebuild nhanh trên PC Windows."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Không rành kỹ thuật nhưng menu Dota 2 Cheats dễ dùng. Soft aim tự nhiên sau khi chỉnh FOV và smoothing ở ranked.",
+        "text": "Tôi không rành kỹ thuật chút nào. Menu đơn giản — hạ FOV soft aim, tăng smoothing, bỏ snap. Giờ cảm giác như trí nhớ cơ bắp ở solo và ranked. Chỉ 4 sao vì hỗ trợ lần đăng nhập đầu mất một giờ, nhưng sửa khóa license nhanh.",
+        "seoTitle": "Đánh giá Soft Aim bởi @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 chấm soft aim của Dota 2 Cheats 4/5 sau khi chỉnh FOV trong ranked trên PC Windows."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender chặn loader lúc đầu nhưng hỗ trợ sửa trong hai giờ. ESP Dota 2 Cheats sạch trong lobby custom.",
+        "text": "Dota 2 Cheats chạy tốt khi vào game. Windows Defender chặn loader lần đầu và tôi hoảng. Gửi email hỗ trợ với ID đơn, phản hồi trong hai giờ kèm bước. ESP sạch trong custom; chưa vào ranked đầy đủ. 3 sao vì căng thẳng cài đặt nhưng cheat có vẻ OK.",
+        "seoTitle": "Đánh giá cài đặt bởi @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 chấm cài đặt Dota 2 Cheats 3/5 — ESP ổn sau hỗ trợ trên PC Windows."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP tướng của Dota 2 Cheats bắt flank và ward sớm. Tốt hơn nhiều so với cheat miễn phí đáng ngờ.",
+        "text": "Chủ yếu muốn ESP tướng và theo dõi ward cho Dota 2. Dota 2 Cheats hiện tướng địch và gank trước đầu óc. Party với bạn bè ít hỗn loạn khi biết ai đang flank. Tốt hơn nhiều hack miễn phí ngẫu nhiên trông đáng ngờ.",
+        "seoTitle": "Đánh giá ESP tướng bởi @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx chấm ESP tướng Dota 2 Cheats 5/5 cho theo dõi ward và tướng trên PC Windows."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Profile aim theo tướng của Dota 2 Cheats hữu ích ở ranked. Trở lại ngày hôm sau sau patch VAC.",
+        "text": "Dùng Dota 2 Cheats từ mùa mới. Profile aim theo tướng giúp skillshot tầm xa — carry tầm xa vs melee cảm giác khác, tốt. Trang trạng thái chậm sau patch VAC nhưng build trở lại sáng hôm sau. Ổn cho session grind ranked dài.",
+        "seoTitle": "Ranked Soft Aim bởi @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 chấm soft aim Dota 2 Cheats 4/5 cho skillshot tướng trong ranked trên PC Windows."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Radar 2D của Dota 2 Cheats bắt flank trên bản đồ hai lần. Combo ESP và radar như cheat thật.",
+        "text": "Mọi người nói ESP nhưng radar 2D của Dota 2 Cheats quá mạnh. Bắt flank trên bản đồ hai lần trong một trận mà không nhìn hộp wallhack. Combo ESP và radar như cheat hạng một. Dùng opacity thấp để không lộ trong clip.",
+        "seoTitle": "Đánh giá radar bởi @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 chấm radar Dota 2 Cheats 5/5 cho phát hiện flank trên bản đồ Dota 2 trên PC Windows."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Ngày patch thường giết hack Dota 2. Dota 2 Cheats trở lại sáng hôm sau; nhà cung cấp cũ mất bốn ngày.",
+        "text": "Ngày patch Dota 2 là khi nửa discord cheat im lặng. Đội Dota 2 Cheats đăng trạng thái trong khoảng 3 giờ và tôi trở lại hàng ranked sáng hôm sau. Nhà cung cấp cũ để tôi chờ bốn ngày không có loader. Không hoàn hảo nhưng hỗ trợ tốt hơn nhiều so với thường lệ.",
+        "seoTitle": "Đánh giá trạng thái bởi @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike chấm cập nhật trạng thái Dota 2 Cheats 4/5 sau patch VAC trên Dota 2 cho PC Windows."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Main carry. Soft aim cộng ESP của Dota 2 Cheats khác trên bản đồ nếu giữ cài đặt tinh tế.",
+        "text": "Tôi main carry. Soft aim tầm xa của Dota 2 Cheats với callout ESP rất mạnh nếu giữ cài đặt kín đáo. Loader không phình, cài đặt đơn giản trên Windows 11. Hack Dota 2 tốt nhất tôi dùng cho session ranked trên bản đồ — đừng tăng FOV như kẻ ngốc.",
+        "seoTitle": "Carry Soft Aim bởi @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ chấm carry soft aim Dota 2 Cheats 5/5 với ESP trên Dota 2 cho PC Windows."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Ngôn ngữ",
-    "englishOfficial": "Tiếng Anh là ngôn ngữ chính thức",
-    "englishIsOfficial": "Tiếng Anh là ngôn ngữ chính thức. Các ngôn ngữ khác được dịch cho SEO toàn cầu.",
-    "languageSuggestion": "Ngôn ngữ",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Chọn ngôn ngữ",
+    "englishOfficial": "Tiếng Anh — ngôn ngữ chính thức",
+    "englishIsOfficial": "Tiếng Anh là ngôn ngữ chính thức",
+    "languageSuggestion": "Gợi ý ngôn ngữ",
+    "dismiss": "Đóng",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Đường dẫn",
+    "gallery": "Thư viện ảnh",
+    "inGameLook": "Giao diện trong game",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "Đọc hướng dẫn",
-    "packageStatus": "Cập nhật",
-    "productDetails": "Tính năng",
-    "browse": "Trang liên quan",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Mở câu hỏi để xem câu trả lời đầy đủ.",
+    "packageStatus": "Trạng thái gói",
+    "productDetails": "Chi tiết sản phẩm",
+    "browse": "Duyệt",
+    "featured": "Nổi bật",
+    "share": "Chia sẻ",
+    "shareX": "Chia sẻ lên X",
+    "shareReddit": "Chia sẻ lên Reddit",
+    "shareFacebook": "Chia sẻ lên Facebook",
     "blog": "Diễn đàn",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Tính năng",
-    "pricingPlans": "Giá",
-    "buyerReviewsNav": "Người chơi nói gì",
+    "home": "Trang chủ",
+    "support": "Hỗ trợ",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "featureList": "Danh sách tính năng",
+    "pricingPlans": "Gói giá",
+    "buyerReviewsNav": "Đánh giá người mua",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "Hoàn tiền",
     "forums": "Diễn đàn"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Cài đặt",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Tính năng",
+      "Maphack": "Maphack",
+      "Scripts": "Script",
+      "Camera": "Camera",
+      "Troubleshooting": "Khắc phục",
+      "Pricing": "Giá",
+      "Radar": "Radar",
+      "Combo Scripts": "Script combo",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "metaTitle": "Không tìm thấy trang | {{brand}}",
+    "metaDescription": "Trang {{brand}} này không tồn tại. Về trang chủ hoặc xem tính năng, cửa hàng, cài đặt, đánh giá và diễn đàn.",
+    "body": "URL bạn mở không có trên {{brand}}. Dùng liên kết bên dưới cho ESP, aimbot, cửa hàng và cài đặt {{game}} trên PC Windows.",
+    "backHome": "Về trang chủ {{brand}}",
+    "gamePreview": "Xem trước {{game}}",
+    "store": "Cửa hàng",
+    "reviews": "Đánh giá",
+    "forums": "Diễn đàn",
+    "support": "Hỗ trợ"
   }
 }

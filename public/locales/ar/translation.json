@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "الأسعار",
     "status": "التحديثات",
-    "reviews": "ماذا يقول اللاعبون",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "المراجعات",
+    "primaryAria": "التنقل الرئيسي",
+    "mobileAria": "التنقل على الجوال",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة"
   },
   "hero": {
     "accent": "غش Dota 2 احترافي",
@@ -28,11 +28,11 @@
     "buyNow": "اشترِ الآن",
     "seeFeatures": "عرض الميزات",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — طبقة ESP و aimbot لـ Dota 2",
     "chipEsp": "ESP / wallhack",
     "chipAim": "مساعدة المهارة",
-    "chipRadar": "2D radar",
-    "chipUpdates": "التحديثات"
+    "chipRadar": "طبقة الرادار",
+    "chipUpdates": "تحديثات التصحيح"
   },
   "cta": {
     "buy": "اشترِ الآن",
@@ -70,11 +70,90 @@
     "outOf": "من 5",
     "countLabel": "مراجعات",
     "eyebrow": "ماذا يقول اللاعبون",
-    "homeTitle": "Dota 2 Cheats ماذا يقول اللاعبون",
-    "buyerReviews": "مراجعات",
-    "averageAria": "ماذا يقول اللاعبون",
-    "outOfFiveAria": "من 5",
-    "readAll": "→"
+    "homeTitle": "مراجعات Dota 2 Cheats",
+    "buyerReviews": "{{count}} مراجعة من المشترين",
+    "averageAria": "متوسط {{rating}} من {{count}} مراجعة",
+    "outOfFiveAria": "{{rating}} من 5",
+    "readAll": "اقرأ كل المراجعات →",
+    "scrollHint": "مرّر أو اسحب لعرض المراجعات",
+    "prev": "المراجعة السابقة",
+    "next": "المراجعة التالية",
+    "verifiedBuyer": "مشتري موثّق",
+    "carouselAria": "عرض مراجعات المشترين",
+    "indexTitle": "مراجعات غش Dota 2 — هاكات وغش",
+    "indexAverageAria": "متوسط {{rating}} من 5",
+    "indexCount": "{{count}} مراجعة من المشترين · من 5",
+    "starsAria": "{{rating}} من 5 نجوم",
+    "readFull": "اقرأ المراجعة كاملة",
+    "ctaAria": "شراء {{brand}}",
+    "ctaTitle": "مستعد لتجربة غش Dota 2؟",
+    "ctaBody": "هاكات وغش Dota 2 في حزمة واحدة — ESP ومساعدة المهارة والرادار لـ Windows PC، مع صيانة تحديثات {{game}}.",
+    "ctaBuy": "اشترِ الآن — ${{price}}",
+    "comparePricing": "قارن الأسعار",
+    "reviewBy": "مراجعة {{brand}} من @{{handle}}",
+    "reviewImageAlt": "مراجعة {{brand}} من @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "جرّبت 3 غشّات Dota 2 قبلها. Dota 2 Cheats تبدو طبيعية في ranked بعد ضبط soft aim.",
+        "text": "جرّبت ثلاثة هاكات Dota 2 مختلفة وكلها بدت حادة جداً في ranked. Dota 2 Cheats تتيح ضبط soft aim حتى لا يبدو واضحاً في MMR عالٍ. ألعب منذ أسبوع؛ التثبيت استغرق نحو 12 دقيقة بعد إضافة اللودر للقائمة البيضاء. لا مشاكل حتى الآن.",
+        "seoTitle": "مراجعة Soft Aim من @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 يقيّم soft aim في Dota 2 Cheats بـ 5/5 بعد اختبار هاكات Dota 2 في ranked على Windows."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "اشتريته للـ ESP وليس aimbot. wallhack Dota 2 Cheats يُظهر التدويرات قبل الغانك — مهم جداً في ranked.",
+        "text": "لا أستخدم aimbot كثيراً؛ اشتريته للـ ESP. رؤية الأبطال الذين غيّروا الخط قبل الغانك معلومة قوية. على الخطة الشهرية منذ أسابيع وتستحق. القائمة يمكن أن تكون أجمل لكن الحزمة قوية.",
+        "seoTitle": "مراجعة ESP من @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K يقيّم ESP wallhack في Dota 2 Cheats بـ 4/5 لمعلومات ranked على Windows."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "الهاك القديم توقف مع تحديث VAC. Dota 2 Cheats أُعيد بناؤه في نفس الليلة، موثوق أسبوعين على الخريطة.",
+        "text": "توقف آخر هاك لي بعد يوم من تحديث VAC. انتقلت إلى Dota 2 Cheats وعاد اللودر في نفس ليلة إعادة البناء. أستخدم ESP والرادار على الخريطة، نظيف بعد أسبوعين. اشتريت lifetime لأنني توقفت عن الدفع الشهري لهاكات متوقفة.",
+        "seoTitle": "مراجعة التحديث من @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard يقيّم Dota 2 Cheats بـ 5/5 بعد تحديث VAC — إعادة بناء سريعة على Windows."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "لست تقنياً لكن قائمة Dota 2 Cheats سهلة. soft aim يبدو طبيعياً بعد ضبط FOV والتنعيم في ranked.",
+        "text": "لست تقنياً أبداً. القائمة بسيطة — خفضت FOV لـ soft aim، رفعت التنعيم، أزلت الـ snap. يبدو الآن كذاكرة عضلية في solo وranked. 4 نجوم فقط لأن الدعم في أول تسجيل استغرق ساعة، لكن أصلحوا مفتاح الترخيص بسرعة.",
+        "seoTitle": "مراجعة Soft Aim من @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 يقيّم soft aim في Dota 2 Cheats بـ 4/5 بعد ضبط FOV في ranked على Windows."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender حظر اللودر أولاً لكن الدعم أصلحه في ساعتين. ESP في Dota 2 Cheats يبدو نظيفاً في اللوبيات المخصصة.",
+        "text": "Dota 2 Cheats يعمل جيداً بمجرد دخول اللعبة. Windows Defender حظر اللودر في المحاولة الأولى وقلقني. راسلت الدعم برقم الطلب، رد خلال ساعتين بالخطوات. ESP نظيف في custom؛ لم أذهب لـ ranked كامل بعد. 3 نجوم بسبب ضغط التثبيت لكن الغش يبدو جيداً.",
+        "seoTitle": "مراجعة التثبيت من @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 يقيّم تثبيت Dota 2 Cheats بـ 3/5 — ESP قوي بعد مساعدة الدعم على Windows."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP الأبطال في Dota 2 Cheats يكشف التفافات والـ wards مبكراً. أفضل بكثير من غش مجاني مشبوه.",
+        "text": "أردت بشكل أساسي ESP الأبطال وتتبع الـ wards في Dota 2. Dota 2 Cheats يُظهر الأبطال المعادين والغانكات قبل عقلي. مباريات الفريق مع الأصدقاء أقل فوضى عندما تعرف من يتفلنك. أفضل بكثير من هاكات مجانية عشوائية تبدو مشبوهة.",
+        "seoTitle": "مراجعة ESP الأبطال من @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx يقيّم ESP الأبطال في Dota 2 Cheats بـ 5/5 لتتبع الـ wards والأبطال على Windows."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "ملفات aim لكل بطل في Dota 2 Cheats تساعد في ranked. عاد في اليوم التالي بعد تحديث VAC.",
+        "text": "أستخدم Dota 2 Cheats منذ الموسم الجديد. ملفات aim لكل بطل تساعد في skillshots بعيدة المدى — carry بعيد مقابل melee يبدو مختلفاً، وهذا جيد. صفحة الحالة بطيئة بعد تحديث VAC لكن البناء عاد صباح اليوم التالي. قوي لجلسات grind طويلة في ranked.",
+        "seoTitle": "Soft Aim في ranked من @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 يقيّم soft aim في Dota 2 Cheats بـ 4/5 لـ skillshots الأبطال في ranked على Windows."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "رادار 2D في Dota 2 Cheats اكتشف تفافات على الخريطة مرتين. مزيج ESP والرادار يبدو غشاً حقيقياً.",
+        "text": "الجميع يتحدث عن ESP لكن رادار 2D في Dota 2 Cheats مذهل. اكتشفت تفافاً على الخريطة مرتين في مباراة دون التحديق في صناديق wallhack. مزيج ESP والرادار يبدو غشاً من المستوى الأول. أستخدم شفافية منخفضة حتى لا يبدو واضحاً في المقاطع.",
+        "seoTitle": "مراجعة الرادار من @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 يقيّم رادار Dota 2 Cheats بـ 5/5 لاكتشاف التفافات على خريطة Dota 2 على Windows."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "يوم التحديث عادة يقتل هاكات Dota 2. Dota 2 Cheats عاد صباح اليوم التالي؛ المزود القديم استغرق أربعة أيام.",
+        "text": "يوم تحديث Dota 2 هو عندما تصمت نصف ديسكوردات الغش. فريق Dota 2 Cheats نشر الحالة في نحو 3 ساعات وعدت لطابور ranked صباح اليوم التالي. المزود القديم تركني أنتظر أربعة أيام بدون لودر. ليس مثالياً لكن الدعم أفضل بكثير من المعتاد.",
+        "seoTitle": "مراجعة الحالة من @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike يقيّم تحديثات حالة Dota 2 Cheats بـ 4/5 بعد تحديثات VAC في Dota 2 على Windows."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "لاعب carry رئيسي. soft aim وESP في Dota 2 Cheats يؤثران بشكل مختلف على الخريطة إذا أبقيت الإعدادات خفيفة.",
+        "text": "أنا لاعب carry رئيسي. soft aim بعيد المدى في Dota 2 Cheats مع تنبيهات ESP قوي جداً إذا أبقيت الإعدادات منخفضة. لودر خفيف، تثبيت بسيط على Windows 11. أفضل هاكات Dota 2 استخدمتها لجلسات ranked على الخريطة — فقط لا ترفع FOV بغباء.",
+        "seoTitle": "Soft Aim carry من @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ يقيّم soft aim carry في Dota 2 Cheats بـ 5/5 مع ESP في Dota 2 على Windows."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "اللغة",
-    "englishOfficial": "الإنجليزية هي اللغة الرسمية",
-    "englishIsOfficial": "الإنجليزية هي اللغة الرسمية. اللغات الأخرى مترجمة لتحسين SEO العالمي.",
-    "languageSuggestion": "اللغة",
-    "dismiss": "Dismiss",
+    "selectLanguage": "اختر اللغة",
+    "englishOfficial": "الإنجليزية — اللغة الرسمية",
+    "englishIsOfficial": "الإنجليزية هي اللغة الرسمية",
+    "languageSuggestion": "اقتراح اللغة",
+    "dismiss": "إغلاق",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "مسار التنقل",
+    "gallery": "معرض",
+    "inGameLook": "مظهر داخل اللعبة",
     "allQuestions": "الأسئلة",
-    "openAnyQuestion": "اقرأ الدليل",
-    "packageStatus": "التحديثات",
-    "productDetails": "الميزات",
-    "browse": "صفحات ذات صلة",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "افتح أي سؤال للإجابة الكاملة.",
+    "packageStatus": "حالة الحزمة",
+    "productDetails": "تفاصيل المنتج",
+    "browse": "تصفح",
+    "featured": "مميز",
+    "share": "مشاركة",
+    "shareX": "مشاركة على X",
+    "shareReddit": "مشاركة على Reddit",
+    "shareFacebook": "مشاركة على Facebook",
     "blog": "منتديات",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "الميزات",
-    "pricingPlans": "الأسعار",
-    "buyerReviewsNav": "ماذا يقول اللاعبون",
+    "home": "الرئيسية",
+    "support": "الدعم",
+    "privacy": "الخصوصية",
+    "terms": "الشروط",
+    "featureList": "قائمة الميزات",
+    "pricingPlans": "خطط الأسعار",
+    "buyerReviewsNav": "مراجعات المشترين",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "الاسترداد",
     "forums": "منتديات"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "التثبيت",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "الميزات",
+      "Maphack": "Maphack",
+      "Scripts": "سكربتات",
+      "Camera": "الكاميرا",
+      "Troubleshooting": "استكشاف الأخطاء",
+      "Pricing": "الأسعار",
+      "Radar": "الرادار",
+      "Combo Scripts": "سكربتات الكومبو",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "metaTitle": "الصفحة غير موجودة | {{brand}}",
+    "metaDescription": "صفحة {{brand}} هذه مفقودة. ارجع للرئيسية أو تصفح الميزات والمتجر والتثبيت والمراجعات والمنتديات.",
+    "body": "الرابط الذي فتحته غير موجود على {{brand}}. استخدم الروابط أدناه لـ ESP والaimbot والمتجر والتثبيت لـ {{game}} على Windows PC.",
+    "backHome": "العودة إلى {{brand}}",
+    "gamePreview": "معاينة {{game}}",
+    "store": "المتجر",
+    "reviews": "المراجعات",
+    "forums": "المنتديات",
+    "support": "الدعم"
   }
 }

@@ -42,9 +42,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 	.hero {
 		--hero-pad-y: clamp(1.25rem, 2.4vw, 2rem);
 		--hero-stack: clamp(0.5rem, 1.1vw, 0.75rem);
-		/* 16:9 layout keeps copy placement; zoom crops baked-in bars in hero.webm (1920×1080 → 815px content) */
 		--hero-ratio: 16 / 9;
-		--hero-video-zoom: 1.325;
+		--hero-video-zoom: 1;
 		position: relative;
 		isolation: isolate;
 		display: grid;
@@ -297,8 +296,17 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 	@media (prefers-reduced-motion: reduce) {
 		.hero__copy,
-		.hero__media img {
+		.hero__media img,
+		.hero__media video {
 			animation: none;
+		}
+
+		.hero__media video {
+			display: none;
+		}
+
+		.hero__media img.hero__poster-fallback {
+			display: block;
 		}
 
 		.hero__buy,

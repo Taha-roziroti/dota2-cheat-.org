@@ -1,3 +1,6 @@
 ---
-return Astro.redirect('/updates/', 301);
+import { englishPaths } from '../../data/i18n/routing';
+import { getCannibalTargetId } from '../../data/seo-cannibal-map';
+
+return Astro.redirect(englishPaths[getCannibalTargetId('reliable') as keyof typeof englishPaths] ?? '/updates/', 301);
 ---

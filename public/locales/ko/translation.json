@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "가격",
     "status": "업데이트",
-    "reviews": "플레이어 후기",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "리뷰",
+    "primaryAria": "기본 내비게이션",
+    "mobileAria": "모바일 내비게이션",
+    "openMenu": "메뉴 열기",
+    "closeMenu": "메뉴 닫기"
   },
   "hero": {
     "accent": "Dota 2 치트",
@@ -28,11 +28,11 @@
     "buyNow": "지금 구매",
     "seeFeatures": "기능 보기",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
-    "chipEsp": "ESP / wallhack",
+    "imageAlt": "{{brand}} — Dota 2 ESP 및 에임봇 오버레이",
+    "chipEsp": "ESP / 월핵",
     "chipAim": "스킬샷 어시스트",
-    "chipRadar": "2D radar",
-    "chipUpdates": "업데이트"
+    "chipRadar": "레이더 오버레이",
+    "chipUpdates": "패치 업데이트"
   },
   "cta": {
     "buy": "지금 구매",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "리뷰",
     "eyebrow": "플레이어 후기",
-    "homeTitle": "Dota 2 Cheats 플레이어 후기",
-    "buyerReviews": "리뷰",
-    "averageAria": "플레이어 후기",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats 리뷰",
+    "buyerReviews": "구매자 리뷰 {{count}}개",
+    "averageAria": "{{count}}개 리뷰 평균 {{rating}}",
+    "outOfFiveAria": "5점 만점에 {{rating}}",
+    "readAll": "모든 리뷰 보기 →",
+    "scrollHint": "스크롤하거나 드래그하여 리뷰 보기",
+    "prev": "이전 리뷰",
+    "next": "다음 리뷰",
+    "verifiedBuyer": "인증된 구매자",
+    "carouselAria": "구매자 리뷰 캐러셀",
+    "indexTitle": "Dota 2 치트 리뷰 — 핵 & 치트",
+    "indexAverageAria": "5점 만점에 평균 {{rating}}",
+    "indexCount": "구매자 리뷰 {{count}}개 · 5점 만점",
+    "starsAria": "5점 만점에 {{rating}}",
+    "readFull": "전체 리뷰 읽기",
+    "ctaAria": "{{brand}} 구매",
+    "ctaTitle": "Dota 2 치트를 사용할 준비가 되셨나요?",
+    "ctaBody": "ESP, 스킬샷 어시스트, 레이더가 포함된 Dota 2 핵·치트 패키지 — Windows PC용 {{game}} 패치 유지보수.",
+    "ctaBuy": "지금 구매 — ${{price}}",
+    "comparePricing": "가격 비교",
+    "reviewBy": "{{brand}} 리뷰 @{{handle}}",
+    "reviewImageAlt": "{{brand}} 리뷰 @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "이전에 Dota 2 치트 3개를 써봤어요. soft aim 조정 후 Dota 2 Cheats는 랭크에서 자연스럽게 느껴집니다.",
+        "text": "세 가지 Dota 2 핵을 써봤는데 랭크에서 모두 너무 날카로웠습니다. Dota 2 Cheats는 soft aim을 미세 조정해 고 MMR에서도 눈에 띄지 않게 해줍니다. 일주일째 플레이 중. 로더 화이트리스트 후 설치는 약 12분. 지금까지 문제 없음.",
+        "seoTitle": "@xKrypt0_Dota 2 Soft Aim 리뷰 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2가 Windows PC 랭크 테스트 후 Dota 2 Cheats soft aim에 5/5 평가."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "에임봇이 아니라 ESP 때문에 샀어요. Dota 2 Cheats 월핵은 갱 전 로테이션을 보여줍니다 — 랭크에서 큰 도움.",
+        "text": "에임봇은 거의 안 쓰고 ESP 때문에 구매했습니다. 갱 전에 어떤 영웅이 라인을 돌았는지 보는 건 엄청난 정보입니다. 몇 주째 월간 플랜 사용 중이고 가치 있습니다. 메뉴는 더 깔끔해도 좋지만 패키지는 탄탄합니다.",
+        "seoTitle": "@buildsR4K ESP 리뷰 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K가 Windows PC 랭크 정보용 Dota 2 Cheats ESP 월핵에 4/5 평가."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "이전 핵은 VAC 패치에서 죽었어요. Dota 2 Cheats는 같은 밤에 리빌드, 맵에서 2주간 안정적.",
+        "text": "이전 치트는 VAC 업데이트 다음 날 망가졌습니다. Dota 2 Cheats로 바꿨고 리빌드 당일 밤 로더가 돌아왔습니다. 맵에서 ESP와 레이더 사용 중, 2주 후에도 깨끗합니다. lifetime 구매 — 죽은 핵에 월 납부 안 함.",
+        "seoTitle": "@dma_wizard 업데이트 리뷰 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard가 VAC 업데이트 후 Dota 2 Cheats에 5/5 평가 — Windows PC에서 빠른 리빌드."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "기술에 약하지만 Dota 2 Cheats 메뉴는 쉬워요. FOV와 스무딩 조정 후 랭크에서 soft aim이 자연스럽습니다.",
+        "text": "전혀 기술에 약합니다. 메뉴는 간단 — soft aim FOV 낮추고 스무딩 올리고 스냅 제거. 이제 솔로와 랭크에서 근육 기억처럼 느껴집니다. 첫 로그인 지원이 한 시간 걸려 4점이지만 라이선스 키는 빠르게 수정됐습니다.",
+        "seoTitle": "@ctrl_player99 Soft Aim 리뷰 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99가 Windows PC 랭크에서 FOV 조정 후 Dota 2 Cheats soft aim에 4/5 평가."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender가 처음에 로더를 막았지만 지원이 2시간 만에 해결. Dota 2 Cheats ESP는 커스텀 로비에서 깔끔.",
+        "text": "게임에 들어가면 Dota 2 Cheats는 잘 작동합니다. Windows Defender가 첫 시도에서 로더를 막아 당황했습니다. 주문 ID로 지원에 연락, 2시간 후 단계 안내. 커스텀에서 ESP 깔끔; 아직 풀 랭크는 안 함. 설치 스트레스로 3점이지만 치트 자체는 괜찮아 보임.",
+        "seoTitle": "@stormChaser_07 설치 리뷰 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07가 Windows PC에서 지원 도움 후 Dota 2 Cheats 설치에 3/5 평가."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Dota 2 Cheats 영웅 ESP가 플랭크와 와드를 일찍 잡아냅니다. 수상한 무료 치트보다 훨씬 낫습니다.",
+        "text": "주로 영웅 ESP와 와드 추적이 필요했습니다. Dota 2 Cheats는 적 영웅과 갱을 머리보다 먼저 보여줍니다. 누가 플랭크하는지 알면 친구들과 파티가 덜 혼란스럽습니다. 수상한 무료 핵보다 훨씬 낫습니다.",
+        "seoTitle": "@weaponDropsGoblinx 영웅 ESP 리뷰 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx가 Windows PC에서 와드·영웅 추적용 Dota 2 Cheats 영웅 ESP에 5/5 평가."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Dota 2 Cheats 영웅별 aim 프로필이 랭크에서 도움됩니다. VAC 패치 다음 날 복귀.",
+        "text": "새 시즌부터 Dota 2 Cheats 사용 중. 영웅별 aim 프로필이 장거리 스킬샷에 도움 — 원거리 캐리와 근접이 다르게 느껴집니다. VAC 패치 후 상태 페이지는 느렸지만 다음 날 아침 빌드 복귀. 랭크 장시간 그라인드에 탄탄합니다.",
+        "seoTitle": "@rankedGrind42 랭크 Soft Aim 리뷰 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42가 Windows PC 랭크 영웅 스킬샷용 Dota 2 Cheats soft aim에 4/5 평가."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Dota 2 Cheats 2D 레이더가 맵에서 플랭크를 두 번 잡았습니다. ESP와 레이더 조합이 진짜 치트 같습니다.",
+        "text": "모두 ESP 이야기지만 Dota 2 Cheats 2D 레이더는 대단합니다. 한 판에서 월핵 박스 안 보고 맵 플랭크를 두 번 잡았습니다. ESP와 레이더 조합이 1티어 치트 같습니다. 클립에서 안 눈에 띄게 낮은 불투명도 사용.",
+        "seoTitle": "@vanLifeDota 2 레이더 리뷰 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2가 Windows PC Dota 2 맵 플랭크 감지용 Dota 2 Cheats 레이더에 5/5 평가."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "패치 날은 Dota 2 핵이 죽는 경우가 많습니다. Dota 2 Cheats는 다음 날 아침 복귀, 이전 제공자는 4일 걸렸습니다.",
+        "text": "Dota 2 패치 날은 치트 디스코드 절반이 조용해집니다. Dota 2 Cheats 팀이 약 3시간 만에 상태 게시, 다음 날 아침 랭크 큐 복귀. 이전 제공자는 4일간 로더 없이 기다렸습니다. 완벽하지 않지만 지원은 익숙한 것보다 훨씬 낫습니다.",
+        "seoTitle": "@patchDayMike 상태 리뷰 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike가 Windows PC Dota 2 VAC 패치 후 Dota 2 Cheats 상태 업데이트에 4/5 평가."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "캐리 메인. 설정을 은은하게 유지하면 Dota 2 Cheats soft aim과 ESP가 맵에서 다르게 느껴집니다.",
+        "text": "캐리 메인입니다. Dota 2 Cheats 장거리 soft aim과 ESP 콜아웃은 설정을 낮추면 매우 강력합니다. 비대한 로더, Windows 11 간단 설치. 맵에서 랭크 세션용으로 써본 최고의 Dota 2 핵 — FOV를 멍청하게 올리지 마세요.",
+        "seoTitle": "@snipezOnly_ 캐리 Soft Aim 리뷰 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_가 Windows PC Dota 2 ESP와 함께 Dota 2 Cheats 캐리 soft aim에 5/5 평가."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "언어",
-    "englishOfficial": "영어가 공식 언어입니다",
-    "englishIsOfficial": "영어가 공식 언어입니다. 다른 언어는 글로벌 SEO를 위해 번역되었습니다.",
-    "languageSuggestion": "언어",
-    "dismiss": "Dismiss",
+    "selectLanguage": "언어 선택",
+    "englishOfficial": "영어 — 공식 언어",
+    "englishIsOfficial": "영어가 공식 언어입니다",
+    "languageSuggestion": "언어 제안",
+    "dismiss": "닫기",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "경로",
+    "gallery": "갤러리",
+    "inGameLook": "인게임 화면",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "가이드 읽기",
-    "packageStatus": "업데이트",
-    "productDetails": "기능",
-    "browse": "관련 페이지",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "전체 답변을 보려면 질문을 엽니다.",
+    "packageStatus": "패키지 상태",
+    "productDetails": "제품 정보",
+    "browse": "탐색",
+    "featured": "추천",
+    "share": "공유",
+    "shareX": "X에 공유",
+    "shareReddit": "Reddit에 공유",
+    "shareFacebook": "Facebook에 공유",
     "blog": "포럼",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "기능",
-    "pricingPlans": "가격",
-    "buyerReviewsNav": "플레이어 후기",
+    "home": "홈",
+    "support": "지원",
+    "privacy": "개인정보",
+    "terms": "약관",
+    "featureList": "기능 목록",
+    "pricingPlans": "요금제",
+    "buyerReviewsNav": "구매자 리뷰",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "환불",
     "forums": "포럼"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "설치",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "기능",
+      "Maphack": "Maphack",
+      "Scripts": "스크립트",
+      "Camera": "카메라",
+      "Troubleshooting": "문제 해결",
+      "Pricing": "가격",
+      "Radar": "레이더",
+      "Combo Scripts": "콤보 스크립트",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "metaTitle": "페이지를 찾을 수 없음 | {{brand}}",
+    "metaDescription": "{{brand}} 페이지가 없습니다. 홈, 기능, 스토어, 설치, 리뷰, 포럼을 확인하세요.",
+    "body": "열린 URL은 {{brand}}에 없습니다. Windows PC용 {{game}} ESP, 에임봇, 스토어, 설치 링크를 사용하세요.",
+    "backHome": "{{brand}} 홈으로",
+    "gamePreview": "{{game}} 미리보기",
+    "store": "스토어",
+    "reviews": "리뷰",
+    "forums": "포럼",
+    "support": "지원"
   }
 }

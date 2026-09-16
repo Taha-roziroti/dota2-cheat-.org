@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Harga",
     "status": "Pembaruan",
-    "reviews": "Apa kata pemain",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Ulasan",
+    "primaryAria": "Navigasi utama",
+    "mobileAria": "Navigasi mobile",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu"
   },
   "hero": {
     "accent": "Dota 2 Cheats",
@@ -28,11 +28,11 @@
     "buyNow": "Beli sekarang",
     "seeFeatures": "Lihat fitur",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — overlay ESP dan aimbot Dota 2",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Bantuan skillshot",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Pembaruan"
+    "chipRadar": "Overlay radar",
+    "chipUpdates": "Pembaruan patch"
   },
   "cta": {
     "buy": "Beli sekarang",
@@ -70,11 +70,90 @@
     "outOf": "dari 5",
     "countLabel": "ulasan",
     "eyebrow": "Apa kata pemain",
-    "homeTitle": "Dota 2 Cheats Apa kata pemain",
-    "buyerReviews": "ulasan",
-    "averageAria": "Apa kata pemain",
-    "outOfFiveAria": "dari 5",
-    "readAll": "→"
+    "homeTitle": "Ulasan Dota 2 Cheats",
+    "buyerReviews": "{{count}} ulasan pembeli",
+    "averageAria": "Rata-rata {{rating}} dari {{count}} ulasan",
+    "outOfFiveAria": "{{rating}} dari 5",
+    "readAll": "Baca semua ulasan →",
+    "scrollHint": "Gulir atau seret untuk melihat ulasan",
+    "prev": "Ulasan sebelumnya",
+    "next": "Ulasan berikutnya",
+    "verifiedBuyer": "Pembeli terverifikasi",
+    "carouselAria": "Karusel ulasan pembeli",
+    "indexTitle": "Ulasan cheat Dota 2 — hack & cheat",
+    "indexAverageAria": "Rata-rata {{rating}} dari 5",
+    "indexCount": "{{count}} ulasan pembeli · dari 5",
+    "starsAria": "{{rating}} dari 5 bintang",
+    "readFull": "Baca ulasan lengkap",
+    "ctaAria": "Beli {{brand}}",
+    "ctaTitle": "Siap mencoba cheat Dota 2?",
+    "ctaBody": "Hack dan cheat Dota 2 dalam satu paket — ESP, bantuan skillshot, dan radar untuk PC Windows, dengan pemeliharaan patch {{game}}.",
+    "ctaBuy": "Beli sekarang — ${{price}}",
+    "comparePricing": "Bandingkan harga",
+    "reviewBy": "Ulasan {{brand}} oleh @{{handle}}",
+    "reviewImageAlt": "Ulasan {{brand}} oleh @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Sudah coba 3 cheat Dota 2 sebelumnya. Dota 2 Cheats terasa natural di ranked setelah atur soft aim.",
+        "text": "Saya coba tiga hack Dota 2 berbeda dan semuanya terasa terlalu tajam di ranked. Dota 2 Cheats memungkinkan penyetelan soft aim agar tidak mencolok di MMR tinggi. Sudah grind seminggu; setup sekitar 12 menit setelah whitelist loader. Belum ada masalah.",
+        "seoTitle": "Ulasan Soft Aim oleh @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 memberi soft aim Dota 2 Cheats nilai 5/5 setelah uji coba di ranked di PC Windows."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Beli untuk ESP, bukan aimbot. Wallhack Dota 2 Cheats menunjukkan rotasi sebelum gank — besar di ranked.",
+        "text": "Jarang pakai aimbot; beli karena ESP. Melihat hero mana yang rotasi lane sebelum gank itu info luar biasa. Sudah berminggu-minggu di paket bulanan, sepadan. Menu bisa lebih rapi, tapi paketnya solid.",
+        "seoTitle": "Ulasan ESP oleh @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K memberi ESP wallhack Dota 2 Cheats nilai 4/5 untuk info ranked di PC Windows."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Hack lama mati saat patch VAC. Dota 2 Cheats rebuild malam yang sama, andal 2 minggu di map.",
+        "text": "Cheat terakhir saya mati sehari setelah update VAC. Pindah ke Dota 2 Cheats dan loader kembali malam yang sama saat rebuild. Pakai ESP dan radar di map, masih bersih setelah dua minggu. Beli lifetime — tidak bayar bulanan untuk hack mati.",
+        "seoTitle": "Ulasan pembaruan oleh @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard memberi Dota 2 Cheats nilai 5/5 setelah update VAC — rebuild cepat di PC Windows."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Bukan orang teknis tapi menu Dota 2 Cheats mudah. Soft aim terasa natural setelah atur FOV dan smoothing di ranked.",
+        "text": "Saya sama sekali tidak teknis. Menu sederhana — turunkan FOV soft aim, naikkan smoothing, hilangkan snap. Sekarang terasa seperti memori otot di solo dan ranked. Hanya 4 bintang karena support login pertama butuh satu jam, tapi kunci lisensi cepat diperbaiki.",
+        "seoTitle": "Ulasan Soft Aim oleh @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 memberi soft aim Dota 2 Cheats nilai 4/5 setelah penyetelan FOV di ranked di PC Windows."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender memblokir loader di awal tapi support memperbaiki dalam dua jam. ESP Dota 2 Cheats terlihat bersih di lobby custom.",
+        "text": "Dota 2 Cheats berjalan baik setelah masuk game. Windows Defender memblokir loader pada percobaan pertama dan saya panik. Email support dengan ID pesanan, balasan dalam dua jam dengan langkah-langkah. ESP terlihat bersih di custom; belum full ranked. Tiga bintang karena stres instalasi, tapi cheatnya OK.",
+        "seoTitle": "Ulasan instalasi oleh @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 memberi instalasi Dota 2 Cheats nilai 3/5 — ESP solid setelah bantuan support di PC Windows."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP hero Dota 2 Cheats menangkap flank dan ward lebih awal. Jauh lebih baik dari cheat gratis mencurigakan.",
+        "text": "Utamanya ingin ESP hero dan pelacakan ward untuk Dota 2. Dota 2 Cheats menampilkan hero musuh dan gank lebih cepat dari otak saya. Party dengan teman lebih sedikit kacau saat tahu siapa yang flank. Jauh lebih baik dari hack gratis acak yang mencurigakan.",
+        "seoTitle": "Ulasan ESP hero oleh @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx memberi ESP hero Dota 2 Cheats nilai 5/5 untuk pelacakan ward dan hero di PC Windows."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Profil aim per hero Dota 2 Cheats membantu di ranked. Kembali keesokan hari setelah patch VAC.",
+        "text": "Pakai Dota 2 Cheats sejak musim baru. Profil aim per hero membantu skillshot jarak jauh — carry jarak jauh vs melee terasa berbeda, bagus. Halaman status lambat setelah patch VAC tapi build kembali pagi berikutnya. Solid untuk sesi grind ranked panjang.",
+        "seoTitle": "Ranked Soft Aim oleh @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 memberi soft aim Dota 2 Cheats nilai 4/5 untuk skillshot hero di ranked di PC Windows."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Radar 2D Dota 2 Cheats menangkap flank di map dua kali. Combo ESP dan radar terasa seperti cheat sungguhan.",
+        "text": "Semua bicara ESP tapi radar 2D Dota 2 Cheats luar biasa. Menangkap flank di map dua kali dalam satu match tanpa menatap kotak wallhack. Combo ESP dan radar terasa seperti cheat tier satu. Pakai opacity rendah agar tidak mencolok di klip.",
+        "seoTitle": "Ulasan radar oleh @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 memberi radar Dota 2 Cheats nilai 5/5 untuk deteksi flank di map Dota 2 di PC Windows."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Hari patch biasanya mematikan hack Dota 2. Dota 2 Cheats kembali pagi berikutnya; penyedia lama butuh empat hari.",
+        "text": "Hari patch Dota 2 adalah saat setengah discord cheat diam. Tim Dota 2 Cheats posting status dalam ~3 jam dan saya kembali ke antrian ranked pagi berikutnya. Penyedia lama membuat saya menunggu empat hari tanpa loader. Tidak sempurna tapi dukungan jauh lebih baik dari biasanya.",
+        "seoTitle": "Ulasan status oleh @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike memberi pembaruan status Dota 2 Cheats nilai 4/5 setelah patch VAC di Dota 2 untuk PC Windows."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Main carry. Soft aim plus ESP Dota 2 Cheats berbeda di map jika pengaturan tetap halus.",
+        "text": "Saya main carry. Soft aim jarak jauh Dota 2 Cheats dengan callout ESP sangat kuat jika pengaturan tetap rendah. Loader tanpa bloat, instalasi sederhana di Windows 11. Hack Dota 2 terbaik yang saya pakai untuk sesi ranked di map — jangan naikkan FOV seperti orang bodoh.",
+        "seoTitle": "Carry Soft Aim oleh @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ memberi carry soft aim Dota 2 Cheats nilai 5/5 dengan ESP di Dota 2 untuk PC Windows."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Bahasa",
-    "englishOfficial": "Bahasa Inggris adalah bahasa resmi",
-    "englishIsOfficial": "Bahasa Inggris adalah bahasa resmi. Bahasa lain diterjemahkan untuk SEO global.",
-    "languageSuggestion": "Bahasa",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Pilih bahasa",
+    "englishOfficial": "Bahasa Inggris — bahasa resmi",
+    "englishIsOfficial": "Bahasa Inggris adalah bahasa resmi",
+    "languageSuggestion": "Saran bahasa",
+    "dismiss": "Tutup",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Navigasi",
+    "gallery": "Galeri",
+    "inGameLook": "Tampilan dalam game",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "Baca panduan",
-    "packageStatus": "Pembaruan",
-    "productDetails": "Fitur",
-    "browse": "Halaman terkait",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Buka pertanyaan untuk jawaban lengkap.",
+    "packageStatus": "Status paket",
+    "productDetails": "Detail produk",
+    "browse": "Jelajahi",
+    "featured": "Unggulan",
+    "share": "Bagikan",
+    "shareX": "Bagikan di X",
+    "shareReddit": "Bagikan di Reddit",
+    "shareFacebook": "Bagikan di Facebook",
     "blog": "Forum",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Fitur",
-    "pricingPlans": "Harga",
-    "buyerReviewsNav": "Apa kata pemain",
+    "home": "Beranda",
+    "support": "Dukungan",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "featureList": "Daftar fitur",
+    "pricingPlans": "Paket harga",
+    "buyerReviewsNav": "Ulasan pembeli",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "Pengembalian dana",
     "forums": "Forum"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Instalasi",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Fitur",
+      "Maphack": "Maphack",
+      "Scripts": "Skrip",
+      "Camera": "Kamera",
+      "Troubleshooting": "Perbaikan",
+      "Pricing": "Harga",
+      "Radar": "Radar",
+      "Combo Scripts": "Skrip combo",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "metaTitle": "Halaman tidak ditemukan | {{brand}}",
+    "metaDescription": "Halaman {{brand}} ini tidak ada. Kembali ke beranda atau jelajahi fitur, toko, setup, ulasan, dan forum.",
+    "body": "URL yang Anda buka tidak ada di {{brand}}. Gunakan tautan untuk ESP, aimbot, toko, dan setup {{game}} di PC Windows.",
+    "backHome": "Kembali ke beranda {{brand}}",
+    "gamePreview": "Pratinjau {{game}}",
+    "store": "Toko",
+    "reviews": "Ulasan",
+    "forums": "Forum",
+    "support": "Dukungan"
   }
 }

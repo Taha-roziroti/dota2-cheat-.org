@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "कीमत",
     "status": "अपडेट",
-    "reviews": "खिलाड़ी क्या कहते हैं",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "समीक्षाएँ",
+    "primaryAria": "मुख्य नेविगेशन",
+    "mobileAria": "मोबाइल नेविगेशन",
+    "openMenu": "मेनू खोलें",
+    "closeMenu": "मेनू बंद करें"
   },
   "hero": {
     "accent": "dota 2 cheats",
@@ -28,11 +28,11 @@
     "buyNow": "अभी खरीदें",
     "seeFeatures": "फ़ीचर्स देखें",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
-    "chipEsp": "ESP / wallhack",
+    "imageAlt": "{{brand}} — Dota 2 ESP और एमबॉट ओवरले",
+    "chipEsp": "ESP / वॉलहैक",
     "chipAim": "स्किलशॉट सहायता",
-    "chipRadar": "2D radar",
-    "chipUpdates": "अपडेट"
+    "chipRadar": "रडार ओवरले",
+    "chipUpdates": "पैच अपडेट"
   },
   "cta": {
     "buy": "अभी खरीदें",
@@ -70,11 +70,90 @@
     "outOf": "/5",
     "countLabel": "समीक्षाएँ",
     "eyebrow": "खिलाड़ी क्या कहते हैं",
-    "homeTitle": "Dota 2 Cheats खिलाड़ी क्या कहते हैं",
-    "buyerReviews": "समीक्षाएँ",
-    "averageAria": "खिलाड़ी क्या कहते हैं",
-    "outOfFiveAria": "/5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats समीक्षाएँ",
+    "buyerReviews": "{{count}} खरीदार समीक्षाएँ",
+    "averageAria": "{{count}} समीक्षाओं में औसत {{rating}}",
+    "outOfFiveAria": "5 में से {{rating}}",
+    "readAll": "सभी समीक्षाएँ पढ़ें →",
+    "scrollHint": "समीक्षाएँ देखने के लिए स्क्रॉल या खींचें",
+    "prev": "पिछली समीक्षा",
+    "next": "अगली समीक्षा",
+    "verifiedBuyer": "सत्यापित खरीदार",
+    "carouselAria": "खरीदार समीक्षा कैरोसेल",
+    "indexTitle": "Dota 2 cheats समीक्षाएँ — हैक और चीट",
+    "indexAverageAria": "5 में औसत {{rating}}",
+    "indexCount": "{{count}} खरीदार समीक्षाएँ · 5 में",
+    "starsAria": "5 में {{rating}} सितारे",
+    "readFull": "पूरी समीक्षा पढ़ें",
+    "ctaAria": "{{brand}} खरीदें",
+    "ctaTitle": "Dota 2 cheats आज़माने के लिए तैयार?",
+    "ctaBody": "एक पैकेज में Dota 2 हैक और चीट — ESP, स्किलशॉट सहायता और रडार Windows PC के लिए, {{game}} पैच रखरखाव के साथ।",
+    "ctaBuy": "अभी खरीदें — ${{price}}",
+    "comparePricing": "कीमतें तुलना करें",
+    "reviewBy": "{{brand}} समीक्षा @{{handle}}",
+    "reviewImageAlt": "{{brand}} समीक्षा @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "पहले 3 Dota 2 चीट आज़माए। soft aim ट्यून करने के बाद Dota 2 Cheats ranked में प्राकृतिक लगते हैं।",
+        "text": "तीन अलग Dota 2 हैक आज़माए और ranked में सभी बहुत तेज़ लगे। Dota 2 Cheats soft aim को इस तरह सेट करने देता है कि उच्च MMR में स्पष्ट न लगे। एक हफ्ते से खेल रहा हूँ; लोडर whitelist के बाद सेटअप लगभग 12 मिनट। अभी कोई दिक्कत नहीं।",
+        "seoTitle": "@xKrypt0_Dota 2 द्वारा Soft Aim समीक्षा — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 Windows PC पर ranked टेस्ट के बाद Dota 2 Cheats soft aim को 5/5 रेटिंग देता है।"
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "aimbot के लिए नहीं, ESP के लिए खरीदा। Dota 2 Cheats wallhack gank से पहले rotation दिखाता है — ranked में बड़ा फायदा।",
+        "text": "मैं aimbot कम चलाता हूँ; ESP के लिए खरीदा। gank से पहले कौन से हीरो lane बदले, यह जानकारी कमाल है। कुछ हफ्तों से मासिक प्लान पर हूँ, सही है। मेनू साफ हो सकता था, लेकिन पैकेज मजबूत है।",
+        "seoTitle": "@buildsR4K द्वारा ESP समीक्षा — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K Windows PC पर ranked जानकारी के लिए Dota 2 Cheats ESP wallhack को 4/5 रेटिंग देता है।"
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "पुराना हैक VAC पैच पर मर गया। Dota 2 Cheats उसी रात rebuild, मैप पर 2 हफ्ते से भरोसेमंद।",
+        "text": "मेरा पिछला चीट VAC अपडेट के अगले दिन बंद हो गया। Dota 2 Cheats पर स्विच किया और loader rebuild की उसी रात वापस आ गया। मैप पर ESP और रडार, दो हफ्ते बाद भी साफ। lifetime लिया — मृत हैक के लिए मासिक भुगतान नहीं।",
+        "seoTitle": "@dma_wizard द्वारा अपडेट समीक्षा — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard VAC अपडेट के बाद Dota 2 Cheats को 5/5 रेटिंग — Windows PC पर तेज़ rebuild।"
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "तकनीकी नहीं हूँ लेकिन Dota 2 Cheats मेनू आसान है। FOV और smoothing के बाद ranked में soft aim प्राकृतिक लगता है।",
+        "text": "मैं बिल्कुल तकनीकी नहीं हूँ। मेनू सरल है — soft aim का FOV घटाया, smoothing बढ़ाया, snap हटाया। अब solo और ranked में मांसपेशी स्मृति जैसा लगता है। पहले लॉगिन पर सपोर्ट एक घंटे लगा इसलिए 4 सितारे, लेकिन लाइसेंस की तेज़ ठीक की।",
+        "seoTitle": "@ctrl_player99 द्वारा Soft Aim समीक्षा — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 Windows PC पर ranked में FOV ट्यूनिंग के बाद Dota 2 Cheats soft aim को 4/5 रेटिंग देता है।"
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender ने पहले loader ब्लॉक किया लेकिन सपोर्ट ने 2 घंटे में ठीक किया। Dota 2 Cheats ESP custom लॉबी में साफ दिखता है।",
+        "text": "गेम में आने के बाद Dota 2 Cheats ठीक काम करता है। Windows Defender ने पहली कोशिश में loader ब्लॉक किया और घबराहट हुई। ऑर्डर ID के साथ सपोर्ट को लिखा, 2 घंटे में स्टेप्स मिले। custom में ESP साफ; अभी full ranked नहीं गया। सेटअप तनाव के लिए 3 सितारे, लेकिन चीट ठीक लगते हैं।",
+        "seoTitle": "@stormChaser_07 द्वारा सेटअप समीक्षा — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 Windows PC पर सपोर्ट मदद के बाद Dota 2 Cheats सेटअप को 3/5 रेटिंग देता है।"
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Dota 2 Cheats हीरो ESP flank और ward जल्दी पकड़ता है। संदिग्ध मुफ्त चीट से बहुत बेहतर।",
+        "text": "मुख्यतः हीरो ESP और ward ट्रैकिंग चाहिए थी Dota 2 के लिए। Dota 2 Cheats दुश्मन हीरो और gank दिमाग से पहले दिखाता है। दोस्तों के साथ पार्टी में flank जानने पर कम अव्यवस्था। बेतरतीब मुफ्त संदिग्ध हैक से बहुत बेहतर।",
+        "seoTitle": "@weaponDropsGoblinx द्वारा हीरो ESP समीक्षा — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx Windows PC पर ward और हीरो ट्रैकिंग के लिए Dota 2 Cheats हीरो ESP को 5/5 रेटिंग देता है।"
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Dota 2 Cheats के हीरो-वाइज aim प्रोफाइल ranked में मदद करते हैं। VAC पैच के अगले दिन वापस।",
+        "text": "नए सीज़न से Dota 2 Cheats इस्तेमाल कर रहा हूँ। हीरो-वाइज aim प्रोफाइल लंबी दूरी skillshot में मदद करते हैं — ranged carry vs melee अलग लगते हैं, अच्छा है। VAC पैच के बाद स्टेटस पेज धीमा था लेकिन अगली सुबह build वापस। ranked में लंबे grind सेशन के लिए मजबूत।",
+        "seoTitle": "@rankedGrind42 द्वारा Ranked Soft Aim समीक्षा — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 Windows PC पर ranked हीरो skillshot के लिए Dota 2 Cheats soft aim को 4/5 रेटिंग देता है।"
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "Dota 2 Cheats 2D रडार ने मैप पर flank दो बार पकड़े। ESP और रडार कॉम्बो असली चीट जैसा।",
+        "text": "सब ESP की बात करते हैं लेकिन Dota 2 Cheats 2D रडार कमाल है। एक मैच में wallhack बॉक्स न देखे मैप पर flank दो बार पकड़ा। ESP और रडार कॉम्बो टॉप-टियर चीट जैसा। क्लिप में न दिखे इसलिए कम opacity।",
+        "seoTitle": "@vanLifeDota 2 द्वारा रडार समीक्षा — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 Windows PC पर Dota 2 मैप flank पहचान के लिए Dota 2 Cheats रडार को 5/5 रेटिंग देता है।"
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "पैच दिन आमतौर पर Dota 2 हैक मार देता है। Dota 2 Cheats अगली सुबह वापस; पुराने प्रोवाइडर को चार दिन लगे।",
+        "text": "Dota 2 पैच दिन आधे cheat discord चुप हो जाते हैं। Dota 2 Cheats टीम ने ~3 घंटे में स्टेटस पोस्ट किया और अगली सुबह ranked कतार में वापस। पुराने प्रोवाइडर ने चार दिन loader के बिना रखा। परफेक्ट नहीं लेकिन सपोर्ट आदत से बहुत बेहतर।",
+        "seoTitle": "@patchDayMike द्वारा स्टेटस समीक्षा — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike Windows PC पर Dota 2 VAC पैच के बाद Dota 2 Cheats स्टेटस अपडेट को 4/5 रेटिंग देता है।"
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Carry main। सेटिंग्स सूक्ष्म रखें तो Dota 2 Cheats soft aim और ESP मैप पर अलग असर करते हैं।",
+        "text": "मैं carry main हूँ। Dota 2 Cheats लंबी दूरी soft aim और ESP callout सेटिंग्स कम रखें तो बहुत मजबूत। बloat नहीं loader, Windows 11 पर सरल इंस्टॉल। मैप पर ranked सेशन के लिए सबसे अच्छे Dota 2 हैक — FOV बेवकूफी से न बढ़ाएं।",
+        "seoTitle": "@snipezOnly_ द्वारा Carry Soft Aim समीक्षा — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ Windows PC पर Dota 2 ESP के साथ Dota 2 Cheats carry soft aim को 5/5 रेटिंग देता है।"
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "भाषा",
-    "englishOfficial": "अंग्रेज़ी आधिकारिक भाषा है। अन्य भाषाएँ वैश्विक SEO के लिए अनुवादित हैं।",
-    "englishIsOfficial": "अंग्रेज़ी आधिकारिक भाषा है। अन्य भाषाएँ वैश्विक SEO के लिए अनुवादित हैं।",
-    "languageSuggestion": "भाषा",
-    "dismiss": "Dismiss",
+    "selectLanguage": "भाषा चुनें",
+    "englishOfficial": "अंग्रेज़ी — आधिकारिक भाषा",
+    "englishIsOfficial": "अंग्रेज़ी आधिकारिक भाषा है",
+    "languageSuggestion": "भाषा सुझाव",
+    "dismiss": "बंद करें",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "नेविगेशन",
+    "gallery": "गैलरी",
+    "inGameLook": "इन-गेम दृश्य",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "गाइड पढ़ें",
-    "packageStatus": "अपडेट",
-    "productDetails": "फ़ीचर्स",
-    "browse": "संबंधित पेज",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "पूरा उत्तर के लिए प्रश्न खोलें।",
+    "packageStatus": "पैकेज स्थिति",
+    "productDetails": "उत्पाद विवरण",
+    "browse": "ब्राउज़",
+    "featured": "विशेष",
+    "share": "साझा करें",
+    "shareX": "X पर साझा करें",
+    "shareReddit": "Reddit पर साझा करें",
+    "shareFacebook": "Facebook पर साझा करें",
     "blog": "फ़ोरम",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "फ़ीचर्स",
-    "pricingPlans": "कीमत",
-    "buyerReviewsNav": "खिलाड़ी क्या कहते हैं",
+    "home": "होम",
+    "support": "सहायता",
+    "privacy": "गोपनीयता",
+    "terms": "नियम",
+    "featureList": "फ़ीचर सूची",
+    "pricingPlans": "मूल्य योजनाएँ",
+    "buyerReviewsNav": "खरीदार समीक्षाएँ",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "रिफंड",
     "forums": "फ़ोरम"
   },
   "footer": {
@@ -251,14 +330,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "सेटअप",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "फ़ीचर",
+      "Maphack": "Maphack",
+      "Scripts": "स्क्रिप्ट",
+      "Camera": "कैमरा",
+      "Troubleshooting": "समस्या निवारण",
+      "Pricing": "कीमत",
+      "Radar": "रडार",
+      "Combo Scripts": "कॉम्बो स्क्रिप्ट",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "पृष्ठ नहीं मिला",
+    "metaTitle": "पृष्ठ नहीं मिला | {{brand}}",
+    "metaDescription": "{{brand}} का यह पृष्ठ मौजूद नहीं है। होम, फ़ीचर, स्टोर, सेटअप, समीक्षाएँ और फ़ोरम देखें।",
+    "body": "आपने जो URL खोला वह {{brand}} पर नहीं है। Windows PC पर {{game}} के लिए ESP, एमबॉट, स्टोर और सेटअप लिंक देखें।",
+    "backHome": "{{brand}} होम पर वापस",
+    "gamePreview": "{{game}} पूर्वावलोकन",
+    "store": "स्टोर",
+    "reviews": "समीक्षाएँ",
+    "forums": "फ़ोरम",
+    "support": "सहायता"
   }
 }
