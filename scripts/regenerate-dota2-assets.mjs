@@ -1,21 +1,31 @@
 /**
- * Regenerate Dota 2 screenshots, hero stills, and nav logo from the hero MP4.
- * Replaces leftover Warzone template imagery with real Dota 2 hero art.
+ * Regenerate Dota 2 screenshots from user-provided gameplay PNGs.
+ * Hero stills come from Dota2-Hero.mp4; product/gallery shots from user assets.
  */
+import { copyFile, mkdir, writeFile } from 'node:fs/promises';
 import { execSync } from 'node:child_process';
-import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const imagesDir = path.join(ROOT, 'public/images');
 const publicDir = path.join(ROOT, 'public');
-const tmpDir = path.join(ROOT, 'tmp/dota2-assets');
+const assetsDir = '/home/ubuntu/.cursor/projects/workspace/assets';
+const archiveDir = path.join(ROOT, 'scripts/assets/dota2-screenshots');
 const HERO_VIDEO = path.join(publicDir, 'videos/Dota2-Hero.mp4');
+
+/** User-provided Dota 2 gameplay screenshots — order maps to dota2-screenshot-01 … 06. */
+const USER_SCREENSHOTS = [
+	'13be2916-8042-448d-8b88-a282c00c22b4.png',
+	'f422ed6d-143e-434c-88e8-6c492f64d752.png',
+	'198f0c2b-9d76-4ffb-bb9c-dfde83999fbf.png',
+	'c43cb5d5-b6f2-4e58-8506-fb591f4a7b51.png',
+	'1d49a213-56a6-4bdb-878e-655613144c66.png',
+	'f7f8f852-cfcb-45c2-a5ff-84dc50e6b2c0.png',
+];
 
 const CONTENT_WIDTHS = [480, 640, 960, 1024, 1199];
 const WEBP = { quality: 82, effort: 6, smartSubsample: true };
-const SCREENSHOT_TIMES = [0.6, 1.4, 2.2, 3.0, 3.8, 4.6, 5.4];
 
 const LOGO_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 72" role="img" aria-label="Dota 2 Cheats">
   <defs>
@@ -49,9 +59,9 @@ async function writeResponsive(baseName, input) {
 	console.log(`  ✓ ${baseName}.webp (+ responsive)`);
 }
 
-async function extractFrame(seconds, outPath) {
+async function extractHeroFrame(outPath) {
 	execSync(
-		`ffmpeg -y -ss ${seconds} -i "${HERO_VIDEO}" -vframes 1 -update 1 "${outPath}"`,
+		`ffmpeg -y -ss 0.6 -i "${HERO_VIDEO}" -vframes 1 -update 1 "${outPath}"`,
 		{ stdio: 'pipe' },
 	);
 }
@@ -112,7 +122,10 @@ async function writeLogo() {
 		);
 	}
 
-	const icon512 = await sharp(master).resize(512, 512, { fit: 'contain', background: { r: 13, g: 10, b: 20, alpha: 1 } }).png().toBuffer();
+	const icon512 = await sharp(master)
+		.resize(512, 512, { fit: 'contain', background: { r: 13, g: 10, b: 20, alpha: 1 } })
+		.png()
+		.toBuffer();
 	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.png'), icon512);
 	await writeFile(path.join(imagesDir, 'dota2-cheats-logo.webp'), await sharp(icon512).webp({ quality: 90 }).toBuffer());
 	await writeFile(path.join(imagesDir, 'dota2-site-icon-512.webp'), await sharp(icon512).webp({ quality: 90 }).toBuffer());
@@ -127,7 +140,10 @@ async function writeLogo() {
 	for (const { name, size } of faviconSizes) {
 		await writeFile(
 			path.join(publicDir, name),
-			await sharp(icon512).resize(size, size, { fit: 'contain', background: { r: 13, g: 10, b: 20, alpha: 1 } }).png().toBuffer(),
+			await sharp(icon512)
+				.resize(size, size, { fit: 'contain', background: { r: 13, g: 10, b: 20, alpha: 1 } })
+				.png()
+				.toBuffer(),
 		);
 	}
 	await writeFile(path.join(publicDir, 'favicon.svg'), LOGO_SVG);
@@ -136,31 +152,34 @@ async function writeLogo() {
 
 async function main() {
 	await mkdir(imagesDir, { recursive: true });
-	await mkdir(tmpDir, { recursive: true });
+	await mkdir(archiveDir, { recursive: true });
 
-	console.log('Extracting Dota 2 frames from hero video…');
-	const framePaths = [];
-	for (let i = 0; i < SCREENSHOT_TIMES.length; i += 1) {
-		const out = path.join(tmpDir, `frame-${i + 1}.png`);
-		extractFrame(SCREENSHOT_TIMES[i], out);
-		framePaths.push(out);
+	const sourcePaths = [];
+	for (let i = 0; i < USER_SCREENSHOTS.length; i += 1) {
+		const src = path.join(assetsDir, USER_SCREENSHOTS[i]);
+		const saved = path.join(archiveDir, `source-${i + 1}.png`);
+		await copyFile(src, saved);
+		sourcePaths.push(saved);
+		console.log(`✓ staged ${USER_SCREENSHOTS[i]}`);
 	}
 
-	await writeHero(framePaths[0]);
+	const heroFrame = path.join(archiveDir, 'hero-frame.png');
+	extractHeroFrame(heroFrame);
+	await writeHero(heroFrame);
 	await writeLogo();
 
-	for (let i = 0; i < framePaths.length; i += 1) {
+	for (let i = 0; i < sourcePaths.length; i += 1) {
 		const id = String(i + 1).padStart(2, '0');
-		await writeResponsive(`dota2-screenshot-${id}`, framePaths[i]);
+		await writeResponsive(`dota2-screenshot-${id}`, sourcePaths[i]);
 	}
 
-	const reviewsFrame = framePaths[3];
+	const reviewsFrame = sourcePaths[4];
 	await writeFile(path.join(imagesDir, 'reviews-banner.webp'), await sharp(reviewsFrame).webp({ quality: 82 }).toBuffer());
 	for (const w of [480, 960]) {
 		await writeFile(path.join(imagesDir, `reviews-banner-${w}w.webp`), await encodeWebp(reviewsFrame, w));
 	}
 
-	console.log('Done — Dota 2 screenshots and logo regenerated.');
+	console.log(`Done — ${USER_SCREENSHOTS.length} user gameplay screenshots imported.`);
 }
 
 main().catch((err) => {

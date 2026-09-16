@@ -43,7 +43,7 @@ const defaultImages: BrandSitemapImage[] = [
 		caption: 'dota 2 cheats esp and aimbot in match',
 	},
 	{
-		src: '/images/dota2-screenshot-07.webp',
+		src: '/images/dota2-screenshot-06.webp',
 		title: 'dota 2 cheats player esp',
 		caption: 'dota 2 cheats wallhack player outlines',
 	},

@@ -1,14 +1,13 @@
 import { siteConfig } from './site';
 
-/** User-provided Dota 2 gameplay screenshots (8 unique). */
+/** User-provided Dota 2 gameplay screenshots (6 unique). */
 export const PRODUCT_SCREENSHOT_SOURCES = [
-	'user:291e026c-07bb-4e4a-8d62-c8c7a5b14965.png',
-	'user:c5bc12a4-9b23-4840-8448-df2ee6f7c971.png',
-	'user:bf7d564f-2f04-4bf0-9f10-db7f1fa87582.png',
-	'user:d84e536f-9f6f-436c-bda8-6678d53a7f8e.png',
-	'user:8596860c-50cf-4fa0-a494-0bde8111ef64.png',
-	'user:056e390b-6eef-4749-9205-83d66710a362.png',
-	'user:05a7f39c-e076-43b9-8aac-05851b338275.png',
+	'user:13be2916-8042-448d-8b88-a282c00c22b4.png',
+	'user:f422ed6d-143e-434c-88e8-6c492f64d752.png',
+	'user:198f0c2b-9d76-4ffb-bb9c-dfde83999fbf.png',
+	'user:c43cb5d5-b6f2-4e58-8506-fb591f4a7b51.png',
+	'user:1d49a213-56a6-4bdb-878e-655613144c66.png',
+	'user:f7f8f852-cfcb-45c2-a5ff-84dc50e6b2c0.png',
 ] as const;
 
 export const PRODUCT_SCREENSHOT_COUNT = PRODUCT_SCREENSHOT_SOURCES.length;
@@ -26,39 +25,34 @@ export type ProductScreenshotMeta = {
 
 const alts: Record<number, { alt: string; title: string; caption: string }> = {
 	1: {
-		alt: 'Dota 2 Juggernaut Bladeform Legacy hero art with purple arcane glow',
-		title: 'Dota 2 cheats hero showcase — Juggernaut arcana',
-		caption: 'Dota 2 cheats cinematic hero preview with ESP and maphack overlays on PC',
+		alt: 'Dota 2 Invoker Sun Strike and EMP combo with purple spell effects in lane',
+		title: 'Dota 2 Invoker skillshot assist — Sun Strike',
+		caption: 'Dota 2 cheats skillshot assist landing Invoker Sun Strike during ranked combat',
 	},
 	2: {
-		alt: 'Dota 2 hero ESP overlay with health bars and team colour tags in lane',
-		title: 'Dota 2 hero ESP in ranked match',
-		caption: 'Dota 2 wallhack showing enemy heroes, distance readouts and ward vision on PC',
+		alt: 'Dota 2 Pudge with dodge-assist script text overlay near river bridge',
+		title: 'Dota 2 dodge assist on Pudge',
+		caption: 'Dota 2 script dodge assist helping Pudge avoid enemy spells in ranked',
 	},
 	3: {
-		alt: 'Dota 2 skillshot assist targeting enemy mid with trajectory preview',
-		title: 'Dota 2 skillshot assist and aimbot lock',
-		caption: 'Dota 2 cheats skillshot assist with visibility check during ranked combat',
+		alt: 'Dota 2 Shadow Fiend capturing ability lantern with yellow capture ring',
+		title: 'Dota 2 Shadow Fiend lantern capture assist',
+		caption: 'Dota 2 cheats automation for Shadow Fiend ability lantern capture on PC',
 	},
 	4: {
-		alt: 'Dota 2 maphack minimap overlay with enemy positions and rune timers',
-		title: 'Dota 2 maphack and radar overlay',
-		caption: 'Dota 2 radar hack with hero positions, ward spots and bounty rune tags',
+		alt: 'Dota 2 Shadow Fiend teleporting to mid tower with script overlay',
+		title: 'Dota 2 teleport script to mid tower',
+		caption: 'Dota 2 cheats teleport automation for Shadow Fiend rotation on PC',
 	},
 	5: {
-		alt: 'Dota 2 ward vision ESP through trees and fog of war',
-		title: 'Dota 2 ward vision through fog',
-		caption: 'Dota 2 maphack ward vision and hero ESP overlay in jungle skirmish',
+		alt: 'Dota 2 Arc Warden with green ESP box overlay near river',
+		title: 'Dota 2 Arc Warden ESP box overlay',
+		caption: 'Dota 2 ESP wallhack showing enemy hero box and info near river on PC',
 	},
 	6: {
-		alt: 'Dota 2 Roshan pit ESP with timer and enemy hero boxes',
-		title: 'Dota 2 Roshan pit ESP overlay',
-		caption: 'Dota 2 player ESP with distance tags and Roshan timer in ranked',
-	},
-	7: {
-		alt: 'Dota 2 item ESP showing bounty runes, wards and courier through fog',
-		title: 'Dota 2 item ESP and rune tags',
-		caption: 'Dota 2 item ESP showing bounty runes, wards and courier through fog on PC',
+		alt: 'Dota 2 Anti-Mage with red targeting ring and ability cooldown tags',
+		title: 'Dota 2 Anti-Mage aim assist targeting ring',
+		caption: 'Dota 2 aim assist with hero targeting ring and cooldown readouts on PC',
 	},
 };
 
