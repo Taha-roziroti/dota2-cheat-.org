@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import I18nProvider from './I18nProvider';
+import { shouldShowEyebrow } from '../../lib/eyebrow';
 
 type Review = {
 	slug: string;
@@ -42,14 +43,17 @@ function HomeReviewsInner({
 	const { t } = useTranslation();
 	const ratingLabel = averageRating.toFixed(1);
 	const countLabel = reviewCountLabel || String(totalCount);
+	const reviewsTitle = t('reviews.homeTitle');
+	const reviewsEyebrow = t('reviews.eyebrow');
+	const showReviewsEyebrow = shouldShowEyebrow(reviewsEyebrow, reviewsTitle);
 
 	return (
 		<section className="reviews" aria-labelledby="reviews-title">
 			<div className="shell">
 				<header className="reviews__head">
 					<div className="reviews__head-copy">
-						<p className="reviews__eyebrow">{t('reviews.eyebrow')}</p>
-						<h2 id="reviews-title">{t('reviews.homeTitle')}</h2>
+						{showReviewsEyebrow ? <p className="reviews__eyebrow">{reviewsEyebrow}</p> : null}
+						<h2 id="reviews-title">{reviewsTitle}</h2>
 					</div>
 					<div
 						className="reviews__score"

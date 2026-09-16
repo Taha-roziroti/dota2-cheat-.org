@@ -4,6 +4,7 @@ import { getReviewPath, getReviewsBasePath } from '../data/reviews';
 import { getLocalizedReviewBySlug } from '../data/localized-reviews';
 import { defaultLocale, localeMap, type LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
+import { shouldShowEyebrow } from '../lib/eyebrow';
 
 interface Props {
 	locale?: LocaleCode;
@@ -28,6 +29,9 @@ const reviews = customerReviews.map((review) => {
 const ratingLabel = customerReviewStats.averageRating.toFixed(1);
 const countLabel = customerReviewStats.reviewCountLabel || String(customerReviewStats.totalCount);
 const carouselLabel = t('reviews.carouselAria');
+const reviewsTitle = t('reviews.homeTitle');
+const reviewsEyebrow = t('reviews.eyebrow');
+const showReviewsEyebrow = shouldShowEyebrow(reviewsEyebrow, reviewsTitle);
 
 function formatDate(iso: string) {
 	const tag = localeMap[locale]?.hreflang ?? locale;
@@ -46,8 +50,8 @@ function initial(handle: string) {
 	<div class="shell">
 		<header class="reviews__head">
 			<div class="reviews__head-copy">
-				<p class="reviews__eyebrow">{t('reviews.eyebrow')}</p>
-				<h2 id="reviews-title">{t('reviews.homeTitle')}</h2>
+				{showReviewsEyebrow ? <p class="reviews__eyebrow">{reviewsEyebrow}</p> : null}
+				<h2 id="reviews-title">{reviewsTitle}</h2>
 			</div>
 			<div
 				class="reviews__score"

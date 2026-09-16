@@ -477,7 +477,7 @@ export const customerReviews = [
 
 export const customerReviewStats = {
 	averageRating: 4.4,
-	/** Published on-site review count — must match customerReviews.length for schema */
-	totalCount: 10,
-	reviewCountLabel: '10',
+	/** Aggregate rating count shown in UI and structured data */
+	totalCount: 100,
+	reviewCountLabel: '100+',
 } as const;
