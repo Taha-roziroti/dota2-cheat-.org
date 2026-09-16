@@ -96,7 +96,7 @@ export const brand = {
 	},
 
 	seo: {
-		homeTitle: 'Dota 2 Esp, Aimbot & Wallhack',
+		homeTitle: 'Dota 2 ESP, Aimbot & Wallhack',
 		homeDescription:
 			'Dota 2 cheats with ESP, aimbot and wallhack for ranked and casual matches on PC. Hero vision, map overlays, skillshot assist, and VAC maintenance after patches.',
 		featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Maphack',

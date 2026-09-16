@@ -1,5 +1,6 @@
 ---
-import LocalizedPage from '../../components/LocalizedPage.astro';
----
+import { englishPaths } from '../../data/i18n/routing';
+import { getCannibalTargetId } from '../../data/seo-cannibal-map';
 
-<LocalizedPage locale="en" pageId="aimbot-hack" />
+return Astro.redirect(englishPaths[getCannibalTargetId('aimbot-hack') as keyof typeof englishPaths] ?? '/aimbot/', 301);
+---

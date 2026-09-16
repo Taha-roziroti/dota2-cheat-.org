@@ -1,5 +1,6 @@
 ---
-import LocalizedPage from '../../components/LocalizedPage.astro';
----
+import { englishPaths } from '../../data/i18n/routing';
+import { getCannibalTargetId } from '../../data/seo-cannibal-map';
 
-<LocalizedPage locale="en" pageId="cheat-download" />
+return Astro.redirect(englishPaths[getCannibalTargetId('cheat-download') as keyof typeof englishPaths] ?? '/setup/', 301);
+---

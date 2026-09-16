@@ -165,6 +165,16 @@ async function main() {
 			delete t.internalLinks.reliable;
 		}
 		if (t.product) t.product.statusBadge = loc === 'es' ? 'Trucos Dota 2 para PC' : (t.product.statusBadge?.replace(/indetectable|reliable/gi, '').trim() || 'Dota 2 cheats PC');
+		if (t.images?.raidMap?.includes('operator')) {
+			t.images.raidMap =
+				loc === 'es'
+					? 'Marcadores ESP para builds de héroes y objetivos en Dota 2'
+					: loc === 'fr'
+						? 'Marqueurs ESP pour builds de héros et objectifs dans Dota 2'
+						: loc === 'de'
+							? 'ESP-Marker für Hero-Builds und Map-Ziele in Dota 2'
+							: 'ESP markers for hero item builds and map objectives in Dota 2';
+		}
 		await writeFile(file, JSON.stringify(t, null, 2) + '\n');
 		console.log('✓', loc);
 	}

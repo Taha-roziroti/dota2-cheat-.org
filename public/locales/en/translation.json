@@ -239,7 +239,7 @@
   },
   "externalResources": {
     "title": "Official game guides & resources",
-    "lede": "We link to trusted third-party sources so you can verify patch notes, player stats, and map info outside our site.",
+    "lede": "We link to trusted gank sources so you can verify patch notes, player stats, and map info outside our site.",
     "pillsTitle": "Official guides",
     "pillsLabel": "Official Dota 2 guides",
     "steam": {
@@ -266,14 +266,14 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
