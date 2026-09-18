@@ -186,16 +186,9 @@ if (aboutNode) {
 			href="/fonts/barlow-latin-400-normal.woff2"
 			crossorigin
 		/>
-		<link
-			rel="preload"
-			as="font"
-			type="font/woff2"
-			href="/fonts/bebas-neue-latin-400-normal.woff2"
-			crossorigin
-		/>
 		{/* Self-hosted Bebas Neue + Barlow (latin) — no Google Fonts. */}
 		<script is:inline src="/trusted-types-policy.js"></script>
-		<script is:inline src="/nav-menu.js"></script>
+		<script is:inline src="/nav-menu.js" defer></script>
 		<meta name="robots" content={robots} />
 		<meta name="googlebot" content={robots} />
 		<meta name="description" content={pageDescription} />
@@ -260,6 +253,7 @@ if (aboutNode) {
 		)}
 
 		<title>{pageTitle}</title>
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon.png" />

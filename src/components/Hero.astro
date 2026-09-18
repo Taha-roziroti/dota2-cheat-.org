@@ -1,38 +1,128 @@
 ---
-import HeroApp from './react/Hero';
 import TrustBar from './TrustBar.astro';
 import type { LocaleCode } from '../data/i18n/locales';
 import { defaultLocale } from '../data/i18n/locales';
-import { brand, productInfo, siteConfig } from '../data/site-core';
+import { brand, siteConfig } from '../data/site-core';
 import { heroWidth, heroHeight, heroSrcSet, heroSizes, heroSrc } from '../lib/responsive-images';
+import { getT } from '../i18n/server';
 
 interface Props {
 	locale?: LocaleCode;
 }
 
 const locale = Astro.props.locale ?? defaultLocale;
-const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo.plans[0];
+const t = getT(locale);
+
+const title = t('hero.title');
+const subtitle = t('hero.subtitle');
+const imageAlt = t('hero.imageAlt', { brand: siteConfig.name });
+
+const heroVideoMp4 = brand.heroVideoMp4;
+const heroVideoWebm = brand.heroVideoUrl;
+const hasHeroVideo = Boolean(heroVideoMp4 || heroVideoWebm);
+const poster = brand.demoVideoPoster ?? heroSrc;
+
+const chips = [
+	{ key: 'chipEsp', icon: 'esp' },
+	{ key: 'chipAim', icon: 'aim' },
+	{ key: 'chipRadar', icon: 'radar' },
+	{ key: 'chipUpdates', icon: 'updates' },
+] as const;
 ---
 
 <div class="hero-stage">
-	<HeroApp
-		client:idle
-		locale={locale}
-		siteName={siteConfig.name}
-		checkoutUrl={siteConfig.checkoutUrl}
-		monthlyPrice={monthly.price}
-		heroSrc={heroSrc}
-		heroSrcSet={heroSrcSet}
-		heroSizes={heroSizes}
-		heroWidth={heroWidth}
-		heroHeight={heroHeight}
-		heroVideoUrl={brand.heroVideoUrl}
-		heroVideoMp4={brand.heroVideoMp4}
-		heroVideoPoster={brand.demoVideoPoster}
-		useBrandHero={true}
-	/>
+	<section class="hero" aria-label={title}>
+		<div class="hero__media">
+			{
+				hasHeroVideo ? (
+					<video
+						class="hero__video"
+						autoPlay
+						loop
+						muted
+						playsinline
+						preload="none"
+						poster={poster}
+						data-defer-src={heroVideoMp4 || undefined}
+						data-defer-webm={heroVideoWebm || undefined}
+					/>
+				) : null
+			}
+			<img
+				src={heroSrc}
+				srcset={heroSrcSet}
+				sizes={heroSizes}
+				alt={imageAlt}
+				width={heroWidth}
+				height={heroHeight}
+				fetchpriority="high"
+				loading="eager"
+				decoding="async"
+				class={hasHeroVideo ? 'hero__poster-fallback' : undefined}
+			/>
+		</div>
+		<div class="hero__veil" aria-hidden="true"></div>
+		<div class="shell hero__content">
+			<div class="hero__copy">
+				<h1 class="hero__brand">{title}</h1>
+				<p class="hero__lede" data-edit="heroLede">{subtitle}</p>
+				<ul class="hero__features">
+					{
+						chips.map((chip) => (
+							<li>
+								<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+									{
+										chip.icon === 'esp' ? (
+											<>
+												<circle cx="12" cy="12" r="7.5" stroke="currentColor" stroke-width="1.6" />
+												<path
+													d="M12 8.5v3.2L14.2 14"
+													stroke="currentColor"
+													stroke-width="1.6"
+													stroke-linecap="round"
+												/>
+											</>
+										) : chip.icon === 'aim' ? (
+											<path
+												d="M12 4.5l1.7 4.8H19l-4 3.1 1.5 4.8L12 14.8 7.5 17.2 9 12.4 5 9.3h5.3L12 4.5z"
+												stroke="currentColor"
+												stroke-width="1.5"
+												stroke-linejoin="round"
+											/>
+										) : chip.icon === 'radar' ? (
+											<>
+												<circle cx="12" cy="12" r="3" stroke="currentColor" stroke-width="1.6" />
+												<circle cx="12" cy="12" r="7.5" stroke="currentColor" stroke-width="1.6" />
+												<path
+													d="M12 2.8v2.2M12 19v2.2M2.8 12h2.2M19 12h2.2"
+													stroke="currentColor"
+													stroke-width="1.6"
+													stroke-linecap="round"
+												/>
+											</>
+										) : (
+											<path
+												d="M5 13.2l4.2 4.2L19 7.6"
+												stroke="currentColor"
+												stroke-width="1.8"
+												stroke-linecap="round"
+												stroke-linejoin="round"
+											/>
+										)
+									}
+								</svg>
+								<span data-edit={chip.key}>{t(`hero.${chip.key}`)}</span>
+							</li>
+						))
+					}
+				</ul>
+			</div>
+		</div>
+	</section>
 	<TrustBar locale={locale} overlay />
 </div>
+
+{hasHeroVideo ? <script is:inline src="/hero-video.js" defer></script> : null}
 
 <style is:global>
 	.hero-stage {
@@ -178,68 +268,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		color: color-mix(in srgb, #fff 74%, var(--ink-muted));
 	}
 
-	.hero__actions {
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.7rem;
-		margin: 0;
-		width: 100%;
-	}
-
-	.hero__buy {
-		pointer-events: auto;
-		display: inline-flex;
-		align-items: center;
-		justify-content: flex-start;
-		gap: 0.55rem;
-		width: auto;
-		max-width: 100%;
-		min-height: 3rem;
-		padding: 0.55rem 0.55rem 0.55rem 1.05rem;
-		border-radius: 999px;
-		font-size: 0.9375rem;
-		font-weight: 700;
-		letter-spacing: 0.05em;
-	}
-
-	.hero__buy svg {
-		width: 1.05rem;
-		height: 1.05rem;
-		flex-shrink: 0;
-		opacity: 0.85;
-	}
-
-	.hero__buy-label {
-		padding-right: 0.15rem;
-	}
-
-	.hero__buy-price {
-		display: inline-flex;
-		align-items: center;
-		min-height: 2rem;
-		margin-left: auto;
-		padding: 0 0.85rem;
-		border-radius: 999px;
-		background: color-mix(in srgb, #000 28%, transparent);
-		color: #fff;
-		font-size: 0.8125rem;
-		font-weight: 700;
-		letter-spacing: 0.05em;
-	}
-
-	.hero__buy:hover {
-		transform: translateY(-2px);
-	}
-
-	.hero__buy:hover .hero__buy-price {
-		background: color-mix(in srgb, #000 36%, transparent);
-	}
-
-	.hero__buy:active {
-		transform: translateY(0);
-	}
-
 	.hero__features {
 		display: grid;
 		grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -308,21 +336,8 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		.hero__media img.hero__poster-fallback {
 			display: block;
 		}
-
-		.hero__buy,
-		.hero__buy:hover {
-			transition: none;
-			transform: none;
-		}
-
-		.hero__content {
-			transform: translateY(clamp(-1.5rem, -3vw, -0.35rem));
-		}
 	}
 
-	/*
-	 * Mobile: overlay copy on lower third; keep a tall enough strip for art + text.
-	 */
 	@media (max-width: 900px) {
 		.hero__veil {
 			background:
@@ -365,22 +380,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 			color: color-mix(in srgb, #fff 80%, var(--ink-muted));
 		}
 
-		.hero__actions {
-			width: 100%;
-		}
-
-		.hero__buy {
-			width: 100%;
-			max-width: 22rem;
-			min-height: var(--touch-min, 2.75rem);
-			font-size: 0.9375rem;
-			justify-content: flex-start;
-		}
-
-		.hero__buy-price {
-			margin-left: auto;
-		}
-
 		.hero__features {
 			display: grid;
 			grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -405,11 +404,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 		}
 
 		.hero__lede {
-			max-width: none;
-		}
-
-		.hero__buy {
-			width: 100%;
 			max-width: none;
 		}
 
@@ -445,10 +439,6 @@ const monthly = productInfo.plans.find((p) => p.id === 'monthly') ?? productInfo
 
 		.hero__features {
 			display: none;
-		}
-
-		.hero__buy {
-			max-width: 20rem;
 		}
 	}
 </style>

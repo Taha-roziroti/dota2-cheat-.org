@@ -68,4 +68,15 @@
 	});
 
 	document.addEventListener('astro:page-load', close);
+
+	/* Header scroll state — no React needed */
+	function onScroll() {
+		const h = header();
+		if (!h) return;
+		h.classList.toggle('is-scrolled', window.scrollY > 8);
+	}
+
+	onScroll();
+	window.addEventListener('scroll', onScroll, { passive: true });
+	document.addEventListener('astro:page-load', onScroll);
 })();
