@@ -30,6 +30,10 @@ const chips = [
 ] as const;
 ---
 
+<style is:inline>
+	.hero-stage{position:relative}.hero{position:relative;isolation:isolate;display:grid;grid-template-areas:'hero-stack';width:100%;aspect-ratio:16/9;background:var(--bg);overflow:hidden}.hero__media,.hero__veil,.hero__content{grid-area:hero-stack}.hero__media{position:relative;z-index:0;width:100%;height:100%;overflow:hidden;line-height:0}.hero__media img,.hero__media video{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+</style>
+
 <div class="hero-stage">
 	<section class="hero" aria-label={title}>
 		<div class="hero__media">
@@ -41,11 +45,15 @@ const chips = [
 						loop
 						muted
 						playsinline
-						preload="none"
+						preload="auto"
 						poster={poster}
-						data-defer-src={heroVideoMp4 || undefined}
-						data-defer-webm={heroVideoWebm || undefined}
-					/>
+						width={heroWidth}
+						height={heroHeight}
+						fetchpriority="high"
+					>
+						{heroVideoWebm ? <source src={heroVideoWebm} type="video/webm" /> : null}
+						{heroVideoMp4 ? <source src={heroVideoMp4} type="video/mp4" /> : null}
+					</video>
 				) : null
 			}
 			<img
@@ -57,7 +65,7 @@ const chips = [
 				height={heroHeight}
 				fetchpriority="high"
 				loading="eager"
-				decoding="async"
+				decoding="sync"
 				class={hasHeroVideo ? 'hero__poster-fallback' : undefined}
 			/>
 		</div>
@@ -121,8 +129,6 @@ const chips = [
 	</section>
 	<TrustBar locale={locale} overlay />
 </div>
-
-{hasHeroVideo ? <script is:inline src="/hero-video.js" defer></script> : null}
 
 <style is:global>
 	.hero-stage {
