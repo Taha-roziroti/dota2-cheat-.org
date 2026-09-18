@@ -5,7 +5,6 @@ import Agent from '../components/Hero.astro';
 import HomeReviews from '../components/HomeReviews.astro';
 import HomeSeo from '../components/HomeSeo.astro';
 import HomeAbout from '../components/HomeAbout.astro';
-import CategoryRow from '../components/CategoryRow.astro';
 import ExternalResources from '../components/ExternalResources.astro';
 import { externalUrls } from '../data/external-resources';
 import SiteFooter from '../components/SiteFooter.astro';
@@ -122,7 +121,6 @@ const extraGraph: Record<string, unknown>[] = [
 	<Navbar locale={locale} pageId="home" />
 	<main id="main-content" class="home">
 		<Agent locale={locale} />
-		<CategoryRow locale={locale} embedded />
 		<HomeReviews locale={locale} />
 		<div class="home__seo">
 			<HomeAbout locale={locale} />
