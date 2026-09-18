@@ -21,7 +21,6 @@ import { siteConfig } from '../data/site';
 import { getT } from '../i18n/server';
 import { absoluteImageUrl } from '../data/page-images';
 import RelatedPages from '../components/RelatedPages.astro';
-import CategoryRow from '../components/CategoryRow.astro';
 import TrustStrip from '../components/TrustStrip.astro';
 import ExternalResources from '../components/ExternalResources.astro';
 
@@ -45,7 +44,6 @@ interface Props {
 	showGallery?: boolean;
 	showRelatedPages?: boolean;
 	showExternalResources?: boolean;
-	showCategoryRow?: boolean;
 	locale?: import('../data/i18n/locales').LocaleCode;
 	pageId?: import('../data/i18n/content.generated').PageId;
 	extraGraph?: Record<string, unknown>[];
@@ -68,7 +66,6 @@ const {
 	showGallery = true,
 	showRelatedPages = true,
 	showExternalResources = true,
-	showCategoryRow = true,
 	locale = defaultLocale,
 	pageId: pageIdProp,
 	extraGraph = [],
@@ -244,7 +241,6 @@ const useHomeAgent = isHeroMarketingImage(heroImage);
 			}
 		</div>
 	</main>
-	{showCategoryRow && pageId && <CategoryRow locale={locale} />}
 	<SiteFooter locale={locale} />
 </Layout>
 
