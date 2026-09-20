@@ -19,23 +19,23 @@ const encodedName = encodeURIComponent(siteConfig.name);
 const tagline = t('footer.tagline').split('\n')[0];
 
 const explore = [
-	{ labelKey: 'nav.hacks', href: getLocalizedPath('home', locale) },
-	{ labelKey: 'nav.esp', href: getLocalizedPath('dota2-esp', locale) },
-	{ labelKey: 'nav.aimbot', href: getLocalizedPath('dota2-aimbot', locale) },
-	{ labelKey: 'common.featureList', href: getLocalizedPath('features', locale) },
-	{ labelKey: 'common.pricingPlans', href: getLocalizedPath('pricing', locale) },
-	{ labelKey: 'nav.faq', href: getLocalizedPath('faq', locale) },
-	{ labelKey: 'common.forums', href: getBlogBasePath(locale) },
+	{ labelKey: 'footer.linkCheatsGuide', href: getLocalizedPath('hacks', locale) },
+	{ labelKey: 'footer.linkEspPage', href: getLocalizedPath('dota2-esp', locale) },
+	{ labelKey: 'footer.linkAimbotPage', href: getLocalizedPath('dota2-aimbot', locale) },
+	{ labelKey: 'footer.linkFeatureList', href: getLocalizedPath('features', locale) },
+	{ labelKey: 'footer.linkPricingPlans', href: getLocalizedPath('pricing', locale) },
+	{ labelKey: 'footer.linkFaqHub', href: getLocalizedPath('faq', locale) },
+	{ labelKey: 'footer.linkForums', href: getBlogBasePath(locale) },
 ];
 
 const help = [
-	{ labelKey: 'nav.setup', href: getLocalizedPath('setup', locale) },
-	{ labelKey: 'nav.updates', href: getLocalizedPath('updates', locale) },
-	{ labelKey: 'common.buyerReviewsNav', href: getReviewsBasePath(locale) },
-	{ labelKey: 'common.support', href: getLocalizedPath('support', locale) },
-	{ labelKey: 'common.refundPolicy', href: getLocalizedPath('refund', locale) },
-	{ labelKey: 'common.privacy', href: getLocalizedPath('privacy', locale) },
-	{ labelKey: 'common.terms', href: getLocalizedPath('terms', locale) },
+	{ labelKey: 'footer.linkSetupGuide', href: getLocalizedPath('setup', locale) },
+	{ labelKey: 'footer.linkPatchStatus', href: getLocalizedPath('updates', locale) },
+	{ labelKey: 'footer.linkBuyerReviews', href: getReviewsBasePath(locale) },
+	{ labelKey: 'footer.linkSupportDesk', href: getLocalizedPath('support', locale) },
+	{ labelKey: 'footer.linkRefundPolicy', href: getLocalizedPath('refund', locale) },
+	{ labelKey: 'footer.linkPrivacyPolicy', href: getLocalizedPath('privacy', locale) },
+	{ labelKey: 'footer.linkTermsOfUse', href: getLocalizedPath('terms', locale) },
 ];
 
 const shareLinks = [

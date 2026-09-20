@@ -17,10 +17,46 @@
 		return Boolean(h && h.classList.contains('is-open'));
 	}
 
+	/** Clone desktop nav + lang into mobile panel once — avoids duplicate anchor text in HTML. */
+	function cloneMobileNav() {
+		const panelNav = document.querySelector('[data-nav-clone]');
+		const desktopNav = document.querySelector('.site-nav');
+		if (!panelNav || !desktopNav || panelNav.dataset.ready === '1') return;
+
+		panelNav.replaceChildren();
+		desktopNav.querySelectorAll('a').forEach((link) => {
+			const item = document.createElement('a');
+			item.href = link.getAttribute('href') || '#';
+			if (link.classList.contains('is-active')) item.classList.add('is-active');
+			item.setAttribute('data-nav-close', '');
+			const icon = link.querySelector('svg');
+			const label = link.querySelector('span');
+			if (icon) item.appendChild(icon.cloneNode(true));
+			if (label) item.appendChild(label.cloneNode(true));
+			panelNav.appendChild(item);
+		});
+
+		const langSlot = document.querySelector('[data-lang-clone]');
+		const desktopLang = document.querySelector('.site-tools__lang .lang-switcher');
+		if (langSlot && desktopLang && !langSlot.querySelector('.lang-switcher')) {
+			langSlot.appendChild(desktopLang.cloneNode(true));
+		}
+
+		panelNav.dataset.ready = '1';
+		panelNav.hidden = false;
+		if (langSlot) langSlot.hidden = false;
+	}
+
+	function ensureMobileNav() {
+		if (window.matchMedia('(max-width: 1024px)').matches) cloneMobileNav();
+	}
+
 	function setOpen(open) {
 		const h = header();
 		const btn = menuBtn();
 		if (!h || !btn) return;
+
+		if (open) ensureMobileNav();
 
 		h.classList.toggle('is-open', open);
 		btn.setAttribute('aria-expanded', open ? 'true' : 'false');
@@ -69,7 +105,10 @@
 
 	document.addEventListener('astro:page-load', close);
 
-	/* Header scroll state — no React needed */
+	ensureMobileNav();
+	window.addEventListener('resize', ensureMobileNav);
+	document.addEventListener('astro:page-load', ensureMobileNav);
+
 	function onScroll() {
 		const h = header();
 		if (!h) return;

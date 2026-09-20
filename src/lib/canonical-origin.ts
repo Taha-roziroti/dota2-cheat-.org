@@ -4,6 +4,8 @@ export const CANONICAL_HOST = 'dota2cheat.com';
 
 /** Legacy hosts that 301 to the canonical apex (see worker.ts LEGACY_HOSTS). */
 export const LEGACY_HOSTS = [
+	'dota2cheat.org',
+	'www.dota2cheat.org',
 	'dota2hacks.org',
 	'www.dota2hacks.org',
 	'dota2cheats.org',
