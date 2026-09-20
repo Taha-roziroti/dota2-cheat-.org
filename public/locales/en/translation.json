@@ -135,7 +135,21 @@
   "footer": {
     "explore": "Explore",
     "help": "Help & legal",
-    "tagline": "Dota 2 cheats for PC.\nESP, maphack, radar & skillshot assist."
+    "tagline": "Dota 2 cheats for PC.\nESP, maphack, radar & skillshot assist.",
+    "linkCheatsGuide": "Cheats guide",
+    "linkEspPage": "ESP wallhack",
+    "linkAimbotPage": "Aimbot assist",
+    "linkFeatureList": "Full feature list",
+    "linkPricingPlans": "Pricing & plans",
+    "linkFaqHub": "FAQ answers",
+    "linkForums": "Community forums",
+    "linkSetupGuide": "Install guide",
+    "linkPatchStatus": "Patch status",
+    "linkBuyerReviews": "Customer reviews",
+    "linkSupportDesk": "Support desk",
+    "linkRefundPolicy": "Refund policy",
+    "linkPrivacyPolicy": "Privacy policy",
+    "linkTermsOfUse": "Terms of use"
   },
   "home": {
     "aboutTitle": "Premium dota 2 cheats for PC",
@@ -174,11 +188,14 @@
     "linkAimbot": "Aimbot",
     "linkRadar": "Radar",
     "linkLiveStatus": "Live status",
+    "linkReliableCheats": "Reliable cheats guide",
     "linkVAC": "VAC",
     "linkSetup": "Setup",
     "linkPlans": "Plans",
     "linkReviews": "Reviews",
+    "linkBuyerReviews": "Review hub",
     "linkFinalsCheats": "Dota 2 Cheats",
+    "linkFaqHub": "FAQ hub",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Setup thread",
@@ -189,6 +206,7 @@
     "faqLede": "Delivery, detection status, and what is included.",
     "allAnswers": "All answers",
     "openFullPage": "Open full page",
+    "readAnswer": "Read answer: {{question}}",
     "linkPatchStatus": "Patch status"
   },
   "deals": {

@@ -166,28 +166,9 @@ const closeMenuLabel = t('nav.closeMenu');
 
 	<div class="site-panel" id="site-nav-panel">
 		<div class="shell site-panel__inner">
-			<nav class="site-panel__nav" aria-label={t('nav.mobileAria')}>
-				{
-					navLinks.map((item) => (
-						<a href={item.href} class:list={[{ 'is-active': item.active }]} data-nav-close>
-							<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-								<path
-									d={icons[item.id]}
-									stroke="currentColor"
-									stroke-width="1.6"
-									stroke-linecap="round"
-									stroke-linejoin="round"
-								/>
-							</svg>
-							<span>{item.label}</span>
-						</a>
-					))
-				}
-			</nav>
+			<nav class="site-panel__nav" aria-label={t('nav.mobileAria')} data-nav-clone hidden></nav>
 			<div class="site-panel__foot">
-				<div class="site-panel__lang">
-					<LanguageSwitcher locale={locale} locales={localeMetas} hrefForLocale={hrefForLocale} />
-				</div>
+				<div class="site-panel__lang" data-lang-clone hidden></div>
 				<a href={siteConfig.checkoutUrl} class="site-panel__buy" rel="noopener noreferrer" data-nav-close>
 					<span data-edit="ctaBuy">{t('cta.buy')}</span>
 				</a>
