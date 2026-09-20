@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * One-time migration: Naraka Cheats → Dota 2 Cheats (dota2cheat.com).
+ * One-time migration: Naraka Cheats → Dota 2 Cheats (dota2cheat.org).
  * Run from project root: node scripts/adapt-dota2-site.mjs
  */
 import { readFile, writeFile, readdir, rename } from 'node:fs/promises';
@@ -29,13 +29,13 @@ const RENAME_PAGE_DIRS = [
 
 /** Ordered replacements — specific patterns first. */
 const REPLACEMENTS = [
-	['https://www.narakacheats.org', 'https://dota2cheat.com'],
-	['https://narakacheats.org', 'https://dota2cheat.com'],
-	['https://www.dota2hacks.org', 'https://dota2cheat.com'],
-	['https://dota2hacks.org', 'https://dota2cheat.com'],
-	['www.narakacheats.org', 'dota2cheat.com'],
-	['narakacheats.org', 'dota2cheat.com'],
-	['support@narakacheats.org', 'support@dota2cheat.com'],
+	['https://www.narakacheats.org', 'https://dota2cheat.org'],
+	['https://narakacheats.org', 'https://dota2cheat.org'],
+	['https://www.dota2hacks.org', 'https://dota2cheat.org'],
+	['https://dota2hacks.org', 'https://dota2cheat.org'],
+	['www.narakacheats.org', 'dota2cheat.org'],
+	['narakacheats.org', 'dota2cheat.org'],
+	['support@narakacheats.org', 'support@dota2cheat.org'],
 	['project-name=narakacheats', 'project-name=cheatsfordota2'],
 	['name = "naraka-cheats-org"', 'name = "cheats-for-dota2"'],
 	['"name": "naraka-cheats"', '"name": "cheats-for-dota2"'],
@@ -49,7 +49,7 @@ const REPLACEMENTS = [
 	['https://www.reddit.com/r/NARAKA/', 'https://www.reddit.com/r/Dota 2/'],
 	['https://x.com/narakacheats', 'https://x.com/DOTA2'],
 	['@narakacheats', '@DOTA2'],
-	['https://dota2cheat.com/go/QRH?to=%2Fproducts%2Fnaraka-bladepoint-novaxware', 'https://dota2cheat.com/store'],
+	['https://dota2cheat.org/go/QRH?to=%2Fproducts%2Fnaraka-bladepoint-novaxware', 'https://dota2cheat.org/store'],
 	['/products/naraka-bladepoint-novaxware', '/products/dota2'],
 	['/products/naraka', '/products/dota2'],
 	['reliable-naraka-cheats', 'reliable-dota2-cheats'],
@@ -216,7 +216,7 @@ const REPLACEMENTS = [
 	['Zadeyo checkout', 'secure checkout'],
 	[' checkout', 'secure checkout'],
 	['Zadeyo', 'checkout'],
-	['narakacheats.net', 'dota2cheat.com'],
+	['narakacheats.net', 'dota2cheat.org'],
 ];
 
 const TEXT_EXTENSIONS = new Set([
@@ -380,7 +380,7 @@ async function renameImages() {
 }
 
 async function main() {
-	console.log('Adapting Naraka Cheats → Dota 2 Cheats (dota2cheat.com)...\n');
+	console.log('Adapting Naraka Cheats → Dota 2 Cheats (dota2cheat.org)...\n');
 	await renamePageDirs();
 	await renameNarakaTs();
 	await renameScripts();

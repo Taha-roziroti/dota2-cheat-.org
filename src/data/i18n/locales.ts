@@ -96,7 +96,7 @@ export const blogUi: Record<
 	en: {
 		blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 		blogDescription:
-			'Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.',
+			'Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.org/forums/.',
 		blogH1: 'Community Forums',
 		blogIntro:
 			'Setup guides, feature breakdowns, and patch-day threads from players running dota 2 cheats on PC. Read before you buy — then compare ESP, maphack, and skillshot assist on our product pages.',

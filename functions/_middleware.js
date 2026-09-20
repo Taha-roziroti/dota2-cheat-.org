@@ -1,11 +1,13 @@
 import CANNIBAL_REDIRECTS from './cannibal-redirects.json';
 
-const CANONICAL_ORIGIN = 'https://dota2cheat.com';
-const CANONICAL_HOST = 'dota2cheat.com';
-const WWW_HOST = 'www.dota2cheat.com';
+const CANONICAL_ORIGIN = 'https://dota2cheat.org';
+const CANONICAL_HOST = 'dota2cheat.org';
+const WWW_HOST = 'www.dota2cheat.org';
 
 /** Legacy domains → canonical apex (301). Must NOT include CANONICAL_HOST. */
 const LEGACY_HOSTS = new Set([
+	'dota2cheat.com',
+	'www.dota2cheat.com',
 	'dota2hacks.org',
 	'www.dota2hacks.org',
 	'dota2cheats.org',
@@ -189,8 +191,8 @@ const SITEMAP_PATH = /^\/sitemap(?:-[a-z0-9-]+)?\.xml$/;
 const LEGACY_ORIGIN_REPLACEMENTS = [
 	['https://dota2cheat.com', CANONICAL_ORIGIN],
 	['http://dota2cheat.com', CANONICAL_ORIGIN],
-	['https://dota2cheat.com', CANONICAL_ORIGIN],
-	['http://dota2cheat.com', CANONICAL_ORIGIN],
+	['https://www.dota2cheat.com', CANONICAL_ORIGIN],
+	['http://www.dota2cheat.com', CANONICAL_ORIGIN],
 	['https://www.thefinalscheats.org', CANONICAL_ORIGIN],
 	['http://www.thefinalscheats.org', CANONICAL_ORIGIN],
 	['https://thefinalscheats.org', CANONICAL_ORIGIN],

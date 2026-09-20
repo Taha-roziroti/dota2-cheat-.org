@@ -179,7 +179,7 @@ export const homeFaqs: readonly FaqItem[] = [
 		slug: 'how-to-install-dota2-cheats',
 		seoTitle: 'How to Install {game} Hacks on Windows PC | FAQ',
 		seoDescription:
-			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at dota2cheat.com.',
+			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at dota2cheat.org.',
 	}),
 ] as const;
 
@@ -201,7 +201,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'does-dota2-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
 		seoDescription:
-			'Yes — {brand} includes 2D radar overlays for off-screen threats. Compare ESP, skillshot assist, and radar in one license at dota2cheat.com.',
+			'Yes — {brand} includes 2D radar overlays for off-screen threats. Compare ESP, skillshot assist, and radar in one license at dota2cheat.org.',
 	}),
 	faq({
 		question: 'How does {antiCheat} affect {primaryKeyword}?',
@@ -264,7 +264,7 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'dota2-cheats-windows-11',
 		seoTitle: 'Do {game} Hacks Work on Windows 11? | FAQ',
 		seoDescription:
-			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at dota2cheat.com before you buy.',
+			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at dota2cheat.org before you buy.',
 	}),
 	faq({
 		question: 'What is {game} skillshot assist?',

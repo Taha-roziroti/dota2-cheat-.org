@@ -42,5 +42,5 @@ console.log('HOME primaryImageOfPage', schemaImg?.[1]);
 console.log('HOME Product.image', productImg?.[1]);
 
 const sm = readFileSync(path.join(dist, 'sitemap-en.xml'), 'utf8');
-const homeBlock = sm.split('<url>').find((b) => b.includes(`${process.env.SITE || 'https://dota2cheat.com'}/</loc>`) || b.includes('dota2cheat.com/</loc>'));
+const homeBlock = sm.split('<url>').find((b) => b.includes(`${process.env.SITE || 'https://dota2cheat.org'}/</loc>`) || b.includes('dota2cheat.org/</loc>'));
 console.log('\nSITEMAP HOME BLOCK:\n', homeBlock?.slice(0, 600));

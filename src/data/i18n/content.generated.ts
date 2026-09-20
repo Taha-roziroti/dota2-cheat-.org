@@ -144,7 +144,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"dota2-esp": {
 					title: "Dota 2 ESP | Wallhack & Player Boxes",
-					description: "Dota 2 ESP wallhack — player boxes, hero markers & distance for ranked and casual matches on PC. Bundled with aimbot & radar at dota2cheat.com.",
+					description: "Dota 2 ESP wallhack — player boxes, hero markers & distance for ranked and casual matches on PC. Bundled with aimbot & radar at dota2cheat.org.",
 					h1: "Dota 2 ESP — Player Boxes & Wallhack",
 					intro: "See players and wards and runes through walls during Dota 2 matches. Part of the same Dota 2 Cheats license.",
 					imageAlt: "Dota 2 ESP player boxes and distance readouts in a match",
@@ -194,7 +194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"dota2-aimbot": {
 					title: "Dota 2 Aimbot | Skillshot assist & FOV Settings",
-					description: "Dota 2 aimbot with Skillshot assist, FOV & bone priority for ranked team fights on PC. package with ESP & radar at dota2cheat.com.",
+					description: "Dota 2 aimbot with Skillshot assist, FOV & bone priority for ranked team fights on PC. package with ESP & radar at dota2cheat.org.",
 					h1: "Dota 2 Aimbot — Skillshot assist for Windows PC",
 					intro: "Skillshot assist and aim assist you can tune for Dota 2. Included in the same Dota 2 Cheats license.",
 					imageAlt: "Dota 2 Aimbot and Skillshot assist controls on Windows PC",
@@ -244,7 +244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Dota 2 Cheats Features | ESP, Aimbot & Wallhack",
-					description: "Full dota 2 cheats feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for ranked matches on PC. See every control at dota2cheat.com.",
+					description: "Full dota 2 cheats feature list — ESP wallhack, aimbot, triggerbot, radar and streamproof toggles for ranked matches on PC. See every control at dota2cheat.org.",
 					h1: "Dota 2 Cheats Features — Full Control List",
 					intro: "Everything included in one license for Dota 2 on Windows PC — aimbot, ESP, wallhack, radar, and streamproof options.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -392,7 +392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Dota 2 Cheats Setup | Windows PC Install Guide",
-					description: "Install Dota 2 Cheats on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at dota2cheat.com. Check VAC status first.",
+					description: "Install Dota 2 Cheats on PC — activate ESP, Skillshot assist & radar step by step. Setup guide at dota2cheat.org. Check VAC status first.",
 					h1: "Setup",
 					intro: "Install and activate your license on Windows 10 or 11 before your first match.",
 					imageAlt: "Dota 2 Cheats setup guide screenshot for Windows PC",
@@ -429,7 +429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "If something fails",
 							paragraphs: [
-								"Check Status after a patch. Email support@dota2cheat.com with your order ID.",
+								"Check Status after a patch. Email support@dota2cheat.org with your order ID.",
 								"Include your Windows version and what you already tried for faster replies.",
 							],
 							list: [
@@ -443,7 +443,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Dota 2 Status | VAC Updates | Dota 2 Cheats",
-					description: "Live status after Dota 2 & VAC patches. Check ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.com.",
+					description: "Live status after Dota 2 & VAC patches. Check ESP, aimbot & radar rebuilds on PC before you queue. dota2cheat.org.",
 					h1: "Status",
 					intro: "Check maintenance notes before you load in after a Dota 2 or VAC patch.",
 					imageAlt: "Dota 2 Cheats live status after VAC and game patches",
@@ -492,7 +492,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "Dota 2 Cheats FAQ | ESP, Aimbot & VAC",
-					description: "FAQ for Dota 2 cheats — delivery, setup, ranked and casual matches use, VAC updates & pricing on PC. Answers at dota2cheat.com before you buy.",
+					description: "FAQ for Dota 2 cheats — delivery, setup, ranked and casual matches use, VAC updates & pricing on PC. Answers at dota2cheat.org before you buy.",
 					h1: "Dota 2 Cheats FAQ — Common Questions",
 					intro: "Common questions about Dota 2 Cheats — delivery, setup, updates, and refunds.",
 					imageAlt: "Dota 2 Cheats FAQ — delivery, setup, and update answers",
@@ -540,7 +540,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Dota 2 Cheats Support | License & Setup Help",
-					description: "Support for license delivery, ESP setup & billing on PC. Email support@dota2cheat.com with your order ID. dota2cheat.com/support.",
+					description: "Support for license delivery, ESP setup & billing on PC. Email support@dota2cheat.org with your order ID. dota2cheat.org/support.",
 					h1: "Support",
 					intro: "Get help with licenses, setup, and billing for Dota 2 Cheats on Windows PC.",
 					imageAlt: "Dota 2 Cheats support page for license and setup help",
@@ -552,7 +552,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to contact us",
 							paragraphs: [
-								"Email support@dota2cheat.com. Include your order ID and a short note about the issue.",
+								"Email support@dota2cheat.org. Include your order ID and a short note about the issue.",
 								"We review support requests daily for delivery, billing, and setup issues.",
 							],
 							list: [
@@ -578,7 +578,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "dota 2 cheats 2026 | VAC Safe",
-					description: "dota 2 cheats with VAC maintenance for ESP, skillshot assist and radar on PC. Public status, rebuild workflow — from $35 at dota2cheat.com. Windows PC license",
+					description: "dota 2 cheats with VAC maintenance for ESP, skillshot assist and radar on PC. Public status, rebuild workflow — from $35 at dota2cheat.org. Windows PC license",
 					h1: "dota 2 cheats — VAC Maintenance",
 					intro: "How Dota 2 Cheats stays maintained for Dota 2 after VAC patches — ESP wallhack, radar hack, and aimbot rebuilds for Windows PC.",
 					imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
@@ -624,7 +624,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Dota 2 Wallhack | ESP Boxes & wards and runes Markers",
-					description: "Dota 2 wallhack ESP with player boxes, hero markers & skeleton overlays on PC. dota 2 cheats with VAC rebuilds. dota2cheat.com. Windows PC license with VAC",
+					description: "Dota 2 wallhack ESP with player boxes, hero markers & skeleton overlays on PC. dota 2 cheats with VAC rebuilds. dota2cheat.org. Windows PC license with VAC",
 					h1: "Dota 2 Wallhack — ESP Boxes & Visibility",
 					intro: "Dota 2 wallhack ESP for Dota 2 — see players, wards and runes, enemy players, and resource nodes through toggleable wallhack overlays built for ranked and casual matches.",
 					imageAlt: "dota 2 wallhack visibility through walls in a match",
@@ -662,7 +662,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Dota 2 Radar Hack | 2D Threat Map",
-					description: "2D radar hack for flank reads in Dota 2 ranked and casual matches on PC. Bundled with ESP wallhack & Skillshot assist in one license at dota2cheat.com.",
+					description: "2D radar hack for flank reads in Dota 2 ranked and casual matches on PC. Bundled with ESP wallhack & Skillshot assist in one license at dota2cheat.org.",
 					h1: "Dota 2 Radar Hack — 2D Threat Awareness",
 					intro: "A simple 2D radar for threats outside your view. Included in the same Dota 2 Cheats license.",
 					imageAlt: "Dota 2 2D radar overlay showing nearby threats",
@@ -700,7 +700,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "Dota 2 VAC Bypass Guide 2026 | Dota 2 Cheats",
-					description: "Dota 2 vac bypass explained — how ESP, aimbot & radar rebuild after VAC patches on PC. HWID risk, maintenance workflow & status at dota2cheat.com.",
+					description: "Dota 2 vac bypass explained — how ESP, aimbot & radar rebuild after VAC patches on PC. HWID risk, maintenance workflow & status at dota2cheat.org.",
 					h1: "VAC Bypass — Dota 2 Cheats Maintenance",
 					intro: "Understand VAC maintenance for Dota 2 Cheats — how ESP wallhack, radar hack, and Aimbot rebuild after Dota 2 security updates.",
 					imageAlt: "Dota 2 Cheats maintenance after a VAC patch",
@@ -754,7 +754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Dota 2 Cheats 2026 | PC Hacks",
-					description: "Best Dota 2 cheats 2026 — ESP, Skillshot assist & 2D radar on PC. VAC maintenance & instant delivery at dota2cheat.com. Windows PC license with VAC maintenance",
+					description: "Best Dota 2 cheats 2026 — ESP, Skillshot assist & 2D radar on PC. VAC maintenance & instant delivery at dota2cheat.org. Windows PC license with VAC maintenance",
 					h1: "Dota 2 Cheats 2026 — ESP, Skillshot assist & Radar",
 					intro: "The 2026 Dota 2 Cheats package for Dota 2 — ESP wallhack, radar hack, and Aimbot with VAC maintenance, instant delivery, and Windows PC support.",
 					imageAlt: "Dota 2 Cheats product overview for Dota 2",
@@ -784,7 +784,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/cheats/\">dota 2 cheats</a> pillar, Features, Pricing, Setup, and Updates pages. Check patch status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/cheats/\">dota 2 cheats</a> checklist, <a href=\"/forums/dota2-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@dota2cheat.com via the <a href=\"/support/\">Support page</a>.",
+								"Support is available at support@dota2cheat.org via the <a href=\"/support/\">Support page</a>.",
 							],
 						},
 						{
@@ -800,7 +800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "Dota 2 Cheats Guide | ESP, Aimbot & Radar",
-					description: "Dota 2 cheats guide — ESP wallhack, Skillshot assist, radar & VAC rebuilds for ranked and casual matches on PC. Buy from $35 at dota2cheat.com.",
+					description: "Dota 2 cheats guide — ESP wallhack, Skillshot assist, radar & VAC rebuilds for ranked and casual matches on PC. Buy from $35 at dota2cheat.org.",
 					h1: "Dota 2 Cheats — Full Guide",
 					intro: "Dota 2 cheats add ESP, radar, and Skillshot assist on top of the base game. This page explains what dota 2 cheats are, what Dota 2 Cheats includes, how VAC maintenance works, and where to go next before you buy.",
 					imageAlt: "Dota 2 Cheats overview — ESP, aimbot, and radar for Dota 2",
@@ -873,7 +873,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Dota 2 Cheat Download | Instant Access | Dota 2 Cheats",
-					description: "Dota 2 cheats download with instant license delivery — ESP, Skillshot assist & radar on PC. & activation at dota2cheat.com from $35. Windows PC license with",
+					description: "Dota 2 cheats download with instant license delivery — ESP, Skillshot assist & radar on PC. & activation at dota2cheat.org from $35. Windows PC license with",
 					h1: "Dota 2 Hack Download — Instant License Delivery",
 					intro: "How dota 2 cheat download works for Dota 2 — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.",
 					imageAlt: "Dota 2 Cheats download and install delivery flow",
@@ -911,7 +911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Dota 2 Mod Menu | In-Match Toggles | Dota 2 Cheats",
-					description: "Dota 2 mod menu for in-match ESP, Skillshot assist & radar toggles on PC. Hotkeys & VAC maintenance included. Get access at dota2cheat.com. Windows PC license",
+					description: "Dota 2 mod menu for in-match ESP, Skillshot assist & radar toggles on PC. Hotkeys & VAC maintenance included. Get access at dota2cheat.org. Windows PC license",
 					h1: "Dota 2 Mod Menu — In-Client Control Panel",
 					intro: "Dota 2 mod menu controls for Dota 2 — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Dota 2 match on Windows PC.",
 					imageAlt: "Dota 2 Cheats in-game menu controls",
@@ -949,7 +949,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Dota 2 Skillshot assist | Aimbot Settings | Dota 2 Cheats",
-					description: "Skillshot assist settings for natural tracking on PC — smoothness, FOV & bone priority. Included in dota 2 cheats at dota2cheat.com. Windows PC license with",
+					description: "Skillshot assist settings for natural tracking on PC — smoothness, FOV & bone priority. Included in dota 2 cheats at dota2cheat.org. Windows PC license with",
 					h1: "Dota 2 Skillshot assist — Smooth Aimbot Controls",
 					intro: "Dota 2 Skillshot assist settings for Dota 2 — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one license.",
 					imageAlt: "Dota 2 Skillshot assist FOV and smoothness settings",
@@ -987,7 +987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Dota 2 Cheats 2026 | Compare & Buy | Dota 2 Cheats",
-					description: "Best Dota 2 cheats for 2026 — ESP, Skillshot assist & VAC maintenance on PC. Buyer checklist before checkout at dota2cheat.com. Windows PC license with VAC",
+					description: "Best Dota 2 cheats for 2026 — ESP, Skillshot assist & VAC maintenance on PC. Buyer checklist before checkout at dota2cheat.org. Windows PC license with VAC",
 					h1: "Best Dota 2 Cheats — 2026 Buyer Guide",
 					intro: "Compare dota 2 cheats for Dota 2 in 2026 — ESP wallhack, radar hack, and Aimbot in one maintained package with VAC rebuilds and instant delivery.",
 					imageAlt: "Dota 2 Cheats overview for Dota 2 on PC",
@@ -1033,7 +1033,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Dota 2 Aimbot Hack | Skillshot assist | Dota 2 Cheats",
-					description: "Dota 2 aimbot hack with Skillshot assist, FOV & bone priority on PC. ESP wallhack & radar bundled. with VAC updates at dota2cheat.com. Windows PC license with",
+					description: "Dota 2 aimbot hack with Skillshot assist, FOV & bone priority on PC. ESP wallhack & radar bundled. with VAC updates at dota2cheat.org. Windows PC license with",
 					h1: "Dota 2 Aimbot Hack — Skillshot assist",
 					intro: "Dota 2 Aimbot hack tools for Dota 2 — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one license.",
 					imageAlt: "Dota 2 Aimbot hack controls and bone priority",
@@ -1071,7 +1071,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Dota 2 ESP Hack | Wallhack Boxes | Dota 2 Cheats",
-					description: "Dota 2 ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at dota2cheat.com from $35. Windows PC license",
+					description: "Dota 2 ESP hack with player boxes & hero markers on PC. Wallhack, radar & aimbot included in one license. Buy at dota2cheat.org from $35. Windows PC license",
 					h1: "Dota 2 ESP Hack — Player Boxes Guide",
 					intro: "Dota 2 ESP hack overlays for Dota 2 — player outlines, threat cues, hero ability markers with distance readouts across ranked and casual matches.",
 					imageAlt: "Dota 2 ESP hack boxes and hero markers",
@@ -1109,7 +1109,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Dota 2 Unlock All | What It Really Means",
-					description: "Unlock-all vs real Dota 2 cheats — ESP wallhack, Skillshot assist & radar on PC. What Dota 2 Cheats offers before you buy at dota2cheat.com.",
+					description: "Unlock-all vs real Dota 2 cheats — ESP wallhack, Skillshot assist & radar on PC. What Dota 2 Cheats offers before you buy at dota2cheat.org.",
 					h1: "Dota 2 Unlock All — What Players Search For",
 					intro: "Dota 2 unlock-all is a common search term for Dota 2 — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools Dota 2 Cheats actually provides on Windows PC.",
 					imageAlt: "Dota 2 Cheats license features overview",
@@ -1147,9 +1147,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | Dota 2 Cheats",
-					description: "Privacy policy for Dota 2 Cheats at dota2cheat.com. How we handle support emails, order data & checkout for dota 2 cheats licenses on PC. Windows PC license",
+					description: "Privacy policy for Dota 2 Cheats at dota2cheat.org. How we handle support emails, order data & checkout for dota 2 cheats licenses on PC. Windows PC license",
 					h1: "Privacy Policy",
-					intro: "How Dota 2 Cheats handles information when you browse dota2cheat.com or contact support about a Dota 2 license.",
+					intro: "How Dota 2 Cheats handles information when you browse dota2cheat.org or contact support about a Dota 2 license.",
 					imageAlt: "Dota 2 Cheats privacy policy page",
 					galleryTitle: "Dota 2 Cheats legal resources",
 					ctaPrimary: "Email support",
@@ -1178,8 +1178,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your choices and contact",
 							paragraphs: [
-								"You may request correction or deletion of support email data by contacting support@dota2cheat.com with your request details.",
-								"Policy updates publish on this page. Continued use of dota2cheat.com after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
+								"You may request correction or deletion of support email data by contacting support@dota2cheat.org with your request details.",
+								"Policy updates publish on this page. Continued use of dota2cheat.org after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
 							],
 						},
 						{
@@ -1193,14 +1193,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Data retention and international transfers",
 							paragraphs: [
 								"Support emails are retained only as long as needed to resolve your request or meet legal obligations, then deleted or anonymized.",
-								"Checkout data is processed by our payment provider. dota2cheat.com does not store full card numbers. International visitors are covered by the same policy.",
+								"Checkout data is processed by our payment provider. dota2cheat.org does not store full card numbers. International visitors are covered by the same policy.",
 							],
 						},
 						{
 							h2: "Children and California / EU rights",
 							paragraphs: [
 								"Dota 2 Cheats is not directed at children under 13. We do not knowingly collect data from minors.",
-								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@dota2cheat.com.",
+								"EU/UK users may request access, correction, or deletion under GDPR. California residents may exercise CCPA rights by emailing support@dota2cheat.org.",
 							],
 						},
 					],
@@ -1208,7 +1208,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Refund Policy | Dota 2 Cheats",
-					description: "Refund policy for Dota 2 Cheats at dota2cheat.com. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses. Windows PC license",
+					description: "Refund policy for Dota 2 Cheats at dota2cheat.org. Eligibility, delivery terms & how to request a refund for ESP, aimbot & radar licenses. Windows PC license",
 					h1: "Refund Policy",
 					intro: "Refund terms for Dota 2 Cheats licenses — ESP wallhack, radar hack, and Aimbot packages purchased through checkout for Dota 2.",
 					imageAlt: "Dota 2 Cheats refund policy page",
@@ -1234,7 +1234,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request a refund",
 							paragraphs: [
-								"Email support@dota2cheat.com with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
+								"Email support@dota2cheat.org with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
 								"Approved refunds process back to the original payment method when possible. Pricing details live on <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
@@ -1257,9 +1257,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Terms of Use | Dota 2 Cheats",
-					description: "Terms of use for dota2cheat.com & Dota 2 Cheats licenses. Usage rules, VAC risk disclaimer & liability for PC dota 2 cheats. Windows PC license with VAC",
+					description: "Terms of use for dota2cheat.org & Dota 2 Cheats licenses. Usage rules, VAC risk disclaimer & liability for PC dota 2 cheats. Windows PC license with VAC",
 					h1: "Terms of Use",
-					intro: "Terms governing use of dota2cheat.com and Dota 2 Cheats licenses for Dota 2 on Windows PC.",
+					intro: "Terms governing use of dota2cheat.org and Dota 2 Cheats licenses for Dota 2 on Windows PC.",
 					imageAlt: "Dota 2 Cheats terms of use page",
 					galleryTitle: "Dota 2 Cheats legal pages",
 					ctaPrimary: "Email support",
@@ -1284,7 +1284,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Changes and governing law",
 							paragraphs: [
 								"We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.",
-								"Contact support@dota2cheat.com for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
+								"Contact support@dota2cheat.org for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
 							],
 						},
 						{
@@ -1298,7 +1298,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Limitation of liability and disputes",
 							paragraphs: [
 								"Dota 2 Cheats is provided \"as is.\" Our total liability is limited to the amount you paid for the license in the prior 30 days.",
-								"Disputes should first be emailed to support@dota2cheat.com. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
+								"Disputes should first be emailed to support@dota2cheat.org. Governing law follows the jurisdiction of our payment processor unless local law requires otherwise.",
 							],
 						},
 					],
@@ -1509,7 +1509,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funciones 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funciones: ESP, Skillshot assist, controles de radar. entrega digital instantánea. . Compare plans and guides at dota2cheat.com.",
+					description: "Funciones: ESP, Skillshot assist, controles de radar. entrega digital instantánea. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funciones — Lista completa de funciones",
 					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Funciones für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -1693,7 +1693,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si algo falla",
 							paragraphs: [
-								"Revisa Estado tras un parche. Email a support@dota2cheat.com con tu ID de pedido.",
+								"Revisa Estado tras un parche. Email a support@dota2cheat.org con tu ID de pedido.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
 							],
 							list: [
@@ -1816,7 +1816,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo contactarnos",
 							paragraphs: [
-								"Email a support@dota2cheat.com. Incluye tu ID de pedido y una nota breve sobre el problema.",
+								"Email a support@dota2cheat.org. Incluye tu ID de pedido y una nota breve sobre el problema.",
 								"Licencias con entrega digital instantánea vía secure checkout. Planes $35/mes y $150 de por vida incluyen mantenimiento VAC.",
 							],
 							list: [
@@ -2411,9 +2411,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidad | Dota 2 Cheats",
-					description: "Política de privacidad para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Política de privacidad para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Política de privacidad",
-					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Política de privacidad para dota2cheat.com y licencias de Dota 2.",
+					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Política de privacidad para dota2cheat.org y licencias de Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -2425,7 +2425,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Información que recopilamos",
 							paragraphs: [
 								"Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Correo de contacto, referencias de pedido checkout y datos básicos de seguridad del sitio.",
-								"Los datos de pago se procesan en el checkout de checkout — no se almacenan en dota2cheat.com.",
+								"Los datos de pago se procesan en el checkout de checkout — no se almacenan en dota2cheat.org.",
 							],
 						},
 						{
@@ -2438,17 +2438,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Tus derechos",
 							paragraphs: [
-								"Contacta support@dota2cheat.com para solicitudes legales o de soporte.",
-								"Correo: support@dota2cheat.com",
+								"Contacta support@dota2cheat.org para solicitudes legales o de soporte.",
+								"Correo: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | Dota 2 Cheats",
-					description: "Política de reembolso para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Política de reembolso para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Política de reembolso",
-					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Política de reembolso para dota2cheat.com y licencias de Dota 2.",
+					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Política de reembolso para dota2cheat.org y licencias de Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -2473,17 +2473,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo solicitar",
 							paragraphs: [
-								"Contacta support@dota2cheat.com para solicitudes legales o de soporte.",
-								"Correo: support@dota2cheat.com",
+								"Contacta support@dota2cheat.org para solicitudes legales o de soporte.",
+								"Correo: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Términos de uso | Dota 2 Cheats",
-					description: "Términos de uso para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Términos de uso para Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Términos de uso",
-					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Términos de uso para dota2cheat.com y licencias de Dota 2.",
+					intro: "Dota 2 Cheats ofrece ESP wallhack, radar hack y Dota 2 Aimbot para Dota 2 en Windows PC. Términos de uso para dota2cheat.org y licencias de Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -2508,8 +2508,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cambios de política",
 							paragraphs: [
-								"Contacta support@dota2cheat.com para solicitudes legales o de soporte.",
-								"Correo: support@dota2cheat.com",
+								"Contacta support@dota2cheat.org para solicitudes legales o de soporte.",
+								"Correo: support@dota2cheat.org",
 							],
 						},
 					],
@@ -2719,7 +2719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fonctions 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Fonctions: ESP, Skillshot assist, contrôles radar. livraison numérique instantanée. . Compare plans and guides at dota2cheat.com.",
+					description: "Fonctions: ESP, Skillshot assist, contrôles radar. livraison numérique instantanée. . Compare plans and guides at dota2cheat.org.",
 					h1: "Fonctions — Liste complète des fonctions",
 					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Fonctions für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -2903,7 +2903,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Si quelque chose échoue",
 							paragraphs: [
-								"Consultez Statut après un patch. Email support@dota2cheat.com avec votre ID commande.",
+								"Consultez Statut après un patch. Email support@dota2cheat.org avec votre ID commande.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
 							],
 							list: [
@@ -3026,7 +3026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment nous contacter",
 							paragraphs: [
-								"Email support@dota2cheat.com. Incluez votre ID commande et une brève note.",
+								"Email support@dota2cheat.org. Incluez votre ID commande et une brève note.",
 								"Licences avec livraison numérique instantanée via secure checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance VAC.",
 							],
 							list: [
@@ -3621,9 +3621,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politique de confidentialité | Dota 2 Cheats",
-					description: "Politique de confidentialité pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Politique de confidentialité pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Politique de confidentialité",
-					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Politique de confidentialité pour dota2cheat.com et les licences Dota 2.",
+					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Politique de confidentialité pour dota2cheat.org et les licences Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -3635,7 +3635,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informations collectées",
 							paragraphs: [
 								"Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. E-mail de contact, références de commande checkout et données de sécurité de base du site.",
-								"Les détails de paiement sont traités par le secure checkout — non stockés sur dota2cheat.com.",
+								"Les détails de paiement sont traités par le secure checkout — non stockés sur dota2cheat.org.",
 							],
 						},
 						{
@@ -3648,17 +3648,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vos droits",
 							paragraphs: [
-								"Contactez support@dota2cheat.com pour le support ou les demandes légales.",
-								"E-mail : support@dota2cheat.com",
+								"Contactez support@dota2cheat.org pour le support ou les demandes légales.",
+								"E-mail : support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politique de remboursement | Dota 2 Cheats",
-					description: "Politique de remboursement pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Politique de remboursement pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Politique de remboursement",
-					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Politique de remboursement pour dota2cheat.com et les licences Dota 2.",
+					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Politique de remboursement pour dota2cheat.org et les licences Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -3683,17 +3683,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment demander",
 							paragraphs: [
-								"Contactez support@dota2cheat.com pour le support ou les demandes légales.",
-								"E-mail : support@dota2cheat.com",
+								"Contactez support@dota2cheat.org pour le support ou les demandes légales.",
+								"E-mail : support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Conditions d'utilisation | Dota 2 Cheats",
-					description: "Conditions d'utilisation pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Conditions d'utilisation pour Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Conditions d'utilisation",
-					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Conditions d'utilisation pour dota2cheat.com et les licences Dota 2.",
+					intro: "Dota 2 Cheats combine ESP wallhack, radar hack et Dota 2 Aimbot pour Dota 2 sur PC Windows. Conditions d'utilisation pour dota2cheat.org et les licences Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -3718,8 +3718,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifications",
 							paragraphs: [
-								"Contactez support@dota2cheat.com pour le support ou les demandes légales.",
-								"E-mail : support@dota2cheat.com",
+								"Contactez support@dota2cheat.org pour le support ou les demandes légales.",
+								"E-mail : support@dota2cheat.org",
 							],
 						},
 					],
@@ -3801,7 +3801,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "dota 2 cheats für Dota 2 auf PC. ESP Wallhack, Radar Hack und Aimbot mit VAC-Wartung. Sofortige digitale Lieferung. Compare plans and guides at dota2cheat.com.",
+					description: "dota 2 cheats für Dota 2 auf PC. ESP Wallhack, Radar Hack und Aimbot mit VAC-Wartung. Sofortige digitale Lieferung. Compare plans and guides at dota2cheat.org.",
 					h1: "dota 2 cheats für Dota 2",
 					intro: "Windows PC Paket für Dota 2: ESP Wallhack, Radar und Aimbot mit VAC-Wartung nach jedem Patch.",
 					imageAlt: "Dota 2 ESP — Spieler-Tags Hack",
@@ -3929,7 +3929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Features 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Features: ESP, Skillshot assist, Radar-Steuerung. sofortige digitale Lieferung. . Compare plans and guides at dota2cheat.com.",
+					description: "Features: ESP, Skillshot assist, Radar-Steuerung. sofortige digitale Lieferung. . Compare plans and guides at dota2cheat.org.",
 					h1: "Features — Vollständige Feature-Liste",
 					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Features für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -4113,7 +4113,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Wenn etwas schiefgeht",
 							paragraphs: [
-								"Status nach Patch prüfen. E-Mail an support@dota2cheat.com mit Bestell-ID.",
+								"Status nach Patch prüfen. E-Mail an support@dota2cheat.org mit Bestell-ID.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
 							],
 							list: [
@@ -4236,7 +4236,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So erreichst du uns",
 							paragraphs: [
-								"E-Mail an support@dota2cheat.com. Bestell-ID und kurze Problembeschreibung angeben.",
+								"E-Mail an support@dota2cheat.org. Bestell-ID und kurze Problembeschreibung angeben.",
 								"Lizenzen mit sofortige digitale Lieferung über secure checkout. $35/Monat und $150 Lifetime inkl. VAC-Wartung.",
 							],
 							list: [
@@ -4831,9 +4831,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Datenschutz | Dota 2 Cheats",
-					description: "Datenschutz für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Datenschutz für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Datenschutz",
-					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Datenschutz für dota2cheat.com und Dota 2-Lizenzen.",
+					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Datenschutz für dota2cheat.org und Dota 2-Lizenzen.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -4845,7 +4845,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Erhobene Daten",
 							paragraphs: [
 								"Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Kontakt-E-Mail, checkout-Bestellreferenzen und grundlegende Sicherheitsdaten der Website.",
-								"Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf dota2cheat.com gespeichert.",
+								"Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf dota2cheat.org gespeichert.",
 							],
 						},
 						{
@@ -4858,17 +4858,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ihre Rechte",
 							paragraphs: [
-								"support@dota2cheat.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@dota2cheat.com",
+								"support@dota2cheat.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Rückerstattung | Dota 2 Cheats",
-					description: "Rückerstattung für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Rückerstattung für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Rückerstattung",
-					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Rückerstattung für dota2cheat.com und Dota 2-Lizenzen.",
+					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Rückerstattung für dota2cheat.org und Dota 2-Lizenzen.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -4893,17 +4893,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "So beantragen",
 							paragraphs: [
-								"support@dota2cheat.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@dota2cheat.com",
+								"support@dota2cheat.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Nutzungsbedingungen | Dota 2 Cheats",
-					description: "Nutzungsbedingungen für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Nutzungsbedingungen für Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Nutzungsbedingungen",
-					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Nutzungsbedingungen für dota2cheat.com und Dota 2-Lizenzen.",
+					intro: "Dota 2 Cheats bündelt ESP wallhack, radar hack und Dota 2 Aimbot als Paket für Dota 2 auf Windows PC. Nutzungsbedingungen für dota2cheat.org und Dota 2-Lizenzen.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -4928,8 +4928,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Richtlinienänderungen",
 							paragraphs: [
-								"support@dota2cheat.com für Support und rechtliche Anfragen.",
-								"E-Mail: support@dota2cheat.com",
+								"support@dota2cheat.org für Support und rechtliche Anfragen.",
+								"E-Mail: support@dota2cheat.org",
 							],
 						},
 					],
@@ -5139,7 +5139,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Recursos 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Recursos: ESP, Skillshot assist, controles de radar. entrega digital instantânea. . Compare plans and guides at dota2cheat.com.",
+					description: "Recursos: ESP, Skillshot assist, controles de radar. entrega digital instantânea. . Compare plans and guides at dota2cheat.org.",
 					h1: "Recursos — Lista completa de recursos",
 					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Recursos für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -5323,7 +5323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se algo falhar",
 							paragraphs: [
-								"Verifique Status após patch. Email support@dota2cheat.com com ID do pedido.",
+								"Verifique Status após patch. Email support@dota2cheat.org com ID do pedido.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
 							],
 							list: [
@@ -5446,7 +5446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como nos contactar",
 							paragraphs: [
-								"Email support@dota2cheat.com. Inclua ID do pedido e nota breve sobre o problema.",
+								"Email support@dota2cheat.org. Inclua ID do pedido e nota breve sobre o problema.",
 								"Licenças com entrega digital instantânea via secure checkout. Planos $35/mês e $150 vitalício incluem manutenção VAC.",
 							],
 							list: [
@@ -6041,9 +6041,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Política de privacidade | Dota 2 Cheats",
-					description: "Política de privacidade para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Política de privacidade para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Política de privacidade",
-					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Política de privacidade para dota2cheat.com e licenças Dota 2.",
+					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Política de privacidade para dota2cheat.org e licenças Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -6055,7 +6055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informações que coletamos",
 							paragraphs: [
 								"Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. E-mail de contato, referências de pedido checkout e dados básicos de segurança do site.",
-								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em dota2cheat.com.",
+								"Detalhes de pagamento são processados pelo secure checkout — não armazenados em dota2cheat.org.",
 							],
 						},
 						{
@@ -6068,17 +6068,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Seus direitos",
 							paragraphs: [
-								"Contacte support@dota2cheat.com para suporte ou questões legais.",
-								"E-mail: support@dota2cheat.com",
+								"Contacte support@dota2cheat.org para suporte ou questões legais.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Política de reembolso | Dota 2 Cheats",
-					description: "Política de reembolso para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Política de reembolso para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Política de reembolso",
-					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Política de reembolso para dota2cheat.com e licenças Dota 2.",
+					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Política de reembolso para dota2cheat.org e licenças Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -6103,17 +6103,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Como solicitar",
 							paragraphs: [
-								"Contacte support@dota2cheat.com para suporte ou questões legais.",
-								"E-mail: support@dota2cheat.com",
+								"Contacte support@dota2cheat.org para suporte ou questões legais.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termos de uso | Dota 2 Cheats",
-					description: "Termos de uso para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Termos de uso para Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Termos de uso",
-					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Termos de uso para dota2cheat.com e licenças Dota 2.",
+					intro: "Dota 2 Cheats reúne ESP wallhack, radar hack e Dota 2 Aimbot para Dota 2 no PC Windows. Termos de uso para dota2cheat.org e licenças Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -6138,8 +6138,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Alterações de política",
 							paragraphs: [
-								"Contacte support@dota2cheat.com para suporte ou questões legais.",
-								"E-mail: support@dota2cheat.com",
+								"Contacte support@dota2cheat.org para suporte ou questões legais.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
@@ -6221,7 +6221,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheat Dota 2 per Dota 2 su PC. ESP wallhack, radar hack e Aimbot con manutenzione VAC. Consegna digitale istantanea. Compare plans and guides at dota2cheat.com.",
+					description: "Cheat Dota 2 per Dota 2 su PC. ESP wallhack, radar hack e Aimbot con manutenzione VAC. Consegna digitale istantanea. Compare plans and guides at dota2cheat.org.",
 					h1: "cheat per Dota 2",
 					intro: "Pacchetto per Dota 2 su PC Windows: ESP wallhack, radar e Aimbot con manutenzione VAC dopo ogni patch.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -6349,7 +6349,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funzioni 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funzioni: ESP, Skillshot assist, controlli radar. consegna digitale istantanea. . Compare plans and guides at dota2cheat.com.",
+					description: "Funzioni: ESP, Skillshot assist, controlli radar. consegna digitale istantanea. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funzioni — Elenco completo funzioni",
 					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Funzioni für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -6533,7 +6533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Se qualcosa non funziona",
 							paragraphs: [
-								"Controlla Stato dopo patch. Email support@dota2cheat.com con ID ordine.",
+								"Controlla Stato dopo patch. Email support@dota2cheat.org con ID ordine.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
 							],
 							list: [
@@ -6656,7 +6656,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come contattarci",
 							paragraphs: [
-								"Email support@dota2cheat.com. Includi ID ordine e breve nota sul problema.",
+								"Email support@dota2cheat.org. Includi ID ordine e breve nota sul problema.",
 								"Licenze con consegna digitale istantanea via secure checkout. Piani $35/mese e $150 a vita includono manutenzione VAC.",
 							],
 							list: [
@@ -7251,9 +7251,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Informativa privacy | Dota 2 Cheats",
-					description: "Informativa privacy per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Informativa privacy per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Informativa privacy",
-					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Informativa privacy per dota2cheat.com e licenze Dota 2.",
+					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Informativa privacy per dota2cheat.org e licenze Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -7265,7 +7265,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informazioni raccolte",
 							paragraphs: [
 								"Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Email di contatto, riferimenti ordine checkout e dati di sicurezza di base del sito.",
-								"I dati di pagamento sono elaborati dal secure checkout — non memorizzati su dota2cheat.com.",
+								"I dati di pagamento sono elaborati dal secure checkout — non memorizzati su dota2cheat.org.",
 							],
 						},
 						{
@@ -7278,17 +7278,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "I tuoi diritti",
 							paragraphs: [
-								"Contatta support@dota2cheat.com per supporto o richieste legali.",
-								"Email: support@dota2cheat.com",
+								"Contatta support@dota2cheat.org per supporto o richieste legali.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica di rimborso | Dota 2 Cheats",
-					description: "Politica di rimborso per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Politica di rimborso per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Politica di rimborso",
-					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Politica di rimborso per dota2cheat.com e licenze Dota 2.",
+					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Politica di rimborso per dota2cheat.org e licenze Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -7313,17 +7313,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Come richiedere",
 							paragraphs: [
-								"Contatta support@dota2cheat.com per supporto o richieste legali.",
-								"Email: support@dota2cheat.com",
+								"Contatta support@dota2cheat.org per supporto o richieste legali.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termini di utilizzo | Dota 2 Cheats",
-					description: "Termini di utilizzo per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Termini di utilizzo per Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Termini di utilizzo",
-					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Termini di utilizzo per dota2cheat.com e licenze Dota 2.",
+					intro: "Dota 2 Cheats unisce ESP wallhack, radar hack e Dota 2 Aimbot per Dota 2 su PC Windows. Termini di utilizzo per dota2cheat.org e licenze Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -7348,8 +7348,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifiche alla policy",
 							paragraphs: [
-								"Contatta support@dota2cheat.com per supporto o richieste legali.",
-								"Email: support@dota2cheat.com",
+								"Contatta support@dota2cheat.org per supporto o richieste legali.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -7431,7 +7431,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "dota 2 cheats voor Dota 2 op PC. ESP wallhack, radar hack en Aimbot met VAC-onderhoud. Directe digitale levering. Compare plans and guides at dota2cheat.com.",
+					description: "dota 2 cheats voor Dota 2 op PC. ESP wallhack, radar hack en Aimbot met VAC-onderhoud. Directe digitale levering. Compare plans and guides at dota2cheat.org.",
 					h1: "dota 2 cheats voor Dota 2",
 					intro: "Windows PC pakket voor Dota 2: ESP wallhack, radar en Aimbot met VAC-onderhoud na elke patch.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -7559,7 +7559,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Functies 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Functies: ESP, Skillshot assist, radar bediening. directe digitale levering. . Compare plans and guides at dota2cheat.com.",
+					description: "Functies: ESP, Skillshot assist, radar bediening. directe digitale levering. . Compare plans and guides at dota2cheat.org.",
 					h1: "Functies — Full Feature List",
 					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Functies für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -7743,7 +7743,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Als iets misgaat",
 							paragraphs: [
-								"Check Status na patch. E-mail support@dota2cheat.com met order-ID.",
+								"Check Status na patch. E-mail support@dota2cheat.org met order-ID.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
 							],
 							list: [
@@ -7866,7 +7866,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe contact opnemen",
 							paragraphs: [
-								"E-mail support@dota2cheat.com. Voeg order-ID en korte probleemnotitie toe.",
+								"E-mail support@dota2cheat.org. Voeg order-ID en korte probleemnotitie toe.",
 								"Licenties met directe digitale levering via secure checkout. $35/maand en $150 lifetime incl. VAC-onderhoud.",
 							],
 							list: [
@@ -8461,9 +8461,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacybeleid | Dota 2 Cheats",
-					description: "Privacybeleid voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Privacybeleid voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Privacybeleid",
-					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Privacybeleid voor dota2cheat.com en Dota 2-licenties.",
+					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Privacybeleid voor dota2cheat.org en Dota 2-licenties.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -8475,7 +8475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informatie die we verzamelen",
 							paragraphs: [
 								"Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Contact-e-mail, checkout-orderreferenties en basisbeveiligingsgegevens van de site.",
-								"Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op dota2cheat.com.",
+								"Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op dota2cheat.org.",
 							],
 						},
 						{
@@ -8488,17 +8488,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Uw rechten",
 							paragraphs: [
-								"support@dota2cheat.com voor support en juridische vragen.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org voor support en juridische vragen.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Restitutiebeleid | Dota 2 Cheats",
-					description: "Restitutiebeleid voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Restitutiebeleid voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Restitutiebeleid",
-					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Restitutiebeleid voor dota2cheat.com en Dota 2-licenties.",
+					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Restitutiebeleid voor dota2cheat.org en Dota 2-licenties.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -8523,17 +8523,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hoe aanvragen",
 							paragraphs: [
-								"support@dota2cheat.com voor support en juridische vragen.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org voor support en juridische vragen.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Gebruiksvoorwaarden | Dota 2 Cheats",
-					description: "Gebruiksvoorwaarden voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Gebruiksvoorwaarden voor Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Gebruiksvoorwaarden",
-					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Gebruiksvoorwaarden voor dota2cheat.com en Dota 2-licenties.",
+					intro: "Dota 2 Cheats bundelt ESP wallhack, radar hack en Dota 2 Aimbot als pakket voor Dota 2 op Windows PC. Gebruiksvoorwaarden voor dota2cheat.org en Dota 2-licenties.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -8558,8 +8558,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Beleidswijzigingen",
 							paragraphs: [
-								"support@dota2cheat.com voor support en juridische vragen.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org voor support en juridische vragen.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
@@ -8641,7 +8641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack i Aimbot",
-					description: "cheaty Dota 2 dla Dota 2 na PC. ESP wallhack, radar hack i Aimbot z konserwacją VAC. Natychmiastowa dostawa cyfrowa. Compare plans and guides at dota2cheat.com.",
+					description: "cheaty Dota 2 dla Dota 2 na PC. ESP wallhack, radar hack i Aimbot z konserwacją VAC. Natychmiastowa dostawa cyfrowa. Compare plans and guides at dota2cheat.org.",
 					h1: "cheaty dla Dota 2",
 					intro: "pakiet premium dla Dota 2 na Windows PC: ESP wallhack, radar i Aimbot z konserwacją VAC po każdym patchu.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -8769,7 +8769,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkcje 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funkcje: ESP, Skillshot assist, sterowanie radar. natychmiastowa dostawa cyfrowa. . Compare plans and guides at dota2cheat.com.",
+					description: "Funkcje: ESP, Skillshot assist, sterowanie radar. natychmiastowa dostawa cyfrowa. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funkcje — Full Feature List",
 					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Funkcje für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -8953,7 +8953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Gdy coś nie działa",
 							paragraphs: [
-								"Sprawdź Status po patchu. Email support@dota2cheat.com z ID zamówienia.",
+								"Sprawdź Status po patchu. Email support@dota2cheat.org z ID zamówienia.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
 							],
 							list: [
@@ -9076,7 +9076,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak się skontaktować",
 							paragraphs: [
-								"Email support@dota2cheat.com. Dołącz ID zamówienia i krótki opis problemu.",
+								"Email support@dota2cheat.org. Dołącz ID zamówienia i krótki opis problemu.",
 								"Licencje z natychmiastowa dostawa cyfrowa przez secure checkout. Plany $35/mies. i $150 lifetime z konserwacją VAC.",
 							],
 							list: [
@@ -9671,9 +9671,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Polityka prywatności | Dota 2 Cheats",
-					description: "Polityka prywatności dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Polityka prywatności dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Polityka prywatności",
-					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Polityka prywatności dla dota2cheat.com i licencji Dota 2.",
+					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Polityka prywatności dla dota2cheat.org i licencji Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -9685,7 +9685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informacje, które zbieramy",
 							paragraphs: [
 								"Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. E-mail kontaktowy, referencje zamówień checkout i podstawowe dane bezpieczeństwa witryny.",
-								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na dota2cheat.com.",
+								"Dane płatności są przetwarzane przez secure checkout — nie przechowywane na dota2cheat.org.",
 							],
 						},
 						{
@@ -9698,17 +9698,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Twoje prawa",
 							paragraphs: [
-								"support@dota2cheat.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Polityka zwrotów | Dota 2 Cheats",
-					description: "Polityka zwrotów dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Polityka zwrotów dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Polityka zwrotów",
-					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Polityka zwrotów dla dota2cheat.com i licencji Dota 2.",
+					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Polityka zwrotów dla dota2cheat.org i licencji Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -9733,17 +9733,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak złożyć wniosek",
 							paragraphs: [
-								"support@dota2cheat.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Warunki użytkowania | Dota 2 Cheats",
-					description: "Warunki użytkowania dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Warunki użytkowania dla Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Warunki użytkowania",
-					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Warunki użytkowania dla dota2cheat.com i licencji Dota 2.",
+					intro: "Dota 2 Cheats łączy ESP wallhack, radar hack i Dota 2 Aimbot jako pakiet dla Dota 2 na PC Windows. Warunki użytkowania dla dota2cheat.org i licencji Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -9768,8 +9768,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Zmiany polityki",
 							paragraphs: [
-								"support@dota2cheat.com w sprawach wsparcia i prawnych.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org w sprawach wsparcia i prawnych.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
@@ -9851,7 +9851,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack и Aimbot",
-					description: "читы Dota 2 для Dota 2 на PC. ESP wallhack, radar hack и Aimbot с обслуживанием VAC. Мгновенная цифровая доставка. Compare plans and guides at dota2cheat.com.",
+					description: "читы Dota 2 для Dota 2 на PC. ESP wallhack, radar hack и Aimbot с обслуживанием VAC. Мгновенная цифровая доставка. Compare plans and guides at dota2cheat.org.",
 					h1: "читы для Dota 2",
 					intro: "пакет для Dota 2 на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием VAC после патчей.",
 					imageAlt: "Dota 2 ESP — теги игроков hack",
@@ -9979,7 +9979,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функции 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Функции: ESP, Skillshot assist, управление radar. мгновенная цифровая доставка. . Compare plans and guides at dota2cheat.com.",
+					description: "Функции: ESP, Skillshot assist, управление radar. мгновенная цифровая доставка. . Compare plans and guides at dota2cheat.org.",
 					h1: "Функции — Полный список функций",
 					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Функции für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -10163,7 +10163,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Если что-то не работает",
 							paragraphs: [
-								"Проверьте Статус после патча. Email support@dota2cheat.com с ID заказа.",
+								"Проверьте Статус после патча. Email support@dota2cheat.org с ID заказа.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
 							],
 							list: [
@@ -10286,7 +10286,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как связаться",
 							paragraphs: [
-								"Email support@dota2cheat.com. Укажите ID заказа и краткое описание проблемы.",
+								"Email support@dota2cheat.org. Укажите ID заказа и краткое описание проблемы.",
 								"Лицензии с мгновенная цифровая доставка через secure checkout. Тарифы $35/мес и $150 навсегда включают обслуживание VAC.",
 							],
 							list: [
@@ -10881,9 +10881,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Политика конфиденциальности | Dota 2 Cheats",
-					description: "Политика конфиденциальности для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Политика конфиденциальности для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Политика конфиденциальности",
-					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Политика конфиденциальности для dota2cheat.com и лицензий Dota 2.",
+					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Политика конфиденциальности для dota2cheat.org и лицензий Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -10895,7 +10895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Информация, которую мы собираем",
 							paragraphs: [
 								"Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Контактный email, ссылки на заказы checkout и базовые данные безопасности сайта.",
-								"Платёжные данные обрабатываются через secure checkout — не хранятся на dota2cheat.com.",
+								"Платёжные данные обрабатываются через secure checkout — не хранятся на dota2cheat.org.",
 							],
 						},
 						{
@@ -10908,17 +10908,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваши права",
 							paragraphs: [
-								"support@dota2cheat.com для поддержки и юридических вопросов.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для поддержки и юридических вопросов.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Политика возврата | Dota 2 Cheats",
-					description: "Политика возврата для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Политика возврата для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Политика возврата",
-					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Политика возврата для dota2cheat.com и лицензий Dota 2.",
+					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Политика возврата для dota2cheat.org и лицензий Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -10943,17 +10943,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Как запросить",
 							paragraphs: [
-								"support@dota2cheat.com для поддержки и юридических вопросов.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для поддержки и юридических вопросов.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Условия использования | Dota 2 Cheats",
-					description: "Условия использования для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Условия использования для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Условия использования",
-					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Условия использования для dota2cheat.com и лицензий Dota 2.",
+					intro: "Dota 2 Cheats объединяет ESP wallhack, radar hack и Dota 2 Aimbot в пакете для Dota 2 на Windows PC. Условия использования для dota2cheat.org и лицензий Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -10978,8 +10978,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Изменения политики",
 							paragraphs: [
-								"support@dota2cheat.com для поддержки и юридических вопросов.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для поддержки и юридических вопросов.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -11061,7 +11061,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack ve Aimbot",
-					description: "Dota 2 için hileler. ESP wallhack, radar hack ve Aimbot — VAC bakımı. Anında dijital teslimat. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 için hileler. ESP wallhack, radar hack ve Aimbot — VAC bakımı. Anında dijital teslimat. Compare plans and guides at dota2cheat.org.",
 					h1: "Dota 2 için hileler",
 					intro: "Dota 2 Windows PC Premium-Paketi: ESP wallhack, radar ve Aimbot — VAC bakımı dahil.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -11189,7 +11189,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Özellikler 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Özellikler: ESP, Skillshot assist, radar kontrolleri. anında dijital teslimat. . Compare plans and guides at dota2cheat.com.",
+					description: "Özellikler: ESP, Skillshot assist, radar kontrolleri. anında dijital teslimat. . Compare plans and guides at dota2cheat.org.",
 					h1: "Özellikler — Full Feature List",
 					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Özellikler für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -11373,7 +11373,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Bir şey başarısız olursa",
 							paragraphs: [
-								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@dota2cheat.com.",
+								"Yama sonrası Durum kontrol edin. Sipariş ID ile support@dota2cheat.org.",
 								"secure checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
 							],
 							list: [
@@ -11496,7 +11496,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl iletişime geçilir",
 							paragraphs: [
-								"support@dota2cheat.com adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
+								"support@dota2cheat.org adresine email. Sipariş ID ve kısa sorun notu ekleyin.",
 								"secure checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları VAC bakımı içerir.",
 							],
 							list: [
@@ -12091,9 +12091,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Gizlilik politikası | Dota 2 Cheats",
-					description: "Gizlilik politikası Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Gizlilik politikası Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Gizlilik politikası",
-					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Gizlilik politikası dota2cheat.com ve Dota 2 lisansları için.",
+					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Gizlilik politikası dota2cheat.org ve Dota 2 lisansları için.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -12105,7 +12105,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Topladığımız bilgiler",
 							paragraphs: [
 								"Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. İletişim e-postası, checkout sipariş referansları ve temel site güvenlik verileri.",
-								"Ödeme bilgileri secure checkout ile işlenir — dota2cheat.com'da saklanmaz.",
+								"Ödeme bilgileri secure checkout ile işlenir — dota2cheat.org'da saklanmaz.",
 							],
 						},
 						{
@@ -12118,17 +12118,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Haklarınız",
 							paragraphs: [
-								"Destek ve yasal sorular için support@dota2cheat.com.",
-								"E-posta: support@dota2cheat.com",
+								"Destek ve yasal sorular için support@dota2cheat.org.",
+								"E-posta: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "İade politikası | Dota 2 Cheats",
-					description: "İade politikası Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "İade politikası Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "İade politikası",
-					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. İade politikası dota2cheat.com ve Dota 2 lisansları için.",
+					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. İade politikası dota2cheat.org ve Dota 2 lisansları için.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -12153,17 +12153,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nasıl talep edilir",
 							paragraphs: [
-								"Destek ve yasal sorular için support@dota2cheat.com.",
-								"E-posta: support@dota2cheat.com",
+								"Destek ve yasal sorular için support@dota2cheat.org.",
+								"E-posta: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Kullanım şartları | Dota 2 Cheats",
-					description: "Kullanım şartları Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Kullanım şartları Dota 2 Cheats — ESP wallhack, Aimbot için, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Kullanım şartları",
-					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Kullanım şartları dota2cheat.com ve Dota 2 lisansları için.",
+					intro: "Dota 2 Cheats, Dota 2 için Windows PC üzerinde ESP wallhack, radar hack ve Dota 2 Aimbot paket sunar. Kullanım şartları dota2cheat.org ve Dota 2 lisansları için.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -12188,8 +12188,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Politika değişiklikleri",
 							paragraphs: [
-								"Destek ve yasal sorular için support@dota2cheat.com.",
-								"E-posta: support@dota2cheat.com",
+								"Destek ve yasal sorular için support@dota2cheat.org.",
+								"E-posta: support@dota2cheat.org",
 							],
 						},
 					],
@@ -12271,7 +12271,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP وWallhack وAimbot",
-					description: "غش Dota 2 لـ Dota 2 على PC. ESP wallhack ورadar hack وAimbot مع صيانة VAC. تسليم رقمي فوري. Compare plans and guides at dota2cheat.com.",
+					description: "غش Dota 2 لـ Dota 2 على PC. ESP wallhack ورadar hack وAimbot مع صيانة VAC. تسليم رقمي فوري. Compare plans and guides at dota2cheat.org.",
 					h1: "غش احترافي لـ Dota 2",
 					intro: "حزمة لـ Dota 2 على Windows PC: ESP wallhack ورadar وAimbot مع صيانة VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -12399,7 +12399,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "الميزات 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "الميزات: ESP وSkillshot assist وضوابط radar. تسليم رقمي فوري. undefined. Compare plans and guides at dota2cheat.com.",
+					description: "الميزات: ESP وSkillshot assist وضوابط radar. تسليم رقمي فوري. undefined. Compare plans and guides at dota2cheat.org.",
 					h1: "الميزات — Full Feature List",
 					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. الميزات für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -12583,7 +12583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "إذا فشل شيء",
 							paragraphs: [
-								"تحقق من الحالة بعد التصحيح. راسل support@dota2cheat.com مع معرف الطلب.",
+								"تحقق من الحالة بعد التصحيح. راسل support@dota2cheat.org مع معرف الطلب.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
 							],
 							list: [
@@ -12706,7 +12706,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيف تتواصل معنا",
 							paragraphs: [
-								"راسل support@dota2cheat.com. أرفق معرف الطلب وملاحظة قصيرة.",
+								"راسل support@dota2cheat.org. أرفق معرف الطلب وملاحظة قصيرة.",
 								"تراخيص مع تسليم رقمي فوري عبر secure checkout. خطط 35$/شهر و150$ مدى الحياة تشمل صيانة VAC.",
 							],
 							list: [
@@ -12732,7 +12732,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "غش Dota 2 | VAC Safe Status",
-					description: "غش Dota 2 for Dota 2 ranked and casual matches on Windows PC — صيانة VAC بعد patch VAC. تسليم رقمي فوري. غير مكتشف. Official dota 2 cheats at dota2cheat.com.",
+					description: "غش Dota 2 for Dota 2 ranked and casual matches on Windows PC — صيانة VAC بعد patch VAC. تسليم رقمي فوري. غير مكتشف. Official dota 2 cheats at dota2cheat.org.",
 					h1: "غش Dota 2 — VAC Safe Status",
 					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. غش Dota 2. صيانة VAC بعد patch VAC.",
 					imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
@@ -13301,9 +13301,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "سياسة الخصوصية | Dota 2 Cheats",
-					description: "سياسة الخصوصية لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "سياسة الخصوصية لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "سياسة الخصوصية",
-					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. سياسة الخصوصية لـ dota2cheat.com وتراخيص Dota 2.",
+					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. سياسة الخصوصية لـ dota2cheat.org وتراخيص Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -13315,7 +13315,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "المعلومات التي نجمعها",
 							paragraphs: [
 								"Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. بريد الاتصال ومراجع طلبات checkout وبيانات أمان الموقع الأساسية.",
-								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على dota2cheat.com.",
+								"تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على dota2cheat.org.",
 							],
 						},
 						{
@@ -13328,17 +13328,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "حقوقك",
 							paragraphs: [
-								"support@dota2cheat.com للدعم والطلبات القانونية.",
-								"البريد: support@dota2cheat.com",
+								"support@dota2cheat.org للدعم والطلبات القانونية.",
+								"البريد: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "سياسة الاسترداد | Dota 2 Cheats",
-					description: "سياسة الاسترداد لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "سياسة الاسترداد لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "سياسة الاسترداد",
-					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. سياسة الاسترداد لـ dota2cheat.com وتراخيص Dota 2.",
+					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. سياسة الاسترداد لـ dota2cheat.org وتراخيص Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -13363,17 +13363,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيفية الطلب",
 							paragraphs: [
-								"support@dota2cheat.com للدعم والطلبات القانونية.",
-								"البريد: support@dota2cheat.com",
+								"support@dota2cheat.org للدعم والطلبات القانونية.",
+								"البريد: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "شروط الاستخدام | Dota 2 Cheats",
-					description: "شروط الاستخدام لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "شروط الاستخدام لـ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "شروط الاستخدام",
-					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. شروط الاستخدام لـ dota2cheat.com وتراخيص Dota 2.",
+					intro: "Dota 2 Cheats يجمع ESP wallhack وradar hack وDota 2 Aimbot لـ Dota 2 على Windows PC. شروط الاستخدام لـ dota2cheat.org وتراخيص Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -13398,8 +13398,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "تغييرات السياسة",
 							paragraphs: [
-								"support@dota2cheat.com للدعم والطلبات القانونية.",
-								"البريد: support@dota2cheat.com",
+								"support@dota2cheat.org للدعم والطلبات القانونية.",
+								"البريد: support@dota2cheat.org",
 							],
 						},
 					],
@@ -13481,7 +13481,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP・Wallhack・Aimbot",
-					description: "Dota 2向けpremiumチート。ESP wallhack、radar hack、Aimbot、VACメンテナンス。即時デジタル配信。. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2向けpremiumチート。ESP wallhack、radar hack、Aimbot、VACメンテナンス。即時デジタル配信。. Compare plans and guides at dota2cheat.org.",
 					h1: "Dota 2向けpremiumチート",
 					intro: "Dota 2 Windows PC向けpremiumパッケージ：ESP wallhack、radar、Aimbot、VACメンテナンス付き。",
 					imageAlt: "dota 2 cheats hero ESP aimbot wallhack",
@@ -13609,7 +13609,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "機能 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "機能: ESP、Skillshot assist、radarコントロール. 即時デジタル配信. . Compare plans and guides at dota2cheat.com.",
+					description: "機能: ESP、Skillshot assist、radarコントロール. 即時デジタル配信. . Compare plans and guides at dota2cheat.org.",
 					h1: "機能 — Full Feature List",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。機能 für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -13707,7 +13707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "料金 — Monthly & Lifetime | $35/mo or $150",
-					description: "料金 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official dota 2 cheats at dota2cheat.com.",
+					description: "料金 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 月額$35またはlifetime $150ライセンス. 即時デジタル配信. Official dota 2 cheats at dota2cheat.org.",
 					h1: "料金 — Monthly & Lifetime",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。ストア — $35/月 y $150永久.",
 					imageAlt: "Dota 2 Cheats store plans for monthly and lifetime licenses",
@@ -13757,7 +13757,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "セットアップ — PC Setup Guide | Windows PC Install",
-					description: "セットアップ — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official dota 2 cheats at dota2cheat.com.",
+					description: "セットアップ — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PCアクティベーションと初回起動セットアップ. 即時デジタル配信. Official dota 2 cheats at dota2cheat.org.",
 					h1: "セットアップ",
 					intro: "初回レイド前にWindows 10または11でライセンスをインストール・有効化。",
 					imageAlt: "Dota 2 Cheats setup guide screenshot for Windows PC",
@@ -13793,7 +13793,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "問題が発生した場合",
 							paragraphs: [
-								"パッチ後はステータス確認。注文IDを添えてsupport@dota2cheat.comへ。",
+								"パッチ後はステータス確認。注文IDを添えてsupport@dota2cheat.orgへ。",
 								"secure checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
 							],
 							list: [
@@ -13807,7 +13807,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | VAC Updates | Dota 2 Cheats",
-					description: "更新 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VACパッチ状況とrebuildメモ. 即時デジタル配信. Official dota 2 cheats at dota2cheat.com.",
+					description: "更新 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VACパッチ状況とrebuildメモ. 即時デジタル配信. Official dota 2 cheats at dota2cheat.org.",
 					h1: "ステータス",
 					intro: "VACパッチ後はUpdatesページを確認。永久のpatch statusは保証されません。",
 					imageAlt: "Dota 2 Cheats live status after VAC and game patches",
@@ -13856,7 +13856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ — Common Answers | ESP, Aimbot & VAC",
-					description: "FAQ — Common Answers for Dota 2 ranked and casual matches on Windows PC — ESP、Skillshot assist、配信、VACに関する質問. 即時デジタル配信. Official dota 2 cheats at dota2cheat.com.",
+					description: "FAQ — Common Answers for Dota 2 ranked and casual matches on Windows PC — ESP、Skillshot assist、配信、VACに関する質問. 即時デジタル配信. Official dota 2 cheats at dota2cheat.org.",
 					h1: "FAQ — Common Answers",
 					intro: "Dota 2 Cheats FAQ — 配信、セットアップ、更新、返金。",
 					imageAlt: "Dota 2 Cheats FAQ — delivery, setup, and update answers",
@@ -13904,7 +13904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "サポート — Help & Contact | License & Setup Help",
-					description: "サポート — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official dota 2 cheats at dota2cheat.com.",
+					description: "サポート — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 注文ヘルプとライセンスサポート連絡先. 即時デジタル配信. Official dota 2 cheats at dota2cheat.org.",
 					h1: "サポート",
 					intro: "Windows PC向けDota 2 Cheatsのライセンス、セットアップ、請求のサポート。",
 					imageAlt: "Dota 2 Cheats support page for license and setup help",
@@ -13916,7 +13916,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "お問い合わせ方法",
 							paragraphs: [
-								"support@dota2cheat.comへメール。注文IDと問題の概要を記載。",
+								"support@dota2cheat.orgへメール。注文IDと問題の概要を記載。",
 								"secure checkoutで即時デジタル配信。$35/月と$150永久プランにVACメンテナンス含む。",
 							],
 							list: [
@@ -13942,7 +13942,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "Dota 2チート | VAC Safe Status",
-					description: "Dota 2チート for Dota 2 ranked and casual matches on Windows PC — VACパッチ後のVACメンテナンス. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2チート for Dota 2 ranked and casual matches on Windows PC — VACパッチ後のVACメンテナンス. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2チート — VAC Safe Status",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2チート. VACパッチ後のVACメンテナンス.",
 					imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
@@ -13988,7 +13988,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Dota 2 Wallhack | ESP Visibility",
-					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — プレイヤー、敵、距離向けwallhack ESP. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — プレイヤー、敵、距離向けwallhack ESP. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Wallhack — ESP Visibility",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 Wallhack. プレイヤー、敵、距離向けwallhack ESP.",
 					imageAlt: "dota 2 wallhack visibility through walls in a match",
@@ -14064,7 +14064,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "VAC Bypass | Patch Maintenance",
-					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats向けVAC更新の対応方法. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats向けVAC更新の対応方法. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "VAC Bypass — Patch Maintenance",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。VAC Bypass. Dota 2 cheats向けVAC更新の対応方法.",
 					imageAlt: "Dota 2 Cheats maintenance after a VAC patch",
@@ -14237,7 +14237,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Dota 2 Cheat Download | Instant Access",
-					description: "Dota 2 Cheat Download for Dota 2 ranked and casual matches on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 Cheat Download for Dota 2 ranked and casual matches on Windows PC — 支払い後のデジタルライセンスダウンロード. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Cheat Download — Instant Access",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 Cheat Download. 支払い後のデジタルライセンスダウンロード.",
 					imageAlt: "Dota 2 Cheats download and install delivery flow",
@@ -14351,7 +14351,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "最強Dota 2チート | Buyer Checklist",
-					description: "最強Dota 2チート for Dota 2 ranked and casual matches on Windows PC — dota 2 cheats購入前に比較すべき点. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "最強Dota 2チート for Dota 2 ranked and casual matches on Windows PC — dota 2 cheats購入前に比較すべき点. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "最強Dota 2チート — Buyer Checklist",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。最強Dota 2チート. dota 2 cheats購入前に比較すべき点.",
 					imageAlt: "Dota 2 Cheats overview for Dota 2 on PC",
@@ -14435,7 +14435,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Dota 2 ESP Hack | Boxes & wards and runes",
-					description: "Dota 2 ESP Hack for Dota 2 ranked and casual matches on Windows PC — ESP hackボックス、敵pin、距離. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 ESP Hack for Dota 2 ranked and casual matches on Windows PC — ESP hackボックス、敵pin、距離. 即時デジタル配信. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 ESP Hack — Boxes & wards and runes",
 					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。Dota 2 ESP Hack. ESP hackボックス、敵pin、距離.",
 					imageAlt: "Dota 2 ESP hack boxes and hero markers",
@@ -14511,9 +14511,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "プライバシーポリシー | Dota 2 Cheats",
-					description: "プライバシーポリシー Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "プライバシーポリシー Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "プライバシーポリシー",
-					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。プライバシーポリシー dota2cheat.comおよびDota 2ライセンス向け。",
+					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。プライバシーポリシー dota2cheat.orgおよびDota 2ライセンス向け。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -14525,7 +14525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "収集する情報",
 							paragraphs: [
 								"Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。連絡メール、checkout注文参照、基本的なサイトセキュリティデータ。",
-								"支払い情報はsecure checkoutで処理され、dota2cheat.comには保存されません。",
+								"支払い情報はsecure checkoutで処理され、dota2cheat.orgには保存されません。",
 							],
 						},
 						{
@@ -14538,17 +14538,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "あなたの権利",
 							paragraphs: [
-								"サポート・法務: support@dota2cheat.com",
-								"メール: support@dota2cheat.com",
+								"サポート・法務: support@dota2cheat.org",
+								"メール: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "返金ポリシー | Dota 2 Cheats",
-					description: "返金ポリシー Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "返金ポリシー Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "返金ポリシー",
-					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。返金ポリシー dota2cheat.comおよびDota 2ライセンス向け。",
+					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。返金ポリシー dota2cheat.orgおよびDota 2ライセンス向け。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -14573,17 +14573,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "申請方法",
 							paragraphs: [
-								"サポート・法務: support@dota2cheat.com",
-								"メール: support@dota2cheat.com",
+								"サポート・法務: support@dota2cheat.org",
+								"メール: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "利用規約 | Dota 2 Cheats",
-					description: "利用規約 Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "利用規約 Dota 2 Cheats — ESP wallhack、Aimbot向け, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "利用規約",
-					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。利用規約 dota2cheat.comおよびDota 2ライセンス向け。",
+					intro: "Dota 2 CheatsはDota 2向けWindows PC用ESP wallhack、radar hack、Dota 2 Aimbotのパッケージです。利用規約 dota2cheat.orgおよびDota 2ライセンス向け。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -14608,8 +14608,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "ポリシー変更",
 							paragraphs: [
-								"サポート・法務: support@dota2cheat.com",
-								"メール: support@dota2cheat.com",
+								"サポート・法務: support@dota2cheat.org",
+								"メール: support@dota2cheat.org",
 							],
 						},
 					],
@@ -14691,7 +14691,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack, Aimbot",
-					description: "Dota 2 치트. ESP wallhack, radar hack, Aimbot, VAC 유지보수. 즉시 디지털 배송. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 치트. ESP wallhack, radar hack, Aimbot, VAC 유지보수. 즉시 디지털 배송. Compare plans and guides at dota2cheat.org.",
 					h1: "Dota 2용 치트",
 					intro: "Dota 2 Windows PC 패키지: ESP wallhack, radar, Aimbot, VAC 유지보수 포함.",
 					imageAlt: "dota 2 cheats hero ESP aimbot wallhack",
@@ -14819,7 +14819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "기능 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "기능: ESP, Skillshot assist, radar 컨트롤. 즉시 디지털 배송. . Compare plans and guides at dota2cheat.com.",
+					description: "기능: ESP, Skillshot assist, radar 컨트롤. 즉시 디지털 배송. . Compare plans and guides at dota2cheat.org.",
 					h1: "기능 — Full Feature List",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 기능 für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -14917,7 +14917,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "가격 — Monthly & Lifetime | $35/mo or $150",
-					description: "가격 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.com.",
+					description: "가격 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 월 $35 또는 lifetime $150 라이선스. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.org.",
 					h1: "가격 — Monthly & Lifetime",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 스토어 — $35/월 y $150 평생.",
 					imageAlt: "Dota 2 Cheats store plans for monthly and lifetime licenses",
@@ -14967,7 +14967,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "설치 — PC Setup Guide | Windows PC Install",
-					description: "설치 — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.com.",
+					description: "설치 — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PC 활성화 및 첫 실행 설정. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.org.",
 					h1: "설치",
 					intro: "첫 레이드 전 Windows 10 또는 11에서 라이선스를 설치하고 활성화하세요.",
 					imageAlt: "Dota 2 Cheats setup guide screenshot for Windows PC",
@@ -15003,7 +15003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문제 발생 시",
 							paragraphs: [
-								"패치 후 상태 확인. 주문 ID와 함께 support@dota2cheat.com.",
+								"패치 후 상태 확인. 주문 ID와 함께 support@dota2cheat.org.",
 								"secure checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
 							],
 							list: [
@@ -15017,7 +15017,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "업데이트 — Live Status Log | VAC Updates | Dota 2 Cheats",
-					description: "업데이트 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VAC 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.com.",
+					description: "업데이트 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VAC 패치 상태 및 rebuild 메모. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.org.",
 					h1: "상태",
 					intro: "VAC 패치 후 Updates 페이지 확인. 영구 patch status 보장 없음.",
 					imageAlt: "Dota 2 Cheats live status after VAC and game patches",
@@ -15114,7 +15114,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "지원 — Help & Contact | License & Setup Help",
-					description: "지원 — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.com.",
+					description: "지원 — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 주문 도움 및 라이선스 지원 연락처. 즉시 디지털 배송. Official dota 2 cheats at dota2cheat.org.",
 					h1: "지원",
 					intro: "Windows PC Dota 2 Cheats 라이선스, 설치, 결제 지원.",
 					imageAlt: "Dota 2 Cheats support page for license and setup help",
@@ -15126,7 +15126,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "문의 방법",
 							paragraphs: [
-								"support@dota2cheat.com로 이메일. 주문 ID와 문제 요약 포함.",
+								"support@dota2cheat.org로 이메일. 주문 ID와 문제 요약 포함.",
 								"secure checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 VAC 유지보수 포함.",
 							],
 							list: [
@@ -15152,7 +15152,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "Dota 2 치트 | VAC Safe Status",
-					description: "Dota 2 치트 for Dota 2 ranked and casual matches on Windows PC — VAC 패치 후 VAC 유지보수. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 치트 for Dota 2 ranked and casual matches on Windows PC — VAC 패치 후 VAC 유지보수. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 치트 — VAC Safe Status",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 치트. VAC 패치 후 VAC 유지보수.",
 					imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
@@ -15198,7 +15198,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Dota 2 Wallhack | ESP Visibility",
-					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — 플레이어, 적, 거리용 wallhack ESP. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — 플레이어, 적, 거리용 wallhack ESP. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Wallhack — ESP Visibility",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 Wallhack. 플레이어, 적, 거리용 wallhack ESP.",
 					imageAlt: "dota 2 wallhack visibility through walls in a match",
@@ -15274,7 +15274,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "VAC Bypass | Patch Maintenance",
-					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats용 VAC 업데이트 처리 방법. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats용 VAC 업데이트 처리 방법. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "VAC Bypass — Patch Maintenance",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. VAC Bypass. Dota 2 cheats용 VAC 업데이트 처리 방법.",
 					imageAlt: "Dota 2 Cheats maintenance after a VAC patch",
@@ -15447,7 +15447,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Dota 2 Cheat Download | Instant Access",
-					description: "Dota 2 Cheat Download for Dota 2 ranked and casual matches on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 Cheat Download for Dota 2 ranked and casual matches on Windows PC — 결제 후 디지털 라이선스 다운로드. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Cheat Download — Instant Access",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 Cheat Download. 결제 후 디지털 라이선스 다운로드.",
 					imageAlt: "Dota 2 Cheats download and install delivery flow",
@@ -15561,7 +15561,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "최고의 Dota 2 치트 | Buyer Checklist",
-					description: "최고의 Dota 2 치트 for Dota 2 ranked and casual matches on Windows PC — dota 2 cheats 구매 전 비교할 항목. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "최고의 Dota 2 치트 for Dota 2 ranked and casual matches on Windows PC — dota 2 cheats 구매 전 비교할 항목. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "최고의 Dota 2 치트 — Buyer Checklist",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 최고의 Dota 2 치트. dota 2 cheats 구매 전 비교할 항목.",
 					imageAlt: "Dota 2 Cheats overview for Dota 2 on PC",
@@ -15607,7 +15607,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Dota 2 에임봇 핵 | Skillshot assist",
-					description: "Dota 2 에임봇 핵 for Dota 2 ranked and casual matches on Windows PC — Dota 2용 Aimbot hack assist. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 에임봇 핵 for Dota 2 ranked and casual matches on Windows PC — Dota 2용 Aimbot hack assist. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 에임봇 핵 — Skillshot assist",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 에임봇 핵. Dota 2용 Aimbot hack assist.",
 					imageAlt: "Dota 2 Aimbot hack controls and bone priority",
@@ -15645,7 +15645,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Dota 2 ESP 핵 | Boxes & wards and runes",
-					description: "Dota 2 ESP 핵 for Dota 2 ranked and casual matches on Windows PC — ESP hack 박스, 적 pin, 거리. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 ESP 핵 for Dota 2 ranked and casual matches on Windows PC — ESP hack 박스, 적 pin, 거리. 즉시 디지털 배송. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 ESP 핵 — Boxes & wards and runes",
 					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. Dota 2 ESP 핵. ESP hack 박스, 적 pin, 거리.",
 					imageAlt: "Dota 2 ESP hack boxes and hero markers",
@@ -15721,9 +15721,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "개인정보 처리방침 | Dota 2 Cheats",
-					description: "개인정보 처리방침 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "개인정보 처리방침 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "개인정보 처리방침",
-					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 개인정보 처리방침 dota2cheat.com 및 Dota 2 라이선스용.",
+					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 개인정보 처리방침 dota2cheat.org 및 Dota 2 라이선스용.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -15735,7 +15735,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "수집하는 정보",
 							paragraphs: [
 								"Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 연락 이메일, checkout 주문 참조 및 기본 사이트 보안 데이터.",
-								"결제 정보는 secure checkout에서 처리되며 dota2cheat.com에 저장되지 않습니다.",
+								"결제 정보는 secure checkout에서 처리되며 dota2cheat.org에 저장되지 않습니다.",
 							],
 						},
 						{
@@ -15748,17 +15748,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "귀하의 권리",
 							paragraphs: [
-								"지원 및 법무: support@dota2cheat.com",
-								"이메일: support@dota2cheat.com",
+								"지원 및 법무: support@dota2cheat.org",
+								"이메일: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "환불 정책 | Dota 2 Cheats",
-					description: "환불 정책 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "환불 정책 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "환불 정책",
-					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 환불 정책 dota2cheat.com 및 Dota 2 라이선스용.",
+					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 환불 정책 dota2cheat.org 및 Dota 2 라이선스용.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -15783,17 +15783,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "신청 방법",
 							paragraphs: [
-								"지원 및 법무: support@dota2cheat.com",
-								"이메일: support@dota2cheat.com",
+								"지원 및 법무: support@dota2cheat.org",
+								"이메일: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "이용 약관 | Dota 2 Cheats",
-					description: "이용 약관 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "이용 약관 Dota 2 Cheats — ESP wallhack, Aimbot용, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "이용 약관",
-					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 이용 약관 dota2cheat.com 및 Dota 2 라이선스용.",
+					intro: "Dota 2 Cheats는 Dota 2 Windows PC용 ESP wallhack, radar hack, Dota 2 Aimbot 패키지입니다. 이용 약관 dota2cheat.org 및 Dota 2 라이선스용.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -15818,8 +15818,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "정책 변경",
 							paragraphs: [
-								"지원 및 법무: support@dota2cheat.com",
-								"이메일: support@dota2cheat.com",
+								"지원 및 법무: support@dota2cheat.org",
+								"이메일: support@dota2cheat.org",
 							],
 						},
 					],
@@ -15901,7 +15901,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP、Wallhack、Aimbot",
-					description: "Dota 2作弊。ESP wallhack、radar hack、Aimbot、VAC维护。即时数字交付。. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2作弊。ESP wallhack、radar hack、Aimbot、VAC维护。即时数字交付。. Compare plans and guides at dota2cheat.org.",
 					h1: "Dota 2的premium外挂",
 					intro: "Dota 2 Windows PC套餐：ESP wallhack、radar、Aimbot，含VAC维护。",
 					imageAlt: "dota 2 cheats hero ESP aimbot wallhack",
@@ -16029,7 +16029,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "功能 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "功能: ESP、Skillshot assist、radar控制. 即时数字交付. . Compare plans and guides at dota2cheat.com.",
+					description: "功能: ESP、Skillshot assist、radar控制. 即时数字交付. . Compare plans and guides at dota2cheat.org.",
 					h1: "功能 — Full Feature List",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。功能 für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -16127,7 +16127,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "价格 — Monthly & Lifetime | $35/mo or $150",
-					description: "价格 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "价格 — Monthly & Lifetime for Dota 2 ranked and casual matches on Windows PC — 月付$35或lifetime $150许可证. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "价格 — Monthly & Lifetime",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。商店 — $35/月 y $150终身.",
 					imageAlt: "Dota 2 Cheats store plans for monthly and lifetime licenses",
@@ -16177,7 +16177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "安装 — PC Setup Guide | Windows PC Install",
-					description: "安装 — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "安装 — PC Setup Guide for Dota 2 ranked and casual matches on Windows PC — Windows PC激活和首次启动设置. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "安装",
 					intro: "首次 match 前在 Windows 10 或 11 上安装并激活许可证。",
 					imageAlt: "Dota 2 Cheats setup guide screenshot for Windows PC",
@@ -16213,7 +16213,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如果出现问题",
 							paragraphs: [
-								"补丁后查看状态。携带订单 ID 邮件 support@dota2cheat.com。",
+								"补丁后查看状态。携带订单 ID 邮件 support@dota2cheat.org。",
 								"通过secure checkout即时数字交付。$35/月和$150终身含VAC维护。",
 							],
 							list: [
@@ -16227,7 +16227,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 — Live Status Log | VAC Updates | Dota 2 Cheats",
-					description: "更新 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VAC补丁状态和rebuild说明. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "更新 — Live Status Log for Dota 2 ranked and casual matches on Windows PC — VAC补丁状态和rebuild说明. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "状态",
 					intro: "VAC补丁后请查看Updates页面。无任何作弊保证永久patch status。",
 					imageAlt: "Dota 2 Cheats live status after VAC and game patches",
@@ -16276,7 +16276,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "常见问题 — Common Answers | ESP, Aimbot & VAC",
-					description: "常见问题 — Common Answers for Dota 2 ranked and casual matches on Windows PC — ESP、Skillshot assist、交付和VAC问题. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "常见问题 — Common Answers for Dota 2 ranked and casual matches on Windows PC — ESP、Skillshot assist、交付和VAC问题. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "常见问题 — Common Answers",
 					intro: "Dota 2 Cheats 常见问题 — 交付、安装、更新和退款。",
 					imageAlt: "Dota 2 Cheats FAQ — delivery, setup, and update answers",
@@ -16324,7 +16324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "支持 — Help & Contact | License & Setup Help",
-					description: "支持 — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official dota 2 cheats at dota2cheat.com. Windows PC license",
+					description: "支持 — Help & Contact for Dota 2 ranked and casual matches on Windows PC — 订单帮助和许可证支持联系方式. 即时数字交付. Official dota 2 cheats at dota2cheat.org. Windows PC license",
 					h1: "支持",
 					intro: "获取 Windows PC 上 Dota 2 Cheats 的许可证、安装和账单帮助。",
 					imageAlt: "Dota 2 Cheats support page for license and setup help",
@@ -16336,7 +16336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何联系我们",
 							paragraphs: [
-								"邮件 support@dota2cheat.com，附上订单 ID 和简要问题说明。",
+								"邮件 support@dota2cheat.org，附上订单 ID 和简要问题说明。",
 								"通过secure checkout即时数字交付。$35/月和$150终身含VAC维护。",
 							],
 							list: [
@@ -16362,7 +16362,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				reliable: {
 					title: "Dota 2作弊 | VAC Safe Status",
-					description: "Dota 2作弊 for Dota 2 ranked and casual matches on Windows PC — VAC补丁后的VAC维护. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com. Windows PC license",
+					description: "Dota 2作弊 for Dota 2 ranked and casual matches on Windows PC — VAC补丁后的VAC维护. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org. Windows PC license",
 					h1: "Dota 2作弊 — VAC Safe Status",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2作弊. VAC补丁后的VAC维护.",
 					imageAlt: "Dota 2 Cheats patch status overview for Windows PC",
@@ -16408,7 +16408,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Dota 2 Wallhack | ESP Visibility",
-					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — 玩家、敌人和距离的wallhack ESP. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 Wallhack for Dota 2 ranked and casual matches on Windows PC — 玩家、敌人和距离的wallhack ESP. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Wallhack — ESP Visibility",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 Wallhack. 玩家、敌人和距离的wallhack ESP.",
 					imageAlt: "dota 2 wallhack visibility through walls in a match",
@@ -16446,7 +16446,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack — 2D Threat Overlay | 2D Threat Map",
-					description: "Radar Hack — 2D Threat Overlay for Dota 2 ranked and casual matches on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "Radar Hack — 2D Threat Overlay for Dota 2 ranked and casual matches on Windows PC — 侧翼和轮换的2D radar提示. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "用于屏幕外威胁的简单 2D radar。包含在同一 Dota 2 Cheats 许可证中。",
 					imageAlt: "Dota 2 2D radar overlay showing nearby threats",
@@ -16484,7 +16484,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				vac: {
 					title: "VAC Bypass | Patch Maintenance",
-					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats的VAC更新处理方式. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "VAC Bypass for Dota 2 ranked and casual matches on Windows PC — Dota 2 cheats的VAC更新处理方式. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "VAC Bypass — Patch Maintenance",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。VAC Bypass. Dota 2 cheats的VAC更新处理方式.",
 					imageAlt: "Dota 2 Cheats maintenance after a VAC patch",
@@ -16538,7 +16538,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Dota 2作弊 2026 | Buyer Guide",
-					description: "Dota 2作弊 2026 for Dota 2 ranked and casual matches on Windows PC — checkout前的2026 dota 2 cheats清单. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2作弊 2026 for Dota 2 ranked and casual matches on Windows PC — checkout前的2026 dota 2 cheats清单. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2作弊 2026 — Buyer Guide",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2作弊 2026. checkout前的2026 dota 2 cheats清单.",
 					imageAlt: "Dota 2 Cheats product overview for Dota 2",
@@ -16584,7 +16584,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "Dota 2作弊 — ESP Aimbot Guide | ESP, Aimbot & Radar",
-					description: "Dota 2作弊 — ESP Aimbot Guide for Dota 2 ranked and casual matches on Windows PC — ESP和Aimbot的Dota 2 Cheats支柱. 即时数字交付. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2作弊 — ESP Aimbot Guide for Dota 2 ranked and casual matches on Windows PC — ESP和Aimbot的Dota 2 Cheats支柱. 即时数字交付. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 Cheats — 完整指南",
 					intro: "Dota 2 cheats 在基础游戏上添加 ESP、radar 和 Skillshot assist。本页说明什么是 dota 2 cheats、Dota 2 Cheats 包含什么、VAC 维护以及购买前该看哪里。",
 					imageAlt: "Dota 2 Cheats overview — ESP, aimbot, and radar for Dota 2",
@@ -16657,7 +16657,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Dota 2作弊下载 | Instant Access",
-					description: "Dota 2作弊下载 for Dota 2 ranked and casual matches on Windows PC — 付款后的数字许可证下载. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com. Windows PC license",
+					description: "Dota 2作弊下载 for Dota 2 ranked and casual matches on Windows PC — 付款后的数字许可证下载. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org. Windows PC license",
 					h1: "Dota 2作弊下载 — Instant Access",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2作弊下载. 付款后的数字许可证下载.",
 					imageAlt: "Dota 2 Cheats download and install delivery flow",
@@ -16695,7 +16695,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Dota 2修改菜单 | In-Game Toggles",
-					description: "Dota 2修改菜单 for Dota 2 ranked and casual matches on Windows PC — 客户端内ESP和Skillshot assist开关. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2修改菜单 for Dota 2 ranked and casual matches on Windows PC — 客户端内ESP和Skillshot assist开关. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2修改菜单 — In-Game Toggles",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2修改菜单. 客户端内ESP和Skillshot assist开关.",
 					imageAlt: "Dota 2 Cheats in-game menu controls",
@@ -16771,7 +16771,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "最佳Dota 2作弊 | Buyer Checklist",
-					description: "最佳Dota 2作弊 for Dota 2 ranked and casual matches on Windows PC — 购买dota 2 cheats前应比较的内容. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "最佳Dota 2作弊 for Dota 2 ranked and casual matches on Windows PC — 购买dota 2 cheats前应比较的内容. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "最佳Dota 2作弊 — Buyer Checklist",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。最佳Dota 2作弊. 购买dota 2 cheats前应比较的内容.",
 					imageAlt: "Dota 2 Cheats overview for Dota 2 on PC",
@@ -16817,7 +16817,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Dota 2自瞄外挂 | Skillshot assist",
-					description: "Dota 2自瞄外挂 for Dota 2 ranked and casual matches on Windows PC — Dota 2的Aimbot hack assist. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2自瞄外挂 for Dota 2 ranked and casual matches on Windows PC — Dota 2的Aimbot hack assist. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2自瞄外挂 — Skillshot assist",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2自瞄外挂. Dota 2的Aimbot hack assist.",
 					imageAlt: "Dota 2 Aimbot hack controls and bone priority",
@@ -16855,7 +16855,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Dota 2 ESP外挂 | Boxes & wards and runes",
-					description: "Dota 2 ESP外挂 for Dota 2 ranked and casual matches on Windows PC — ESP hack方框、敌人pin和距离. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.com.",
+					description: "Dota 2 ESP外挂 for Dota 2 ranked and casual matches on Windows PC — ESP hack方框、敌人pin和距离. 即时数字交付. undefined. Official dota 2 cheats at dota2cheat.org.",
 					h1: "Dota 2 ESP外挂 — Boxes & wards and runes",
 					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。Dota 2 ESP外挂. ESP hack方框、敌人pin和距离.",
 					imageAlt: "Dota 2 ESP hack boxes and hero markers",
@@ -16931,9 +16931,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "隐私政策 | Dota 2 Cheats",
-					description: "隐私政策 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "隐私政策 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "隐私政策",
-					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。隐私政策 适用于 dota2cheat.com 和 Dota 2 许可证。",
+					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。隐私政策 适用于 dota2cheat.org 和 Dota 2 许可证。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -16945,7 +16945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "我们收集的信息",
 							paragraphs: [
 								"Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。联系邮箱、checkout 订单参考及基本网站安全数据。",
-								"支付详情由 secure checkout 处理 — 不存储在 dota2cheat.com。",
+								"支付详情由 secure checkout 处理 — 不存储在 dota2cheat.org。",
 							],
 						},
 						{
@@ -16958,17 +16958,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "您的权利",
 							paragraphs: [
-								"支持与法务：support@dota2cheat.com",
-								"邮箱: support@dota2cheat.com",
+								"支持与法务：support@dota2cheat.org",
+								"邮箱: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "退款政策 | Dota 2 Cheats",
-					description: "退款政策 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "退款政策 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "退款政策",
-					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。退款政策 适用于 dota2cheat.com 和 Dota 2 许可证。",
+					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。退款政策 适用于 dota2cheat.org 和 Dota 2 许可证。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -16993,17 +16993,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "如何申请",
 							paragraphs: [
-								"支持与法务：support@dota2cheat.com",
-								"邮箱: support@dota2cheat.com",
+								"支持与法务：support@dota2cheat.org",
+								"邮箱: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "使用条款 | Dota 2 Cheats",
-					description: "使用条款 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "使用条款 Dota 2 Cheats — ESP wallhack、Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "使用条款",
-					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。使用条款 适用于 dota2cheat.com 和 Dota 2 许可证。",
+					intro: "Dota 2 Cheats为Dota 2Windows PC提供ESP wallhack、radar hack和Dota 2 Aimbot套餐。使用条款 适用于 dota2cheat.org 和 Dota 2 许可证。",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -17028,8 +17028,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "政策变更",
 							paragraphs: [
-								"支持与法务：support@dota2cheat.com",
-								"邮箱: support@dota2cheat.com",
+								"支持与法务：support@dota2cheat.org",
+								"邮箱: support@dota2cheat.org",
 							],
 						},
 					],
@@ -17111,7 +17111,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack और Aimbot",
-					description: "Dota 2 hacks. ESP wallhack, radar hack, Aimbot, VAC maintenance. Instant digital delivery. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 hacks. ESP wallhack, radar hack, Aimbot, VAC maintenance. Instant digital delivery. Compare plans and guides at dota2cheat.org.",
 					h1: "Dota 2 ke liye dota 2 cheats",
 					intro: "Dota 2 Windows PC पैकेज: ESP wallhack, radar, Aimbot, VAC maintenance सहित.",
 					imageAlt: "dota 2 cheats hero ESP aimbot wallhack",
@@ -17239,7 +17239,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "फ़ीचर्स 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "फ़ीचर्स: ESP, Skillshot assist, radar controls. तुरंत डिजिटल डिलीवरी. . Compare plans and guides at dota2cheat.com.",
+					description: "फ़ीचर्स: ESP, Skillshot assist, radar controls. तुरंत डिजिटल डिलीवरी. . Compare plans and guides at dota2cheat.org.",
 					h1: "फ़ीचर्स — Full Feature List",
 					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। फ़ीचर्स für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -17423,7 +17423,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "यदि कुछ विफल हो",
 							paragraphs: [
-								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@dota2cheat.com।",
+								"पैच के बाद Status जांचें। ऑर्डर ID के साथ support@dota2cheat.org।",
 								"secure checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
 							],
 							list: [
@@ -17467,7 +17467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							list: [
 								"नवीनतम स्टेटस नोट पढ़ें",
 								"समस्या हो तो सेटअप फॉलो करें",
-								"ऑर्डर ID के साथ support@dota2cheat.com",
+								"ऑर्डर ID के साथ support@dota2cheat.org",
 							],
 						},
 						{
@@ -17546,7 +17546,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "हमसे कैसे संपर्क करें",
 							paragraphs: [
-								"support@dota2cheat.com पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
+								"support@dota2cheat.org पर email। ऑर्डर ID और समस्या का संक्षिप्त विवरण दें।",
 								"secure checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में VAC maintenance शामिल।",
 							],
 							list: [
@@ -18141,9 +18141,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "गोपनीयता नीति | Dota 2 Cheats",
-					description: "गोपनीयता नीति Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "गोपनीयता नीति Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "गोपनीयता नीति",
-					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। गोपनीयता नीति dota2cheat.com और Dota 2 लाइसेंस के लिए।",
+					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। गोपनीयता नीति dota2cheat.org और Dota 2 लाइसेंस के लिए।",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -18155,7 +18155,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "हम जो जानकारी एकत्र करते हैं",
 							paragraphs: [
 								"Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। संपर्क ईमेल, checkout ऑर्डर संदर्भ और बुनियादी साइट सुरक्षा डेटा।",
-								"भुगतान विवरण secure checkout द्वारा संसाधित — dota2cheat.com पर संग्रहीत नहीं।",
+								"भुगतान विवरण secure checkout द्वारा संसाधित — dota2cheat.org पर संग्रहीत नहीं।",
 							],
 						},
 						{
@@ -18168,17 +18168,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "आपके अधिकार",
 							paragraphs: [
-								"सहायता: support@dota2cheat.com",
-								"ईमेल: support@dota2cheat.com",
+								"सहायता: support@dota2cheat.org",
+								"ईमेल: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "रिफंड नीति | Dota 2 Cheats",
-					description: "रिफंड नीति Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "रिफंड नीति Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "रिफंड नीति",
-					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। रिफंड नीति dota2cheat.com और Dota 2 लाइसेंस के लिए।",
+					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। रिफंड नीति dota2cheat.org और Dota 2 लाइसेंस के लिए।",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -18203,17 +18203,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "कैसे अनुरोध करें",
 							paragraphs: [
-								"सहायता: support@dota2cheat.com",
-								"ईमेल: support@dota2cheat.com",
+								"सहायता: support@dota2cheat.org",
+								"ईमेल: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "उपयोग की शर्तें | Dota 2 Cheats",
-					description: "उपयोग की शर्तें Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "उपयोग की शर्तें Dota 2 Cheats — ESP wallhack, Aimbot के लिए, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "उपयोग की शर्तें",
-					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। उपयोग की शर्तें dota2cheat.com और Dota 2 लाइसेंस के लिए।",
+					intro: "Dota 2 Cheats Dota 2 के लिए Windows PC पर ESP wallhack, radar hack और Dota 2 Aimbot पैकेज देता है। उपयोग की शर्तें dota2cheat.org और Dota 2 लाइसेंस के लिए।",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -18238,8 +18238,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "नीति परिवर्तन",
 							paragraphs: [
-								"सहायता: support@dota2cheat.com",
-								"ईमेल: support@dota2cheat.com",
+								"सहायता: support@dota2cheat.org",
+								"ईमेल: support@dota2cheat.org",
 							],
 						},
 					],
@@ -18321,7 +18321,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Dota 2 Cheats untuk Dota 2 di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan VAC. Pengiriman digital instan. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 Cheats untuk Dota 2 di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan VAC. Pengiriman digital instan. Compare plans and guides at dota2cheat.org.",
 					h1: "cheat untuk Dota 2",
 					intro: "Premium-Paket Dota 2 di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -18449,7 +18449,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fitur 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Fitur: ESP, Skillshot assist, kontrol radar. pengiriman digital instan. . Compare plans and guides at dota2cheat.com.",
+					description: "Fitur: ESP, Skillshot assist, kontrol radar. pengiriman digital instan. . Compare plans and guides at dota2cheat.org.",
 					h1: "Fitur — Full Feature List",
 					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Fitur für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -18633,7 +18633,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jika ada masalah",
 							paragraphs: [
-								"Cek Status setelah patch. Email support@dota2cheat.com dengan ID pesanan.",
+								"Cek Status setelah patch. Email support@dota2cheat.org dengan ID pesanan.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
 							],
 							list: [
@@ -18756,7 +18756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara menghubungi",
 							paragraphs: [
-								"Email support@dota2cheat.com. Sertakan ID pesanan dan catatan singkat masalah.",
+								"Email support@dota2cheat.org. Sertakan ID pesanan dan catatan singkat masalah.",
 								"pengiriman digital instan via secure checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan VAC.",
 							],
 							list: [
@@ -19351,9 +19351,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Kebijakan privasi | Dota 2 Cheats",
-					description: "Kebijakan privasi untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Kebijakan privasi untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Kebijakan privasi",
-					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Kebijakan privasi untuk dota2cheat.com dan lisensi Dota 2.",
+					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Kebijakan privasi untuk dota2cheat.org dan lisensi Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -19365,7 +19365,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informasi yang kami kumpulkan",
 							paragraphs: [
 								"Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Email kontak, referensi pesanan checkout, dan data keamanan situs dasar.",
-								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di dota2cheat.com.",
+								"Detail pembayaran diproses oleh secure checkout — tidak disimpan di dota2cheat.org.",
 							],
 						},
 						{
@@ -19378,17 +19378,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hak Anda",
 							paragraphs: [
-								"support@dota2cheat.com untuk dukungan dan legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org untuk dukungan dan legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Kebijakan refund | Dota 2 Cheats",
-					description: "Kebijakan refund untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Kebijakan refund untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Kebijakan refund",
-					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Kebijakan refund untuk dota2cheat.com dan lisensi Dota 2.",
+					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Kebijakan refund untuk dota2cheat.org dan lisensi Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -19413,17 +19413,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cara meminta",
 							paragraphs: [
-								"support@dota2cheat.com untuk dukungan dan legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org untuk dukungan dan legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Syarat penggunaan | Dota 2 Cheats",
-					description: "Syarat penggunaan untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Syarat penggunaan untuk Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Syarat penggunaan",
-					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Syarat penggunaan untuk dota2cheat.com dan lisensi Dota 2.",
+					intro: "Dota 2 Cheats menyediakan ESP wallhack, radar hack, dan Dota 2 Aimbot untuk Dota 2 di PC Windows. Syarat penggunaan untuk dota2cheat.org dan lisensi Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -19448,8 +19448,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Perubahan kebijakan",
 							paragraphs: [
-								"support@dota2cheat.com untuk dukungan dan legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org untuk dukungan dan legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -19531,7 +19531,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack และ Aimbot",
-					description: "Dota 2 Cheats สำหรับ Dota 2 บน PC. ESP wallhack, radar hack, Aimbot, VAC maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 Cheats สำหรับ Dota 2 บน PC. ESP wallhack, radar hack, Aimbot, VAC maintenance. จัดส่งดิจิทัลทันที. Compare plans and guides at dota2cheat.org.",
 					h1: "cheat สำหรับ Dota 2",
 					intro: "แพ็ก สำหรับ Dota 2 บน Windows PC: ESP wallhack, radar, Aimbot พร้อม VAC maintenance",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -19659,7 +19659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "ฟีเจอร์ 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "ฟีเจอร์: ESP, Skillshot assist, การควบคุม radar. จัดส่งดิจิทัลทันที. . Compare plans and guides at dota2cheat.com.",
+					description: "ฟีเจอร์: ESP, Skillshot assist, การควบคุม radar. จัดส่งดิจิทัลทันที. . Compare plans and guides at dota2cheat.org.",
 					h1: "ฟีเจอร์ — Full Feature List",
 					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ฟีเจอร์ für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -19843,7 +19843,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "หากมีปัญหา",
 							paragraphs: [
-								"ตรวจสถานะหลังแพตช์ อีเมล support@dota2cheat.com พร้อมรหัสคำสั่งซื้อ",
+								"ตรวจสถานะหลังแพตช์ อีเมล support@dota2cheat.org พร้อมรหัสคำสั่งซื้อ",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
 							],
 							list: [
@@ -19966,7 +19966,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีติดต่อเรา",
 							paragraphs: [
-								"อีเมล support@dota2cheat.com พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
+								"อีเมล support@dota2cheat.org พร้อมรหัสคำสั่งซื้อและรายละเอียดปัญหา",
 								"จัดส่งดิจิทัลทันที ผ่าน secure checkout แพ็ก $35/เดือน และ $150 ตลอดชีพ รวมการดูแล VAC",
 							],
 							list: [
@@ -20561,9 +20561,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "นโยบายความเป็นส่วนตัว | Dota 2 Cheats",
-					description: "นโยบายความเป็นส่วนตัว สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "นโยบายความเป็นส่วนตัว สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "นโยบายความเป็นส่วนตัว",
-					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ dota2cheat.com และใบอนุญาต Dota 2",
+					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC นโยบายความเป็นส่วนตัว สำหรับ dota2cheat.org และใบอนุญาต Dota 2",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -20575,7 +20575,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ข้อมูลที่เราเก็บ",
 							paragraphs: [
 								"Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC อีเมลติดต่อ อ้างอิงคำสั่งซื้อ checkout และข้อมูลความปลอดภัยพื้นฐานของเว็บไซต์",
-								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน dota2cheat.com",
+								"รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน dota2cheat.org",
 							],
 						},
 						{
@@ -20588,17 +20588,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "สิทธิของคุณ",
 							paragraphs: [
-								"support@dota2cheat.com สำหรับการสนับสนุน",
-								"อีเมล: support@dota2cheat.com",
+								"support@dota2cheat.org สำหรับการสนับสนุน",
+								"อีเมล: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "นโยบายการคืนเงิน | Dota 2 Cheats",
-					description: "นโยบายการคืนเงิน สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "นโยบายการคืนเงิน สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "นโยบายการคืนเงิน",
-					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC นโยบายการคืนเงิน สำหรับ dota2cheat.com และใบอนุญาต Dota 2",
+					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC นโยบายการคืนเงิน สำหรับ dota2cheat.org และใบอนุญาต Dota 2",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -20623,17 +20623,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "วิธีขอคืนเงิน",
 							paragraphs: [
-								"support@dota2cheat.com สำหรับการสนับสนุน",
-								"อีเมล: support@dota2cheat.com",
+								"support@dota2cheat.org สำหรับการสนับสนุน",
+								"อีเมล: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "ข้อกำหนดการใช้งาน | Dota 2 Cheats",
-					description: "ข้อกำหนดการใช้งาน สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "ข้อกำหนดการใช้งาน สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "ข้อกำหนดการใช้งาน",
-					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ข้อกำหนดการใช้งาน สำหรับ dota2cheat.com และใบอนุญาต Dota 2",
+					intro: "Dota 2 Cheats รวม ESP wallhack, radar hack และ Dota 2 Aimbot แบบ สำหรับ Dota 2 บน Windows PC ข้อกำหนดการใช้งาน สำหรับ dota2cheat.org และใบอนุญาต Dota 2",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -20658,8 +20658,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "การเปลี่ยนแปลงนโยบาย",
 							paragraphs: [
-								"support@dota2cheat.com สำหรับการสนับสนุน",
-								"อีเมล: support@dota2cheat.com",
+								"support@dota2cheat.org สำหรับการสนับสนุน",
+								"อีเมล: support@dota2cheat.org",
 							],
 						},
 					],
@@ -20741,7 +20741,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Dota 2 Cheats cho Dota 2 trên PC. ESP wallhack, radar hack, Aimbot, bảo trì VAC. Giao hàng kỹ thuật số tức thì. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 Cheats cho Dota 2 trên PC. ESP wallhack, radar hack, Aimbot, bảo trì VAC. Giao hàng kỹ thuật số tức thì. Compare plans and guides at dota2cheat.org.",
 					h1: "cheat cho Dota 2",
 					intro: "Gói premium Dota 2 trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -20869,7 +20869,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Tính năng 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Tính năng: ESP, Skillshot assist, điều khiển radar. giao hàng kỹ thuật số tức thì. . Compare plans and guides at dota2cheat.com.",
+					description: "Tính năng: ESP, Skillshot assist, điều khiển radar. giao hàng kỹ thuật số tức thì. . Compare plans and guides at dota2cheat.org.",
 					h1: "Tính năng — Full Feature List",
 					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Tính năng für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -21053,7 +21053,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Nếu có lỗi",
 							paragraphs: [
-								"Kiểm tra Trạng thái sau bản vá. Email support@dota2cheat.com kèm ID đơn.",
+								"Kiểm tra Trạng thái sau bản vá. Email support@dota2cheat.org kèm ID đơn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
 							],
 							list: [
@@ -21176,7 +21176,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách liên hệ",
 							paragraphs: [
-								"Email support@dota2cheat.com kèm ID đơn và mô tả ngắn.",
+								"Email support@dota2cheat.org kèm ID đơn và mô tả ngắn.",
 								"giao hàng kỹ thuật số tức thì qua secure checkout. Gói $35/tháng và $150 trọn đời gồm bảo trì VAC.",
 							],
 							list: [
@@ -21771,9 +21771,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Chính sách bảo mật | Dota 2 Cheats",
-					description: "Chính sách bảo mật cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Chính sách bảo mật cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Chính sách bảo mật",
-					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Chính sách bảo mật cho dota2cheat.com và giấy phép Dota 2.",
+					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Chính sách bảo mật cho dota2cheat.org và giấy phép Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -21785,7 +21785,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Thông tin chúng tôi thu thập",
 							paragraphs: [
 								"Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Email liên hệ, tham chiếu đơn hàng checkout và dữ liệu bảo mật cơ bản của trang.",
-								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên dota2cheat.com.",
+								"Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên dota2cheat.org.",
 							],
 						},
 						{
@@ -21798,17 +21798,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Quyền của bạn",
 							paragraphs: [
-								"support@dota2cheat.com cho hỗ trợ và pháp lý.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org cho hỗ trợ và pháp lý.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Chính sách hoàn tiền | Dota 2 Cheats",
-					description: "Chính sách hoàn tiền cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Chính sách hoàn tiền cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Chính sách hoàn tiền",
-					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Chính sách hoàn tiền cho dota2cheat.com và giấy phép Dota 2.",
+					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Chính sách hoàn tiền cho dota2cheat.org và giấy phép Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -21833,17 +21833,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cách yêu cầu",
 							paragraphs: [
-								"support@dota2cheat.com cho hỗ trợ và pháp lý.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org cho hỗ trợ và pháp lý.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Điều khoản sử dụng | Dota 2 Cheats",
-					description: "Điều khoản sử dụng cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Điều khoản sử dụng cho Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Điều khoản sử dụng",
-					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Điều khoản sử dụng cho dota2cheat.com và giấy phép Dota 2.",
+					intro: "Dota 2 Cheats cung cấp ESP wallhack, radar hack và Dota 2 Aimbot cho Dota 2 trên PC Windows. Điều khoản sử dụng cho dota2cheat.org và giấy phép Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -21868,8 +21868,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Thay đổi chính sách",
 							paragraphs: [
-								"support@dota2cheat.com cho hỗ trợ và pháp lý.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org cho hỗ trợ và pháp lý.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -21951,7 +21951,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack і Aimbot",
-					description: "чіти Dota 2 для Dota 2 на PC. ESP wallhack, radar hack, Aimbot, обслуговування VAC. Мгновенная цифровая доставка. Compare plans and guides at dota2cheat.com.",
+					description: "чіти Dota 2 для Dota 2 на PC. ESP wallhack, radar hack, Aimbot, обслуговування VAC. Мгновенная цифровая доставка. Compare plans and guides at dota2cheat.org.",
 					h1: "чіти для Dota 2",
 					intro: "пакет для Dota 2 на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -22079,7 +22079,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функції 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Функції: ESP, Skillshot assist, керування radar. миттєва цифрова доставка. . Compare plans and guides at dota2cheat.com.",
+					description: "Функції: ESP, Skillshot assist, керування radar. миттєва цифрова доставка. . Compare plans and guides at dota2cheat.org.",
 					h1: "Функції — Full Feature List",
 					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Функції für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -22263,7 +22263,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Якщо щось не працює",
 							paragraphs: [
-								"Перевірте Статус після патчу. Email support@dota2cheat.com з ID замовлення.",
+								"Перевірте Статус після патчу. Email support@dota2cheat.org з ID замовлення.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
 							],
 							list: [
@@ -22386,7 +22386,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як зв'язатися",
 							paragraphs: [
-								"Email support@dota2cheat.com. Додайте ID замовлення і короткий опис проблеми.",
+								"Email support@dota2cheat.org. Додайте ID замовлення і короткий опис проблеми.",
 								"Ліцензії з миттєва цифрова доставка через secure checkout. Тарифи $35/міс і $150 назавжди включають обслуговування VAC.",
 							],
 							list: [
@@ -22981,9 +22981,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Політика конфіденційності | Dota 2 Cheats",
-					description: "Політика конфіденційності для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Політика конфіденційності для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Політика конфіденційності",
-					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Політика конфіденційності для dota2cheat.com та ліцензій Dota 2.",
+					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Політика конфіденційності для dota2cheat.org та ліцензій Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -22995,7 +22995,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Інформація, яку ми збираємо",
 							paragraphs: [
 								"Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Контактний email, посилання на замовлення checkout та базові дані безпеки сайту.",
-								"Платіжні дані обробляються через secure checkout — не зберігаються на dota2cheat.com.",
+								"Платіжні дані обробляються через secure checkout — не зберігаються на dota2cheat.org.",
 							],
 						},
 						{
@@ -23008,17 +23008,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ваші права",
 							paragraphs: [
-								"support@dota2cheat.com для підтримки та правових питань.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для підтримки та правових питань.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Політика повернення | Dota 2 Cheats",
-					description: "Політика повернення для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Політика повернення для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Політика повернення",
-					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Політика повернення для dota2cheat.com та ліцензій Dota 2.",
+					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Політика повернення для dota2cheat.org та ліцензій Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -23043,17 +23043,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Як подати запит",
 							paragraphs: [
-								"support@dota2cheat.com для підтримки та правових питань.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для підтримки та правових питань.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Умови використання | Dota 2 Cheats",
-					description: "Умови використання для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Умови використання для Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Умови використання",
-					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Умови використання для dota2cheat.com та ліцензій Dota 2.",
+					intro: "Dota 2 Cheats об'єднує ESP wallhack, radar hack і Dota 2 Aimbot у пакеті для Dota 2 на Windows PC. Умови використання для dota2cheat.org та ліцензій Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -23078,8 +23078,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Зміни політики",
 							paragraphs: [
-								"support@dota2cheat.com для підтримки та правових питань.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org для підтримки та правових питань.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -23161,7 +23161,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack a Aimbot",
-					description: "dota 2 cheaty pro Dota 2 na PC. ESP wallhack, radar hack, Aimbot, údržba VAC. Okamžité digitální doručení. Compare plans and guides at dota2cheat.com.",
+					description: "dota 2 cheaty pro Dota 2 na PC. ESP wallhack, radar hack, Aimbot, údržba VAC. Okamžité digitální doručení. Compare plans and guides at dota2cheat.org.",
 					h1: "cheaty pro Dota 2",
 					intro: "balíček pro Dota 2 na Windows PC: ESP wallhack, radar, Aimbot s údržbou VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -23289,7 +23289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkce 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funkce: ESP, Skillshot assist, ovládání radar. okamžité digitální doručení. . Compare plans and guides at dota2cheat.com.",
+					description: "Funkce: ESP, Skillshot assist, ovládání radar. okamžité digitální doručení. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funkce — Full Feature List",
 					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Funkce für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -23473,7 +23473,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Pokud něco selže",
 							paragraphs: [
-								"Po patchi zkontrolujte Stav. Email support@dota2cheat.com s ID objednávky.",
+								"Po patchi zkontrolujte Stav. Email support@dota2cheat.org s ID objednávky.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
 							],
 							list: [
@@ -23596,7 +23596,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak nás kontaktovat",
 							paragraphs: [
-								"Email support@dota2cheat.com. Uveďte ID objednávky a stručný popis problému.",
+								"Email support@dota2cheat.org. Uveďte ID objednávky a stručný popis problému.",
 								"Licence s okamžité digitální doručení přes secure checkout. Plány $35/měs. a $150 lifetime včetně údržby VAC.",
 							],
 							list: [
@@ -24191,9 +24191,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Zásady ochrany soukromí | Dota 2 Cheats",
-					description: "Zásady ochrany soukromí pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Zásady ochrany soukromí pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Zásady ochrany soukromí",
-					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Zásady ochrany soukromí pro dota2cheat.com a licence Dota 2.",
+					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Zásady ochrany soukromí pro dota2cheat.org a licence Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -24205,7 +24205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informace, které shromažďujeme",
 							paragraphs: [
 								"Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Kontaktní e-mail, reference objednávek checkout a základní bezpečnostní data webu.",
-								"Platební údaje zpracovává secure checkout — neukládají se na dota2cheat.com.",
+								"Platební údaje zpracovává secure checkout — neukládají se na dota2cheat.org.",
 							],
 						},
 						{
@@ -24218,17 +24218,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vaše práva",
 							paragraphs: [
-								"support@dota2cheat.com pro podporu a právní dotazy.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org pro podporu a právní dotazy.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Zásady vrácení peněz | Dota 2 Cheats",
-					description: "Zásady vrácení peněz pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Zásady vrácení peněz pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Zásady vrácení peněz",
-					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Zásady vrácení peněz pro dota2cheat.com a licence Dota 2.",
+					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Zásady vrácení peněz pro dota2cheat.org a licence Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -24253,17 +24253,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Jak požádat",
 							paragraphs: [
-								"support@dota2cheat.com pro podporu a právní dotazy.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org pro podporu a právní dotazy.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Podmínky použití | Dota 2 Cheats",
-					description: "Podmínky použití pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Podmínky použití pro Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Podmínky použití",
-					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Podmínky použití pro dota2cheat.com a licence Dota 2.",
+					intro: "Dota 2 Cheats spojuje ESP wallhack, radar hack a Dota 2 Aimbot jako balíček pro Dota 2 na Windows PC. Podmínky použití pro dota2cheat.org a licence Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -24288,8 +24288,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Změny zásad",
 							paragraphs: [
-								"support@dota2cheat.com pro podporu a právní dotazy.",
-								"E-mail: support@dota2cheat.com",
+								"support@dota2cheat.org pro podporu a právní dotazy.",
+								"E-mail: support@dota2cheat.org",
 							],
 						},
 					],
@@ -24371,7 +24371,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack și Aimbot",
-					description: "Dota 2 Cheats pentru Dota 2 pe PC. ESP wallhack, radar hack, Aimbot, mentenanță VAC. Livrare digitală instantă. Compare plans and guides at dota2cheat.com.",
+					description: "Dota 2 Cheats pentru Dota 2 pe PC. ESP wallhack, radar hack, Aimbot, mentenanță VAC. Livrare digitală instantă. Compare plans and guides at dota2cheat.org.",
 					h1: "cheat-uri pentru Dota 2",
 					intro: "pachet premium Dota 2 pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță VAC.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -24499,7 +24499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funcții 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funcții: ESP, Skillshot assist, controale radar. livrare digitală instantă. . Compare plans and guides at dota2cheat.com.",
+					description: "Funcții: ESP, Skillshot assist, controale radar. livrare digitală instantă. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funcții — Full Feature List",
 					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Funcții für Dota 2 auf PC Windows.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -24683,7 +24683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dacă ceva nu funcționează",
 							paragraphs: [
-								"Verifică Status după patch. Email support@dota2cheat.com cu ID comandă.",
+								"Verifică Status după patch. Email support@dota2cheat.org cu ID comandă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
 							],
 							list: [
@@ -24806,7 +24806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum ne contactezi",
 							paragraphs: [
-								"Email support@dota2cheat.com. Include ID comandă și notă scurtă despre problemă.",
+								"Email support@dota2cheat.org. Include ID comandă și notă scurtă despre problemă.",
 								"Licențe cu livrare digitală instantă via secure checkout. Planuri $35/lună și $150 pe viață includ mentenanță VAC.",
 							],
 							list: [
@@ -25401,9 +25401,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Politica de confidențialitate | Dota 2 Cheats",
-					description: "Politica de confidențialitate pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Politica de confidențialitate pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Politica de confidențialitate",
-					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Politica de confidențialitate pentru dota2cheat.com și licențe Dota 2.",
+					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Politica de confidențialitate pentru dota2cheat.org și licențe Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -25415,7 +25415,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informații pe care le colectăm",
 							paragraphs: [
 								"Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Email de contact, referințe comenzi checkout și date de securitate de bază ale site-ului.",
-								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe dota2cheat.com.",
+								"Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe dota2cheat.org.",
 							],
 						},
 						{
@@ -25428,17 +25428,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Drepturile tale",
 							paragraphs: [
-								"support@dota2cheat.com pentru suport și legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org pentru suport și legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Politica de rambursare | Dota 2 Cheats",
-					description: "Politica de rambursare pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Politica de rambursare pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Politica de rambursare",
-					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Politica de rambursare pentru dota2cheat.com și licențe Dota 2.",
+					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Politica de rambursare pentru dota2cheat.org și licențe Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -25463,17 +25463,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cum să soliciți",
 							paragraphs: [
-								"support@dota2cheat.com pentru suport și legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org pentru suport și legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Termeni de utilizare | Dota 2 Cheats",
-					description: "Termeni de utilizare pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.com.",
+					description: "Termeni de utilizare pentru Dota 2 Cheats — ESP wallhack, Aimbot, PC Windows. Compare plans and guides at dota2cheat.org.",
 					h1: "Termeni de utilizare",
-					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Termeni de utilizare pentru dota2cheat.com și licențe Dota 2.",
+					intro: "Dota 2 Cheats combină ESP wallhack, radar hack și Dota 2 Aimbot pentru Dota 2 pe PC Windows. Termeni de utilizare pentru dota2cheat.org și licențe Dota 2.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -25498,8 +25498,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modificări de politică",
 							paragraphs: [
-								"support@dota2cheat.com pentru suport și legal.",
-								"Email: support@dota2cheat.com",
+								"support@dota2cheat.org pentru suport și legal.",
+								"Email: support@dota2cheat.org",
 							],
 						},
 					],
@@ -25581,7 +25581,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			pages: {
 				home: {
 					title: "Dota 2 Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "dota 2 cheats för Dota 2 på PC. ESP wallhack, radar hack, Aimbot, VAC-underhåll. Omedelbar digital leverans. Compare plans and guides at dota2cheat.com.",
+					description: "dota 2 cheats för Dota 2 på PC. ESP wallhack, radar hack, Aimbot, VAC-underhåll. Omedelbar digital leverans. Compare plans and guides at dota2cheat.org.",
 					h1: "dota 2 cheats för Dota 2",
 					intro: "Premium-Paket för Dota 2 på Windows PC: ESP wallhack, radar, Aimbot med VAC-underhåll.",
 					imageAlt: "Dota 2 ESP player tags hack",
@@ -25709,7 +25709,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funktioner 2026 | ESP, Aimbot & Radar | Dota 2 Cheats",
-					description: "Funktioner: ESP, Skillshot assist, radar-kontroller. omedelbar digital leverans. . Compare plans and guides at dota2cheat.com.",
+					description: "Funktioner: ESP, Skillshot assist, radar-kontroller. omedelbar digital leverans. . Compare plans and guides at dota2cheat.org.",
 					h1: "Funktioner — Full Feature List",
 					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Funktioner für Dota 2 auf Windows PC.",
 					imageAlt: "Dota 2 cheats features — aimbot FOV, player ESP boxes, and item loot tags on PC",
@@ -25893,7 +25893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Om något misslyckas",
 							paragraphs: [
-								"Kontrollera Status efter patch. Mejla support@dota2cheat.com med order-ID.",
+								"Kontrollera Status efter patch. Mejla support@dota2cheat.org med order-ID.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
 							],
 							list: [
@@ -26016,7 +26016,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du kontaktar oss",
 							paragraphs: [
-								"Mejla support@dota2cheat.com. Inkludera order-ID och kort problembeskrivning.",
+								"Mejla support@dota2cheat.org. Inkludera order-ID och kort problembeskrivning.",
 								"Licenser med omedelbar digital leverans via secure checkout. $35/mån och $150 lifetime inkl. VAC-underhåll.",
 							],
 							list: [
@@ -26611,9 +26611,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Integritetspolicy | Dota 2 Cheats",
-					description: "Integritetspolicy för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Integritetspolicy för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Integritetspolicy",
-					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Integritetspolicy för dota2cheat.com och Dota 2-licenser.",
+					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Integritetspolicy för dota2cheat.org och Dota 2-licenser.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -26625,7 +26625,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information vi samlar in",
 							paragraphs: [
 								"Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Kontakt-e-post, checkout-orderreferenser och grundläggande säkerhetsdata för webbplatsen.",
-								"Betalningsuppgifter behandlas via secure checkout — lagras inte på dota2cheat.com.",
+								"Betalningsuppgifter behandlas via secure checkout — lagras inte på dota2cheat.org.",
 							],
 						},
 						{
@@ -26638,17 +26638,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Dina rättigheter",
 							paragraphs: [
-								"support@dota2cheat.com för support och juridik.",
-								"E-post: support@dota2cheat.com",
+								"support@dota2cheat.org för support och juridik.",
+								"E-post: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				refund: {
 					title: "Återbetalningspolicy | Dota 2 Cheats",
-					description: "Återbetalningspolicy för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Återbetalningspolicy för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Återbetalningspolicy",
-					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Återbetalningspolicy för dota2cheat.com och Dota 2-licenser.",
+					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Återbetalningspolicy för dota2cheat.org och Dota 2-licenser.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-06.webp",
@@ -26673,17 +26673,17 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Hur du begär",
 							paragraphs: [
-								"support@dota2cheat.com för support och juridik.",
-								"E-post: support@dota2cheat.com",
+								"support@dota2cheat.org för support och juridik.",
+								"E-post: support@dota2cheat.org",
 							],
 						},
 					],
 				},
 				terms: {
 					title: "Användarvillkor | Dota 2 Cheats",
-					description: "Användarvillkor för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.com.",
+					description: "Användarvillkor för Dota 2 Cheats — ESP wallhack, Aimbot, Windows PC. Compare plans and guides at dota2cheat.org.",
 					h1: "Användarvillkor",
-					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Användarvillkor för dota2cheat.com och Dota 2-licenser.",
+					intro: "Dota 2 Cheats kombinerar ESP wallhack, radar hack och Dota 2 Aimbot som paket för Dota 2 på Windows PC. Användarvillkor för dota2cheat.org och Dota 2-licenser.",
 					imageAlt: "Dota 2 Cheats",
 					galleryTitle: "Dota 2 Cheats",
 					heroImage: "/images/dota2-screenshot-03.webp",
@@ -26708,8 +26708,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policyändringar",
 							paragraphs: [
-								"support@dota2cheat.com för support och juridik.",
-								"E-post: support@dota2cheat.com",
+								"support@dota2cheat.org för support och juridik.",
+								"E-post: support@dota2cheat.org",
 							],
 						},
 					],

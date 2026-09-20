@@ -243,7 +243,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'dota2-esp': page({
 		title: 'Dota 2 ESP | Wallhack & Player Boxes | {brand}',
 		description:
-			'Dota 2 ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable cheats with aimbot & radar. Shop at dota2cheat.com.',
+			'Dota 2 ESP wallhack — player boxes, operator markers & distance tags on PC. Reliable cheats with aimbot & radar. Shop at dota2cheat.org.',
 		h1: 'ESP',
 		intro: 'See players and weapon drops through walls during Dota 2 matches. Part of the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -275,7 +275,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	'dota2-aimbot': page({
 		title: 'Dota 2 Aimbot | Skillshot assist & FOV Settings | {brand}',
 		description:
-			'Dota 2 aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. dota2cheat.com.',
+			'Dota 2 aimbot with Skillshot assist, FOV, bone priority & hotkeys on PC. Reliable {brand} with ESP & radar included. dota2cheat.org.',
 		h1: 'Aimbot',
 		intro: 'Skillshot assist and aim assist you can tune for Dota 2. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,
@@ -307,7 +307,7 @@ export const simplePageCopy: Partial<Record<PageId, SimplePageCopy>> = {
 	radar: page({
 		title: 'Dota 2 Radar Hack | 2D Threat Map | {brand}',
 		description:
-			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. VAC maintenance at dota2cheat.com.',
+			'2D radar hack for flank awareness on PC. Bundled with ESP wallhack & Skillshot assist in one license. VAC maintenance at dota2cheat.org.',
 		h1: 'Radar',
 		intro: 'A simple 2D radar for threats outside your view. Included in the same {brand} license.',
 		ctaPrimary: brandCopy.ctaBuy,

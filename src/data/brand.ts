@@ -9,10 +9,10 @@ export const brand = {
 	/** Short product label if needed */
 	shortName: 'Dota 2 Cheats',
 	/** Canonical origin — no trailing slash */
-	url: 'https://dota2cheat.com',
+	url: 'https://dota2cheat.org',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@dota2cheat.com',
+	supportEmail: 'support@dota2cheat.org',
 	/** Replace with your live affiliate / store URL */
 	checkoutUrl: 'https://zadeyo.com/go/TAHA?to=%2Fproducts%2Fdota-2',
 
@@ -110,7 +110,7 @@ export const brand = {
 			'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
 		previewTitle: 'Dota 2 Cheats | ESP, Aimbot & Wallhack Guide',
 		previewDescription:
-			'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.com.',
+			'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.org.',
 		setupTitle: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		setupDescription:
 			'Install {brand} on PC — activate ESP, aimbot and maphack step by step. Check {antiCheat} status before your first ranked match.',
@@ -119,13 +119,13 @@ export const brand = {
 			'Support for license delivery, ESP setup and billing on PC. Email {email} with your order ID before you queue.',
 		faqTitle: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		faqDescription:
-			'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.com before you buy.',
+			'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.org before you buy.',
 		reviewsTitle: 'Dota 2 Cheats Reviews | ESP, Aimbot & Maphack',
 		reviewsDescription:
-			'Real buyer reviews for dota 2 cheats — ESP, aimbot, maphack and {antiCheat} maintenance on PC. See license holder feedback at dota2cheat.com.',
+			'Real buyer reviews for dota 2 cheats — ESP, aimbot, maphack and {antiCheat} maintenance on PC. See license holder feedback at dota2cheat.org.',
 		blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 		blogDescription:
-			'Dota 2 cheats forums — setup walkthroughs, ESP settings, aimbot sliders, and VAC patch notes for PC. Join discussions at dota2cheat.com/forums/.',
+			'Dota 2 cheats forums — setup walkthroughs, ESP settings, aimbot sliders, and VAC patch notes for PC. Join discussions at dota2cheat.org/forums/.',
 	},
 
 	copy: {
@@ -219,9 +219,9 @@ export function seoTitle(topic: string): string {
 export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('dota2cheat.com')
+		const pad = text.toLowerCase().includes('dota2cheat.org')
 			? ' Windows PC license with VAC maintenance after patches.'
-			: ' Compare plans and forums at dota2cheat.com.';
+			: ' Compare plans and forums at dota2cheat.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= 160) return text;

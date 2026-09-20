@@ -50,7 +50,7 @@ if (existsSync(MIDDLEWARE)) {
 		process.exit(1);
 	}
 	if (/const WWW_HOST = ['"]cheatsfordota2\.net['"]/.test(middleware)) {
-		console.error('✗ functions/_middleware.js: WWW_HOST must be www.dota2cheat.com');
+		console.error('✗ functions/_middleware.js: WWW_HOST must be www.dota2cheat.org');
 		process.exit(1);
 	}
 	console.log('✓ functions/_middleware.js: canonical host redirect guardrails OK');

@@ -39,9 +39,9 @@ function title(input) {
 function desc(input) {
 	let text = fill(input);
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('dota2cheat.com')
+		const pad = text.toLowerCase().includes('dota2cheat.org')
 			? ' Windows PC license with VAC maintenance after patches.'
-			: ' Compare plans and guides at dota2cheat.com.';
+			: ' Compare plans and guides at dota2cheat.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	return text.length <= 160 ? text : `${text.slice(0, 157).trim()}…`;

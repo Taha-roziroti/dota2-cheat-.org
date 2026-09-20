@@ -32,7 +32,7 @@ const UI_REPLACEMENTS = [
 	['the map', 'the map'],
 	['farming run', 'farming run'],
 	['extract', 'extract'],
-	['dota2cheat.com', 'dota2cheat.com'],
+	['dota2cheat.org', 'dota2cheat.org'],
 	['Trucos Dota 2's, 'Trucos Dota 2's],
 	['Triches Dota 2's, 'Triches Dota 2's],
 	['Cheats Dota 2's, 'Cheats Dota 2's],

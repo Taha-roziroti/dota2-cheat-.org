@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Bulk rebrand: Warzone template → Dota 2 Cheats (dota2cheat.com)
+ * Bulk rebrand: Warzone template → Dota 2 Cheats (dota2cheat.org)
  * Run from project root: node scripts/adapt-dota2-site.mjs
  */
 import { readFile, writeFile, readdir, unlink, rm } from 'node:fs/promises';
@@ -12,13 +12,13 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SKIP_DIRS = new Set(['node_modules', '.git', 'dist', '.astro']);
 
 const REPLACEMENTS = [
-	['https://cheatsforwarzone.com', 'https://dota2cheat.com'],
-	['https://www.cheatsforwarzone.com', 'https://dota2cheat.com'],
-	['cheatsforwarzone.com', 'dota2cheat.com'],
-	['support@cheatsforwarzone.com', 'support@dota2cheat.com'],
-	['https://zadeyo.com/go/UMAIR?to=%2Fproducts%2Fwarzone', 'https://dota2cheat.com/store'],
-	['https://zadeyo.com', 'https://dota2cheat.com'],
-	['zadeyo.com', 'dota2cheat.com'],
+	['https://cheatsforwarzone.com', 'https://dota2cheat.org'],
+	['https://www.cheatsforwarzone.com', 'https://dota2cheat.org'],
+	['cheatsforwarzone.com', 'dota2cheat.org'],
+	['support@cheatsforwarzone.com', 'support@dota2cheat.org'],
+	['https://zadeyo.com/go/UMAIR?to=%2Fproducts%2Fwarzone', 'https://dota2cheat.org/store'],
+	['https://zadeyo.com', 'https://dota2cheat.org'],
+	['zadeyo.com', 'dota2cheat.org'],
 	['zadeyo', ''],
 	['Call of Duty: Warzone', 'Dota 2'],
 	['Call of Duty', 'Dota 2'],

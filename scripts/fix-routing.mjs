@@ -21,7 +21,7 @@ const REPLACEMENTS = [
 	['dota2-radar-hack', 'dota2-radar-hack'],
 	['dota2-cheats-2026', 'dota2-cheats-2026'],
 	['vac-bypass', 'vac-bypass'],
-	['dota2cheat.com', 'dota2cheat.com'],
+	['dota2cheat.org', 'dota2cheat.org'],
 	['trucos-dota2', 'trucos-dota2'],
 	['triche-dota2', 'triche-dota2'],
 	['dota2-cheats', 'dota2-cheats'],
