@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * One-time migration: Valorant Cheats template → Dota 2 Dota 2 (dota2cheat.com).
+ * One-time migration: Valorant Cheats template → Dota 2 Dota 2 (dota2cheat.org).
  * Run from project root: node scripts/adapt-valorant-to-dota2.mjs
  */
 import { readFile, writeFile, readdir, rename } from 'node:fs/promises';
@@ -29,9 +29,9 @@ const RENAME_PAGE_DIRS = [
 
 /** Ordered replacements — specific patterns first. */
 const REPLACEMENTS = [
-	['https://cheatsforvalorant.net', 'https://dota2cheat.com'],
-	['cheatsforvalorant.net', 'dota2cheat.com'],
-	['support@cheatsforvalorant.net', 'support@dota2cheat.com'],
+	['https://cheatsforvalorant.net', 'https://dota2cheat.org'],
+	['cheatsforvalorant.net', 'dota2cheat.org'],
+	['support@cheatsforvalorant.net', 'support@dota2cheat.org'],
 	['project-name=cheatsforvalorant', 'project-name=cheatsfordota2'],
 	['name = "cheats-for-valorant"', 'name = "cheats-for-dota2"'],
 	['"name": "cheats-for-valorant"', '"name": "cheats-for-dota2"'],

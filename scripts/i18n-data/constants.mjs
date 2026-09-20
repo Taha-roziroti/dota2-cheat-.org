@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('dota2cheat.com')
+		const pad = text.toLowerCase().includes('dota2cheat.org')
 			? ' Windows PC license with VAC maintenance after patches.'
-			: ' Compare plans and guides at dota2cheat.com.';
+			: ' Compare plans and guides at dota2cheat.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;

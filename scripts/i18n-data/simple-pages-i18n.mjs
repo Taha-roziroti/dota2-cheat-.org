@@ -277,7 +277,7 @@ export function buildSimplePagesForLocale(locale) {
 			title: clampTitle(simplePageTitle(h1, enPage.title)),
 			description: clampDesc(
 				stripcheckoutFromMeta(
-					`${h1} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. Official dota 2 cheats at dota2cheat.com.`,
+					`${h1} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. Official dota 2 cheats at dota2cheat.org.`,
 				),
 			),
 			h1,

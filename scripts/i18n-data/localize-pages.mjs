@@ -63,7 +63,7 @@ function localizeMeta(enPage, locale, pageKey) {
 		title: clampTitle(stripcheckoutFromMeta(`${topicName} | ${suffix}`)),
 		description: clampDesc(
 			stripcheckoutFromMeta(
-				`${topicName} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official dota 2 cheats at dota2cheat.com.`,
+				`${topicName} for Dota 2 ranked and casual matches on Windows PC — ${focus}. ${p.delivery}. ${p.reliable}. Official dota 2 cheats at dota2cheat.org.`,
 			),
 		),
 		h1: `${topicName} — ${suffix}`,

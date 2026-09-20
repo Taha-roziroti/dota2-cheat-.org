@@ -226,7 +226,7 @@ export const TRANSLATIONS = {
 				['最新ステータスを確認', '問題があればセットアップに従う', '注文IDを添えてサポートへメール'],
 				['최신 상태 공지 확인', '문제 시 설치 가이드 따르기', '주문 ID와 함께 지원팀에 이메일'],
 				['阅读最新状态说明', '出错时按安装指南操作', '携带订单 ID 邮件联系支持'],
-				['नवीनतम स्टेटस नोट पढ़ें', 'समस्या हो तो सेटअप फॉलो करें', 'ऑर्डर ID के साथ support@dota2cheat.com'],
+				['नवीनतम स्टेटस नोट पढ़ें', 'समस्या हो तो सेटअप फॉलो करें', 'ऑर्डर ID के साथ support@dota2cheat.org'],
 				['Baca catatan status terbaru', 'Ikuti setup jika gagal', 'Email dukungan dengan ID pesanan'],
 				['อ่านบันทึกสถานะล่าสุด', 'ทำตามการติดตั้งหากมีปัญหา', 'อีเมลฝ่ายสนับสนุนพร้อมรหัสคำสั่งซื้อ'],
 				['Đọc ghi chú trạng thái mới nhất', 'Làm theo cài đặt nếu lỗi', 'Email hỗ trợ kèm ID đơn hàng'],

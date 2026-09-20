@@ -1,4 +1,4 @@
-# SEO Audit Report — dota2cheat.com
+# SEO Audit Report — dota2cheat.org
 
 **Project:** Dota 2 Cheats (Astro static site)  
 **Audit date:** 2026-08-22  
@@ -28,7 +28,7 @@
 
 ### What’s working
 - **Title & description** rendered on all inspected pages via `Layout.astro` (lines 193–194, 256).
-- **Canonical** built from `buildCanonicalUrl()` — homepage outputs `https://dota2cheat.com/` (line 198).
+- **Canonical** built from `buildCanonicalUrl()` — homepage outputs `https://dota2cheat.org/` (line 198).
 - **Open Graph & Twitter** complete: `og:title`, `og:description`, `og:url`, `og:image`, locale alternates (lines 230–250).
 - **hreflang:** 22 locales + `x-default` via `I18nHead.astro` (lines 14–17) on localized pages.
 - **Brand SSOT** in `src/data/brand.ts` (lines 98–120) — titles ~50–60 chars, descriptions ~140–160 chars (validated by `scripts/check-seo-meta-lengths.mjs`).

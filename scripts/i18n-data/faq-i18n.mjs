@@ -30,7 +30,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: '¿Cómo contacto soporte?',
-			a: 'Usa la página de Soporte o escribe a support@dota2cheat.com. Incluye los datos del pedido y una descripción clara del problema de instalación.',
+			a: 'Usa la página de Soporte o escribe a support@dota2cheat.org. Incluye los datos del pedido y una descripción clara del problema de instalación.',
 		},
 		'what-is-a-dota2-wallhack': {
 			q: '¿Qué es un wallhack de Dota 2?',
@@ -76,7 +76,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: 'Comment contacter le support ?',
-			a: "Utilisez la page Support ou écrivez à support@dota2cheat.com avec les détails de votre commande et une description claire du problème.",
+			a: "Utilisez la page Support ou écrivez à support@dota2cheat.org avec les détails de votre commande et une description claire du problème.",
 		},
 		'what-is-a-dota2-wallhack': {
 			q: "Qu'est-ce qu'un wallhack Dota 2 ?",
@@ -122,7 +122,7 @@ const CORE_FAQ = {
 		},
 		'how-to-contact-support': {
 			q: 'Wie kontaktiere ich den Support?',
-			a: 'Nutze die Support-Seite oder schreibe an support@dota2cheat.com mit Bestelldetails und einer klaren Problembeschreibung.',
+			a: 'Nutze die Support-Seite oder schreibe an support@dota2cheat.org mit Bestelldetails und einer klaren Problembeschreibung.',
 		},
 		'what-is-a-dota2-wallhack': {
 			q: 'Was ist ein Dota 2 Wallhack?',

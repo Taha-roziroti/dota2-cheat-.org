@@ -3,7 +3,7 @@ name = "cheats-for-dota2"
 compatibility_date = "2026-01-01"
 main = "src/worker.ts"
 
-# Custom domains (dota2cheat.com) are attached in the Cloudflare dashboard — not here.
+# Custom domains (dota2cheat.org) are attached in the Cloudflare dashboard — not here.
 
 [build]
 command = "npm run build"

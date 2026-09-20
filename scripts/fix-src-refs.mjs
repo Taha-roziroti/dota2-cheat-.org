@@ -28,7 +28,7 @@ const REPLACEMENTS = [
 	['Dota 2's, 'Dota 2's],
 	['VAC', 'VAC'],
 	['vac', 'vac'],
-	['dota2cheat.com', 'dota2cheat.com'],
+	['dota2cheat.org', 'dota2cheat.org'],
 	['operatorEsp', 'playerEsp'],
 	['extractFight', 'raidFight'],
 	['alMazrah', 'raidMap'],

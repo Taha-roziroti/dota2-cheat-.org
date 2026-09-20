@@ -4,11 +4,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Correo al soporte',
 		readTerms: 'Leer términos',
 		readPrivacy: 'Leer privacidad',
-		introTopic: 'para dota2cheat.com y licencias de Dota 2.',
+		introTopic: 'para dota2cheat.org y licencias de Dota 2.',
 		descFor: 'para Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Información que recopilamos', 'Cómo usamos los datos', 'Tus derechos'],
-			sec1p2: 'Los datos de pago se procesan en el checkout de checkout — no se almacenan en dota2cheat.com.',
+			sec1p2: 'Los datos de pago se procesan en el checkout de checkout — no se almacenan en dota2cheat.org.',
 			sec2p1: 'Respuestas de soporte, resolución de pedidos y cumplimiento legal cuando sea necesario.',
 		},
 		refund: {
@@ -25,11 +25,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Contacter le support',
 		readTerms: 'Lire les conditions',
 		readPrivacy: 'Lire la confidentialité',
-		introTopic: 'pour dota2cheat.com et les licences Dota 2.',
+		introTopic: 'pour dota2cheat.org et les licences Dota 2.',
 		descFor: 'pour Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informations collectées', 'Utilisation des données', 'Vos droits'],
-			sec1p2: 'Les détails de paiement sont traités par le secure checkout — non stockés sur dota2cheat.com.',
+			sec1p2: 'Les détails de paiement sont traités par le secure checkout — non stockés sur dota2cheat.org.',
 			sec2p1: 'Réponses du support, résolution des commandes et conformité légale si requis.',
 		},
 		refund: {
@@ -46,11 +46,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Support per E-Mail',
 		readTerms: 'Nutzungsbedingungen',
 		readPrivacy: 'Datenschutz lesen',
-		introTopic: 'für dota2cheat.com und Dota 2-Lizenzen.',
+		introTopic: 'für dota2cheat.org und Dota 2-Lizenzen.',
 		descFor: 'für Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Erhobene Daten', 'Datennutzung', 'Ihre Rechte'],
-			sec1p2: 'Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf dota2cheat.com gespeichert.',
+			sec1p2: 'Zahlungsdaten werden über checkout-Checkout verarbeitet — nicht auf dota2cheat.org gespeichert.',
 			sec2p1: 'Support-Antworten, Auftragsabwicklung und rechtliche Compliance bei Bedarf.',
 		},
 		refund: {
@@ -67,11 +67,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'E-mail ao suporte',
 		readTerms: 'Ler termos',
 		readPrivacy: 'Ler privacidade',
-		introTopic: 'para dota2cheat.com e licenças Dota 2.',
+		introTopic: 'para dota2cheat.org e licenças Dota 2.',
 		descFor: 'para Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informações que coletamos', 'Como usamos os dados', 'Seus direitos'],
-			sec1p2: 'Detalhes de pagamento são processados pelo secure checkout — não armazenados em dota2cheat.com.',
+			sec1p2: 'Detalhes de pagamento são processados pelo secure checkout — não armazenados em dota2cheat.org.',
 			sec2p1: 'Respostas de suporte, resolução de pedidos e conformidade legal quando necessário.',
 		},
 		refund: {
@@ -88,11 +88,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Email al supporto',
 		readTerms: 'Leggi i termini',
 		readPrivacy: 'Leggi la privacy',
-		introTopic: 'per dota2cheat.com e licenze Dota 2.',
+		introTopic: 'per dota2cheat.org e licenze Dota 2.',
 		descFor: 'per Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informazioni raccolte', 'Uso dei dati', 'I tuoi diritti'],
-			sec1p2: 'I dati di pagamento sono elaborati dal secure checkout — non memorizzati su dota2cheat.com.',
+			sec1p2: 'I dati di pagamento sono elaborati dal secure checkout — non memorizzati su dota2cheat.org.',
 			sec2p1: 'Risposte di supporto, risoluzione ordini e conformità legale quando richiesto.',
 		},
 		refund: {
@@ -109,11 +109,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'E-mail support',
 		readTerms: 'Voorwaarden lezen',
 		readPrivacy: 'Privacy lezen',
-		introTopic: 'voor dota2cheat.com en Dota 2-licenties.',
+		introTopic: 'voor dota2cheat.org en Dota 2-licenties.',
 		descFor: 'voor Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informatie die we verzamelen', 'Hoe we gegevens gebruiken', 'Uw rechten'],
-			sec1p2: 'Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op dota2cheat.com.',
+			sec1p2: 'Betalingsgegevens worden verwerkt via secure checkout — niet opgeslagen op dota2cheat.org.',
 			sec2p1: 'Supportreacties, orderafhandeling en wettelijke naleving indien vereist.',
 		},
 		refund: {
@@ -130,11 +130,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'E-mail do supportu',
 		readTerms: 'Przeczytaj warunki',
 		readPrivacy: 'Przeczytaj politykę prywatności',
-		introTopic: 'dla dota2cheat.com i licencji Dota 2.',
+		introTopic: 'dla dota2cheat.org i licencji Dota 2.',
 		descFor: 'dla Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informacje, które zbieramy', 'Jak wykorzystujemy dane', 'Twoje prawa'],
-			sec1p2: 'Dane płatności są przetwarzane przez secure checkout — nie przechowywane na dota2cheat.com.',
+			sec1p2: 'Dane płatności są przetwarzane przez secure checkout — nie przechowywane na dota2cheat.org.',
 			sec2p1: 'Odpowiedzi wsparcia, rozwiązywanie zamówień i zgodność prawna w razie potrzeby.',
 		},
 		refund: {
@@ -151,11 +151,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Написать в поддержку',
 		readTerms: 'Читать условия',
 		readPrivacy: 'Читать политику конфиденциальности',
-		introTopic: 'для dota2cheat.com и лицензий Dota 2.',
+		introTopic: 'для dota2cheat.org и лицензий Dota 2.',
 		descFor: 'для Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Информация, которую мы собираем', 'Как мы используем данные', 'Ваши права'],
-			sec1p2: 'Платёжные данные обрабатываются через secure checkout — не хранятся на dota2cheat.com.',
+			sec1p2: 'Платёжные данные обрабатываются через secure checkout — не хранятся на dota2cheat.org.',
 			sec2p1: 'Ответы поддержки, решение заказов и соблюдение законодательства при необходимости.',
 		},
 		refund: {
@@ -172,11 +172,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Destek e-postası',
 		readTerms: 'Şartları oku',
 		readPrivacy: 'Gizliliği oku',
-		introTopic: 'dota2cheat.com ve Dota 2 lisansları için.',
+		introTopic: 'dota2cheat.org ve Dota 2 lisansları için.',
 		descFor: 'Dota 2 Cheats — ESP wallhack, Aimbot için',
 		privacy: {
 			h2: ['Topladığımız bilgiler', 'Verileri nasıl kullanıyoruz', 'Haklarınız'],
-			sec1p2: 'Ödeme bilgileri secure checkout ile işlenir — dota2cheat.com\'da saklanmaz.',
+			sec1p2: 'Ödeme bilgileri secure checkout ile işlenir — dota2cheat.org\'da saklanmaz.',
 			sec2p1: 'Destek yanıtları, sipariş çözümü ve gerektiğinde yasal uyum.',
 		},
 		refund: {
@@ -193,11 +193,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'مراسلة الدعم',
 		readTerms: 'اقرأ الشروط',
 		readPrivacy: 'اقرأ الخصوصية',
-		introTopic: 'لـ dota2cheat.com وتراخيص Dota 2.',
+		introTopic: 'لـ dota2cheat.org وتراخيص Dota 2.',
 		descFor: 'لـ Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['المعلومات التي نجمعها', 'كيف نستخدم البيانات', 'حقوقك'],
-			sec1p2: 'تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على dota2cheat.com.',
+			sec1p2: 'تُعالَج تفاصيل الدفع عبر secure checkout — ولا تُخزَّن على dota2cheat.org.',
 			sec2p1: 'ردود الدعم وحل الطلبات والامتثال القانوني عند الحاجة.',
 		},
 		refund: {
@@ -214,11 +214,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'サポートにメール',
 		readTerms: '利用規約を読む',
 		readPrivacy: 'プライバシーを読む',
-		introTopic: 'dota2cheat.comおよびDota 2ライセンス向け。',
+		introTopic: 'dota2cheat.orgおよびDota 2ライセンス向け。',
 		descFor: 'Dota 2 Cheats — ESP wallhack、Aimbot向け',
 		privacy: {
 			h2: ['収集する情報', 'データの利用方法', 'あなたの権利'],
-			sec1p2: '支払い情報はsecure checkoutで処理され、dota2cheat.comには保存されません。',
+			sec1p2: '支払い情報はsecure checkoutで処理され、dota2cheat.orgには保存されません。',
 			sec2p1: 'サポート対応、注文処理、必要時の法的遵守。',
 		},
 		refund: {
@@ -235,11 +235,11 @@ export const LEGAL_I18N = {
 		emailSupport: '지원 이메일',
 		readTerms: '이용 약관 읽기',
 		readPrivacy: '개인정보 읽기',
-		introTopic: 'dota2cheat.com 및 Dota 2 라이선스용.',
+		introTopic: 'dota2cheat.org 및 Dota 2 라이선스용.',
 		descFor: 'Dota 2 Cheats — ESP wallhack, Aimbot용',
 		privacy: {
 			h2: ['수집하는 정보', '데이터 사용 방법', '귀하의 권리'],
-			sec1p2: '결제 정보는 secure checkout에서 처리되며 dota2cheat.com에 저장되지 않습니다.',
+			sec1p2: '결제 정보는 secure checkout에서 처리되며 dota2cheat.org에 저장되지 않습니다.',
 			sec2p1: '지원 응답, 주문 해결 및 필요 시 법적 준수.',
 		},
 		refund: {
@@ -256,11 +256,11 @@ export const LEGAL_I18N = {
 		emailSupport: '邮件支持',
 		readTerms: '阅读使用条款',
 		readPrivacy: '阅读隐私政策',
-		introTopic: '适用于 dota2cheat.com 和 Dota 2 许可证。',
+		introTopic: '适用于 dota2cheat.org 和 Dota 2 许可证。',
 		descFor: 'Dota 2 Cheats — ESP wallhack、Aimbot',
 		privacy: {
 			h2: ['我们收集的信息', '数据使用方式', '您的权利'],
-			sec1p2: '支付详情由 secure checkout 处理 — 不存储在 dota2cheat.com。',
+			sec1p2: '支付详情由 secure checkout 处理 — 不存储在 dota2cheat.org。',
 			sec2p1: '支持回复、订单处理及必要时的法律合规。',
 		},
 		refund: {
@@ -277,11 +277,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'सहायता ईमेल',
 		readTerms: 'शर्तें पढ़ें',
 		readPrivacy: 'गोपनीयता पढ़ें',
-		introTopic: 'dota2cheat.com और Dota 2 लाइसेंस के लिए।',
+		introTopic: 'dota2cheat.org और Dota 2 लाइसेंस के लिए।',
 		descFor: 'Dota 2 Cheats — ESP wallhack, Aimbot के लिए',
 		privacy: {
 			h2: ['हम जो जानकारी एकत्र करते हैं', 'हम डेटा का उपयोग कैसे करते हैं', 'आपके अधिकार'],
-			sec1p2: 'भुगतान विवरण secure checkout द्वारा संसाधित — dota2cheat.com पर संग्रहीत नहीं।',
+			sec1p2: 'भुगतान विवरण secure checkout द्वारा संसाधित — dota2cheat.org पर संग्रहीत नहीं।',
 			sec2p1: 'सहायता प्रतिक्रिया, ऑर्डर समाधान और आवश्यकता पर कानूनी अनुपालन।',
 		},
 		refund: {
@@ -298,11 +298,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Email dukungan',
 		readTerms: 'Baca syarat',
 		readPrivacy: 'Baca privasi',
-		introTopic: 'untuk dota2cheat.com dan lisensi Dota 2.',
+		introTopic: 'untuk dota2cheat.org dan lisensi Dota 2.',
 		descFor: 'untuk Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informasi yang kami kumpulkan', 'Cara kami menggunakan data', 'Hak Anda'],
-			sec1p2: 'Detail pembayaran diproses oleh secure checkout — tidak disimpan di dota2cheat.com.',
+			sec1p2: 'Detail pembayaran diproses oleh secure checkout — tidak disimpan di dota2cheat.org.',
 			sec2p1: 'Respons dukungan, penyelesaian pesanan, dan kepatuhan hukum jika diperlukan.',
 		},
 		refund: {
@@ -319,11 +319,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'อีเมลฝ่ายสนับสนุน',
 		readTerms: 'อ่านข้อกำหนด',
 		readPrivacy: 'อ่านนโยบายความเป็นส่วนตัว',
-		introTopic: 'สำหรับ dota2cheat.com และใบอนุญาต Dota 2',
+		introTopic: 'สำหรับ dota2cheat.org และใบอนุญาต Dota 2',
 		descFor: 'สำหรับ Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['ข้อมูลที่เราเก็บ', 'การใช้ข้อมูล', 'สิทธิของคุณ'],
-			sec1p2: 'รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน dota2cheat.com',
+			sec1p2: 'รายละเอียดการชำระเงินประมวลผลผ่าน secure checkout — ไม่เก็บบน dota2cheat.org',
 			sec2p1: 'การตอบกลับฝ่ายสนับสนุน การแก้ไขคำสั่งซื้อ และการปฏิบัติตามกฎหมายเมื่อจำเป็น',
 		},
 		refund: {
@@ -340,11 +340,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Email hỗ trợ',
 		readTerms: 'Đọc điều khoản',
 		readPrivacy: 'Đọc quyền riêng tư',
-		introTopic: 'cho dota2cheat.com và giấy phép Dota 2.',
+		introTopic: 'cho dota2cheat.org và giấy phép Dota 2.',
 		descFor: 'cho Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Thông tin chúng tôi thu thập', 'Cách chúng tôi sử dụng dữ liệu', 'Quyền của bạn'],
-			sec1p2: 'Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên dota2cheat.com.',
+			sec1p2: 'Chi tiết thanh toán được xử lý qua secure checkout — không lưu trên dota2cheat.org.',
 			sec2p1: 'Phản hồi hỗ trợ, giải quyết đơn hàng và tuân thủ pháp lý khi cần.',
 		},
 		refund: {
@@ -361,11 +361,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Написати в підтримку',
 		readTerms: 'Читати умови',
 		readPrivacy: 'Читати конфіденційність',
-		introTopic: 'для dota2cheat.com та ліцензій Dota 2.',
+		introTopic: 'для dota2cheat.org та ліцензій Dota 2.',
 		descFor: 'для Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Інформація, яку ми збираємо', 'Як ми використовуємо дані', 'Ваші права'],
-			sec1p2: 'Платіжні дані обробляються через secure checkout — не зберігаються на dota2cheat.com.',
+			sec1p2: 'Платіжні дані обробляються через secure checkout — не зберігаються на dota2cheat.org.',
 			sec2p1: 'Відповіді підтримки, вирішення замовлень та правова відповідність за потреби.',
 		},
 		refund: {
@@ -382,11 +382,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'E-mail podpoře',
 		readTerms: 'Přečíst podmínky',
 		readPrivacy: 'Přečíst soukromí',
-		introTopic: 'pro dota2cheat.com a licence Dota 2.',
+		introTopic: 'pro dota2cheat.org a licence Dota 2.',
 		descFor: 'pro Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informace, které shromažďujeme', 'Jak používáme data', 'Vaše práva'],
-			sec1p2: 'Platební údaje zpracovává secure checkout — neukládají se na dota2cheat.com.',
+			sec1p2: 'Platební údaje zpracovává secure checkout — neukládají se na dota2cheat.org.',
 			sec2p1: 'Odpovědi podpory, vyřizování objednávek a právní soulad v případě potřeby.',
 		},
 		refund: {
@@ -403,11 +403,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'Email suport',
 		readTerms: 'Citește termenii',
 		readPrivacy: 'Citește confidențialitatea',
-		introTopic: 'pentru dota2cheat.com și licențe Dota 2.',
+		introTopic: 'pentru dota2cheat.org și licențe Dota 2.',
 		descFor: 'pentru Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Informații pe care le colectăm', 'Cum folosim datele', 'Drepturile tale'],
-			sec1p2: 'Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe dota2cheat.com.',
+			sec1p2: 'Detaliile de plată sunt procesate prin secure checkout — nu sunt stocate pe dota2cheat.org.',
 			sec2p1: 'Răspunsuri suport, rezolvarea comenzilor și conformitate legală când este necesar.',
 		},
 		refund: {
@@ -424,11 +424,11 @@ export const LEGAL_I18N = {
 		emailSupport: 'E-posta support',
 		readTerms: 'Läs villkor',
 		readPrivacy: 'Läs integritet',
-		introTopic: 'för dota2cheat.com och Dota 2-licenser.',
+		introTopic: 'för dota2cheat.org och Dota 2-licenser.',
 		descFor: 'för Dota 2 Cheats — ESP wallhack, Aimbot',
 		privacy: {
 			h2: ['Information vi samlar in', 'Hur vi använder data', 'Dina rättigheter'],
-			sec1p2: 'Betalningsuppgifter behandlas via secure checkout — lagras inte på dota2cheat.com.',
+			sec1p2: 'Betalningsuppgifter behandlas via secure checkout — lagras inte på dota2cheat.org.',
 			sec2p1: 'Supportssvar, orderlösning och juridisk efterlevnad vid behov.',
 		},
 		refund: {
