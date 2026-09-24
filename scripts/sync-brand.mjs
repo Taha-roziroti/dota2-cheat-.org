@@ -28,9 +28,9 @@ function readBrand() {
 	};
 	const name = str('name');
 	const url = str('url').replace(/\/$/, '');
-	if (/dota2cheats\.org/i.test(url)) {
+	if (/dota2cheat\.com/i.test(url)) {
 		throw new Error(
-			`brand.ts url is ${url} — must be https://dota2cheat.com. Run: node scripts/rebrand-dota2-cheats.mjs`,
+			`brand.ts url is ${url} — must be https://dota2cheat.org. Run: node scripts/rebrand-dota2-cheats.mjs`,
 		);
 	}
 	return {

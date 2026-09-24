@@ -7,18 +7,16 @@ import {
 	absoluteBlogUrl,
 	getAllPostsForLocale,
 	getBlogBasePath,
-	getFeaturedPosts,
 	getBlogListPosts,
+	getFeaturedPosts,
 	getBlogIndexHreflangAlternates,
-	getBlogCardImageSrc,
 } from '../data/blog/helpers';
-import { blogLabel, siteConfig } from '../data/site';
+import { siteConfig } from '../data/site';
 import { brandSeo, seoPageTitle } from '../data/site-core';
 import { seoDescription } from '../data/brand';
 import { getLocalizedPath } from '../data/i18n/routing';
 import { blogIndexTopicLinks } from '../data/internal-links';
 import RelatedPages from './RelatedPages.astro';
-import CategoryRow from './CategoryRow.astro';
 import ExternalResources from './ExternalResources.astro';
 import { getT } from '../i18n/server';
 
@@ -31,7 +29,7 @@ const ui = blogUi[locale];
 const t = getT(locale);
 const posts = getBlogListPosts(locale);
 const allPosts = getAllPostsForLocale(locale);
-const featured = getFeaturedPosts(locale, 3);
+const featuredSlugs = new Set(getFeaturedPosts(locale, 3).map((post) => post.translation.slug));
 const canonicalPath = getBlogBasePath(locale);
 const canonicalURL = absoluteBlogUrl(locale);
 const hreflangAlternates = getBlogIndexHreflangAlternates(locale);
@@ -75,70 +73,40 @@ const articleListSchema = {
 	<Navbar locale={locale} />
 	<main id="main-content" class="blog">
 		<div class="shell blog__inner">
-		<header class="blog__hero">
-			<p class="blog__eyebrow" data-edit="blogLabel">{blogLabel}</p>
-			<h1>{ui.blogH1}</h1>
-			<p class="blog__intro">{ui.blogIntro}</p>
-		</header>
+			<header class="blog__hero">
+				<h1>{ui.blogH1}</h1>
+				<p class="blog__intro">{ui.blogIntro}</p>
+			</header>
 
-		<CategoryRow locale={locale} embedded />
+			<ExternalResources locale={locale} class="blog__external blog__external--top" />
 
-		<ExternalResources locale={locale} class="blog__external blog__external--top" />
-
-		{
-			featured.length > 0 && (
-				<section class="blog__featured" aria-label={t('common.featured')}>
+			<section class="blog__threads" aria-label={ui.allPosts}>
+				<ul class="blog__thread-list">
 					{
-						featured.map((post, index) => (
-							<a class="blog__feature-card" href={post.canonicalPath}>
-								<img
-									src={getBlogCardImageSrc(index)}
-									alt={post.translation.imageAlt}
-									width="640"
-									height="360"
-									loading={index === 0 ? 'eager' : 'lazy'}
-									decoding="async"
-									fetchpriority={index === 0 ? 'high' : undefined}
-								/>
-								<div>
-									<span class="blog__cat">{post.category}</span>
-									<h2>{post.translation.title}</h2>
-									<p>{post.translation.intro}</p>
-									<span class="blog__more">{ui.readMore}</span>
-								</div>
-							</a>
+						posts.map((post) => (
+							<li class:list={['blog__thread', { 'blog__thread--featured': featuredSlugs.has(post.translation.slug) }]}>
+								<a class="blog__thread-link" href={post.canonicalPath}>
+									<div class="blog__thread-main">
+										{featuredSlugs.has(post.translation.slug) ? (
+											<span class="blog__thread-flag">{t('common.featured')}</span>
+										) : null}
+										<h2>{post.translation.title}</h2>
+										<p>{post.translation.intro}</p>
+									</div>
+									<div class="blog__thread-meta">
+										<span class="blog__thread-date">
+											{ui.updated} {post.updated}
+										</span>
+										<span class="blog__thread-arrow" aria-hidden="true">→</span>
+									</div>
+								</a>
+							</li>
 						))
 					}
-				</section>
-			)
-		}
+				</ul>
+			</section>
 
-		<section class="blog__list" aria-label={ui.allPosts}>
-			{
-				posts.map((post, index) => (
-					<article class="blog__card">
-						<a href={post.canonicalPath}>
-							<img
-								src={getBlogCardImageSrc(featured.length + index)}
-								alt={post.translation.imageAlt}
-								width="480"
-								height="270"
-								loading="lazy"
-								decoding="async"
-							/>
-							<span class="blog__cat">{post.category}</span>
-							<h2>{post.translation.title}</h2>
-							<p>{post.translation.intro}</p>
-							<span class="blog__meta">
-								{ui.updated} {post.updated}
-							</span>
-						</a>
-					</article>
-				))
-			}
-		</section>
-
-		<RelatedPages locale={locale} variant="topics" links={blogIndexTopicLinks} class="blog__topics" />
+			<RelatedPages locale={locale} variant="topics" links={blogIndexTopicLinks} class="blog__topics" />
 		</div>
 	</main>
 	<SiteFooter locale={locale} />
@@ -158,17 +126,9 @@ const articleListSchema = {
 	}
 
 	.blog__hero {
-		margin-bottom: 2rem;
-		padding-bottom: 1.75rem;
+		margin-bottom: 1.75rem;
+		padding-bottom: 1.5rem;
 		border-bottom: 1px solid var(--line-soft);
-	}
-
-	.blog__eyebrow {
-		margin: 0 0 0.5rem;
-		color: var(--magenta-soft);
-		font-weight: 700;
-		letter-spacing: 0.04em;
-		font-size: 0.72rem;
 	}
 
 	.blog__hero h1 {
@@ -182,184 +142,123 @@ const articleListSchema = {
 	}
 
 	.blog__intro {
-		max-width: 40rem;
+		max-width: 42rem;
 		margin: 0;
 		color: var(--ink-secondary);
 		font-size: 1.02rem;
 		line-height: 1.7;
 	}
 
-	.blog__featured {
+	.blog__external--top {
+		margin-bottom: 1.5rem;
+	}
+
+	.blog__threads {
+		margin-top: 0.5rem;
+	}
+
+	.blog__thread-list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
 		display: grid;
-		grid-template-columns: repeat(3, minmax(0, 1fr));
-		gap: 1rem;
-		margin-top: 1.5rem;
-		margin-bottom: 2.75rem;
+		gap: 0.65rem;
 	}
 
-	.blog__feature-card {
-		display: flex;
-		flex-direction: column;
-		gap: 0;
-		align-items: stretch;
-		padding: 0.8rem;
-		border: 1px solid var(--line);
-		border-radius: var(--radius-md, 0.75rem);
-		background: linear-gradient(145deg, color-mix(in srgb, var(--magenta) 6%, var(--bg-panel)), var(--bg-panel));
-		text-decoration: none;
-		color: inherit;
-		overflow: hidden;
-		box-shadow: 0 8px 22px rgba(0, 0, 0, 0.18);
-		transition:
-			transform 0.22s ease,
-			border-color 0.22s ease,
-			box-shadow 0.22s ease;
-	}
-
-	.blog__feature-card:hover {
-		border-color: color-mix(in srgb, var(--magenta) 30%, var(--line));
-		box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
-	}
-
-	.blog__feature-card img {
-		width: 100%;
-		aspect-ratio: 16 / 9;
-		object-fit: cover;
-		margin-bottom: 0.8rem;
-		border-radius: calc(var(--radius-md, 0.75rem) - 4px);
-		border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
-	}
-
-	.blog__feature-card h2 {
-		margin: 0.35rem 0 0.5rem;
-		font-family: var(--font-display);
-		font-size: 1.05rem;
-		font-weight: 700;
-		line-height: 1.3;
-		letter-spacing: 0.05em;
-		color: var(--ink);
-	}
-
-	.blog__list {
-		position: relative;
+	.blog__thread-link {
 		display: grid;
-		grid-template-columns: repeat(3, minmax(0, 1fr));
-		gap: 1rem;
-		padding-top: 1.75rem;
-	}
-
-	.blog__list::before {
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 1px;
-		background: linear-gradient(90deg, transparent, var(--line-soft), transparent);
-	}
-
-	.blog__card a {
-		display: flex;
-		flex-direction: column;
-		height: 100%;
-		padding: 0.8rem;
+		grid-template-columns: minmax(0, 1fr) auto;
+		gap: 1rem 1.5rem;
+		align-items: center;
+		padding: 1.1rem 1.15rem;
 		border: 1px solid var(--line);
 		border-radius: var(--radius-md, 0.75rem);
 		background: var(--bg-panel);
 		text-decoration: none;
 		color: inherit;
-		overflow: hidden;
-		box-shadow: 0 8px 22px rgba(0, 0, 0, 0.18);
 		transition:
-			transform 0.22s ease,
-			border-color 0.22s ease,
-			box-shadow 0.22s ease,
-			background 0.22s ease;
+			border-color 0.2s ease,
+			background 0.2s ease,
+			transform 0.2s ease;
 	}
 
-	.blog__card a:hover {
-		border-color: color-mix(in srgb, var(--magenta) 30%, var(--line));
-		background: color-mix(in srgb, var(--magenta) 4%, var(--bg-panel));
-		box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
+	.blog__thread--featured .blog__thread-link {
+		border-color: color-mix(in srgb, var(--magenta) 28%, var(--line));
+		background: linear-gradient(
+			135deg,
+			color-mix(in srgb, var(--magenta) 7%, var(--bg-panel)),
+			var(--bg-panel)
+		);
 	}
 
-	.blog__card img {
-		width: 100%;
-		aspect-ratio: 16 / 9;
-		object-fit: cover;
-		margin-bottom: 0.8rem;
-		border-radius: calc(var(--radius-md, 0.75rem) - 4px);
-		border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+	.blog__thread-link:hover {
+		border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
+		background: color-mix(in srgb, var(--magenta) 5%, var(--bg-panel));
 	}
 
-	.blog__card h2 {
-		margin: 0.35rem 0 0.5rem;
-		font-family: var(--font-display);
-		font-size: 1.05rem;
+	.blog__thread-main {
+		min-width: 0;
+	}
+
+	.blog__thread-flag {
+		display: inline-block;
+		margin-bottom: 0.35rem;
+		color: var(--magenta-soft);
+		font-size: 0.68rem;
 		font-weight: 700;
-		line-height: 1.3;
-		letter-spacing: 0.05em;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+	}
+
+	.blog__thread-main h2 {
+		margin: 0 0 0.45rem;
+		font-family: var(--font-display);
+		font-size: clamp(1rem, 2.2vw, 1.15rem);
+		font-weight: 700;
+		line-height: 1.35;
+		letter-spacing: 0.04em;
 		color: var(--ink);
 	}
 
-	.blog__card p,
-	.blog__feature-card p {
+	.blog__thread-main p {
 		margin: 0;
 		color: var(--ink-muted);
 		font-size: 0.92rem;
 		line-height: 1.55;
 		display: -webkit-box;
-		-webkit-line-clamp: 3;
+		-webkit-line-clamp: 2;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
 	}
 
-	.blog__cat {
-		display: inline-flex;
-		align-items: center;
-		padding: 0.2rem 0.45rem;
-		border-radius: 999px;
-		border: 1px solid color-mix(in srgb, var(--magenta) 28%, var(--line));
-		background: color-mix(in srgb, var(--magenta) 10%, transparent);
-		color: var(--magenta-soft);
-		font-size: 0.68rem;
-		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.06em;
+	.blog__thread-meta {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		gap: 0.35rem;
+		flex-shrink: 0;
 	}
 
-	.blog__more,
-	.blog__meta {
-		display: inline-block;
-		margin-top: auto;
-		padding-top: 0.75rem;
+	.blog__thread-date {
 		color: var(--ink-faint);
-		font-size: 0.8rem;
+		font-size: 0.78rem;
 		font-weight: 600;
+		white-space: nowrap;
+	}
+
+	.blog__thread-arrow {
+		color: var(--magenta-soft);
+		font-size: 1.1rem;
+		line-height: 1;
+		transition: transform 0.2s ease;
+	}
+
+	.blog__thread-link:hover .blog__thread-arrow {
+		transform: translateX(3px);
 	}
 
 	.blog__topics {
 		margin-top: 2.75rem;
-	}
-
-	.blog__external--top {
-		margin-top: 1.5rem;
-	}
-
-	.blog__more {
-		color: var(--magenta-soft);
-		transition: color 0.2s ease;
-	}
-
-	.blog__feature-card:hover .blog__more {
-		color: var(--ink);
-	}
-
-	@media (max-width: 960px) {
-		.blog__featured,
-		.blog__list {
-			grid-template-columns: repeat(2, minmax(0, 1fr));
-		}
 	}
 
 	@media (max-width: 720px) {
@@ -368,8 +267,8 @@ const articleListSchema = {
 		}
 
 		.blog__hero {
-			margin-bottom: 1.35rem;
-			padding-bottom: 1.25rem;
+			margin-bottom: 1.25rem;
+			padding-bottom: 1.15rem;
 		}
 
 		.blog__hero h1 {
@@ -378,26 +277,19 @@ const articleListSchema = {
 
 		.blog__intro {
 			font-size: 0.95rem;
-			line-height: 1.65;
 		}
 
-		.blog__featured {
-			margin-top: 1.15rem;
-			margin-bottom: 2rem;
+		.blog__thread-link {
+			grid-template-columns: 1fr;
+			gap: 0.65rem;
+			padding: 0.95rem 1rem;
 		}
 
-		.blog__list {
-			padding-top: 1.35rem;
-			gap: 0.85rem;
-		}
-
-		.blog__feature-card,
-		.blog__card a {
-			padding: 0.7rem;
-		}
-
-		.blog__external--top {
-			margin-top: 1.15rem;
+		.blog__thread-meta {
+			flex-direction: row;
+			align-items: center;
+			justify-content: space-between;
+			width: 100%;
 		}
 
 		.blog__topics {
@@ -405,47 +297,9 @@ const articleListSchema = {
 		}
 	}
 
-	@media (max-width: 640px) {
-		.blog__featured,
-		.blog__list {
-			grid-template-columns: 1fr;
-		}
-	}
-
-	@media (max-width: 480px) {
-		.blog {
-			padding-top: 1.35rem;
-		}
-
-		.blog__feature-card h2,
-		.blog__card h2 {
-			font-size: 1rem;
-		}
-
-		.blog__card p,
-		.blog__feature-card p {
-			font-size: 0.875rem;
-			-webkit-line-clamp: 2;
-		}
-
-		.blog__feature-card img,
-		.blog__card img {
-			margin-bottom: 0.65rem;
-		}
-	}
-
 	@media (hover: hover) and (pointer: fine) {
-		.blog__feature-card:hover,
-		.blog__card a:hover {
-			transform: translateY(-3px);
-		}
-	}
-
-	@media (hover: none) {
-		.blog__feature-card:active,
-		.blog__card a:active {
-			border-color: color-mix(in srgb, var(--magenta) 35%, var(--line));
-			background: color-mix(in srgb, var(--magenta) 5%, var(--bg-panel));
+		.blog__thread-link:hover {
+			transform: translateY(-2px);
 		}
 	}
 </style>

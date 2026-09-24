@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { productInfo, siteConfig, type FaqItem } from '../data/site';
 import { getFaqCrawlImage, getFaqPath, getRelatedFaqs } from '../data/faq';
 import { getLocalizedPath } from '../data/i18n/routing';
@@ -115,7 +116,7 @@ const extraGraph: Record<string, unknown>[] = [
 				</div>
 
 				<div class="faq-detail__ctas">
-					<a href={siteConfig.checkoutUrl} class="faq-detail__buy" rel="noopener noreferrer">
+					<a href={siteConfig.checkoutUrl} class="faq-detail__buy" rel={AFFILIATE_REL}>
 						{t('cta.buy')} — ${productInfo.plans[0].price}
 					</a>
 				</div>

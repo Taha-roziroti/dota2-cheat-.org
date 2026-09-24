@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Rebrand dota2cheat.com → dota2cheat.com (Dota 2 Cheats → Dota 2 Cheats).
+ * Rebrand dota2cheat.org → dota2cheat.org (Dota 2 Cheats → Dota 2 Cheats).
  * Run from project root: node scripts/rebrand-dota2-cheats.mjs
  */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
@@ -14,11 +14,11 @@ const SKIP_FILES = new Set(['package-lock.json', 'rebrand-dota2-cheats.mjs']);
 
 /** Ordered — most specific first. */
 const REPLACEMENTS = [
-	['https://dota2cheat.com', 'https://dota2cheat.com'],
-	['https://dota2cheat.com', 'https://dota2cheat.com'],
-	['dota2cheat.com', 'dota2cheat.com'],
-	['support@dota2cheat.com', 'support@dota2cheat.com'],
-	['dota2cheat.com', 'dota2cheat.com'],
+	['https://dota2cheat.org', 'https://dota2cheat.org'],
+	['https://dota2cheat.org', 'https://dota2cheat.org'],
+	['dota2cheat.org', 'dota2cheat.org'],
+	['support@dota2cheat.org', 'support@dota2cheat.org'],
+	['dota2cheat.org', 'dota2cheat.org'],
 	['project-name=cheatsfordota2', 'project-name=cheatsfordota2'],
 	['name = "dota2cheats"', 'name = "cheats-for-dota2"'],
 	['Dota 2 Cheats', 'Dota 2 Cheats'],

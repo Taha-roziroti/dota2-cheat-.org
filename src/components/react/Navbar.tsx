@@ -120,7 +120,7 @@ function NavbarInner({
 					<a
 						href={checkoutUrl}
 						className="site-tools__buy"
-						rel="noopener noreferrer"
+						rel="sponsored nofollow noopener noreferrer"
 						aria-label={t('cta.buyShort')}
 					>
 						<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -183,7 +183,7 @@ function NavbarInner({
 								hrefForLocale={hrefForLocale}
 							/>
 						</div>
-						<a href={checkoutUrl} className="site-panel__buy" rel="noopener noreferrer" data-nav-close>
+						<a href={checkoutUrl} className="site-panel__buy" rel="sponsored nofollow noopener noreferrer" data-nav-close>
 							<span data-edit="ctaBuy">{t('cta.buy')}</span>
 						</a>
 					</div>

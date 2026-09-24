@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "Priser",
     "status": "Uppdateringar",
-    "reviews": "Vad spelare säger",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "Omdömen",
+    "primaryAria": "Huvudnavigering",
+    "mobileAria": "Mobil navigering",
+    "openMenu": "Öppna menyn",
+    "closeMenu": "Stäng menyn"
   },
   "hero": {
     "accent": "dota 2 cheats",
@@ -28,11 +28,11 @@
     "buyNow": "Köp nu",
     "seeFeatures": "Se funktioner",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — Dota 2 ESP- och aimbot-överlägg",
     "chipEsp": "ESP / wallhack",
     "chipAim": "Skillshot-assistans",
-    "chipRadar": "2D radar",
-    "chipUpdates": "Uppdateringar"
+    "chipRadar": "Radaröverlägg",
+    "chipUpdates": "Patchuppdateringar"
   },
   "cta": {
     "buy": "Köp nu",
@@ -70,11 +70,90 @@
     "outOf": "av 5",
     "countLabel": "recensioner",
     "eyebrow": "Vad spelare säger",
-    "homeTitle": "Dota 2 Cheats Vad spelare säger",
-    "buyerReviews": "recensioner",
-    "averageAria": "Vad spelare säger",
-    "outOfFiveAria": "av 5",
-    "readAll": "→"
+    "homeTitle": "Dota 2 Cheats omdömen",
+    "buyerReviews": "{{count}} köparomdömen",
+    "averageAria": "Snitt {{rating}} av {{count}} omdömen",
+    "outOfFiveAria": "{{rating}} av 5",
+    "readAll": "Läs alla omdömen →",
+    "scrollHint": "Scrolla eller dra för att se omdömen",
+    "prev": "Föregående omdöme",
+    "next": "Nästa omdöme",
+    "verifiedBuyer": "Verifierad köpare",
+    "carouselAria": "Karusell med köparomdömen",
+    "indexTitle": "Dota 2 cheats-omdömen — hack & cheats",
+    "indexAverageAria": "Snitt {{rating}} av 5",
+    "indexCount": "{{count}} köparomdömen · av 5",
+    "starsAria": "{{rating}} av 5 stjärnor",
+    "readFull": "Läs hela omdömet",
+    "ctaAria": "Köp {{brand}}",
+    "ctaTitle": "Redo att prova Dota 2 cheats?",
+    "ctaBody": "Dota 2-hack och cheats i ett paket — ESP, skillshot-assistans och radar för Windows PC, med {{game}}-patchunderhåll.",
+    "ctaBuy": "Köp nu — ${{price}}",
+    "comparePricing": "Jämför priser",
+    "reviewBy": "{{brand}}-omdöme av @{{handle}}",
+    "reviewImageAlt": "{{brand}}-omdöme av @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "Testade 3 Dota 2-cheat förut. Dota 2 Cheats känns naturliga i ranked efter soft aim-justering.",
+        "text": "Jag testade tre olika Dota 2-hack och alla kändes för snabba i ranked. Dota 2 Cheats låter dig finjustera soft aim så det inte syns i högt MMR. En veckas grind; installationen tog cirka 12 minuter efter whitelist av loadern. Inga problem ännu.",
+        "seoTitle": "Soft Aim-recension av @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 betygsätter soft aim i Dota 2 Cheats med 5/5 efter ranked-tester på Windows PC."
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "Köpte för ESP, inte aimbot. Dota 2 Cheats wallhack visar rotationer före gank — enormt i ranked.",
+        "text": "Jag använder knappt aimbot; köpte för ESP. Att se vilka hjältar roterat lane innan gank är vansinnig info. Flera veckor på månadsplan, värt det. Menyn kunde vara snyggare men paketet är stabilt.",
+        "seoTitle": "ESP-recension av @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K betygsätter ESP-wallhack i Dota 2 Cheats med 4/5 för ranked-info på Windows PC."
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "Gamla hacken dog vid VAC-patch. Dota 2 Cheats rebuild samma natt, tillförlitlig 2 veckor på kartan.",
+        "text": "Min senaste cheat dog dagen efter VAC-uppdateringen. Bytte till Dota 2 Cheats och loadern var tillbaka samma kväll som rebuild. ESP och radar på kartan, fortfarande clean efter två veckor. Köpte lifetime — slut på månadsbetalning för döda hack.",
+        "seoTitle": "Uppdateringsrecension av @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard betygsätter Dota 2 Cheats med 5/5 efter VAC-uppdatering — snabb rebuild på Windows PC."
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "Inte teknisk men Dota 2 Cheats-menyn är enkel. Soft aim känns naturligt efter FOV- och smoothing-justering i ranked.",
+        "text": "Jag är inte teknisk alls. Menyn är enkel — sänkte FOV på soft aim, höjde smoothing, tog bort snap. Känns nu som muskelminne i solo och ranked. Bara 4 stjärnor eftersom support vid första inloggning tog en timme, men licensnyckeln fixades snabbt.",
+        "seoTitle": "Soft Aim-recension av @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 betygsätter soft aim i Dota 2 Cheats med 4/5 efter FOV-justering i ranked på Windows PC."
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender blockerade loadern först men support fixade på två timmar. Dota 2 Cheats ESP ser clean ut i custom-lobbys.",
+        "text": "Dota 2 Cheats funkar bra när du är i spelet. Windows Defender blockerade loadern första försöket och jag fick panik. Mailade support med order-ID, svar inom två timmar med steg. ESP ser clean i customs; inte full ranked än. Tre stjärnor för setup-stress men cheaten verkar OK.",
+        "seoTitle": "Installationsrecension av @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 betygsätter Dota 2 Cheats setup med 3/5 — solid ESP efter support-hjälp på Windows PC."
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "Hjälte-ESP i Dota 2 Cheats fångar flanker och wards tidigt. Mycket bättre än sketchy gratis-cheat.",
+        "text": "Ville främst ha hjälte-ESP och ward-tracking för Dota 2. Dota 2 Cheats visar fiendehjältar och ganks före min hjärna. Party med vänner är mindre kaos när du vet vem som flankar. Mycket bättre än slumpmässiga gratis-hack som ser shady ut.",
+        "seoTitle": "Hjälte-ESP-recension av @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx betygsätter hjälte-ESP i Dota 2 Cheats med 5/5 för ward- och hjälte-tracking på Windows PC."
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "Per-hjälte aim-profiler i Dota 2 Cheats hjälper i ranked. Tillbaka dagen efter VAC-patch.",
+        "text": "Använder Dota 2 Cheats sedan nya säsongen. Per-hjälte aim-profiler hjälper på långdistans skillshots — ranged carries vs melee känns olika, nice. Statussidan var långsam efter VAC-patch men builden var tillbaka nästa morgon. Stabilt för långa ranked-grind-sessioner.",
+        "seoTitle": "Ranked Soft Aim av @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 betygsätter soft aim i Dota 2 Cheats med 4/5 för hjälte-skillshots i ranked på Windows PC."
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "2D-radar i Dota 2 Cheats fångade flanker på kartan två gånger. ESP plus radar känns som riktiga cheat.",
+        "text": "Alla pratar ESP men 2D-radarn i Dota 2 Cheats är grym. Fångade en flank på kartan två gånger i en match utan att stirra på wallhack-boxar. ESP plus radar känns som tier-1-cheat. Låg opacity så det inte skriker cheat i clips.",
+        "seoTitle": "Radar-recension av @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 betygsätter radar i Dota 2 Cheats med 5/5 för flankdetektering på Dota 2-kartan på Windows PC."
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "Patchdag dödar ofta Dota 2-hack. Dota 2 Cheats var tillbaka nästa morgon; gamla leverantören tog fyra dagar.",
+        "text": "På Dota 2-patchdag tystnar halva cheat-discorderna. Dota 2 Cheats-teamet postade status inom ~3 timmar och jag var tillbaka i ranked-kön nästa morgon. Gamla leverantören lät mig vänta fyra dagar utan loader. Inte perfekt men supporten är mycket bättre än jag är van vid.",
+        "seoTitle": "Statusrecension av @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike betygsätter Dota 2 Cheats statusuppdateringar med 4/5 efter VAC-patchar på Dota 2 för Windows PC."
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "Carry-main. Soft aim plus ESP i Dota 2 Cheats slår annorlunda på kartan om inställningarna hålls subtila.",
+        "text": "Carry-main här. Långdistans soft aim i Dota 2 Cheats med ESP-callouts är starkt om inställningarna hålls lågmälda. Ingen uppblåst loader, enkel installation på Windows 11. Bästa Dota 2-hack jag använt för ranked-sessioner på kartan — cranka inte FOV som en idiot.",
+        "seoTitle": "Carry Soft Aim-recension av @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ betygsätter carry soft aim i Dota 2 Cheats med 5/5 med ESP på Dota 2 för Windows PC."
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "Språk",
-    "englishOfficial": "Engelska är det officiella språket",
-    "englishIsOfficial": "Engelska är det officiella språket. Andra språk är översatta för global SEO.",
-    "languageSuggestion": "Språk",
-    "dismiss": "Dismiss",
+    "selectLanguage": "Välj språk",
+    "englishOfficial": "Engelska — officiellt språk",
+    "englishIsOfficial": "Engelska är det officiella språket",
+    "languageSuggestion": "Språkförslag",
+    "dismiss": "Stäng",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "Navigering",
+    "gallery": "Galleri",
+    "inGameLook": "I spelet",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "Läs guide",
-    "packageStatus": "Uppdateringar",
-    "productDetails": "Funktioner",
-    "browse": "Relaterade sidor",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "Öppna en fråga för hela svaret.",
+    "packageStatus": "Paketstatus",
+    "productDetails": "Produktdetaljer",
+    "browse": "Bläddra",
+    "featured": "Utvalt",
+    "share": "Dela",
+    "shareX": "Dela på X",
+    "shareReddit": "Dela på Reddit",
+    "shareFacebook": "Dela på Facebook",
     "blog": "Forum",
-    "home": "Home",
+    "home": "Hem",
     "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "Funktioner",
-    "pricingPlans": "Priser",
-    "buyerReviewsNav": "Vad spelare säger",
+    "privacy": "Integritet",
+    "terms": "Villkor",
+    "featureList": "Funktionslista",
+    "pricingPlans": "Prisplaner",
+    "buyerReviewsNav": "Köparomdömen",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "Återbetalning",
     "forums": "Forum"
   },
   "footer": {
@@ -251,19 +330,19 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
     "blogTitle": "Dota 2 Cheats Forums | Setup Tips & Feature Talk",
-    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.",
+    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.org/forums/.",
     "blogH1": "Community Forums",
     "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running dota 2 cheats on PC.",
     "readMore": "Read guide",
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Installation",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Funktioner",
+      "Maphack": "Maphack",
+      "Scripts": "Skript",
+      "Camera": "Kamera",
+      "Troubleshooting": "Felsökning",
+      "Pricing": "Priser",
+      "Radar": "Radar",
+      "Combo Scripts": "Komboskript",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -317,7 +410,7 @@
       },
       "how-to-contact-support": {
         "q": "¿Cómo contacto soporte?",
-        "a": "Usa la página de Support o escribe a support@dota2cheat.com. Incluye los datos del pedido y una descripción clara del problema de instalación."
+        "a": "Usa la página de Support o escribe a support@dota2cheat.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
       },
       "what-is-a-dota2-wallhack": {
         "q": "Vad är en Dota 2 wallhack?",
@@ -349,7 +442,7 @@
       },
       "how-to-install-dota2-cheats": {
         "q": "How do I install dota 2 cheats on Windows PC?",
-        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.com if activation fails."
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.org if activation fails."
       },
       "best-dota2-cheats-in-2026": {
         "q": "What are the best dota 2 cheats in 2026?",
@@ -389,7 +482,7 @@
       },
       "how-long-dota2-cheat-setup-takes": {
         "q": "How long does dota 2 cheats setup take?",
-        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.com with your order ID."
+        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.org with your order ID."
       },
       "does-dota2-cheats-include-triggerbot": {
         "q": "Does Dota 2 Cheats include triggerbot?",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Sidan hittades inte",
+    "metaTitle": "Sidan hittades inte | {{brand}}",
+    "metaDescription": "Den {{brand}}-sidan saknas. Gå till startsidan eller bläddra bland funktioner, butik, installation, omdömen och forum.",
+    "body": "URL:en du öppnade finns inte på {{brand}}. Använd länkarna för ESP, aimbot, butik och installation för {{game}} på Windows PC.",
+    "backHome": "Tillbaka till {{brand}}",
+    "gamePreview": "{{game}}-förhandsvisning",
+    "store": "Butik",
+    "reviews": "Omdömen",
+    "forums": "Forum",
+    "support": "Support"
   }
 }

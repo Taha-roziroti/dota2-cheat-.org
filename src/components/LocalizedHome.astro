@@ -5,7 +5,6 @@ import Agent from '../components/Hero.astro';
 import HomeReviews from '../components/HomeReviews.astro';
 import HomeSeo from '../components/HomeSeo.astro';
 import HomeAbout from '../components/HomeAbout.astro';
-import CategoryRow from '../components/CategoryRow.astro';
 import ExternalResources from '../components/ExternalResources.astro';
 import { externalUrls } from '../data/external-resources';
 import SiteFooter from '../components/SiteFooter.astro';
@@ -13,6 +12,7 @@ import { getLocaleContent, getPageContent } from '../data/i18n';
 import { getLocalizedPath } from '../data/i18n/routing';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { homeSeo, productInfo, siteConfig, customerReviewStats } from '../data/site';
+import { brand } from '../data/site-core';
 import { getLocalizedHomeFaqs } from '../data/localized-faq';
 import { heroPreloadSrc, heroSizes, heroSrcSet } from '../lib/responsive-images';
 import { defaultCrawlImageSrc } from '../data/page-images';
@@ -115,11 +115,12 @@ const extraGraph: Record<string, unknown>[] = [
 	lcpImage={heroPreloadSrc}
 	lcpImageSrcSet={heroSrcSet}
 	lcpImageSizes={heroSizes}
+	heroVideoMp4={brand.heroVideoMp4 || undefined}
+	heroVideoWebm={brand.heroVideoUrl || undefined}
 >
 	<Navbar locale={locale} pageId="home" />
 	<main id="main-content" class="home">
 		<Agent locale={locale} />
-		<CategoryRow locale={locale} embedded />
 		<HomeReviews locale={locale} />
 		<div class="home__seo">
 			<HomeAbout locale={locale} />

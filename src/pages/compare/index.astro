@@ -3,17 +3,18 @@ import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/Navbar.astro';
 import SiteFooter from '../../components/SiteFooter.astro';
 import TrustBar from '../../components/TrustBar.astro';
+import { AFFILIATE_REL } from '../../data/affiliate';
 import { productInfo, siteConfig } from '../../data/site';
 import { getSelfHreflangAlternates } from '../../data/i18n/routing';
 
 const title = 'Dota 2 Cheats Comparison | vs Budget Cheat Shops 2026';
 const description =
-	'Compare Dota 2 Cheats vs typical budget cheat shops — ESP, aimbot, radar, VAC maintenance, pricing ($35/mo or $150 lifetime), and support at dota2cheat.com.';
+	'Compare Dota 2 Cheats vs typical budget cheat shops — ESP, aimbot, radar, VAC maintenance, pricing ($35/mo or $150 lifetime), and support at dota2cheat.org.';
 const canonicalPath = '/compare/';
 const hreflangAlternates = getSelfHreflangAlternates(canonicalPath);
 
 const rows = [
-	{ feature: 'ESP wallhack + operator markers', us: 'Included', them: 'Often extra tier' },
+	{ feature: 'ESP wallhack + hero markers', us: 'Included', them: 'Often extra tier' },
 	{ feature: 'Soft aim / aimbot profiles', us: 'Included', them: 'Basic or paywalled' },
 	{ feature: '2D radar overlay', us: 'Included', them: 'Rare on budget builds' },
 	{ feature: 'VAC maintenance', us: 'Documented on /updates/', them: 'Often vague' },
@@ -21,7 +22,7 @@ const rows = [
 	{ feature: 'Monthly plan', us: '$35/month', them: '$20–$50+ (varies)' },
 	{ feature: 'Lifetime plan', us: '$150 lifetime', them: 'Often unavailable' },
 	{ feature: 'Setup guide + support', us: '/setup/ + email support', them: 'Discord-only common' },
-	{ feature: 'Buyer reviews', us: '1000+ on-site reviews', them: 'Rarely verified' },
+	{ feature: 'Buyer reviews', us: '100+ verified buyer reviews', them: 'Rarely verified' },
 ];
 
 const extraGraph = [
@@ -104,7 +105,7 @@ const extraGraph = [
 			</section>
 
 			<p class="standalone-page__cta">
-				<a href={siteConfig.checkoutUrl} data-analytics="checkout">Buy {productInfo.name} — ${productInfo.plans[0].price}/mo</a>
+				<a href={siteConfig.checkoutUrl} rel={AFFILIATE_REL} data-analytics="checkout">Buy {productInfo.name} — ${productInfo.plans[0].price}/mo</a>
 				<a class="standalone-page__cta-secondary" href="/pricing/">View pricing</a>
 				<a class="standalone-page__cta-secondary" href="/features/">Full feature list</a>
 			</p>

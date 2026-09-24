@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { customerReviews, productInfo, siteConfig } from '../data/site';
 import { getLocalizedPath, buildCanonicalUrl } from '../data/i18n/routing';
 import { getReviewPath, getReviewCrawlImage, getReviewsBasePath } from '../data/reviews';
@@ -107,7 +108,7 @@ const extraGraph: Record<string, unknown>[] = [
 						{...(contentSrcSet(photo.src)
 							? { srcset: contentSrcSet(photo.src), sizes: productMainSizes }
 							: {})}
-						alt={`${siteConfig.name} review by @${review.handle}`}
+						alt={t('reviews.reviewImageAlt', { brand: siteConfig.name, handle: review.handle })}
 						width="960"
 						height="530"
 						loading="lazy"
@@ -117,8 +118,10 @@ const extraGraph: Record<string, unknown>[] = [
 				<header class="review-detail__head">
 					<span class="review-detail__avatar" aria-hidden="true">{review.handle.charAt(0).toUpperCase()}</span>
 					<div class="review-detail__meta">
-						<h1 class="review-detail__title">{siteConfig.name} review by @{review.handle}</h1>
-						<p class="review-detail__stars" aria-label={`${review.rating} out of 5 stars`}>
+						<h1 class="review-detail__title">
+							{t('reviews.reviewBy', { brand: siteConfig.name, handle: review.handle })}
+						</h1>
+						<p class="review-detail__stars" aria-label={t('reviews.starsAria', { rating: review.rating })}>
 							<span aria-hidden="true">{stars(review.rating)}</span>
 							<span class="review-detail__rating">{review.rating}/5</span>
 						</p>
@@ -135,7 +138,7 @@ const extraGraph: Record<string, unknown>[] = [
 				</blockquote>
 
 				<div class="review-detail__ctas">
-					<a href={siteConfig.checkoutUrl} class="review-detail__buy" rel="noopener noreferrer">
+					<a href={siteConfig.checkoutUrl} class="review-detail__buy" rel={AFFILIATE_REL}>
 						{t('cta.buy')} {siteConfig.name} — ${productInfo.plans[0].price}
 					</a>
 					<a href={pricingHref} class="review-detail__link-btn">{t('nav.store')}</a>
@@ -151,7 +154,7 @@ const extraGraph: Record<string, unknown>[] = [
 							<a class="review-detail__more-card" href={getReviewPath(other.slug, locale)}>
 								<span class="review-detail__more-top">
 									<span class="review-detail__more-handle">@{other.handle}</span>
-									<span class="review-detail__more-stars" aria-label={`${other.rating} out of 5 stars`}>
+									<span class="review-detail__more-stars" aria-label={t('reviews.starsAria', { rating: other.rating })}>
 										{stars(other.rating)}
 									</span>
 								</span>

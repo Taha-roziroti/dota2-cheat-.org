@@ -52,7 +52,7 @@ const REPLACEMENTS = [
 	['VAC Bypass', 'VAC Bypass'],
 	['VAC', 'VAC'],
 	['vac', 'vac'],
-	['support@dota2cheat.com', 'support@dota2cheat.com'],
+	['support@dota2cheat.org', 'support@dota2cheat.org'],
 	['maps, sites, and buy stations', 'maps, sites, and buy stations'],
 	['maps, sites and buy stations', 'maps, sites and buy stations'],
 	['raid fights', 'raid fights'],

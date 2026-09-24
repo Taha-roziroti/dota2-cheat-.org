@@ -35,9 +35,9 @@ const copyDefaults = {
 	supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 	faqIntro: 'Short answers about delivery, setup, updates, and refunds.',
 	reviewsIntro:
-		'Real feedback on Dota 2 cheats and Dota 2 hacks — ESP, soft aim, radar, and support from {brand} buyers.',
+		'Real feedback on Dota 2 cheats — ESP, skillshot assist, radar, and support from {brand} buyers.',
 	chipEsp: 'ESP / wallhack',
-	chipAim: 'Soft aim',
+	chipAim: 'Skillshot assist',
 	chipRadar: '2D radar',
 	chipUpdates: 'Patch updates',
 	navPreview: 'Preview',
@@ -51,33 +51,33 @@ const seoDefaults = {
 	homeTitle: 'Dota 2 Esp, Aimbot & Wallhack',
 	homeDescription:
 		'Dota 2 cheats with ESP, aimbot and wallhack for ranked matches on PC. Hero vision, maphack, skillshot assist, and VAC maintenance after patches.',
-	featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Radar',
+	featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Maphack',
 	featuresDescription:
-		'Full Dota 2 cheats feature list — ESP wallhack, soft aim, 2D radar & mod menu toggles on PC. {antiCheat} maintenance at dota2cheat.com.',
+		'Full Dota 2 cheats feature list — hero ESP, ward vision, maphack, skillshot assist, and config profiles on PC. {antiCheat} maintenance at dota2cheat.org.',
 	storeTitle: 'Dota 2 Cheats Pricing | $35/mo or $150 Lifetime',
 	storeDescription:
-		'Buy Dota 2 cheats at dota2cheat.com — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
+		'Buy Dota 2 cheats at dota2cheat.org — $35/month or $150 lifetime. ESP, aimbot & radar on PC. Same features, instant delivery.',
 	statusTitle: 'Dota 2 Cheats Status | VAC Patch Updates',
 	statusDescription:
 		'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
 	previewTitle: 'Dota 2 Cheats | ESP, Aimbot & Wallhack Guide',
 	previewDescription:
-		'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.com.',
+		'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.org.',
 	setupTitle: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 	setupDescription:
-		'Install {brand} on PC — activate ESP, soft aim & radar step by step. Setup guide at dota2cheat.com. Check {antiCheat} status before your first match.',
+		'Install {brand} on PC — activate ESP, skillshot assist, and radar step by step. Setup guide at dota2cheat.org. Check {antiCheat} status before your first match.',
 	supportTitle: 'Dota 2 Cheats Support | License & Setup Help',
 	supportDescription:
-		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. dota2cheat.com/support.',
+		'Support for license delivery, ESP setup & billing on PC. Email {email} with your order ID. dota2cheat.org/support.',
 	faqTitle: 'Dota 2 Cheats FAQ | ESP, Aimbot & {antiCheat}',
 	faqDescription:
-		'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.com before you buy.',
+		'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.org before you buy.',
 	reviewsTitle: 'Dota 2 Cheats Reviews | ESP, Aimbot & Maphack',
 	reviewsDescription:
-		'Real buyer reviews for Dota 2 cheats and Dota 2 hacks — ESP, soft aim, radar & {antiCheat} maintenance on PC. See what license holders say at dota2cheat.com.',
+		'Real buyer reviews for Dota 2 cheats — ESP, skillshot assist, radar, and {antiCheat} maintenance on PC. See what license holders say at dota2cheat.org.',
 	blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 	blogDescription:
-		'Dota 2 cheats forums — setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.',
+		'Dota 2 cheats forums — setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.org/forums/.',
 } as const;
 
 type SeoShape = typeof seoDefaults;
@@ -156,7 +156,7 @@ export const productInfo = {
 			'Draw Target Line with color options',
 			'Per-weapon profiles',
 		],
-		radar: ['2D radar overlay', 'Gadget ESP — Agents, Spike, Health, Rank', 'Adjustable range'],
+		radar: ['2D radar overlay', 'Hero ESP — wards, missing heroes, runes', 'Adjustable range'],
 		general: [
 			fillBrandTokens('{antiCheat} maintenance after patches'),
 			'Streamproof mode',

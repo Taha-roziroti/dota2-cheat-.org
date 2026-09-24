@@ -1,46 +1,108 @@
 ---
-import SiteFooterApp from './react/SiteFooter';
 import { getLocalizedPath } from '../data/i18n/routing';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
 import { getBlogBasePath } from '../data/blog/helpers';
+import { getReviewsBasePath } from '../data/reviews';
 import { siteConfig } from '../data/site';
+import { getT } from '../i18n/server';
 
 interface Props {
 	locale?: LocaleCode;
 }
 
 const locale = Astro.props.locale ?? defaultLocale;
+const t = getT(locale);
+const year = new Date().getFullYear();
+const shareUrl = `${siteConfig.url}/`;
+const encodedUrl = encodeURIComponent(shareUrl);
+const encodedName = encodeURIComponent(siteConfig.name);
+const tagline = t('footer.tagline').split('\n')[0];
 
 const explore = [
-	{ labelKey: 'nav.hacks', href: getLocalizedPath('home', locale) },
-	{ labelKey: 'nav.esp', href: getLocalizedPath('dota2-esp', locale) },
-	{ labelKey: 'nav.aimbot', href: getLocalizedPath('dota2-aimbot', locale) },
-	{ labelKey: 'common.featureList', href: getLocalizedPath('features', locale) },
-	{ labelKey: 'common.pricingPlans', href: getLocalizedPath('pricing', locale) },
-	{ labelKey: 'nav.faq', href: getLocalizedPath('faq', locale) },
-	{ labelKey: 'common.forums', href: getBlogBasePath(locale) },
+	{ labelKey: 'footer.linkCheatsGuide', href: getLocalizedPath('hacks', locale) },
+	{ labelKey: 'footer.linkEspPage', href: getLocalizedPath('dota2-esp', locale) },
+	{ labelKey: 'footer.linkAimbotPage', href: getLocalizedPath('dota2-aimbot', locale) },
+	{ labelKey: 'footer.linkFeatureList', href: getLocalizedPath('features', locale) },
+	{ labelKey: 'footer.linkPricingPlans', href: getLocalizedPath('pricing', locale) },
+	{ labelKey: 'footer.linkFaqHub', href: getLocalizedPath('faq', locale) },
+	{ labelKey: 'footer.linkForums', href: getBlogBasePath(locale) },
 ];
 
 const help = [
-	{ labelKey: 'nav.setup', href: getLocalizedPath('setup', locale) },
-	{ labelKey: 'nav.updates', href: getLocalizedPath('updates', locale) },
-	{ labelKey: 'common.buyerReviewsNav', href: '/reviews/' },
-	{ labelKey: 'common.support', href: getLocalizedPath('support', locale) },
-	{ labelKey: 'common.refundPolicy', href: getLocalizedPath('refund', locale) },
-	{ labelKey: 'common.privacy', href: getLocalizedPath('privacy', locale) },
-	{ labelKey: 'common.terms', href: getLocalizedPath('terms', locale) },
+	{ labelKey: 'footer.linkSetupGuide', href: getLocalizedPath('setup', locale) },
+	{ labelKey: 'footer.linkPatchStatus', href: getLocalizedPath('updates', locale) },
+	{ labelKey: 'footer.linkBuyerReviews', href: getReviewsBasePath(locale) },
+	{ labelKey: 'footer.linkSupportDesk', href: getLocalizedPath('support', locale) },
+	{ labelKey: 'footer.linkRefundPolicy', href: getLocalizedPath('refund', locale) },
+	{ labelKey: 'footer.linkPrivacyPolicy', href: getLocalizedPath('privacy', locale) },
+	{ labelKey: 'footer.linkTermsOfUse', href: getLocalizedPath('terms', locale) },
+	{ labelKey: 'affiliate.footerLink', href: '/affiliate-disclosure/' },
+];
+
+const shareLinks = [
+	{
+		label: t('common.shareX'),
+		href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedName}`,
+	},
+	{
+		label: t('common.shareReddit'),
+		href: `https://reddit.com/submit?url=${encodedUrl}&title=${encodedName}`,
+	},
+	{
+		label: t('common.shareFacebook'),
+		href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+	},
 ];
 ---
 
-<SiteFooterApp
-	client:visible
-	locale={locale}
-	siteName={siteConfig.name}
-	supportEmail={siteConfig.supportEmail}
-	shareUrl={`${siteConfig.url}/`}
-	explore={explore}
-	help={help}
-/>
+<footer class="site-footer">
+	<div class="shell site-footer__grid">
+		<div>
+			<p class="site-footer__brand">{siteConfig.name}</p>
+			<p>{tagline}</p>
+			<p class="site-footer__share-label">{t('common.share')}</p>
+			<ul class="site-footer__share">
+				{
+					shareLinks.map((link) => (
+						<li>
+							<a href={link.href} rel="noopener noreferrer" target="_blank">{link.label}</a>
+						</li>
+					))
+				}
+			</ul>
+		</div>
+		<div>
+			<p class="site-footer__label">{t('footer.explore')}</p>
+			<ul>
+				{
+					explore.map((link) => (
+						<li>
+							<a href={link.href}>{t(link.labelKey)}</a>
+						</li>
+					))
+				}
+			</ul>
+		</div>
+		<div>
+			<p class="site-footer__label">{t('footer.help')}</p>
+			<ul>
+				{
+					help.map((link) => (
+						<li>
+							<a href={link.href}>{t(link.labelKey)}</a>
+						</li>
+					))
+				}
+				<li>
+					<a href={`mailto:${siteConfig.supportEmail}`}>{siteConfig.supportEmail}</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="shell site-footer__bottom">
+		<p>{t('common.copyright', { year, brand: siteConfig.name })}</p>
+	</div>
+</footer>
 
 <style is:global>
 	.site-footer {

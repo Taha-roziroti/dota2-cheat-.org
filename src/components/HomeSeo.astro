@@ -35,7 +35,7 @@ const categories = [
 		hintKey: 'homeSeo.catStatusHint',
 		links: [
 			{ href: getLocalizedPath('updates', locale), labelKey: 'homeSeo.linkLiveStatus' },
-			{ href: getLocalizedPath('home', locale), labelKey: 'homeSeo.linkReliable' },
+			{ href: getLocalizedPath('hacks', locale), labelKey: 'homeSeo.linkReliableCheats' },
 			{ href: getLocalizedPath('setup', locale), labelKey: 'homeSeo.linkSetup' },
 			{ href: getLocalizedPath('faq', locale), labelKey: 'homeSeo.linkFaq' },
 		],
@@ -45,9 +45,9 @@ const categories = [
 		hintKey: 'homeSeo.catStoreHint',
 		links: [
 			{ href: getLocalizedPath('pricing', locale), labelKey: 'homeSeo.linkPlans' },
-			{ href: '/reviews/', labelKey: 'homeSeo.linkReviews' },
+			{ href: '/reviews/', labelKey: 'homeSeo.linkBuyerReviews' },
 			{ href: getLocalizedPath('hacks', locale), labelKey: 'homeSeo.linkFinalsCheats' },
-			{ href: getLocalizedPath('features', locale), labelKey: 'homeSeo.linkAllFeatures' },
+			{ href: getLocalizedPath('faq', locale), labelKey: 'homeSeo.linkFaqHub' },
 		],
 	},
 	{
@@ -119,7 +119,7 @@ const faqIndexHref = getLocalizedPath('faq', locale);
 						<div class="home-seo__item-body">
 							<p>{item.answer}</p>
 							<a class="home-seo__item-link" href={item.href}>
-								{t('homeSeo.openFullPage')}
+								{t('homeSeo.readAnswer', { question: item.question })}
 							</a>
 						</div>
 					</details>

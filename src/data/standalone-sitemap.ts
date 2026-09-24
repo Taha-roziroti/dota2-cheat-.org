@@ -27,6 +27,12 @@ export const standaloneEnSitemapEntries: StandaloneSitemapEntry[] = [
 		changefreq: 'yearly',
 		priority: 0.5,
 	},
+	{
+		path: '/affiliate-disclosure/',
+		lastmod: '2026-09-24',
+		changefreq: 'yearly',
+		priority: 0.45,
+	},
 ];
 
 export function absoluteStandaloneUrl(path: string): string {

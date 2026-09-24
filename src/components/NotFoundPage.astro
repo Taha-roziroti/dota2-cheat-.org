@@ -1,0 +1,142 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from './Navbar.astro';
+import SiteFooter from './SiteFooter.astro';
+import { getLocalizedPath, getSelfHreflangAlternates } from '../data/i18n/routing';
+import { getReviewsBasePath } from '../data/reviews';
+import { fillBrandTokens, productInfo, siteConfig } from '../data/site';
+import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale?: LocaleCode;
+	canonicalPath?: string;
+}
+
+const locale = Astro.props.locale ?? defaultLocale;
+const canonicalPath = Astro.props.canonicalPath ?? Astro.url.pathname;
+const t = getT(locale);
+
+const title = fillBrandTokens(t('notFound.metaTitle', { brand: siteConfig.name }));
+const description = fillBrandTokens(t('notFound.metaDescription', { brand: siteConfig.name }));
+const hreflangAlternates = getSelfHreflangAlternates(canonicalPath, locale);
+
+const homeHref = getLocalizedPath('home', locale);
+const pricingHref = getLocalizedPath('pricing', locale);
+const reviewsHref = getReviewsBasePath(locale);
+const forumsHref = locale === defaultLocale ? '/forums/' : `/${locale}/forums/`;
+const supportHref = getLocalizedPath('support', locale);
+const hacksHref = getLocalizedPath('hacks', locale);
+---
+
+<Layout
+	title={title}
+	description={description}
+	canonicalPath={canonicalPath}
+	hreflangAlternates={hreflangAlternates}
+	noindex={true}
+	locale={locale}
+>
+	<Navbar locale={locale} />
+	<main id="main-content" class="missing">
+		<div class="shell">
+			<div class="shell-content missing__inner">
+				<p class="missing__code" aria-hidden="true">404</p>
+				<h1 class="missing__title">{t('notFound.title')}</h1>
+				<p class="missing__text">
+					{fillBrandTokens(t('notFound.body', { brand: siteConfig.name, game: productInfo.game }))}
+				</p>
+				<div class="missing__actions">
+					<a class="btn-buy" href={homeHref}>
+						{fillBrandTokens(t('notFound.backHome', { brand: siteConfig.name }))}
+					</a>
+					<a class="missing__ghost" href={hacksHref}>
+						{t('notFound.gamePreview', { game: productInfo.game })}
+					</a>
+					<a class="missing__ghost" href={pricingHref}>{t('notFound.store')}</a>
+					<a class="missing__ghost" href={reviewsHref}>{t('notFound.reviews')}</a>
+					<a class="missing__ghost" href={forumsHref}>{t('notFound.forums')}</a>
+					<a class="missing__ghost" href={supportHref}>{t('notFound.support')}</a>
+				</div>
+			</div>
+		</div>
+	</main>
+	<SiteFooter locale={locale} />
+</Layout>
+
+<style>
+	.missing {
+		min-height: 58vh;
+		display: grid;
+		align-items: center;
+		padding-block: clamp(2.5rem, 8vw, 5rem);
+	}
+
+	.missing__inner {
+		display: grid;
+		gap: 0.85rem;
+	}
+
+	.missing__code {
+		margin: 0;
+		font-family: var(--font-display);
+		font-size: clamp(2.5rem, 8vw, 4rem);
+		font-weight: 800;
+		letter-spacing: 0.04em;
+		color: color-mix(in srgb, var(--magenta-soft) 55%, transparent);
+		line-height: 1;
+	}
+
+	.missing__title {
+		margin: 0;
+		font-family: var(--font-display);
+		font-size: clamp(1.6rem, 4vw, 2.2rem);
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.missing__text {
+		margin: 0;
+		color: var(--ink-muted);
+		line-height: 1.65;
+		max-width: 36rem;
+	}
+
+	.missing__actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.65rem;
+		margin-top: 0.75rem;
+	}
+
+	.missing__ghost {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		min-height: var(--touch-min, 2.75rem);
+		padding: 0.55rem 0.95rem;
+		border-radius: 0.7rem;
+		border: 1px solid var(--line-strong);
+		background: var(--bg-elevated);
+		color: var(--ink);
+		font-size: 0.9rem;
+		font-weight: 700;
+		text-decoration: none;
+	}
+
+	.missing__ghost:hover {
+		border-color: color-mix(in srgb, var(--magenta) 40%, var(--line-strong));
+		color: var(--magenta-soft);
+	}
+
+	@media (max-width: 720px) {
+		.missing__actions {
+			flex-direction: column;
+		}
+
+		.missing__ghost,
+		.missing__actions :global(.btn-buy) {
+			width: 100%;
+		}
+	}
+</style>

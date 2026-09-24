@@ -7,4 +7,4 @@ Disallow: /__brand/
 Disallow: /__brand
 
 # Primary sitemap for Google Search Console — index covers EN, locale, and image sitemaps.
-Sitemap: https://dota2cheat.com/sitemap.xml
+Sitemap: https://dota2cheat.org/sitemap.xml

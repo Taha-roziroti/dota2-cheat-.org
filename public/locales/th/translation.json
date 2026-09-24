@@ -13,11 +13,11 @@
     "preview": "Cheats",
     "store": "ราคา",
     "status": "อัปเดต",
-    "reviews": "ผู้เล่นพูดว่าอย่างไร",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "reviews": "รีวิว",
+    "primaryAria": "การนำทางหลัก",
+    "mobileAria": "การนำทางมือถือ",
+    "openMenu": "เปิดเมนู",
+    "closeMenu": "ปิดเมนู"
   },
   "hero": {
     "accent": "dota 2 cheats ไม่ถูกตรวจจับ",
@@ -28,11 +28,11 @@
     "buyNow": "ซื้อเลย",
     "seeFeatures": "ดูฟีเจอร์",
     "priceFrom": "from",
-    "imageAlt": "{{brand}} — Dota 2 ESP and aimbot overlay",
+    "imageAlt": "{{brand}} — โอเวอร์เลย์ ESP และเอมบอท Dota 2",
     "chipEsp": "ESP / wallhack",
     "chipAim": "ช่วยสกิลช็อต",
-    "chipRadar": "2D radar",
-    "chipUpdates": "อัปเดต"
+    "chipRadar": "เลเยอร์เรดาร์",
+    "chipUpdates": "อัปเดตแพตช์"
   },
   "cta": {
     "buy": "ซื้อเลย",
@@ -70,11 +70,90 @@
     "outOf": "จาก 5",
     "countLabel": "รีวิว",
     "eyebrow": "ผู้เล่นพูดว่าอย่างไร",
-    "homeTitle": "Dota 2 Cheats ผู้เล่นพูดว่าอย่างไร",
-    "buyerReviews": "รีวิว",
-    "averageAria": "ผู้เล่นพูดว่าอย่างไร",
-    "outOfFiveAria": "จาก 5",
-    "readAll": "→"
+    "homeTitle": "รีวิว Dota 2 Cheats",
+    "buyerReviews": "รีวิวจากผู้ซื้อ {{count}} รายการ",
+    "averageAria": "คะแนนเฉลี่ย {{rating}} จาก {{count}} รีวิว",
+    "outOfFiveAria": "{{rating}} จาก 5",
+    "readAll": "อ่านรีวิวทั้งหมด →",
+    "scrollHint": "เลื่อนหรือลากเพื่อดูรีวิว",
+    "prev": "รีวิวก่อนหน้า",
+    "next": "รีวิวถัดไป",
+    "verifiedBuyer": "ผู้ซื้อที่ยืนยันแล้ว",
+    "carouselAria": "แถบรีวิวผู้ซื้อ",
+    "indexTitle": "รีวิวสูตร Dota 2 — แฮกและชีท",
+    "indexAverageAria": "คะแนนเฉลี่ย {{rating}} จาก 5",
+    "indexCount": "รีวิวจากผู้ซื้อ {{count}} รายการ · จาก 5",
+    "starsAria": "{{rating}} จาก 5 ดาว",
+    "readFull": "อ่านรีวิวฉบับเต็ม",
+    "ctaAria": "ซื้อ {{brand}}",
+    "ctaTitle": "พร้อมลองสูตร Dota 2 แล้วหรือยัง?",
+    "ctaBody": "แฮกและชีท Dota 2 ในหนึ่งแพ็ก — ESP ช่วยสกิลช็อต และเรดาร์สำหรับ Windows PC พร้อมดูแลแพตช์ {{game}}",
+    "ctaBuy": "ซื้อเลย — ${{price}}",
+    "comparePricing": "เปรียบเทียบราคา",
+    "reviewBy": "รีวิว {{brand}} โดย @{{handle}}",
+    "reviewImageAlt": "รีวิว {{brand}} โดย @{{handle}}",
+    "items": {
+      "dota2-soft-aim-review-xkrypt0": {
+        "short": "ลองชีท Dota 2 มา 3 ตัวก่อนหน้า ปรับ soft aim แล้ว Dota 2 Cheats รู้สึกเป็นธรรมชาติใน ranked",
+        "text": "ลองแฮก Dota 2 สามตัวและทุกตัวรู้สึกแรงเกินไปใน ranked Dota 2 Cheats ปรับ soft aim ได้จนไม่เด่นใน MMR สูง เล่นมาหนึ่งสัปดาห์ ติดตั้งใช้เวลาประมาณ 12 นาทีหลัง whitelist loader ยังไม่มีปัญหา",
+        "seoTitle": "รีวิว Soft Aim โดย @xKrypt0_Dota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@xKrypt0_Dota 2 ให้คะแนน soft aim ของ Dota 2 Cheats 5/5 หลังทดสอบใน ranked บน Windows PC"
+      },
+      "dota2-esp-rotation-review-buildsr4k": {
+        "short": "ซื้อเพราะ ESP ไม่ใช่ aimbot Wallhack ของ Dota 2 Cheats แสดงการหมุนก่อน gank — สำคัญมากใน ranked",
+        "text": "แทบไม่ใช้ aimbot ซื้อเพราะ ESP เห็นฮีโร่เปลี่ยนเลนก่อน gank คือข้อมูลสุดยอด ใช้แพ็กรายเดือนมาหลายสัปดาห์ คุ้มค่า เมนูอาจสะอาดกว่านี้ได้ แต่แพ็กเกจแข็งแรง",
+        "seoTitle": "รีวิว ESP โดย @buildsR4K — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@buildsR4K ให้คะแนน ESP wallhack ของ Dota 2 Cheats 4/5 สำหรับข้อมูล ranked บน Windows PC"
+      },
+      "dota2-cloud-dma-review-dma-wizard": {
+        "short": "แฮกเก่าตายตอนแพตช์ VAC Dota 2 Cheats rebuild คืนเดียวกัน ใช้งานได้ 2 สัปดาห์บนแผนที่",
+        "text": "ชีทล่าสุดพังหลังอัปเดต VAC วันถัดไป เปลี่ยนมา Dota 2 Cheats และ loader กลับมาคืนที่ rebuild ใช้ ESP และเรดาร์บนแผนที่ สะอาดหลังสองสัปดาห์ ซื้อ lifetime ไม่จ่ายรายเดือนสำหรับแฮกที่ตาย",
+        "seoTitle": "รีวิวอัปเดตโดย @dma_wizard — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@dma_wizard ให้คะแนน Dota 2 Cheats 5/5 หลังอัปเดต VAC — rebuild เร็วบน Windows PC"
+      },
+      "dota2-soft-aim-review-ctrl-player99": {
+        "short": "ไม่เก่งเทคนิคแต่เมนู Dota 2 Cheats ง่าย ปรับ FOV และ smoothing แล้ว soft aim รู้สึกเป็นธรรมชาติใน ranked",
+        "text": "ไม่เก่งเทคนิคเลย เมนูเรียบง่าย — ลด FOV soft aim เพิ่ม smoothing หยุด snap ตอนนี้รู้สึกเหมือนความจำกล้ามเนื้อใน solo และ ranked ให้ 4 ดาวเพราะซัพพอร์ตครั้งแรกใช้เวลาชั่วโมง แต่แก้คีย์ลิขสิทธิ์เร็ว",
+        "seoTitle": "รีวิว Soft Aim โดย @ctrl_player99 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@ctrl_player99 ให้คะแนน soft aim ของ Dota 2 Cheats 4/5 หลังปรับ FOV ใน ranked บน Windows PC"
+      },
+      "dota2-cheat-setup-review-stormchaser07": {
+        "short": "Defender บล็อก loader ตอนแรก แต่ซัพพอร์ตแก้ใน 2 ชม. ESP ของ Dota 2 Cheats ดูสะอาดใน custom lobby",
+        "text": "Dota 2 Cheats ใช้ได้ดีเมื่อเข้าเกมแล้ว Windows Defender บล็อก loader ครั้งแรกและตกใจ อีเมลซัพพอร์ตพร้อม order ID ตอบใน 2 ชม. ESP ดูสะอาดใน custom ยังไม่ลง ranked เต็ม 3 ดาวเพราะความเครียดติดตั้ง แต่ชีทดูโอเค",
+        "seoTitle": "รีวิวการติดตั้งโดย @stormChaser_07 — 3/5 | Dota 2 Cheats",
+        "seoDescription": "@stormChaser_07 ให้คะแนนการติดตั้ง Dota 2 Cheats 3/5 หลังซัพพอร์ตช่วยบน Windows PC"
+      },
+      "dota2-agent-esp-review-weapondrops-goblinx": {
+        "short": "ESP ฮีโรของ Dota 2 Cheats จับ flank และ ward ได้เร็ว ดีกว่าชีทฟรีที่น่าสงสัยมาก",
+        "text": "ต้องการ ESP ฮีโรและติดตาม ward สำหรับ Dota 2 Dota 2 Cheats แสดงฮีโรศัตรูและ gank ก่อนสมอง ปาร์ตี้กับเพื่อนเลอะน้อยลงเมื่อรู้ว่าใคร flank ดีกว่าแฮกฟรีแบบสุ่มที่ดูน่าสงสัยมาก",
+        "seoTitle": "รีวิว ESP ฮีโรโดย @weaponDropsGoblinx — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@weaponDropsGoblinx ให้คะแนน ESP ฮีโรของ Dota 2 Cheats 5/5 สำหรับติดตาม ward และฮีโรบน Windows PC"
+      },
+      "dota2-soft-aim-session-review-rankedgrind42": {
+        "short": "โปรไฟล์ aim ต่อฮีโรของ Dota 2 Cheats ช่วยใน ranked กลับมาวันถัดไปหลังแพตช์ VAC",
+        "text": "ใช้ Dota 2 Cheats ตั้งแต่ซีซันใหม่ โปรไฟล์ aim ต่อฮีโรช่วย skillshot ระยะไกล — carry ระยะไกลกับ melee รู้สึกต่างกัน ดี หน้าสถานะช้าหลังแพตช์ VAC แต่ build กลับเช้าวันถัดไป แข็งแรงสำหรับ grind ranked ยาว",
+        "seoTitle": "รีวิว Ranked Soft Aim โดย @rankedGrind42 — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@rankedGrind42 ให้คะแนน soft aim ของ Dota 2 Cheats 4/5 สำหรับ skillshot ฮีโรใน ranked บน Windows PC"
+      },
+      "dota2-radar-hack-review-vanlifedota2": {
+        "short": "เรดาร์ 2D ของ Dota 2 Cheats จับ flank บนแผนที่สองครั้ง คอมโบ ESP และเรดาร์เหมือนชีทจริง",
+        "text": "ทุกคนพูดเรื่อง ESP แต่เรดาร์ 2D ของ Dota 2 Cheats แรงมาก จับ flank บนแผนที่สองครั้งในหนึ่งแมตช์โดยไม่จ้องกล่อง wallhack คอมโบ ESP และเรดาร์เหมือนชีทระดับท็อป ใช้ความโปร่งใสต่ำเพื่อไม่ให้เด่นในคลิป",
+        "seoTitle": "รีวิวเรดาร์โดย @vanLifeDota 2 — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@vanLifeDota 2 ให้คะแนนเรดาร์ของ Dota 2 Cheats 5/5 สำหรับตรวจจับ flank บนแผนที่ Dota 2 บน Windows PC"
+      },
+      "dota2-vac-update-review-patchdaymike": {
+        "short": "วันแพตช์มักทำให้แฮก Dota 2 ตาย Dota 2 Cheats กลับมาเช้าวันถัดไป ผู้ให้บริการเก่าใช้ 4 วัน",
+        "text": "วันแพตช์ Dota 2 คือเมื่อครึ่ง discord ชีทเงียบ ทีม Dota 2 Cheats โพสต์สถานะใน ~3 ชม. และกลับคิว ranked เช้าวันถัดไป ผู้ให้บริการเก่าทำให้รอ 4 วันไม่มี loader ไม่สมบูรณ์แต่ซัพพอร์ตดีกว่าที่เคยมาก",
+        "seoTitle": "รีวิวสถานะโดย @patchDayMike — 4/5 | Dota 2 Cheats",
+        "seoDescription": "@patchDayMike ให้คะแนนอัปเดตสถานะ Dota 2 Cheats 4/5 หลังแพตช์ VAC ใน Dota 2 บน Windows PC"
+      },
+      "dota2-operator-soft-aim-review-snipezonly": {
+        "short": "เล่น carry หลัก soft aim และ ESP ของ Dota 2 Cheats ต่างบนแผนที่ถ้าตั้งค่าเบาๆ",
+        "text": "เล่น carry หลัก soft aim ระยะไกลของ Dota 2 Cheats กับ ESP callout แรงมากถ้าตั้งค่าเบา loader ไม่บวม ติดตั้งง่ายบน Windows 11 แฮก Dota 2 ที่ดีที่สุดที่ใช้ใน ranked บนแผนที่ — อย่าเพิ่ม FOV แบบโง่ๆ",
+        "seoTitle": "รีวิว Carry Soft Aim โดย @snipezOnly_ — 5/5 | Dota 2 Cheats",
+        "seoDescription": "@snipezOnly_ ให้คะแนน carry soft aim ของ Dota 2 Cheats 5/5 พร้อม ESP ใน Dota 2 บน Windows PC"
+      }
+    }
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -82,36 +161,36 @@
     "language": "Language",
     "officialLanguageNote": "English is official; other locales are translated.",
     "relatedPages": "Related pages",
-    "selectLanguage": "ภาษา",
-    "englishOfficial": "ภาษาอังกฤษเป็นภาษาทางการ ภาษาอื่นแปลเพื่อ SEO ระดับโลก",
-    "englishIsOfficial": "ภาษาอังกฤษเป็นภาษาทางการ ภาษาอื่นแปลเพื่อ SEO ระดับโลก",
-    "languageSuggestion": "ภาษา",
-    "dismiss": "Dismiss",
+    "selectLanguage": "เลือกภาษา",
+    "englishOfficial": "อังกฤษ — ภาษาทางการ",
+    "englishIsOfficial": "อังกฤษเป็นภาษาทางการ",
+    "languageSuggestion": "คำแนะนำภาษา",
+    "dismiss": "ปิด",
     "localeVersion": "{{name}} version",
     "localeSuggestLead": "{{nativeName}} ({{region}}) —",
-    "breadcrumb": "Breadcrumb",
-    "gallery": "Gallery",
-    "inGameLook": "In-game look",
+    "breadcrumb": "เส้นทาง",
+    "gallery": "แกลเลอรี",
+    "inGameLook": "มุมมองในเกม",
     "allQuestions": "FAQ",
-    "openAnyQuestion": "อ่านคู่มือ",
-    "packageStatus": "อัปเดต",
-    "productDetails": "ฟีเจอร์",
-    "browse": "หน้าที่เกี่ยวข้อง",
-    "featured": "Featured",
-    "share": "Share",
-    "shareX": "Share on X",
-    "shareReddit": "Share on Reddit",
-    "shareFacebook": "Share on Facebook",
+    "openAnyQuestion": "เปิดคำถามเพื่อดูคำตอบทั้งหมด",
+    "packageStatus": "สถานะแพ็กเกจ",
+    "productDetails": "รายละเอียดผลิตภัณฑ์",
+    "browse": "เรียกดู",
+    "featured": "แนะนำ",
+    "share": "แชร์",
+    "shareX": "แชร์บน X",
+    "shareReddit": "แชร์บน Reddit",
+    "shareFacebook": "แชร์บน Facebook",
     "blog": "ฟอรั่ม",
-    "home": "Home",
-    "support": "Support",
-    "privacy": "Privacy",
-    "terms": "Terms",
-    "featureList": "ฟีเจอร์",
-    "pricingPlans": "ราคา",
-    "buyerReviewsNav": "ผู้เล่นพูดว่าอย่างไร",
+    "home": "หน้าแรก",
+    "support": "ฝ่ายสนับสนุน",
+    "privacy": "ความเป็นส่วนตัว",
+    "terms": "ข้อกำหนด",
+    "featureList": "รายการฟีเจอร์",
+    "pricingPlans": "แผนราคา",
+    "buyerReviewsNav": "รีวิวผู้ซื้อ",
     "copyright": "© {{year}} {{brand}}",
-    "refundPolicy": "Refund policy",
+    "refundPolicy": "คืนเงิน",
     "forums": "ฟอรั่ม"
   },
   "footer": {
@@ -251,19 +330,19 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
     "blogTitle": "Dota 2 Cheats Forums | Setup Tips & Feature Talk",
-    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.",
+    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.org/forums/.",
     "blogH1": "Community Forums",
     "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running dota 2 cheats on PC.",
     "readMore": "Read guide",
@@ -273,7 +352,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "ติดตั้ง",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "ฟีเจอร์",
+      "Maphack": "Maphack",
+      "Scripts": "สคริปต์",
+      "Camera": "กล้อง",
+      "Troubleshooting": "แก้ปัญหา",
+      "Pricing": "ราคา",
+      "Radar": "เรดาร์",
+      "Combo Scripts": "สคริปต์คอมโบ",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -317,7 +410,7 @@
       },
       "how-to-contact-support": {
         "q": "¿Cómo contacto soporte?",
-        "a": "Usa la página de สนับสนุน o escribe a support@dota2cheat.com. Incluye los datos del pedido y una descripción clara del problema de instalación."
+        "a": "Usa la página de สนับสนุน o escribe a support@dota2cheat.org. Incluye los datos del pedido y una descripción clara del problema de instalación."
       },
       "what-is-a-dota2-wallhack": {
         "q": "Dota 2 wallhack คืออะไร?",
@@ -349,7 +442,7 @@
       },
       "how-to-install-dota2-cheats": {
         "q": "How do I install dota 2 cheats on Windows PC?",
-        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.com if activation fails."
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.org if activation fails."
       },
       "best-dota2-cheats-in-2026": {
         "q": "What are the best dota 2 cheats in 2026?",
@@ -389,7 +482,7 @@
       },
       "how-long-dota2-cheat-setup-takes": {
         "q": "How long does dota 2 cheats setup take?",
-        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.com with your order ID."
+        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.org with your order ID."
       },
       "does-dota2-cheats-include-triggerbot": {
         "q": "Does Dota 2 Cheats include triggerbot?",
@@ -415,5 +508,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "ไม่พบหน้า",
+    "metaTitle": "ไม่พบหน้า | {{brand}}",
+    "metaDescription": "ไม่มีหน้า {{brand}} นี้ กลับหน้าแรกหรือดูฟีเจอร์ ร้านค้า ติดตั้ง รีวิว และฟอรั่ม",
+    "body": "URL ที่เปิดไม่มีใน {{brand}} ใช้ลิงก์ด้านล่างสำหรับ ESP เอมบอท ร้านค้า และติดตั้ง {{game}} บน Windows PC",
+    "backHome": "กลับหน้าแรก {{brand}}",
+    "gamePreview": "ตัวอย่าง {{game}}",
+    "store": "ร้านค้า",
+    "reviews": "รีวิว",
+    "forums": "ฟอรั่ม",
+    "support": "ฝ่ายสนับสนุน"
   }
 }

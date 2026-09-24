@@ -57,7 +57,7 @@ const REVIEW_PAGES = 11; // /reviews/ index + 10 review detail pages
 const FAQ_PAGES = 26; // standalone FAQ answer pages (index is in product pages)
 const GUIDE_SITEMAP_PAGES = 165; // /guides/ hub + 164 guide posts (2 legacy slugs omitted)
 const GUIDE_HTML_PAGES = 167; // /guides/ hub + 166 dedicated guide posts
-const STANDALONE_PAGES = 3; // /about/ /compare/ /write-for-us/
+const STANDALONE_PAGES = 4; // /about/ /compare/ /write-for-us/ /affiliate-disclosure/
 /** Product pages in sitemap — excludes cannibal EN URLs that 301 to stronger pillars */
 const ENGLISH_PRODUCT_PAGES = 18;
 const ENGLISH_PAGES =
@@ -199,6 +199,7 @@ const ENGLISH_PATHS = [
 	'/about/',
 	'/compare/',
 	'/write-for-us/',
+	'/affiliate-disclosure/',
 	'/guides/',
 	'/guides/dota2-valocheats-com-guide/',
 	'/guides/dota2-dota2hack-net-guide/',

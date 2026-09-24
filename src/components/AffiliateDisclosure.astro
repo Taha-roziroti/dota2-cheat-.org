@@ -1,0 +1,65 @@
+---
+import type { LocaleCode } from '../data/i18n/locales';
+import { defaultLocale } from '../data/i18n/locales';
+import { AFFILIATE_DISCLOSURE_PATH } from '../data/affiliate';
+import { getT } from '../i18n/server';
+
+interface Props {
+	locale?: LocaleCode;
+	/** `nav` = compact header copy; `block` = standalone paragraph */
+	variant?: 'nav' | 'block';
+}
+
+const { locale = defaultLocale, variant = 'nav' } = Astro.props;
+const t = getT(locale);
+---
+
+<p
+	class:list={['affiliate-disclosure', variant === 'nav' && 'affiliate-disclosure--nav']}
+	data-affiliate-disclosure
+>
+	{t('affiliate.disclosureLead')}
+	<a href={AFFILIATE_DISCLOSURE_PATH}>{t('affiliate.disclosureLink')}</a>{t('affiliate.disclosureTail')}
+</p>
+
+<style is:global>
+	.affiliate-disclosure {
+		margin: 0;
+		font-size: 0.72rem;
+		line-height: 1.35;
+		color: var(--ink-muted, color-mix(in srgb, var(--ink) 72%, transparent));
+	}
+
+	.affiliate-disclosure a {
+		color: inherit;
+		text-decoration: underline;
+		text-underline-offset: 0.12em;
+	}
+
+	.affiliate-disclosure a:hover {
+		color: var(--ink-heading);
+	}
+
+	.affiliate-disclosure--nav {
+		display: none;
+		max-width: 9.5rem;
+		text-align: right;
+	}
+
+	@media (min-width: 1100px) {
+		.affiliate-disclosure--nav {
+			display: block;
+		}
+	}
+
+	.site-panel__affiliate {
+		margin-bottom: 0.65rem;
+	}
+
+	.site-panel__affiliate .affiliate-disclosure {
+		font-size: 0.78rem;
+		max-width: none;
+		display: block;
+		text-align: left;
+	}
+</style>

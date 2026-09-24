@@ -21,15 +21,15 @@ export const HERO_IMAGES = {
 	pricing: '/images/dota2-screenshot-04.webp',
 	setup: '/images/dota2-screenshot-05.webp',
 	updates: '/images/dota2-screenshot-06.webp',
-	faq: '/images/dota2-screenshot-07.webp',
-	support: '/images/dota2-screenshot-07.webp',
+	faq: '/images/dota2-screenshot-06.webp',
+	support: '/images/dota2-screenshot-06.webp',
 	reliable: '/images/dota2-screenshot-01.webp',
 	wallhack: '/images/dota2-screenshot-02.webp',
 	radar: '/images/dota2-screenshot-03.webp',
 	vac: '/images/dota2-screenshot-04.webp',
 	'cheats-2026': '/images/dota2-screenshot-05.webp',
 	hacks: '/images/dota2-screenshot-06.webp',
-	'cheat-download': '/images/dota2-screenshot-07.webp',
+	'cheat-download': '/images/dota2-screenshot-06.webp',
 	'mod-menu': '/images/dota2-screenshot-02.webp',
 	'soft-aim': '/images/dota2-screenshot-01.webp',
 	'best-cheats': '/images/dota2-screenshot-02.webp',
@@ -37,7 +37,7 @@ export const HERO_IMAGES = {
 	'esp-hack': '/images/dota2-screenshot-04.webp',
 	'unlock-all': '/images/dota2-screenshot-05.webp',
 	privacy: '/images/dota2-screenshot-06.webp',
-	refund: '/images/dota2-screenshot-07.webp',
+	refund: '/images/dota2-screenshot-06.webp',
 	terms: '/images/dota2-screenshot-03.webp',
 };
 
@@ -86,9 +86,9 @@ export function clampDesc(s) {
 	const MIN = 140;
 	const MAX = 160;
 	if (text.length < MIN) {
-		const pad = text.toLowerCase().includes('dota2cheat.com')
+		const pad = text.toLowerCase().includes('dota2cheat.org')
 			? ' Windows PC license with VAC maintenance after patches.'
-			: ' Compare plans and guides at dota2cheat.com.';
+			: ' Compare plans and guides at dota2cheat.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= MAX) return text;

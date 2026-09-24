@@ -1,6 +1,6 @@
 # Dota 2 Cheats — Marketing Site
 
-Static Astro 7 site for [dota2cheat.com](https://dota2cheat.com). Primary SEO keyword: **dota 2 cheats** (secondary: dota 2 esp, dota 2 aimbot, dota 2 wallhack).
+Static Astro 7 site for [dota2cheat.org](https://dota2cheat.org). Primary SEO keyword: **dota 2 cheats** (secondary: dota 2 esp, dota 2 aimbot, dota 2 wallhack).
 
 ## Stack
 
@@ -18,4 +18,4 @@ npm run localhost
 
 ## Deploy
 
-See [DEPLOY.md](./DEPLOY.md) for Cloudflare Workers Builds setup targeting **dota2cheat.com**.
+See [DEPLOY.md](./DEPLOY.md) for Cloudflare Workers Builds setup targeting **dota2cheat.org**.

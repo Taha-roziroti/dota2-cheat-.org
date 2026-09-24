@@ -1,5 +1,6 @@
 import { customerReviews, siteConfig } from './site';
-import { defaultLocale, type LocaleCode } from './i18n/locales';
+import { defaultLocale, localeCodes, localeMap, type LocaleCode } from './i18n/locales';
+import { buildCanonicalUrl } from './i18n/routing';
 import { reviewsSitemapImageMeta } from './brand-sitemap';
 import { absoluteImageUrl, crawlPhotoMeta, reviewsImageSrc } from './page-images';
 
@@ -14,6 +15,24 @@ export function getReviewPath(slug: string, locale: LocaleCode = defaultLocale):
 
 export function getReviewsBasePath(locale: LocaleCode = defaultLocale): string {
 	return locale === defaultLocale ? reviewsBasePath : `/${locale}/reviews/`;
+}
+
+export function getReviewsIndexHreflangAlternates(currentLocale: LocaleCode = defaultLocale) {
+	const byLocale = localeCodes.map((code) => ({
+		hreflang: localeMap[code].hreflang,
+		href: buildCanonicalUrl(getReviewsBasePath(code), code),
+		code,
+	}));
+	const self = byLocale.find((alt) => alt.code === currentLocale)!;
+	const others = byLocale.filter((alt) => alt.code !== currentLocale);
+	return [
+		{ hreflang: self.hreflang, href: self.href },
+		...others.map(({ hreflang, href }) => ({ hreflang, href })),
+		{
+			hreflang: 'x-default' as const,
+			href: buildCanonicalUrl(reviewsBasePath, defaultLocale),
+		},
+	];
 }
 
 export function absoluteReviewUrl(slug?: string): string {

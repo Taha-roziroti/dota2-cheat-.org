@@ -14,8 +14,8 @@
     "store": "Pricing",
     "status": "Updates",
     "reviews": "Reviews",
-    "primaryAria": "Primary",
-    "mobileAria": "Mobile",
+    "primaryAria": "Primary navigation",
+    "mobileAria": "Mobile navigation",
     "openMenu": "Open menu",
     "closeMenu": "Close menu"
   },
@@ -37,6 +37,12 @@
   "cta": {
     "buy": "Get Access",
     "buyShort": "Buy"
+  },
+  "affiliate": {
+    "disclosureLead": "Affiliate: ",
+    "disclosureLink": "disclosure",
+    "disclosureTail": " — we may earn a commission on purchases.",
+    "footerLink": "Affiliate disclosure"
   },
   "trust": {
     "status": "Online",
@@ -72,9 +78,27 @@
     "eyebrow": "Dota 2 Cheats",
     "homeTitle": "Dota 2 Cheats reviews",
     "buyerReviews": "{{count}} Dota 2 Cheats buyer reviews",
-    "averageAria": "{{rating}} average from {{count}} Dota 2 Cheats buyer reviews",
+    "averageAria": "{{rating}} average from {{count}} buyer reviews",
     "outOfFiveAria": "{{rating}} out of 5",
-    "readAll": "Read all Dota 2 Cheats reviews →"
+    "readAll": "Read all Dota 2 Cheats reviews →",
+    "scrollHint": "Scroll or drag to browse reviews",
+    "prev": "Previous review",
+    "next": "Next review",
+    "verifiedBuyer": "Verified buyer",
+    "carouselAria": "Buyer reviews carousel",
+    "indexTitle": "Dota 2 cheats reviews — Dota 2 hacks & cheats",
+    "indexAverageAria": "{{rating}} out of 5 average rating",
+    "indexCount": "{{count}} buyer reviews · out of 5",
+    "starsAria": "{{rating}} out of 5 stars",
+    "readFull": "Read full review",
+    "ctaAria": "Buy {{brand}}",
+    "ctaTitle": "Ready to try Dota 2 cheats?",
+    "ctaBody": "Dota 2 hacks and cheats in one package — ESP, skillshot assist, and radar for Windows PC, with {{game}} patch maintenance after updates.",
+    "ctaBuy": "Buy Now — ${{price}}",
+    "comparePricing": "Compare pricing",
+    "reviewBy": "{{brand}} review by @{{handle}}",
+    "reviewImageAlt": "{{brand}} review by @{{handle}}",
+    "items": {}
   },
   "common": {
     "buyNow": "Buy Dota 2 Cheats",
@@ -117,7 +141,21 @@
   "footer": {
     "explore": "Explore",
     "help": "Help & legal",
-    "tagline": "Dota 2 cheats for PC.\nESP, maphack, radar & skillshot assist."
+    "tagline": "Dota 2 cheats for PC.\nESP, maphack, radar & skillshot assist.",
+    "linkCheatsGuide": "Cheats guide",
+    "linkEspPage": "ESP wallhack",
+    "linkAimbotPage": "Aimbot assist",
+    "linkFeatureList": "Full feature list",
+    "linkPricingPlans": "Pricing & plans",
+    "linkFaqHub": "FAQ answers",
+    "linkForums": "Community forums",
+    "linkSetupGuide": "Install guide",
+    "linkPatchStatus": "Patch status",
+    "linkBuyerReviews": "Customer reviews",
+    "linkSupportDesk": "Support desk",
+    "linkRefundPolicy": "Refund policy",
+    "linkPrivacyPolicy": "Privacy policy",
+    "linkTermsOfUse": "Terms of use"
   },
   "home": {
     "aboutTitle": "Premium dota 2 cheats for PC",
@@ -156,11 +194,14 @@
     "linkAimbot": "Aimbot",
     "linkRadar": "Radar",
     "linkLiveStatus": "Live status",
+    "linkReliableCheats": "Reliable cheats guide",
     "linkVAC": "VAC",
     "linkSetup": "Setup",
     "linkPlans": "Plans",
     "linkReviews": "Reviews",
+    "linkBuyerReviews": "Review hub",
     "linkFinalsCheats": "Dota 2 Cheats",
+    "linkFaqHub": "FAQ hub",
     "linkFaq": "FAQ",
     "linkSupport": "Support",
     "linkSetupGuide": "Setup thread",
@@ -171,6 +212,7 @@
     "faqLede": "Delivery, detection status, and what is included.",
     "allAnswers": "All answers",
     "openFullPage": "Open full page",
+    "readAnswer": "Read answer: {{question}}",
     "linkPatchStatus": "Patch status"
   },
   "deals": {
@@ -221,7 +263,7 @@
   },
   "externalResources": {
     "title": "Official game guides & resources",
-    "lede": "We link to trusted third-party sources so you can verify patch notes, player stats, and map info outside our site.",
+    "lede": "We link to trusted gank sources so you can verify patch notes, player stats, and map info outside our site.",
     "pillsTitle": "Official guides",
     "pillsLabel": "Official Dota 2 guides",
     "steam": {
@@ -248,19 +290,19 @@
   "images": {
     "hero": "Dota 2 Cheats overlay — ESP and aimbot in Dota 2",
     "espWallhack": "Wallhack outlines showing players through walls",
-    "aimbotCombat": "Skillshot assist assist overlay during a Dota 2 match",
+    "aimbotCombat": "Skillshot assist overlay during a Dota 2 match",
     "squadFight": "Dota 2 Cheats combat overlay during a team fight",
     "playerEsp": "Player ESP boxes and distance readouts in a Dota 2 match",
     "headerArt": "Aimbot view and bone priority controls for Dota 2",
     "hacksPackage": "2D radar threat overlay for Dota 2",
     "raidFight": "Aimbot assist during a Dota 2 competitive fight",
     "battleRoyale": "Dota 2 Cheats in-session overview for Windows PC",
-    "raidMap": "ESP markers for operator item builds and POIs in Dota 2",
+    "raidMap": "ESP markers for hero item builds and POIs in Dota 2",
     "heroFight": "Dota 2 Cheats combat overlay during a team fight"
   },
   "blog": {
     "blogTitle": "Dota 2 Cheats Forums | Setup Tips & Feature Talk",
-    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.com/forums/.",
+    "blogDescription": "Dota 2 cheats forums with setup walkthroughs, ESP settings, skillshot assist sliders, and VAC patch notes for PC at dota2cheat.org/forums/.",
     "blogH1": "Community Forums",
     "blogIntro": "Setup guides, feature breakdowns, and patch-day threads from players running dota 2 cheats on PC.",
     "readMore": "Read guide",
@@ -270,7 +312,21 @@
     "allPosts": "All blog posts",
     "home": "Dota 2 Cheats home",
     "language": "Language",
-    "label": "Dota 2 Intel"
+    "label": "Dota 2 Intel",
+    "categories": {
+      "Setup": "Setup",
+      "ESP": "ESP",
+      "Aimbot": "Aimbot",
+      "Features": "Features",
+      "Maphack": "Maphack",
+      "Scripts": "Scripts",
+      "Camera": "Camera",
+      "Troubleshooting": "Troubleshooting",
+      "Pricing": "Pricing",
+      "Radar": "Radar",
+      "Combo Scripts": "Combo Scripts",
+      "VAC": "VAC"
+    }
   },
   "gallery": {
     "eyebrow": "Dota 2 Cheats",
@@ -314,7 +370,7 @@
       },
       "how-to-contact-support": {
         "q": "How do I contact support?",
-        "a": "Use the Support page or email support@dota2cheat.com. Include your order details, package length, and a clear description of the setup issue so replies can be faster."
+        "a": "Use the Support page or email support@dota2cheat.org. Include your order details, package length, and a clear description of the setup issue so replies can be faster."
       },
       "what-is-a-dota2-wallhack": {
         "q": "What is a Dota 2 wallhack?",
@@ -346,7 +402,7 @@
       },
       "how-to-install-dota2-cheats": {
         "q": "How do I install dota 2 cheats on Windows PC?",
-        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.com if activation fails."
+        "a": "After checkout, follow the Setup guide: download the loader, disable conflicting overlays, launch Dota 2 Cheats, and enable ESP, radar, or aimbot toggles in the mod menu. Most buyers finish first launch in under 15 minutes. Email support@dota2cheat.org if activation fails."
       },
       "best-dota2-cheats-in-2026": {
         "q": "What are the best dota 2 cheats in 2026?",
@@ -386,7 +442,7 @@
       },
       "how-long-dota2-cheat-setup-takes": {
         "q": "How long does dota 2 cheats setup take?",
-        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.com with your order ID."
+        "a": "Most buyers finish Dota 2 Cheats setup in 10–20 minutes on Windows PC: install the loader, activate the license, and enable ESP or aimbot in the mod menu. If Windows Defender or another AV blocks the loader, follow Setup troubleshooting or email support@dota2cheat.org with your order ID."
       },
       "does-dota2-cheats-include-triggerbot": {
         "q": "Does Dota 2 Cheats include triggerbot?",
@@ -412,5 +468,17 @@
     "chipAim": "Skillshot assist",
     "chipRadar": "Radar overlay",
     "chipUpdates": "Patch updates"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "metaTitle": "Page Not Found | {{brand}}",
+    "metaDescription": "That {{brand}} page is missing. Return home or browse features, store, setup, reviews, and forums.",
+    "body": "The URL you opened is not on {{brand}}. Use the links below for ESP, aimbot, store, and setup for {{game}} on Windows PC.",
+    "backHome": "Back to {{brand}} home",
+    "gamePreview": "{{game}} preview",
+    "store": "Store",
+    "reviews": "Reviews",
+    "forums": "Forums",
+    "support": "Support"
   }
 }

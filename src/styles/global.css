@@ -19,15 +19,15 @@
 	--ink-heading: #ffffff;
 	--ink-secondary: #d4d4d8;
 	--ink-muted: #a1a1aa;
-	--ink-faint: #71717a;
-	--link: #ff9d00;
+	--ink-faint: #8b8b96;
+	--link: #a78bfa;
 
-	/* Brand accent — Dota 2 amber/orange CTA */
-	--magenta: #ff9d00;
-	--magenta-soft: #ffb84d;
-	--magenta-deep: #cc7a00;
+	/* Brand accent — Dota 2 purple CTA */
+	--magenta: #8b5cf6;
+	--magenta-soft: #a78bfa;
+	--magenta-deep: #6d28d9;
 	--accent: var(--magenta);
-	--accent-hover: #ffad33;
+	--accent-hover: #c4b5fd;
 	--ok: #34d399;
 	--warn: #f43f5e;
 
@@ -35,11 +35,11 @@
 	--btn-red-glow:
 		0 1px 0 color-mix(in srgb, #fff 18%, transparent) inset,
 		0 4px 14px color-mix(in srgb, var(--magenta-deep) 58%, transparent),
-		0 8px 28px color-mix(in srgb, #4a3000 42%, transparent);
+		0 8px 28px color-mix(in srgb, #2e1065 42%, transparent);
 	--btn-red-glow-hover:
 		0 1px 0 color-mix(in srgb, #fff 22%, transparent) inset,
 		0 6px 18px color-mix(in srgb, var(--magenta-deep) 72%, transparent),
-		0 14px 36px color-mix(in srgb, #4a3000 55%, transparent);
+		0 14px 36px color-mix(in srgb, #2e1065 55%, transparent);
 
 	/* Legacy aliases */
 	--tone-void: #040306;

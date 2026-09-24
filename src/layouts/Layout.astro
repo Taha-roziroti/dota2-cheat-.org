@@ -33,6 +33,9 @@ interface Props {
 	lcpImage?: string;
 	lcpImageSrcSet?: string;
 	lcpImageSizes?: string;
+	/** Preload hero background video on homepage for priority fetch. */
+	heroVideoMp4?: string;
+	heroVideoWebm?: string;
 	/** When false, omits og:locale:alternate tags (EN-only pages like guides). */
 	ogLocaleAlternates?: boolean;
 }
@@ -53,6 +56,8 @@ const {
 	lcpImage,
 	lcpImageSrcSet,
 	lcpImageSizes = '100vw',
+	heroVideoMp4,
+	heroVideoWebm,
 	ogLocaleAlternates = true,
 } = Astro.props;
 
@@ -179,28 +184,6 @@ if (aboutNode) {
 		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 		<meta name="color-scheme" content="dark" />
 		<meta name="theme-color" content={brandTheme.bg} />
-		<link
-			rel="preload"
-			as="font"
-			type="font/woff2"
-			href="/fonts/barlow-latin-400-normal.woff2"
-			crossorigin
-		/>
-		<link
-			rel="preload"
-			as="font"
-			type="font/woff2"
-			href="/fonts/bebas-neue-latin-400-normal.woff2"
-			crossorigin
-		/>
-		{/* Self-hosted Bebas Neue + Barlow (latin) — no Google Fonts. */}
-		<script is:inline src="/trusted-types-policy.js"></script>
-		<script is:inline src="/nav-menu.js"></script>
-		<meta name="robots" content={robots} />
-		<meta name="googlebot" content={robots} />
-		<meta name="description" content={pageDescription} />
-		<meta name="author" content={siteConfig.name} />
-		<link rel="canonical" href={canonicalURL} />
 		{
 			lcpImageSrcSet ? (
 				<link
@@ -224,6 +207,36 @@ if (aboutNode) {
 				)
 			)
 		}
+		{
+			heroVideoWebm ? (
+				<link
+					rel="preload"
+					as="video"
+					href={heroVideoWebm}
+					type="video/webm"
+					fetchpriority="high"
+				/>
+			) : null
+		}
+		{
+			heroVideoMp4 ? (
+				<link rel="preload" as="video" href={heroVideoMp4} type="video/mp4" fetchpriority="high" />
+			) : null
+		}
+		<link
+			rel="preload"
+			as="font"
+			type="font/woff2"
+			href="/fonts/barlow-latin-400-normal.woff2"
+			crossorigin
+		/>
+		<script is:inline src="/trusted-types-policy.js"></script>
+		<script is:inline src="/nav-menu.js" defer></script>
+		<meta name="robots" content={robots} />
+		<meta name="googlebot" content={robots} />
+		<meta name="description" content={pageDescription} />
+		<meta name="author" content={siteConfig.name} />
+		<link rel="canonical" href={canonicalURL} />
 		{pageId && <I18nHead pageId={pageId} locale={locale} />}
 		{
 			!pageId &&
@@ -260,6 +273,7 @@ if (aboutNode) {
 		)}
 
 		<title>{pageTitle}</title>
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon.png" />

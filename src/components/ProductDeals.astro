@@ -1,6 +1,7 @@
 ---
 import { getLocalizedPath } from '../data/i18n/routing';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { productInfo, siteConfig } from '../data/site';
 import { getT } from '../i18n/server';
 
@@ -41,7 +42,7 @@ const included = [
 				<ul class="plan__list">
 					{included.map((item) => <li>{item}</li>)}
 				</ul>
-				<a class="plan__cta plan__cta--solid" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+				<a class="plan__cta plan__cta--solid" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 					{t('product.buyMonthly')}
 				</a>
 			</article>
@@ -55,7 +56,7 @@ const included = [
 				<ul class="plan__list">
 					{included.map((item) => <li>{item}</li>)}
 				</ul>
-				<a class="plan__cta" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+				<a class="plan__cta" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 					{t('product.buyLifetime')}
 				</a>
 			</article>

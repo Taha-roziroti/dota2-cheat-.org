@@ -1,11 +1,11 @@
-# Deploy dota2cheat.com
+# Deploy dota2cheat.org
 
-Step-by-step guide to deploy the Dota 2 Cheats static site to **dota2cheat.com** on Cloudflare Pages, configure DNS, and submit to Google Search Console.
+Step-by-step guide to deploy the Dota 2 Cheats static site to **dota2cheat.org** on Cloudflare Pages, configure DNS, and submit to Google Search Console.
 
 ## Prerequisites
 
 - Node.js **≥ 22.12.0**
-- Cloudflare account with access to **dota2cheat.com** DNS
+- Cloudflare account with access to **dota2cheat.org** DNS
 - Wrangler CLI (included as dev dependency): `npx wrangler login`
 
 ## 1. Build and validate locally
@@ -68,9 +68,9 @@ This runs `wrangler pages deploy dist --project-name=cheatsfordota2` (see `wrang
 
 ## 3. Custom domain and DNS
 
-Add **dota2cheat.com** as the primary custom domain on the Pages project.
+Add **dota2cheat.org** as the primary custom domain on the Pages project.
 
-### Apex (dota2cheat.com)
+### Apex (dota2cheat.org)
 
 In **Cloudflare DNS** for the zone:
 
@@ -84,11 +84,11 @@ Cloudflare CNAME flattening handles apex records automatically.
 
 1. Add a DNS record for `www` pointing to the same Pages project (proxied CNAME or A record).
 2. In **Rules** → **Redirect Rules** (or Bulk Redirects), create:
-   - **Source:** `dota2cheat.com/*`
-   - **Target:** `https://dota2cheat.com/${1}`
+   - **Source:** `dota2cheat.org/*`
+   - **Target:** `https://dota2cheat.org/${1}`
    - **Status:** 301
 
-The deployed `functions/_middleware.js` also enforces apex canonical host, legacy domain redirects (`dota2cheat.com`, `.net`, `.com`), and legacy path redirects.
+The deployed `functions/_middleware.js` also enforces apex canonical host, legacy domain redirects (`dota2cheat.org`, `.net`, `.com`), and legacy path redirects.
 
 ### SSL / HTTPS
 
@@ -100,31 +100,31 @@ The deployed `functions/_middleware.js` also enforces apex canonical host, legac
 
 Verify these URLs return **200** with correct content:
 
-- `https://dota2cheat.com/`
-- `https://dota2cheat.com/es/`
-- `https://dota2cheat.com/dota2-cheats/`
-- `https://dota2cheat.com/dota2-aimbot/`
-- `https://dota2cheat.com/sitemap.xml`
-- `https://dota2cheat.com/robots.txt`
+- `https://dota2cheat.org/`
+- `https://dota2cheat.org/es/`
+- `https://dota2cheat.org/dota2-cheats/`
+- `https://dota2cheat.org/dota2-aimbot/`
+- `https://dota2cheat.org/sitemap.xml`
+- `https://dota2cheat.org/robots.txt`
 
 Verify redirects:
 
-- `http://dota2cheat.com` → `https://dota2cheat.com` (301)
-- `https://dota2cheat.com` → `https://dota2cheat.com` (301)
-- Legacy domains (e.g. `dota2cheat.com`) → `https://dota2cheat.com` (301)
+- `http://dota2cheat.org` → `https://dota2cheat.org` (301)
+- `https://dota2cheat.org` → `https://dota2cheat.org` (301)
+- Legacy domains (e.g. `dota2cheat.org`) → `https://dota2cheat.org` (301)
 - `/sitemap-index.xml` → `/sitemap.xml` (301)
 - Legacy paths (e.g. `/fortnite-hacks/`) → Dota 2 equivalents (301)
 
 ## 5. Google Search Console
 
 1. Go to [Google Search Console](https://search.google.com/search-console).
-2. **Add property** → choose **Domain** → enter `dota2cheat.com`.
+2. **Add property** → choose **Domain** → enter `dota2cheat.org`.
 3. Verify ownership via the **DNS TXT record** Cloudflare provides (add in Cloudflare DNS, wait for propagation, then confirm in GSC).
 4. After verification, open **Sitemaps** and submit:
    ```
-   https://dota2cheat.com/sitemap.xml
+   https://dota2cheat.org/sitemap.xml
    ```
-   Remove any legacy submissions (`sitemap-index.xml`, old `dota2cheat.com` URLs).
+   Remove any legacy submissions (`sitemap-index.xml`, old `dota2cheat.org` URLs).
 5. Use **URL Inspection** to request indexing for:
    - Homepage (`/`)
    - Pillar page (`/dota2-cheats/`)
@@ -146,11 +146,11 @@ Verify redirects:
 
 - [ ] `npm run build:validate` passes locally
 - [ ] Cloudflare Pages project attached to this repo
-- [ ] Custom domain `dota2cheat.com` attached and active
+- [ ] Custom domain `dota2cheat.org` attached and active
 - [ ] `www` redirects to apex
-- [ ] Legacy domains 301 to `dota2cheat.com`
+- [ ] Legacy domains 301 to `dota2cheat.org`
 - [ ] Always Use HTTPS enabled
-- [ ] `robots.txt` and sitemaps serve from `https://dota2cheat.com`
+- [ ] `robots.txt` and sitemaps serve from `https://dota2cheat.org`
 - [ ] Google Search Console domain verified
 - [ ] `sitemap.xml` submitted in GSC
 - [ ] Homepage and `/dota2-cheats/` requested for indexing

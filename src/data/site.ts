@@ -41,11 +41,11 @@ export const trustSignals = {
 
 export const seoLandingPages = [
 	{ label: fillBrandTokens('{primaryKeyword}'), href: '/' },
-	{ label: fillBrandTokens('Reliable {primaryKeyword}'), href: '/reliable/' },
+	{ label: fillBrandTokens('{antiCheat} patch status'), href: '/updates/' },
 	{ label: fillBrandTokens('{game} cheats'), href: '/cheats/' },
 	{ label: fillBrandTokens('{game} cheats 2026'), href: '/2026/' },
 	{ label: fillBrandTokens('{game} esp'), href: '/esp/' },
-	{ label: fillBrandTokens('{game} wallhack'), href: '/esp/' },
+	{ label: fillBrandTokens('{game} maphack'), href: '/esp/' },
 	{ label: fillBrandTokens('{game} aimbot'), href: '/aimbot/' },
 	{ label: fillBrandTokens('{game} radar hack'), href: '/radar/' },
 	{ label: fillBrandTokens('Best {primaryKeyword}'), href: '/best/' },
@@ -87,7 +87,7 @@ export const footerExplore = [
 	{ label: fillBrandTokens('{game} hack setup guide'), href: '/setup/' },
 	{ label: fillBrandTokens('{game} cheats FAQ'), href: '/faq/' },
 	{ label: fillBrandTokens('{brand} reviews'), href: '/reviews/' },
-	{ label: fillBrandTokens('{game} Intel blog'), href: '/forums/' },
+	{ label: fillBrandTokens('{game} forums'), href: '/forums/' },
 	{ label: fillBrandTokens('Contact {brand} support'), href: '/support/' },
 ] as const;
 
@@ -119,22 +119,22 @@ export const homeFaqs: readonly FaqItem[] = [
 			'How {brand} stays maintained after {antiCheat} patches in 2026 — and why no cheat can promise permanent patch status.',
 	}),
 	faq({
-		question: 'Does this work in ranked matches rounds and ranked matches matches?',
+		question: 'Does this work in ranked and casual matches?',
 		answer:
-			'Yes. ESP, radar, and aimbot are built for {game} match flow — reading enemy squads, tracking loot and loadouts, and staying aware near hot zones and buy stations.',
+			'Yes. ESP, radar, and skillshot assist are built for {game} match flow — tracking enemy heroes, reading ward vision, and staying aware during lane pushes and team fights.',
 		slug: 'dota2-ranked-competitive-play',
-		seoTitle: 'Ranked & Competitive Play | {brand} FAQ',
+		seoTitle: 'Ranked & Casual Play | {brand} FAQ',
 		seoDescription:
-			'{brand} works in ranked matches rounds and ranked matches matches — ESP, radar, and soft aim for Windows PC.',
+			'{brand} works in ranked and casual {game} matches — ESP, radar, and skillshot assist for Windows PC.',
 	}),
 	faq({
 		question: 'What is included — ESP, wallhack, radar, or Aimbot?',
 		answer:
-			'{brand} bundles ESP wallhack, operator markers, 2D radar cues, and configurable Aimbot in one license. See Features for the full list.',
+			'{brand} bundles ESP wallhack, hero markers, ward vision, 2D radar cues, and configurable skillshot assist in one license. See Features for the full list.',
 		slug: 'esp-wallhack-radar-or-aimbot',
 		seoTitle: 'What Is Included: ESP, Wallhack, Radar, Aimbot | FAQ',
 		seoDescription:
-			'One {brand} license includes ESP wallhack, operator markers, 2D radar cues, and configurable Aimbot for Windows PC.',
+			'One {brand} license includes ESP wallhack, hero markers, 2D radar cues, and configurable skillshot assist for Windows PC.',
 	}),
 	faq({
 		question: 'How are licenses delivered?',
@@ -179,7 +179,7 @@ export const homeFaqs: readonly FaqItem[] = [
 		slug: 'how-to-install-dota2-cheats',
 		seoTitle: 'How to Install {game} Hacks on Windows PC | FAQ',
 		seoDescription:
-			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at dota2cheat.com.',
+			'Step-by-step {brand} install on Windows PC — loader, mod menu, and ESP/aimbot toggles. Setup help at dota2cheat.org.',
 	}),
 ] as const;
 
@@ -188,20 +188,20 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} wallhack?',
 		answer:
-			'A {game} wallhack is an ESP overlay that shows enemy operators and weapons through walls. {brand} includes distance readouts, loadout and streak cues, and toggleable categories.',
+			'A {game} wallhack is an ESP overlay that shows enemy heroes, wards, and runes through the fog of war. {brand} includes distance readouts, hero ability cues, and toggleable categories.',
 		slug: 'what-is-a-dota2-wallhack',
 		seoTitle: 'What Is a {game} Wallhack? | FAQ',
 		seoDescription:
-			'A {game} wallhack is ESP that reveals agents and weapons through walls — with distance, bases, and category toggles.',
+			'A {game} wallhack is ESP that reveals heroes, wards, and objectives — with distance tags and category toggles.',
 	}),
 	faq({
 		question: 'Does {brand} include a radar hack?',
 		answer:
-			'Yes. {brand} includes 2D radar overlays that highlight nearby threats outside your view — useful for flanks and buy stations.',
+			'Yes. {brand} includes 2D radar overlays that highlight missing heroes and ganks outside your screen — useful for map awareness and lane safety.',
 		slug: 'does-dota2-cheats-include-radar-hack',
 		seoTitle: 'Does {brand} Include a Radar Hack? | FAQ',
 		seoDescription:
-			'Yes — {brand} includes 2D radar overlays for nearby threats outside your FOV. Compare ESP, aimbot, and radar in one license at dota2cheat.com.',
+			'Yes — {brand} includes 2D radar overlays for off-screen threats. Compare ESP, skillshot assist, and radar in one license at dota2cheat.org.',
 	}),
 	faq({
 		question: 'How does {antiCheat} affect {primaryKeyword}?',
@@ -224,29 +224,29 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'What is a {game} ESP hack?',
 		answer:
-			'A {game} ESP hack is a visibility overlay that shows enemy operators, weapons, and weapon drops through walls. {brand} ESP includes player boxes, distance tags, loadout and streak cues, and toggleable categories for ranked matches and ranked.',
+			'A {game} ESP hack is a visibility overlay that shows enemy heroes, wards, and runes through the fog of war. {brand} ESP includes hero boxes, distance tags, ability cooldown cues, and toggleable categories for ranked and casual matches.',
 		slug: 'what-is-dota2-esp-hack',
 		seoTitle: 'What Is a {game} ESP Hack? | FAQ',
 		seoDescription:
-			'{game} ESP hack explained — player wallhack, distance tags, and weapon drops markers in one {brand} license for Windows PC.',
+			'{game} ESP hack explained — hero wallhack, ward vision, and distance tags in one {brand} license for Windows PC.',
 	}),
 	faq({
 		question: 'What is a {game} aimbot hack?',
 		answer:
-			'A {game} aimbot hack provides aim assist with configurable FOV, smoothing, and bone priority. {brand} uses soft aim profiles designed to feel natural in team fights and duels — tune settings in the mod menu before ranked matches queues.',
+			'A {game} aimbot hack provides skillshot assist with configurable FOV, smoothing, and target priority. {brand} uses natural assist profiles for team fights and lane duels — tune settings in the overlay before ranked queues.',
 		slug: 'what-is-dota2-aimbot-hack',
 		seoTitle: 'What Is a {game} Aimbot Hack? | FAQ',
 		seoDescription:
-			'{game} aimbot hack with soft aim, FOV, and smoothing controls — included in {brand} for Windows PC.',
+			'{game} skillshot assist with FOV and smoothing controls — included in {brand} for Windows PC.',
 	}),
 	faq({
 		question: 'What are the best {primaryKeyword} in 2026?',
 		answer:
-			'Top {primaryKeyword} in 2026 combine ESP, soft aim, 2D radar, and fast {antiCheat} maintenance after patches. {brand} bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy.',
+			'Top {primaryKeyword} in 2026 combine ESP, skillshot assist, 2D radar, and fast {antiCheat} maintenance after patches. {brand} bundles all three in one license with status notes, setup support, and monthly or lifetime pricing — compare Features and Reviews before you buy.',
 		slug: 'best-dota2-cheats-in-2026',
-		seoTitle: 'Best {game} Hacks in 2026 | FAQ',
+		seoTitle: 'Best {game} Cheats in 2026 | FAQ',
 		seoDescription:
-			'Best {primaryKeyword} in 2026 — ESP, soft aim, radar, and {antiCheat} maintenance in one {brand} license for Windows PC.',
+			'Best {primaryKeyword} in 2026 — ESP, skillshot assist, radar, and {antiCheat} maintenance in one {brand} license for Windows PC.',
 	}),
 	faq({
 		question: 'Should I buy monthly or lifetime {primaryKeyword}?',
@@ -264,16 +264,16 @@ export const seoFaqs: readonly FaqItem[] = [
 		slug: 'dota2-cheats-windows-11',
 		seoTitle: 'Do {game} Hacks Work on Windows 11? | FAQ',
 		seoDescription:
-			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at dota2cheat.com before you buy.',
+			'{brand} runs on Windows 10 and 11 — ESP, aimbot, and radar with {antiCheat} maintenance on PC. Read setup notes at dota2cheat.org before you buy.',
 	}),
 	faq({
-		question: 'What is {game} soft aim?',
+		question: 'What is {game} skillshot assist?',
 		answer:
-			'{game} soft aim gently guides aim toward targets inside a set FOV instead of snapping instantly. {brand} lets you adjust smoothing, bone priority, and per-weapon-type profiles so assist feels controlled in ranked matches and ranked.',
+			'{game} skillshot assist helps land skillshots and last hits inside a set FOV instead of snapping instantly. {brand} lets you adjust smoothing, target priority, and per-hero profiles so assist feels controlled in ranked and casual matches.',
 		slug: 'what-is-dota2-soft-aim',
-		seoTitle: 'What Is {game} Soft Aim? | FAQ',
+		seoTitle: 'What Is {game} Skillshot Assist? | FAQ',
 		seoDescription:
-			'{game} soft aim explained — FOV, smoothing, and bone priority in {brand} for natural-looking assist on PC.',
+			'{game} skillshot assist explained — FOV, smoothing, and target priority in {brand} for natural-looking assist on PC.',
 	}),
 	faq({
 		question: 'Is there a free {game} hack download?',
@@ -296,11 +296,11 @@ export const seoFaqs: readonly FaqItem[] = [
 	faq({
 		question: 'Do {primaryKeyword} work in ranked competitive?',
 		answer:
-			'Yes. ESP, radar, and soft aim are built for ranked matches and ranked {game} on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm patch status on the Updates page before competitive queues.',
+			'Yes. ESP, radar, and skillshot assist are built for ranked {game} on Windows PC. Use conservative overlay settings, read maintenance notes after patches, and confirm patch status on the Updates page before competitive queues.',
 		slug: 'dota2-cheats-for-ranked',
-		seoTitle: 'Do {game} Hacks Work in ranked matches? | FAQ',
+		seoTitle: 'Do {game} Cheats Work in Ranked? | FAQ',
 		seoDescription:
-			'{brand} ESP, radar, and soft aim for ranked {game} on PC — maintenance and status checks before you queue.',
+			'{brand} ESP, radar, and skillshot assist for ranked {game} on PC — maintenance and status checks before you queue.',
 	}),
 	faq({
 		question: 'What is a {game} mod menu?',
@@ -354,130 +354,130 @@ export type CustomerReview = {
 
 export const customerReviews = [
 	reviewMeta({
-		handle: 'xKrypt0_Dota 2',
+		handle: 'xKrypt0_Dota2',
 		rating: 5,
-		text: 'ngl i tried like 3 diff dota 2 hacks before this and they all felt way too snappy in ranked matches. these dota 2 cheats actually let you tune soft aim so it doesnt look obvious in high SBMM lobbies at Train Wreck. been grinding a week now, setup took probs 12 min after whitelisting the loader. no drama yet tbh',
-		short: 'tried 3 dota 2 cheats before. These dota 2 cheats feel human in high SBMM lobbies once you tune soft aim at Train Wreck',
+		text: 'tried three dota 2 cheats before this and they all felt too snappy in ranked. Dota 2 Cheats lets you tune skillshot assist so it does not look obvious in high MMR games. setup took about 12 minutes after whitelisting the loader. no issues after a week of ranked.',
+		short: 'Tried 3 cheats before. Skillshot assist feels natural in high MMR once you tune FOV and smoothing.',
 		slug: 'dota2-soft-aim-review-xkrypt0',
-		seoTitle: 'Soft Aim Review by @xKrypt0_Dota 2 — 5/5 | {brand}',
+		seoTitle: 'Skillshot Assist Review by @xKrypt0_Dota2 — 5/5 | {brand}',
 		seoDescription:
-			'@xKrypt0_Dota 2 rates {brand} dota 2 cheats soft aim 5/5 after testing Dota 2 hacks in high SBMM lobbies on Windows PC.',
+			'@xKrypt0_Dota2 rates {brand} skillshot assist 5/5 after testing in high MMR ranked on Windows PC.',
 		date: '2026-07-24',
-		tag: 'Soft aim',
+		tag: 'Skillshot assist',
 	}),
 	reviewMeta({
 		handle: 'buildsR4K',
 		rating: 4,
-		text: 'i dont even run aimbot much, the dota 2 cheats esp is why i bought. seeing who rotated before you third party on Main Street is insane info. been on monthly for a few weeks and its worth it. only gripe is menu could look cleaner but as dota 2 hacks go this package is solid',
-		short: 'bought for esp not aimbot. Dota 2 cheats wallhack shows rotations before you third party, huge in ranked on Main Street',
+		text: 'bought mainly for ESP, not aimbot. seeing mid rotations and missing heroes before a gank is huge in ranked. monthly plan has been worth it. menu could be cleaner but the wallhack info is solid.',
+		short: 'Bought for ESP. Hero wallhack shows rotations before ganks — huge for ranked map awareness.',
 		slug: 'dota2-esp-rotation-review-buildsr4k',
 		seoTitle: 'ESP Review by @buildsR4K — 4/5 | {brand}',
 		seoDescription:
-			'@buildsR4K rates {brand} dota 2 cheats ESP wallhack 4/5 for Dota 2 ranked info on Windows PC.',
+			'@buildsR4K rates {brand} ESP wallhack 4/5 for Dota 2 ranked map reads on Windows PC.',
 		date: '2026-07-19',
 		tag: 'ESP',
 	}),
 	reviewMeta({
 		handle: 'dma_wizard',
 		rating: 5,
-		text: 'last dota 2 cheat i had got cooked the day after a VAC update lol. switched to these dota 2 cheats and loader was back same night they posted the rebuild. running esp + radar on the map, still clean after 2 weeks. grabbed lifetime cause im done paying monthly for dead dota 2 hacks',
-		short: 'old dota 2 hack died on vac patch. These dota 2 cheats rebuilt same night, still reliable 2 weeks on the map',
+		text: 'my last cheat died the day after a VAC patch. switched to Dota 2 Cheats and the loader was back the same night they posted the rebuild. running ESP plus radar, still fine after two weeks. grabbed lifetime instead of monthly.',
+		short: 'Old hack died on VAC patch. Rebuild posted same night, still running clean after two weeks.',
 		slug: 'dota2-cloud-dma-review-dma-wizard',
-		seoTitle: 'Update Review by @dma_wizard — 5/5 | {brand}',
+		seoTitle: 'VAC Update Review by @dma_wizard — 5/5 | {brand}',
 		seoDescription:
-			'@dma_wizard rates {brand} dota 2 cheats 5/5 after a {antiCheat} update — fast Dota 2 hacks rebuild on Windows PC.',
+			'@dma_wizard rates {brand} 5/5 after a {antiCheat} update — fast rebuild on Windows PC.',
 		date: '2026-06-27',
 		tag: 'Updates',
 	}),
 	reviewMeta({
 		handle: 'ctrl_player99',
 		rating: 4,
-		text: 'im not techy at all bro. dota 2 cheats menu is simple tho — dropped fov on soft aim, bumped smoothing, stopped the snap. feels more like muscle memory now in solo and ranked. only 4 stars cause first login support took an hour but they fixed my license key quick',
-		short: 'not techy but dota 2 cheats menu is easy. Soft aim feels natural after fov and smoothing tweaks in ranked',
+		text: 'not very technical but the menu is simple. lowered skillshot assist FOV, increased smoothing, removed the snap. feels more natural in solo queue and ranked. support took an hour on first login but fixed my license quickly.',
+		short: 'Easy menu. Skillshot assist feels natural after FOV and smoothing tweaks in ranked.',
 		slug: 'dota2-soft-aim-review-ctrl-player99',
-		seoTitle: 'Soft Aim Review by @ctrl_player99 — 4/5 | {brand}',
+		seoTitle: 'Skillshot Assist Review by @ctrl_player99 — 4/5 | {brand}',
 		seoDescription:
-			'@ctrl_player99 rates {brand} dota 2 cheats soft aim 4/5 after FOV tuning on Dota 2 ranked matches matches for Windows PC.',
+			'@ctrl_player99 rates {brand} skillshot assist 4/5 after FOV tuning in Dota 2 ranked on Windows PC.',
 		date: '2026-07-11',
-		tag: 'Soft aim',
+		tag: 'Skillshot assist',
 	}),
 	reviewMeta({
 		handle: 'stormChaser_07',
 		rating: 3,
-		text: 'dota 2 cheats work fine once youre actually in game. windows defender blocked the loader first try and i panicked ngl. emailed support with order id, got a reply in like 2 hours with steps. esp looks clean in customs, havent gone full ranked yet. 3 stars cause setup stress but dota 2 cheats itself seems ok',
-		short: 'defender blocked loader at first but support fixed it in 2hrs. Dota 2 cheats esp looks clean in custom lobbies',
+		text: 'works fine once you are in game. Windows Defender blocked the loader first try. support replied in about two hours with steps. ESP looks clean in lobby tests — have not gone full ranked yet. three stars because setup was stressful.',
+		short: 'Defender blocked loader at first; support fixed it in 2 hours. ESP looks clean in lobby tests.',
 		slug: 'dota2-cheat-setup-review-stormchaser07',
 		seoTitle: 'Setup Review by @stormChaser_07 — 3/5 | {brand}',
 		seoDescription:
-			'@stormChaser_07 rates {brand} dota 2 cheats setup 3/5 — ESP solid after support helped with Dota 2 hacks on Windows PC.',
+			'@stormChaser_07 rates {brand} setup 3/5 — ESP solid after support helped on Windows PC.',
 		date: '2026-06-15',
 		tag: 'Setup',
 	}),
 	reviewMeta({
-		handle: 'weaponDropsGoblinx',
+		handle: 'wardVisionGoblin',
 		rating: 5,
-		text: 'mainly wanted operator ESP and util tracking for dota2. these dota 2 cheats show kits and third parties earlier than my brain does lol. duos with friends is way less chaos when you know whos flanking. way better than random free dota 2 hacks that look sketchy af',
-		short: 'operator ESP on these dota 2 cheats catches flanks and util early. Way better than sketchy free dota 2 cheats',
+		text: 'mainly wanted hero ESP and ward tracking. Dota 2 Cheats shows missing mids and jungle paths earlier than I would spot them. duo queue is less chaotic when you see ganks coming. way better than random free cheats.',
+		short: 'Hero ESP catches missing heroes and ganks early. Much better than sketchy free cheats.',
 		slug: 'dota2-agent-esp-review-weapondrops-goblinx',
-		seoTitle: 'Agent ESP Review by @weaponDropsGoblinx — 5/5 | {brand}',
+		seoTitle: 'Hero ESP Review by @wardVisionGoblin — 5/5 | {brand}',
 		seoDescription:
-			'@weaponDropsGoblinx rates {brand} dota 2 cheats operator ESP 5/5 for Dota 2 util tracking on Windows PC.',
+			'@wardVisionGoblin rates {brand} hero ESP 5/5 for ward and rotation tracking on Windows PC.',
 		date: '2026-08-01',
 		tag: 'ESP',
 	}),
 	reviewMeta({
 		handle: 'rankedGrind42',
 		rating: 4,
-		text: 'using dota 2 cheats since the new season dropped. per weapon aim profiles help on long range holds — Kastov vs SMG actually feels different which is nice. status page was slow after VAC update but build was back next morning. solid dota 2 hacks for long grind sessions in ranked matches',
-		short: 'dota 2 cheats per-weapon aim profiles help operator holds in ranked. Back online next day after vac patch',
+		text: 'using Dota 2 Cheats since the new season. per-hero skillshot profiles help on ranged vs melee matchups. status page updated after the VAC patch and the build was back next morning. solid for long ranked sessions.',
+		short: 'Per-hero assist profiles help in ranked. Back online next day after VAC patch.',
 		slug: 'dota2-soft-aim-session-review-rankedgrind42',
-		seoTitle: 'Ranked Soft Aim by @rankedGrind42 — 4/5 | {brand}',
+		seoTitle: 'Ranked Skillshot Review by @rankedGrind42 — 4/5 | {brand}',
 		seoDescription:
-			'@rankedGrind42 rates {brand} dota 2 cheats soft aim 4/5 for Dota 2 ranked operator holds on Windows PC.',
+			'@rankedGrind42 rates {brand} skillshot assist 4/5 for Dota 2 ranked on Windows PC.',
 		date: '2026-07-07',
 		tag: 'Ranked',
 	}),
 	reviewMeta({
-		handle: 'vanLifeDota 2',
+		handle: 'vanLifeDota2',
 		rating: 5,
-		text: 'everyone talks esp but the 2d radar on these dota 2 cheats is cracked. caught a flank on the map twice in one match without staring at wallhack boxes. esp + radar combo feels like legit tier 1 dota 2 cheats. running low opacity so it doesnt scream cheat in clips',
-		short: '2d radar on these dota 2 cheats caught the map flanks twice. Esp + radar combo feels like real dota 2 hacks',
+		text: 'everyone talks ESP but the 2D radar is the real edge. caught two ganks in one match without staring at wallhack boxes. ESP plus radar feels like a complete package. running low opacity overlays.',
+		short: '2D radar caught two ganks in one match. ESP plus radar feels like a complete Dota 2 package.',
 		slug: 'dota2-radar-hack-review-vanlifedota2',
-		seoTitle: 'Radar Review by @vanLifeDota 2 — 5/5 | {brand}',
+		seoTitle: 'Radar Review by @vanLifeDota2 — 5/5 | {brand}',
 		seoDescription:
-			'@vanLifeDota 2 rates {brand} dota 2 cheats radar 5/5 for flank detection on the map and Rebirth Island.',
+			'@vanLifeDota2 rates {brand} radar 5/5 for gank detection and map awareness on Windows PC.',
 		date: '2026-07-28',
 		tag: 'Radar',
 	}),
 	reviewMeta({
 		handle: 'patchDayMike',
 		rating: 4,
-		text: 'dota2 patch day is when half the cheat discords go silent lol. dota 2 cheats team posted on status in like 3 hrs and i was back in ranked queue next morning. old provider left me waiting 4 days with no loader. not perfect but way better dota 2 cheats support than im used to',
-		short: 'patch day usually kills dota 2 hacks. These dota 2 cheats were back next morning, old provider took 4 days',
+		text: 'patch day usually kills half the cheat discords. Dota 2 Cheats posted status in about three hours and I was back in ranked the next morning. old provider left me waiting four days.',
+		short: 'Patch day rebuild posted quickly. Back in ranked next morning; old provider took four days.',
 		slug: 'dota2-vac-update-review-patchdaymike',
-		seoTitle: 'Status Review by @patchDayMike — 4/5 | {brand}',
+		seoTitle: 'Patch Status Review by @patchDayMike — 4/5 | {brand}',
 		seoDescription:
-			'@patchDayMike rates {brand} dota 2 cheats status updates 4/5 after {antiCheat} patches on Dota 2 for Windows PC.',
+			'@patchDayMike rates {brand} patch status updates 4/5 after {antiCheat} updates on Windows PC.',
 		date: '2026-06-09',
 		tag: 'VAC updates',
 	}),
 	reviewMeta({
 		handle: 'snipezOnly_',
 		rating: 5,
-		text: 'operator main here. long range soft aim on these dota 2 cheats with esp callouts is stupid strong if you keep settings lowkey. no bloat loader, simple install on win11. best dota 2 hacks ive used for ranked matches sessions on the map and Rebirth — just dont crank fov like an idiot',
-		short: 'operator main. Soft aim + esp on these dota 2 cheats hits different on the map/Rebirth if you keep settings subtle',
+		text: 'carry player here. skillshot assist with ESP callouts is strong if you keep settings subtle. simple loader, clean install on Windows 11. best dota 2 cheats I have used for ranked — just do not max FOV.',
+		short: 'Carry main. Skillshot assist plus ESP works well in ranked with subtle settings.',
 		slug: 'dota2-operator-soft-aim-review-snipezonly',
-		seoTitle: 'Operator Soft Aim by @snipezOnly_ — 5/5 | {brand}',
+		seoTitle: 'Carry Skillshot Review by @snipezOnly_ — 5/5 | {brand}',
 		seoDescription:
-			'@snipezOnly_ rates {brand} dota 2 cheats operator soft aim 5/5 with ESP on Dota 2 for Windows PC.',
+			'@snipezOnly_ rates {brand} skillshot assist 5/5 with ESP for Dota 2 ranked on Windows PC.',
 		date: '2026-08-01',
-		tag: 'Operator',
+		tag: 'Carry',
 	}),
 ] as const satisfies readonly CustomerReview[];
 
 export const customerReviewStats = {
 	averageRating: 4.4,
-	/** Published review count for schema and marketing UI */
-	totalCount: 1000,
-	reviewCountLabel: '1000+',
+	/** Aggregate rating count shown in UI and structured data */
+	totalCount: 100,
+	reviewCountLabel: '100+',
 } as const;

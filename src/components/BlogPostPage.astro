@@ -10,6 +10,7 @@ import {
 	getRelatedPostsByCategory,
 } from '../data/blog/helpers';
 import type { ResolvedBlogPost } from '../data/blog/types';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { blogLabel, siteConfig } from '../data/site';
 import { getLocalizedPath, localizeInternalHref } from '../data/i18n/routing';
 import { getTopicLinksForBlogCategory } from '../data/internal-links';
@@ -129,7 +130,7 @@ function pageTitle(headline: string): string {
 				<p class="post__meta">
 					{ui.published} {post.published} · {ui.updated} {post.updated}
 				</p>
-				<a class="post__buy" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+				<a class="post__buy" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 					{tServer('cta.buy')}
 				</a>
 			</header>

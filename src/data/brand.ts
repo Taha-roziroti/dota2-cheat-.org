@@ -9,10 +9,10 @@ export const brand = {
 	/** Short product label if needed */
 	shortName: 'Dota 2 Cheats',
 	/** Canonical origin — no trailing slash */
-	url: 'https://dota2cheat.com',
+	url: 'https://dota2cheat.org',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@dota2cheat.com',
+	supportEmail: 'support@dota2cheat.org',
 	/** Replace with your live affiliate / store URL */
 	checkoutUrl: 'https://zadeyo.com/go/TAHA?to=%2Fproducts%2Fdota-2',
 
@@ -38,13 +38,12 @@ export const brand = {
 	logoRasterWidth: 512,
 	logoRasterHeight: 512,
 	logoAlt: 'Dota 2 cheats site icon — ESP, aimbot and maphack tools for PC',
-	defaultOgImage: '/images/dota2-screenshot-03.webp',
-	heroImage: '/images/hero-banner.webp',
-	/** Placeholder — swap in video background later */
+	defaultOgImage: '/images/dota2-screenshot-05.webp',
+	heroImage: '/images/dota2-cheats-hero.webp',
 	heroVideoUrl: '',
-	heroVideoMp4: '',
-	demoVideoPoster: '/images/hero-banner.webp',
-	demoScreenshot: '/images/dota2-screenshot-02.webp',
+	heroVideoMp4: '/videos/hero-priority.mp4',
+	demoVideoPoster: '/images/dota2-cheats-hero-1199w.webp',
+	demoScreenshot: '/images/dota2-screenshot-01.webp',
 
 	plans: [
 		{ id: 'monthly', label: 'Monthly', price: 35, duration: 'P30D' },
@@ -55,11 +54,11 @@ export const brand = {
 
 	/** Dota 2 dark purple canvas */
 	theme: {
-		accent: '#E8B923',
+		accent: '#8B5CF6',
 		bg: '#0D0A14',
-		soft: '#F0C94A',
-		deep: '#B8941F',
-		hover: '#F5D547',
+		soft: '#A78BFA',
+		deep: '#6D28D9',
+		hover: '#C4B5FD',
 		panel: '#0F0C18',
 		elevated: '#0F0C19',
 		line: '#1A1525',
@@ -67,7 +66,7 @@ export const brand = {
 		inkHeading: '#FFFFFF',
 		inkSecondary: '#D4D4D8',
 		inkMuted: '#A1A1AA',
-		link: '#E8B923',
+		link: '#A78BFA',
 	},
 
 	keywords: {
@@ -97,7 +96,7 @@ export const brand = {
 	},
 
 	seo: {
-		homeTitle: 'Dota 2 Esp, Aimbot & Wallhack',
+		homeTitle: 'Dota 2 ESP, Aimbot & Wallhack',
 		homeDescription:
 			'Dota 2 cheats with ESP, aimbot and wallhack for ranked and casual matches on PC. Hero vision, map overlays, skillshot assist, and VAC maintenance after patches.',
 		featuresTitle: 'Dota 2 Cheats Features | ESP, Aimbot & Maphack',
@@ -111,7 +110,7 @@ export const brand = {
 			'Live status after {game} and {antiCheat} patches. Check ESP, aimbot and maphack rebuilds on PC before you queue ranked.',
 		previewTitle: 'Dota 2 Cheats | ESP, Aimbot & Wallhack Guide',
 		previewDescription:
-			'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.com.',
+			'Dota 2 cheats guide — ESP maphack, skillshot assist, radar overlays and {antiCheat} rebuilds for ranked on PC. Plans from $35 at dota2cheat.org.',
 		setupTitle: 'Dota 2 Cheats Setup | Windows PC Install Guide',
 		setupDescription:
 			'Install {brand} on PC — activate ESP, aimbot and maphack step by step. Check {antiCheat} status before your first ranked match.',
@@ -120,13 +119,13 @@ export const brand = {
 			'Support for license delivery, ESP setup and billing on PC. Email {email} with your order ID before you queue.',
 		faqTitle: 'Dota 2 Cheats FAQ | ESP, Aimbot & VAC',
 		faqDescription:
-			'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.com before you buy.',
+			'FAQ for dota 2 cheats — delivery, setup, ranked use, {antiCheat} updates and pricing on PC. Answers at dota2cheat.org before you buy.',
 		reviewsTitle: 'Dota 2 Cheats Reviews | ESP, Aimbot & Maphack',
 		reviewsDescription:
-			'Real buyer reviews for dota 2 cheats — ESP, aimbot, maphack and {antiCheat} maintenance on PC. See license holder feedback at dota2cheat.com.',
+			'Real buyer reviews for dota 2 cheats — ESP, aimbot, maphack and {antiCheat} maintenance on PC. See license holder feedback at dota2cheat.org.',
 		blogTitle: 'Dota 2 Cheats Forums | Setup Tips & Feature Talk',
 		blogDescription:
-			'Dota 2 cheats forums — setup walkthroughs, ESP settings, aimbot sliders, and VAC patch notes for PC. Join discussions at dota2cheat.com/forums/.',
+			'Dota 2 cheats forums — setup walkthroughs, ESP settings, aimbot sliders, and VAC patch notes for PC. Join discussions at dota2cheat.org/forums/.',
 	},
 
 	copy: {
@@ -168,38 +167,33 @@ export const brand = {
 		images: [
 			{
 				src: '/images/dota2-screenshot-01.webp',
-				title: 'Dota 2 ESP hero overlay with health bars and distance tags',
-				caption: 'Dota 2 ESP maphack with hero box, distance readout and ward vision on PC',
+				title: 'Dota 2 Invoker Sun Strike skillshot assist',
+				caption: 'Dota 2 cheats skillshot assist landing Invoker Sun Strike during ranked combat',
 			},
 			{
 				src: '/images/dota2-screenshot-02.webp',
-				title: 'Dota 2 hero ESP skeleton overlay in lane',
-				caption: 'Dota 2 wallhack showing enemy heroes and ability cooldowns through fog',
+				title: 'Dota 2 Pudge dodge assist script',
+				caption: 'Dota 2 script dodge assist helping Pudge avoid enemy spells in ranked',
 			},
 			{
 				src: '/images/dota2-screenshot-03.webp',
-				title: 'Dota 2 skillshot assist targeting enemy mid',
-				caption: 'Dota 2 cheats skillshot assist with aimbot lock and visibility check on PC',
+				title: 'Dota 2 Shadow Fiend lantern capture assist',
+				caption: 'Dota 2 cheats automation for Shadow Fiend ability lantern capture on PC',
 			},
 			{
 				src: '/images/dota2-screenshot-04.webp',
-				title: 'Dota 2 ESP distance markers on minimap',
-				caption: 'Dota 2 ESP distance tags and radar overlay during ranked match',
+				title: 'Dota 2 Shadow Fiend teleport script',
+				caption: 'Dota 2 cheats teleport automation for Shadow Fiend rotation on PC',
 			},
 			{
 				src: '/images/dota2-screenshot-05.webp',
-				title: 'Dota 2 maphack ward vision through trees',
-				caption: 'Dota 2 maphack ward vision and hero ESP overlay in jungle',
+				title: 'Dota 2 Arc Warden ESP box overlay',
+				caption: 'Dota 2 ESP wallhack showing enemy hero box and info near river on PC',
 			},
 			{
 				src: '/images/dota2-screenshot-06.webp',
-				title: 'Dota 2 ESP box overlay at Roshan pit',
-				caption: 'Dota 2 player ESP with distance tags and Roshan timer in ranked',
-			},
-			{
-				src: '/images/dota2-screenshot-07.webp',
-				title: 'Dota 2 item ESP and rune tags on map',
-				caption: 'Dota 2 item ESP showing bounty runes, wards and courier through fog on PC',
+				title: 'Dota 2 Anti-Mage aim assist targeting ring',
+				caption: 'Dota 2 aim assist with hero targeting ring and cooldown readouts on PC',
 			},
 		],
 	},
@@ -225,9 +219,9 @@ export function seoTitle(topic: string): string {
 export function seoDescription(template: string): string {
 	let text = fillBrandTokens(template).trim();
 	if (text.length < 140) {
-		const pad = text.toLowerCase().includes('dota2cheat.com')
+		const pad = text.toLowerCase().includes('dota2cheat.org')
 			? ' Windows PC license with VAC maintenance after patches.'
-			: ' Compare plans and forums at dota2cheat.com.';
+			: ' Compare plans and forums at dota2cheat.org.';
 		text = `${text.replace(/[.…]+$/, '')}.${pad}`;
 	}
 	if (text.length <= 160) return text;

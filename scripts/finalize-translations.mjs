@@ -3,6 +3,16 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {
+	BLOG_CATEGORIES,
+	COMMON_UI,
+	HERO_CHIPS,
+	NAV_ARIA,
+	NOT_FOUND_UI,
+	REVIEWS_PAGE_UI,
+	REVIEWS_UI,
+} from './i18n-data/ui-complete.mjs';
+import { REVIEW_ITEMS_I18N } from './i18n-data/reviews-i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const LOCALES_DIR = path.join(ROOT, 'public/locales');
@@ -95,6 +105,14 @@ function walkStrings(obj, loc) {
 	return obj;
 }
 
+function buildReviewItems(loc) {
+	const items = {};
+	for (const [slug, locales] of Object.entries(REVIEW_ITEMS_I18N)) {
+		items[slug] = locales[loc] ?? locales.en;
+	}
+	return items;
+}
+
 async function main() {
 	for (const loc of await readdir(LOCALES_DIR)) {
 		const file = path.join(LOCALES_DIR, loc, 'translation.json');
@@ -105,9 +123,21 @@ async function main() {
 			continue;
 		}
 		t = walkStrings(t, loc);
-		t.common = t.common ?? {};
+		t.common = { ...t.common, ...(COMMON_UI[loc] ?? COMMON_UI.en) };
 		t.common.forums = FORUMS[loc] ?? FORUMS.en;
 		t.common.blog = FORUMS[loc] ?? FORUMS.en;
+		t.nav = { ...t.nav, ...(NAV_ARIA[loc] ?? NAV_ARIA.en) };
+		t.reviews = {
+			...t.reviews,
+			...(REVIEWS_UI[loc] ?? REVIEWS_UI.en),
+			...(REVIEWS_PAGE_UI[loc] ?? REVIEWS_PAGE_UI.en),
+			prev: (REVIEWS_UI[loc] ?? REVIEWS_UI.en).prev ?? 'Previous review',
+			next: (REVIEWS_UI[loc] ?? REVIEWS_UI.en).next ?? 'Next review',
+			items: buildReviewItems(loc),
+		};
+		t.notFound = NOT_FOUND_UI[loc] ?? NOT_FOUND_UI.en;
+		t.hero = { ...t.hero, ...(HERO_CHIPS[loc] ?? HERO_CHIPS.en) };
+		t.blog = { ...t.blog, categories: BLOG_CATEGORIES[loc] ?? BLOG_CATEGORIES.en };
 		delete t.common.guides;
 		delete t.guides;
 		if (t.categoryRow) {
@@ -135,6 +165,16 @@ async function main() {
 			delete t.internalLinks.reliable;
 		}
 		if (t.product) t.product.statusBadge = loc === 'es' ? 'Trucos Dota 2 para PC' : (t.product.statusBadge?.replace(/indetectable|reliable/gi, '').trim() || 'Dota 2 cheats PC');
+		if (t.images?.raidMap?.includes('operator')) {
+			t.images.raidMap =
+				loc === 'es'
+					? 'Marcadores ESP para builds de héroes y objetivos en Dota 2'
+					: loc === 'fr'
+						? 'Marqueurs ESP pour builds de héros et objectifs dans Dota 2'
+						: loc === 'de'
+							? 'ESP-Marker für Hero-Builds und Map-Ziele in Dota 2'
+							: 'ESP markers for hero item builds and map objectives in Dota 2';
+		}
 		await writeFile(file, JSON.stringify(t, null, 2) + '\n');
 		console.log('✓', loc);
 	}
