@@ -1,4 +1,5 @@
 ---
+import { AFFILIATE_REL } from '../data/affiliate';
 import { productInfo, siteConfig } from '../data/site';
 import type { LocaleCode } from '../data/i18n/locales';
 import { getT } from '../i18n/server';
@@ -22,7 +23,7 @@ const lifetime = productInfo.plans.find((p) => p.id === 'lifetime') ?? productIn
 					<span class="home__price-card-amount">${monthly.price}</span>
 				</p>
 				<p class="home__price-card-note">{t('product.days30')}</p>
-				<a class="home__price-card-cta" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+				<a class="home__price-card-cta" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 					{t('product.buyMonthly')}
 				</a>
 			</article>
@@ -33,7 +34,7 @@ const lifetime = productInfo.plans.find((p) => p.id === 'lifetime') ?? productIn
 					<span class="home__price-card-amount">${lifetime.price}</span>
 				</p>
 				<p class="home__price-card-note">{t('product.oneTime')}</p>
-				<a class="home__price-card-cta home__price-card-cta--solid" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+				<a class="home__price-card-cta home__price-card-cta--solid" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 					{t('product.buyLifetime')}
 				</a>
 			</article>

@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { customerReviews, productInfo, siteConfig } from '../data/site';
 import { getLocalizedPath, buildCanonicalUrl } from '../data/i18n/routing';
 import { getReviewPath, getReviewCrawlImage, getReviewsBasePath } from '../data/reviews';
@@ -137,7 +138,7 @@ const extraGraph: Record<string, unknown>[] = [
 				</blockquote>
 
 				<div class="review-detail__ctas">
-					<a href={siteConfig.checkoutUrl} class="review-detail__buy" rel="noopener noreferrer">
+					<a href={siteConfig.checkoutUrl} class="review-detail__buy" rel={AFFILIATE_REL}>
 						{t('cta.buy')} {siteConfig.name} — ${productInfo.plans[0].price}
 					</a>
 					<a href={pricingHref} class="review-detail__link-btn">{t('nav.store')}</a>

@@ -3,6 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/Navbar.astro';
 import SiteFooter from '../../components/SiteFooter.astro';
 import TrustBar from '../../components/TrustBar.astro';
+import { AFFILIATE_REL } from '../../data/affiliate';
 import { productInfo, siteConfig } from '../../data/site';
 import { getSelfHreflangAlternates } from '../../data/i18n/routing';
 
@@ -104,7 +105,7 @@ const extraGraph = [
 			</section>
 
 			<p class="standalone-page__cta">
-				<a href={siteConfig.checkoutUrl} data-analytics="checkout">Buy {productInfo.name} — ${productInfo.plans[0].price}/mo</a>
+				<a href={siteConfig.checkoutUrl} rel={AFFILIATE_REL} data-analytics="checkout">Buy {productInfo.name} — ${productInfo.plans[0].price}/mo</a>
 				<a class="standalone-page__cta-secondary" href="/pricing/">View pricing</a>
 				<a class="standalone-page__cta-secondary" href="/features/">Full feature list</a>
 			</p>

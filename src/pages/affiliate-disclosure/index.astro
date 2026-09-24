@@ -1,0 +1,176 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Navbar from '../../components/Navbar.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
+import TrustBar from '../../components/TrustBar.astro';
+import { productInfo, siteConfig } from '../../data/site';
+import { AFFILIATE_REL } from '../../data/affiliate';
+import { getSelfHreflangAlternates } from '../../data/i18n/routing';
+
+const title = 'Affiliate Disclosure | Dota 2 Cheats';
+const description =
+	'Affiliate disclosure for Dota 2 Cheats at dota2cheat.org — how we earn commissions on checkout links and how that affects our reviews.';
+const canonicalPath = '/affiliate-disclosure/';
+const hreflangAlternates = getSelfHreflangAlternates(canonicalPath);
+
+const extraGraph = [
+	{
+		'@type': 'WebPage',
+		'@id': `${siteConfig.url}${canonicalPath}#webpage`,
+		name: title,
+		description,
+		url: `${siteConfig.url}${canonicalPath}`,
+	},
+];
+---
+
+<Layout
+	title={title}
+	description={description}
+	canonicalPath={canonicalPath}
+	hreflangAlternates={hreflangAlternates}
+	ogLocaleAlternates={false}
+	ogImage={siteConfig.defaultOgImage}
+	ogImageAlt="Affiliate disclosure — Dota 2 Cheats"
+	locale="en"
+	breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Affiliate disclosure' }]}
+	extraGraph={extraGraph}
+>
+	<Navbar />
+	<TrustBar />
+	<main id="main-content" class="standalone-page">
+		<div class="shell standalone-page__wrap">
+			<header>
+				<p class="standalone-page__eyebrow">Legal</p>
+				<h1>Affiliate disclosure</h1>
+				<p class="standalone-page__lede">
+					{siteConfig.name} ({siteConfig.url.replace(/^https:\/\//, '')}) participates in affiliate
+					programs. Some links on this site are paid referral links.
+				</p>
+			</header>
+
+			<section>
+				<h2>What that means</h2>
+				<p>
+					When you click a Buy or checkout button and complete a purchase through our partner store, we may
+					earn a commission at no extra cost to you. Commissions help fund hosting, guides, status updates,
+					and support for {productInfo.name}.
+				</p>
+			</section>
+
+			<section>
+				<h2>How we label links</h2>
+				<p>
+					Outbound purchase links use <code>rel="sponsored nofollow"</code> so search engines understand the
+					relationship. A short disclosure appears in the site header near the first checkout link on every
+					page that includes purchase buttons.
+				</p>
+			</section>
+
+			<section>
+				<h2>Editorial independence</h2>
+				<p>
+					Affiliate relationships do not change our patch-status reporting or setup instructions. Comparison
+					and review pages aim to reflect real buyer experience. See our <a href="/about/">About</a> page for
+					editorial standards.
+				</p>
+			</section>
+
+			<section>
+				<h2>Questions</h2>
+				<p>
+					Email <a href={`mailto:${siteConfig.supportEmail}`}>{siteConfig.supportEmail}</a> or visit
+					<a href="/support/">Support</a> for billing or license help.
+				</p>
+			</section>
+
+			<p class="standalone-page__cta">
+				<a href={siteConfig.checkoutUrl} rel={AFFILIATE_REL} data-analytics="checkout">
+					Get {productInfo.name}
+				</a>
+				<a class="standalone-page__cta-secondary" href="/pricing/">View pricing</a>
+			</p>
+		</div>
+	</main>
+	<SiteFooter />
+</Layout>
+
+<style>
+	.standalone-page {
+		padding: 2rem 0 3.5rem;
+	}
+
+	.standalone-page__wrap {
+		max-width: 46rem;
+		display: grid;
+		gap: 1.5rem;
+	}
+
+	.standalone-page__eyebrow {
+		margin: 0 0 0.35rem;
+		font-size: 0.75rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--magenta-soft);
+	}
+
+	.standalone-page h1 {
+		margin: 0;
+		font-family: var(--font-display);
+		font-size: clamp(1.75rem, 3.5vw, 2.35rem);
+		font-weight: 800;
+		color: var(--ink);
+	}
+
+	.standalone-page__lede {
+		margin: 0.75rem 0 0;
+		color: var(--ink-muted);
+		line-height: 1.65;
+	}
+
+	.standalone-page h2 {
+		margin: 0 0 0.5rem;
+		font-size: 1.15rem;
+		font-weight: 700;
+		color: var(--ink);
+	}
+
+	.standalone-page p,
+	.standalone-page li {
+		color: var(--ink-muted);
+		line-height: 1.65;
+	}
+
+	.standalone-page ul {
+		margin: 0;
+		padding-left: 1.25rem;
+	}
+
+	.standalone-page code {
+		font-size: 0.9em;
+		color: var(--ink);
+	}
+
+	.standalone-page__cta {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.75rem 1rem;
+		margin-top: 0.5rem;
+	}
+
+	.standalone-page__cta a {
+		font-weight: 700;
+		color: var(--magenta-soft);
+		text-decoration: none;
+	}
+
+	.standalone-page__cta a:hover {
+		text-decoration: underline;
+	}
+
+	.standalone-page__cta-secondary {
+		color: var(--ink-muted) !important;
+		font-weight: 600 !important;
+	}
+</style>

@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from './Navbar.astro';
 import SiteFooter from './SiteFooter.astro';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { customerReviewStats, customerReviews, fillBrandTokens, productInfo, siteConfig } from '../data/site';
 import { brandCopy, brandSeo, seoPageTitle } from '../data/site-core';
 import { seoDescription } from '../data/brand';
@@ -170,7 +171,7 @@ const extraGraph: Record<string, unknown>[] = [
 				<h2>{t('reviews.ctaTitle')}</h2>
 				<p>{t('reviews.ctaBody', { game: productInfo.game })}</p>
 				<div class="reviews-index__cta-row">
-					<a href={siteConfig.checkoutUrl} class="reviews-index__buy" rel="noopener noreferrer">
+					<a href={siteConfig.checkoutUrl} class="reviews-index__buy" rel={AFFILIATE_REL}>
 						{t('reviews.ctaBuy', { price: productInfo.plans[0].price })}
 					</a>
 					<a href={pricingHref} class="reviews-index__link-btn">{t('reviews.comparePricing')}</a>

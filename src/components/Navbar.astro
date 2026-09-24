@@ -9,6 +9,8 @@ import {
 import { defaultLocale, locales, type LocaleCode } from '../data/i18n/locales';
 import { getReviewsBasePath } from '../data/reviews';
 import { siteConfig } from '../data/site';
+import { AFFILIATE_REL } from '../data/affiliate';
+import AffiliateDisclosure from './AffiliateDisclosure.astro';
 import { getBlogLocaleSwitchHref, isBlogPath } from '../data/blog/helpers';
 import { getT } from '../i18n/server';
 
@@ -129,10 +131,11 @@ const closeMenuLabel = t('nav.closeMenu');
 			<div class="site-tools__lang">
 				<LanguageSwitcher locale={locale} locales={localeMetas} hrefForLocale={hrefForLocale} />
 			</div>
+			<AffiliateDisclosure locale={locale} variant="nav" />
 			<a
 				href={siteConfig.checkoutUrl}
 				class="site-tools__buy"
-				rel="noopener noreferrer"
+				rel={AFFILIATE_REL}
 				aria-label={t('cta.buyShort')}
 			>
 				<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -169,7 +172,10 @@ const closeMenuLabel = t('nav.closeMenu');
 			<nav class="site-panel__nav" aria-label={t('nav.mobileAria')} data-nav-clone hidden></nav>
 			<div class="site-panel__foot">
 				<div class="site-panel__lang" data-lang-clone hidden></div>
-				<a href={siteConfig.checkoutUrl} class="site-panel__buy" rel="noopener noreferrer" data-nav-close>
+				<div class="site-panel__affiliate">
+					<AffiliateDisclosure locale={locale} variant="block" />
+				</div>
+				<a href={siteConfig.checkoutUrl} class="site-panel__buy" rel={AFFILIATE_REL} data-nav-close>
 					<span data-edit="ctaBuy">{t('cta.buy')}</span>
 				</a>
 			</div>

@@ -18,6 +18,7 @@ import {
 import { getPageGalleryImages } from '../data/page-images';
 import { defaultLocale } from '../data/i18n/locales';
 import { siteConfig } from '../data/site';
+import { relForOutboundHref } from '../data/affiliate';
 import { getT } from '../i18n/server';
 import { absoluteImageUrl } from '../data/page-images';
 import RelatedPages from '../components/RelatedPages.astro';
@@ -185,7 +186,7 @@ const useHomeAgent = isHeroMarketingImage(heroImage);
 								<a
 									class="btn-buy"
 									href={ctaPrimary.href}
-									rel={ctaPrimary.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+									rel={relForOutboundHref(ctaPrimary.href)}
 								>
 									<span data-edit={ctaPrimary.edit || undefined}>{ctaPrimary.label}</span>
 								</a>

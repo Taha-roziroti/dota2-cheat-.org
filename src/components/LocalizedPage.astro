@@ -4,6 +4,7 @@ import { getPageContent, getUi, type PageId } from '../data/i18n';
 import { getLocalizedPath, localizeInternalHref } from '../data/i18n/routing';
 import type { LocaleCode } from '../data/i18n/locales';
 import { getLocalizedFaqs } from '../data/localized-faq';
+import { AFFILIATE_REL } from '../data/affiliate';
 import { productInfo, siteConfig } from '../data/site';
 import { absoluteFaqUrl, getFaqPath } from '../data/faq';
 import { getT } from '../i18n/server';
@@ -154,12 +155,12 @@ const breadcrumbLabel = eyebrowByPage[pageId];
 			<section class="card-panel">
 				<h2>{t('product.plans')}</h2>
 				<div class="price-grid">
-					<a class="price-card" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+					<a class="price-card" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 						<span class="price-card__label">{t('product.monthly')}</span>
 						<span class="price-card__price">${monthly.price}</span>
 						<span class="price-card__meta">{t('product.days30')}</span>
 					</a>
-					<a class="price-card is-featured" href={siteConfig.checkoutUrl} rel="noopener noreferrer">
+					<a class="price-card is-featured" href={siteConfig.checkoutUrl} rel={AFFILIATE_REL}>
 						<span class="price-card__label">{t('product.lifetime')}</span>
 						<span class="price-card__price">${lifetime.price}</span>
 						<span class="price-card__meta">{t('product.oneTime')}</span>
